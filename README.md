@@ -54,7 +54,7 @@ express reality as a symbolic, auditable, bounded signal — stable across vendo
 ---
 
 ### 🌌 Cosmological & Temporal Analysis
-- [Symbolic-Mathematical-JTK (SSM-JTK)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-JTK)  
+- [Symbolic-Mathematics-Jyotish-Transit-Kernel (SSM-JTK)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-Jyotish-Transit-Kernel)  
   High-resolution planetary/temporal kernel with symbolic lanes and reproducible ephemeris outputs.
 
 ---
@@ -63,7 +63,7 @@ express reality as a symbolic, auditable, bounded signal — stable across vendo
 - [Zeozo — y = m x + c, redefined](https://github.com/OMPSHUNYAYA/Zeozo)  
   Reinterpreting linearity, offset, and slope under Shunyaya’s symbolic view of zero.
 
-- [Classifying-0-0-Limits](https://github.com/OMPSHUNYAYA/Classifying-0-0-Limits)  
+- [Symbolic-Mathematics-0over0-Limits](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-0over0-Limits)  
   Formal treatment of `0/0` and undefined forms using Shunyaya Symbolic Mathematics (SSM) and Shunyaya Symbolic Mathematical Symbols (SSMS).
   
 ---
