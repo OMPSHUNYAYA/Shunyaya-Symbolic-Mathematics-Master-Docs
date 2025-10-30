@@ -20,6 +20,12 @@ express reality as a symbolic, auditable, bounded signal — stable across vendo
 
 ---
 
+### 🌡 Temperature & Environmental Stability
+- [Symbolic-Mathematical-Temperature (SSMT)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Temperature)  
+  Open standard for temperature as a portable, auditable signal — unitless contrast `e_T` and bounded phase dials instead of raw °C/°F. Observation-only. No registration or fees. Shunyaya Symbolic Mathematical Temperature (SSMT).
+
+---
+
 ### 🧠 Intelligence & AI
 - [Symbolic-Mathematical-AI (SSM-AI)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-AI)  
   Alignment lane beside classical AI scores. Bounded, auditable, reproducible.
@@ -86,7 +92,6 @@ express reality as a symbolic, auditable, bounded signal — stable across vendo
 
 ## 🔹 Future Extensions
 These projects are in advanced preparation and will appear in this index once published:
-- Symbolic-Mathematical-Temperature (SSMT) — zero-centric temperature as a universal, auditable signal.
 - Symbolic-Mathematical-DataExchange (SSMDE) — portable, manifest-anchored machine-to-machine data interchange.
 
 In addition, domain adapters such as SSM-Fin, SSM-Cyber, SSM-Health, and SSM-Climate — along with others in safety, infrastructure, and planetary systems — are in active pipeline.
@@ -107,11 +112,16 @@ This consistency makes the math auditable, the deployments reproducible, and the
 
 ## 🔹 License / Usage
 
-Except where otherwise noted in an individual repository, material in the Shunyaya Symbolic Mathematics ecosystem is released under Creative Commons BY-NC 4.0.  
+Shunyaya Symbolic Mathematical Temperature (SSMT) is released as an open, universally adoptable standard for public, industrial, municipal, commercial, academic, and off-world use — with no registration or fees.  
+SSMT requires citation of the concept name "Shunyaya Symbolic Mathematical Temperature (SSMT)", forbids any claim of exclusive stewardship, and is published as observation-only with no warranty. It is intended to be implemented freely and verified independently.
+
+Except where otherwise noted in an individual repository, all other material in the Shunyaya Symbolic Mathematics ecosystem is released under Creative Commons BY-NC 4.0.  
 That means: non-commercial use is allowed with attribution, observation-only; not for operational, safety-critical, medical, or legal decision-making. No warranty. No endorsement or affiliation implied. We do not redistribute third-party raw data unless its original license explicitly permits it.
 
 This `Shunyaya-Symbolic-Mathematics-Master-Docs` repository serves only as an index and navigation layer. It does not grant exclusivity or stewardship claims over any domain; it exists to make the work visible, auditable, and useful to humanity.
 
 ---
+
+© The Authors of the Shunyaya Framework and Shunyaya Symbolic Mathematics — advancing transparent, accountable, planetary infrastructure.
 
 © The Authors of the Shunyaya Framework and Shunyaya Symbolic Mathematics — advancing transparent, accountable, planetary infrastructure.
