@@ -7,6 +7,13 @@ It links every active public project so that engineers, scientists, regulators, 
 All projects below share one core principle:  
 express reality as a symbolic, auditable, bounded signal — stable across vendors, borders, and time.
 
+**Update (Nov 2025).** With SSMDE, semantics travel as *policy manifests* — not as brittle, global dictionaries. This unlocks Personal AI (edge emitters that keep `m` byte-for-byte, add a tiny lane, and stamp each claim) and Universal AI (cloud readers that route/audit by bands). It’s a clean path to empowering every human with a verifiable, portable AI—without rewiring existing models. Full playbooks land in the upcoming SSM-AI update.
+
+---
+
+## 🔹 Current Active Repositories (Public)
+
+
 ---
 
 ## 🔹 Current Active Repositories (Public)
