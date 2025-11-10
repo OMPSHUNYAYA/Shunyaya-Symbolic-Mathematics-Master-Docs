@@ -9,10 +9,7 @@ express reality as a symbolic, auditable, bounded signal — stable across vendo
 
 **Update (Nov 2025).** With SSMDE, semantics travel as *policy manifests* — not as brittle, global dictionaries. This unlocks Personal AI (edge emitters that keep `m` byte-for-byte, add a tiny lane, and stamp each claim) and Universal AI (cloud readers that route/audit by bands). It’s a clean path to empowering every human with a verifiable, portable AI—without rewiring existing models. Full playbooks land in the upcoming SSM-AI update.
 
----
-
-## 🔹 Current Active Repositories (Public)
-
+SSM-NET extends this approach to internet traffic: `value` stays byte-for-byte identical while duty travels as a small, stamped declaration (canonical subset `sha256=<hex>`, continuity via `prev`), so posture and proof move with every message without changing transport semantics.
 
 ---
 
@@ -30,6 +27,12 @@ express reality as a symbolic, auditable, bounded signal — stable across vendo
 ### 🔁 Data Exchange & Governance
 - [Symbolic-Mathematical-Data-Exchange (SSMDE)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Data-Exchange)  
   Portable declarations of truth for machine-to-machine exchange. Each record carries `value`, bounded `align`, policy `band`, `manifest_id`, and a tamper-evident `stamp` — order-invariant fusion, manifest-locked policy, observation-only.
+
+---
+
+  ### 🌐 Networking & Internet Overlay
+- [Symbolic-Mathematical-Network (SSM-NET)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Network)  
+  A manifest-first overlay beside existing traffic: keep payload bytes unchanged (`phi((m,a)) = m`), declare posture as `band`, commit a canonical subset `sha256=<hex>`, and link events with a portable continuity stamp `SSMCLOCK1|<iso_utc>|nonce=<...>|sha256=<...>|prev=<...>`. Observation-only; policy lives in published manifests.
 
 ---
 
@@ -127,19 +130,28 @@ This consistency makes the math auditable, the deployments reproducible, and the
 
 ---
 
+## Semantic Category / Practical Scope
+
+- **Domains:** AI alignment, network observability, data provenance, governance frameworks, safety dials, operational assurance.
+- **Integration surfaces:** HTTP / MQTT / Kafka / REST / streaming telemetry / embedded message buses.
+- **Implementation footprint:** Works in Python, Rust, Go, C, and browser JavaScript; no vendor dependencies; no protocol rewrites.
+
+---
+
 ## 🔹 License / Usage
 
-**Ecosystem policy**
-- Each repository declares its own license and usage notes in its `README.md`.
-- Open-standard repos (e.g., **SSMDE**, **SSMT**) are free to implement with **no registration or fees**, provided formulas and stamps are implemented exactly as declared in a published manifest and changes are clearly documented.
+**Ecosystem policy**  
+- Each repository declares its own license and usage notes in its `README.md`.  
+- **Open-standard repos (e.g., SSMDE, SSMT, SSM-NET)** are free to implement with **no registration or fees**, provided formulas and stamps are implemented exactly as declared in a published manifest and any changes are clearly documented.  
 - Unless otherwise stated in a specific repo, narrative documents, examples, and site content across the ecosystem are released under **Creative Commons BY-NC 4.0** (attribution, non-commercial, observation-only). No warranty. No endorsement or affiliation implied.
 
-**Attribution requirement**
+**Attribution requirement**  
 - When implementing or adapting, cite the concept name of the relevant standard, e.g.  
   **“Shunyaya Symbolic Mathematical Data Exchange (SSMDE)”**,  
-  **“Shunyaya Symbolic Mathematical Temperature (SSMT)”**.
+  **“Shunyaya Symbolic Mathematical Temperature (SSMT)”**,  
+  **“Shunyaya Symbolic Mathematical Network (SSM-NET)”**.
 
-**Safety**
+**Safety**  
 - All Shunyaya materials are **observation-only** scaffolds intended to aid governance, auditability, and reproducibility.  
   Do not use as the sole gate in life-critical systems without independent verification and domain-appropriate redundancies.
 
