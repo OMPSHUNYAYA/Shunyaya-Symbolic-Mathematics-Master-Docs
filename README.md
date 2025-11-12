@@ -18,6 +18,7 @@ SSM-NET extends this approach to internet traffic: `value` stays byte-for-byte i
 ### 🧩 Core Frameworks
 - [Symbolic-Mathematics (SSM)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics)  
   Core Shunyaya Symbolic Mathematics: zero-centric symbolic arithmetic and entropy logic.
+    - ✅ Proof of Concept: 10 real-life scenarios (scripts + “Getting Started” guides + CI workflow) — **[Symbolic-Mathematics-POC](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-POC)**
 
 - [Symbolic-Mathematical-Symbols (SSMS)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Symbols)  
   Shared symbolic operators, lanes, and invariants used across all other projects.
