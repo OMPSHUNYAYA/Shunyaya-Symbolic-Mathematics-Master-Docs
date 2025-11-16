@@ -7,9 +7,29 @@ It links every active public project so that engineers, scientists, regulators, 
 All projects below share one core principle:  
 express reality as a symbolic, auditable, bounded signal — stable across vendors, borders, and time.
 
-**Update (Nov 2025).** With SSMDE, semantics travel as *policy manifests* — not as brittle, global dictionaries. This unlocks Personal AI (edge emitters that keep `m` byte-for-byte, add a tiny lane, and stamp each claim) and Universal AI (cloud readers that route/audit by bands). It’s a clean path to empowering every human with a verifiable, portable AI—without rewiring existing models. Full playbooks land in the upcoming SSM-AI update.
+---
 
-SSM-NET extends this approach to internet traffic: `value` stays byte-for-byte identical while duty travels as a small, stamped declaration (canonical subset `sha256=<hex>`, continuity via `prev`), so posture and proof move with every message without changing transport semantics.
+**Update (Nov 2025).**  
+Recent updates in the Shunyaya Symbolic Mathematics ecosystem strengthen three key pillars: data exchange, networks, and electrical systems.
+
+- **SSMDE** establishes a way for semantics to travel as *policy manifests* instead of brittle global dictionaries.  
+  Values remain byte-for-byte identical; duty travels separately as `align`, `band`, and `manifest_id`.  
+  This allows transparent data exchange between machines without breaking schemas or protocols.
+
+- **SSM-NET** brings the same clarity to internet traffic.  
+  Payloads stay unchanged (`phi((m,a)) = m`), while posture travels as a tiny, stamped declaration  
+  (`sha256=<hex>`, `prev=<hex>`). Order, replay, and tampering become visible without rewriting TCP/HTTP.
+
+- **SSMEQ** extends Shunyaya to electrical quantities.  
+  Ordinary volts, amps, watts, and pf gain expressive zero-centric contrasts (`e_V`, `e_I`, `e_f`, `e_P`) and  
+  a power residual `r_P` that can highlight wiring issues, load drift, and hidden instability.  
+  Optional canonical subset commitments and continuity stamps make plant/grid timelines replayable without  
+  touching existing meters or SCADA.
+
+Together, these standards form a base layer for manifest-based, verifiable infrastructure — keeping raw reality unchanged while adding a small symbolic lane beside it.
+
+🌟 AIM — A tiny, 108 KB, manifest-first Personal AI (upcoming)  
+Documented in the Shunyaya blogs and scheduled for GitHub release. AIM runs locally, is lightweight and self-contained, and stamps each result for reproducibility. It is designed to sit beside universal AI systems as a manifest-based, verifiable companion — keeping personal context, stamps, and audit trails under the user’s control, even when large cloud models perform heavier computation.
 
 ---
 
@@ -22,6 +42,19 @@ SSM-NET extends this approach to internet traffic: `value` stays byte-for-byte i
 
 - [Symbolic-Mathematical-Symbols (SSMS)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Symbols)  
   Shared symbolic operators, lanes, and invariants used across all other projects.
+
+---
+
+### 🔬 Scientific Proof-of-Concepts (Popular Laws Enhanced by SSM)
+
+- **Bounded Classical Laws — Proof of Concept**  
+  10 foundational physics and engineering laws (Ohm, Hooke, Bernoulli, Ideal Gas, Faraday, Continuity, Snell, Momentum, etc.) expressed in two parallel tracks:  
+  **(1)** Classical calculation (`F = kx`, `V = IR`, etc.) and  
+  **(2)** Shunyaya Symbolic Mathematics beside it, adding a bounded alignment lane `a ∈ (-1,+1)` that reveals stability, drift, and hidden posture (`phi((m,a)) = m`).  
+  Includes 10 scripts with CI-backed execution and “Getting Started” walkthroughs.  
+
+  **Repository:**  
+  👉 **[Symbolic-Mathematics-Bounded-Classical-Laws-POC](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-Bounded-Classical-Laws-POC)**
 
 ---
 
@@ -40,6 +73,12 @@ SSM-NET extends this approach to internet traffic: `value` stays byte-for-byte i
 ### 🌡 Temperature & Environmental Stability
 - [Symbolic-Mathematical-Temperature (SSMT)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Temperature)  
   Open standard for temperature as a portable, auditable signal — unitless contrast `e_T` and bounded phase dials instead of raw °C/°F. Observation-only. No registration or fees. Shunyaya Symbolic Mathematical Temperature (SSMT).
+
+---
+
+### ⚡ Electrical Quantities & Grid Health
+- [Symbolic-Mathematical-Electrical-Quantities (SSMEQ)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Electrical-Quantities)  
+  Zero-centric electrical overlay for volts, amps, watts, and power-factor. Keeps raw measurements intact (`phi((m,a)) = m`) and adds symbolic contrasts (`e_V`, `e_I`, `e_f`, `e_P`), a power residual `r_P`, and band logic `band_P` under manifest control. Optional canonical subset commitments (`sha256=<hex>`) and continuity stamps (`SSMCLOCK1|<iso_utc>|nonce=<...>|sha256=<...>|prev=<...>`) make plant and grid timelines replayable without changing existing meters, SCADA, or protocols.
 
 ---
 
@@ -143,15 +182,16 @@ This consistency makes the math auditable, the deployments reproducible, and the
 
 **Ecosystem policy**  
 - Each repository declares its own license and usage notes in its `README.md`.  
-- **Open-standard repos (e.g., SSMDE, SSMT, SSM-NET)** are free to implement with **no registration or fees**, provided formulas and stamps are implemented exactly as declared in a published manifest and any changes are clearly documented.  
+- **Open-standard repos (e.g., SSMDE, SSMT, SSM-NET, SSMEQ)** are free to implement with **no registration or fees**, provided formulas and stamps are implemented exactly as declared in a published manifest and any changes are clearly documented.  
 - Unless otherwise stated in a specific repo, narrative documents, examples, and site content across the ecosystem are released under **Creative Commons BY-NC 4.0** (attribution, non-commercial, observation-only). No warranty. No endorsement or affiliation implied.
 
 **Attribution requirement**  
 - When implementing or adapting, cite the concept name of the relevant standard, e.g.  
   **“Shunyaya Symbolic Mathematical Data Exchange (SSMDE)”**,  
   **“Shunyaya Symbolic Mathematical Temperature (SSMT)”**,  
-  **“Shunyaya Symbolic Mathematical Network (SSM-NET)”**.
-
+  **“Shunyaya Symbolic Mathematical Network (SSM-NET)”**,
+  **“Shunyaya Symbolic Mathematical Electrical Quantities (SSMEQ)”**
+  
 **Safety**  
 - All Shunyaya materials are **observation-only** scaffolds intended to aid governance, auditability, and reproducibility.  
   Do not use as the sole gate in life-critical systems without independent verification and domain-appropriate redundancies.
