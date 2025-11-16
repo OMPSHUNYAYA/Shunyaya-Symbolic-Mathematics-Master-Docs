@@ -9,7 +9,7 @@ express reality as a symbolic, auditable, bounded signal — stable across vendo
 
 ---
 
-**Update (Nov 2025).**  
+**Recap of Recent Shunyaya Framework Uploads (Nov 2025).**  
 Recent updates in the Shunyaya Symbolic Mathematics ecosystem strengthen three key pillars: data exchange, networks, and electrical systems.
 
 - **SSMDE** establishes a way for semantics to travel as *policy manifests* instead of brittle global dictionaries.  
