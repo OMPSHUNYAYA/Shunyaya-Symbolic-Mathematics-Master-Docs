@@ -186,11 +186,12 @@ This consistency makes the math auditable, the deployments reproducible, and the
 - Unless otherwise stated in a specific repo, narrative documents, examples, and site content across the ecosystem are released under **Creative Commons BY-NC 4.0** (attribution, non-commercial, observation-only). No warranty. No endorsement or affiliation implied.
 
 **Attribution requirement**  
-- When implementing or adapting, cite the concept name of the relevant standard, e.g.  
-  **“Shunyaya Symbolic Mathematical Data Exchange (SSMDE)”**,  
-  **“Shunyaya Symbolic Mathematical Temperature (SSMT)”**,  
-  **“Shunyaya Symbolic Mathematical Network (SSM-NET)”**,
-  **“Shunyaya Symbolic Mathematical Electrical Quantities (SSMEQ)”**
+- When implementing or adapting, cite the concept name of the relevant standard, e.g.:
+
+  - **“Shunyaya Symbolic Mathematical Data Exchange (SSMDE)”**  
+  - **“Shunyaya Symbolic Mathematical Temperature (SSMT)”**  
+  - **“Shunyaya Symbolic Mathematical Network (SSM-NET)”**  
+  - **“Shunyaya Symbolic Mathematical Electrical Quantities (SSMEQ)”**
   
 **Safety**  
 - All Shunyaya materials are **observation-only** scaffolds intended to aid governance, auditability, and reproducibility.  
