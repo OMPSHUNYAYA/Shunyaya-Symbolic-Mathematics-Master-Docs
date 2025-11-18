@@ -9,8 +9,8 @@ express reality as a symbolic, auditable, bounded signal — stable across vendo
 
 ---
 
-**Recap of Recent Shunyaya Framework Uploads (Nov 2025).**  
-Recent updates in the Shunyaya Symbolic Mathematics ecosystem strengthen three key pillars: data exchange, networks, and electrical systems.
+**Recap of Live Shunyaya Framework Uploads (Nov 2025).**  
+The following standards are now published as active GitHub repositories and strengthen four key pillars of the Shunyaya Symbolic Mathematics ecosystem: data exchange, networks, electrical systems, and time.
 
 - **SSMDE** establishes a way for semantics to travel as *policy manifests* instead of brittle global dictionaries.  
   Values remain byte-for-byte identical; duty travels separately as `align`, `band`, and `manifest_id`.  
@@ -26,7 +26,13 @@ Recent updates in the Shunyaya Symbolic Mathematics ecosystem strengthen three k
   Optional canonical subset commitments and continuity stamps make plant/grid timelines replayable without  
   touching existing meters or SCADA.
 
+- **SSM-ClockKe** defines the Shunyaya standard for symbolic time. It turns ordinary ticks from scripts, timers,  
+  or event loops into a bounded alignment lane `a_out`, simple bands (`A+`, `A`, `B`, `C`, `D`), and a tamper-evident  
+  continuity stamp — riding beside existing clocks to reveal stability and drift without changing the underlying time source.
+
 Together, these standards form a base layer for manifest-based, verifiable infrastructure — keeping raw reality unchanged while adding a small symbolic lane beside it.
+
+---
 
 🌟 AIM — A tiny, 108 KB, manifest-first Personal AI (upcoming)  
 Documented in the Shunyaya blogs and scheduled for GitHub release. AIM runs locally, is lightweight and self-contained, and stamps each result for reproducibility. It is designed to sit beside universal AI systems as a manifest-based, verifiable companion — keeping personal context, stamps, and audit trails under the user’s control, even when large cloud models perform heavier computation.
@@ -113,6 +119,9 @@ Documented in the Shunyaya blogs and scheduled for GitHub release. AIM runs loca
 - [Symbolic-Mathematical-Clock-Stamp (SSM-Clock-Stamp)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Clock-Stamp)  
   Deterministic stamping and chain-of-custody for events and measurements.
 
+  - [Symbolic-Mathematical-Clock-Kernel (SSM-ClockKe)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Clock-Kernel)  
+  A lightweight, open-standard symbolic clock kernel. Turns ordinary ticks from scripts, timers, or event loops into a bounded alignment lane `a_out`, simple stability bands (A+…D), and a tamper-evident continuity stamp — without changing the underlying clock source. Observation-only; designed for teaching, diagnostics, and runtime observability.
+
 ---
 
 ### 🌌 Cosmological & Temporal Analysis
@@ -182,8 +191,14 @@ This consistency makes the math auditable, the deployments reproducible, and the
 
 **Ecosystem policy**  
 - Each repository declares its own license and usage notes in its `README.md`.  
-- **Open-standard repos (e.g., SSMDE, SSMT, SSM-NET, SSMEQ)** are free to implement with **no registration or fees**, provided formulas and stamps are implemented exactly as declared in a published manifest and any changes are clearly documented.  
-- Unless otherwise stated in a specific repo, narrative documents, examples, and site content across the ecosystem are released under **Creative Commons BY-NC 4.0** (attribution, non-commercial, observation-only). No warranty. No endorsement or affiliation implied.
+
+- **Open-standard projects (SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe)** are free to implement with **no registration or fees**, provided formulas and stamps are implemented exactly as declared in a published manifest and any changes are clearly documented. Open-standard projects are still research frameworks — they simply offer more permissive, implementation-friendly terms.
+
+- **All other Shunyaya standards remain research frameworks released under CC BY-NC 4.0.**  
+  Their *documents, examples, and site text* are CC BY-NC 4.0, and the standards themselves are not licensed for commercial use or exclusive stewardship.
+
+- Unless explicitly marked otherwise in a repo, narrative material across the ecosystem follows **CC BY-NC 4.0**.  
+  No warranty. No endorsement or affiliation implied.
 
 **Attribution requirement**  
 - When implementing or adapting, cite the concept name of the relevant standard, e.g.:
@@ -191,7 +206,8 @@ This consistency makes the math auditable, the deployments reproducible, and the
   - **“Shunyaya Symbolic Mathematical Data Exchange (SSMDE)”**  
   - **“Shunyaya Symbolic Mathematical Temperature (SSMT)”**  
   - **“Shunyaya Symbolic Mathematical Network (SSM-NET)”**  
-  - **“Shunyaya Symbolic Mathematical Electrical Quantities (SSMEQ)”**
+  - **“Shunyaya Symbolic Mathematical Electrical Quantities (SSMEQ)”**  
+  - **“Shunyaya Symbolic Mathematical Clock Kernel (SSM-ClockKe)”**
   
 **Safety**  
 - All Shunyaya materials are **observation-only** scaffolds intended to aid governance, auditability, and reproducibility.  
