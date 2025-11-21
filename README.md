@@ -9,36 +9,6 @@ express reality as a symbolic, auditable, bounded signal — stable across vendo
 
 ---
 
-**Recap of Live Shunyaya Framework Uploads (Nov 2025).**  
-The following standards are now published as active GitHub repositories and strengthen four key pillars of the Shunyaya Symbolic Mathematics ecosystem: data exchange, networks, electrical systems, and time.
-
-- **SSMDE** establishes a way for semantics to travel as *policy manifests* instead of brittle global dictionaries.  
-  Values remain byte-for-byte identical; duty travels separately as `align`, `band`, and `manifest_id`.  
-  This allows transparent data exchange between machines without breaking schemas or protocols.
-
-- **SSM-NET** brings the same clarity to internet traffic.  
-  Payloads stay unchanged (`phi((m,a)) = m`), while posture travels as a tiny, stamped declaration  
-  (`sha256=<hex>`, `prev=<hex>`). Order, replay, and tampering become visible without rewriting TCP/HTTP.
-
-- **SSMEQ** extends Shunyaya to electrical quantities.  
-  Ordinary volts, amps, watts, and pf gain expressive zero-centric contrasts (`e_V`, `e_I`, `e_f`, `e_P`) and  
-  a power residual `r_P` that can highlight wiring issues, load drift, and hidden instability.  
-  Optional canonical subset commitments and continuity stamps make plant/grid timelines replayable without  
-  touching existing meters or SCADA.
-
-- **SSM-ClockKe** defines the Shunyaya standard for symbolic time. It turns ordinary ticks from scripts, timers,  
-  or event loops into a bounded alignment lane `a_out`, simple bands (`A+`, `A`, `B`, `C`, `D`), and a tamper-evident  
-  continuity stamp — riding beside existing clocks to reveal stability and drift without changing the underlying time source.
-
-Together, these standards form a base layer for manifest-based, verifiable infrastructure — keeping raw reality unchanged while adding a small symbolic lane beside it.
-
----
-
-🌟 AIM — A tiny, 108 KB, manifest-first Personal AI (upcoming)  
-Documented in the Shunyaya blogs and scheduled for GitHub release. AIM runs locally, is lightweight and self-contained, and stamps each result for reproducibility. It is designed to sit beside universal AI systems as a manifest-based, verifiable companion — keeping personal context, stamps, and audit trails under the user’s control, even when large cloud models perform heavier computation.
-
----
-
 ## 🔹 Current Active Repositories (Public)
 
 ### 🧩 Core Frameworks
@@ -48,6 +18,10 @@ Documented in the Shunyaya blogs and scheduled for GitHub release. AIM runs loca
 
 - [Symbolic-Mathematical-Symbols (SSMS)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Symbols)  
   Shared symbolic operators, lanes, and invariants used across all other projects.
+
+  - [Symbolic-Mathematical-Infinity (SSM-Infinity)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Infinity)  
+  Directional infinity, zero-class collapse, finite-class ratio, and alignment-preserving infinite algebra.  
+  Fully deterministic, 22/22 tests passing, and released under CC BY 4.0.
 
 ---
 
@@ -146,6 +120,18 @@ Documented in the Shunyaya blogs and scheduled for GitHub release. AIM runs loca
 
   Status: Zentrube has now been superseded by the unified Shunyaya Symbolic Mathematics approach — including Zeozo, Syasys / Unified Framework direction, and the formal SSM lane model (`x := (m,a)` with `phi((m,a)) = m`).  
   In other words: Zentrube was the proof of possibility, but the ongoing work lives in the active repositories listed above.
+
+---
+
+**Recent Major Releases (2025)**  
+The following standards were published this year and extend Shunyaya Symbolic Mathematics across infrastructure, signals, and theoretical domains.
+
+- **SSMDE** — semantic posture as portable manifests beside existing data exchange.
+- **SSM-NET** — posture, stamps, and continuity beside internet traffic with untouched payloads.
+- **SSMEQ** — symbolic contrasts and power-residuals for volts, amps, pf, and grid health.
+- **SSM-ClockKe** — symbolic lanes, stability bands, and continuity stamps beside clock ticks.
+- **SSM-Infinity** — directional infinity with deterministic outcomes for indeterminate forms.
+- **SSM-AIM (upcoming)** — a tiny, manifest-first personal AI with reproducible stamped outputs.
 
 ---
 
