@@ -9,6 +9,14 @@ express reality as a symbolic, auditable, bounded signal — stable across vendo
 
 ---
 
+### 🟢 Shunyaya Symbolic Mathematical Law (Law 0)
+
+**“Every classical value carries a bounded alignment lane, revealing reality drift and stability while retaining the original number.”**
+
+Law 0 defines the core two-lane structure used across all Shunyaya systems:
+
+---
+
 ## 🔹 Current Active Repositories (Public)
 
 ### 🧩 Core Frameworks
@@ -63,8 +71,14 @@ express reality as a symbolic, auditable, bounded signal — stable across vendo
 ---
 
 ### 🧠 Intelligence & AI
+
 - [Symbolic-Mathematical-AI (SSM-AI)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-AI)  
-  Alignment lane beside classical AI scores. Bounded, auditable, reproducible.
+  Foundational symbolic intelligence layer. Two-lane numerals, bounded alignment, manifest-first governance, and deterministic symbolic reasoning.
+
+- [Symbolic-Mathematical-AI-Manifest-Mini (SSM-AIM Mini)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-AI-Manifest-Mini)  
+  A tiny, transparent, fully offline AI reflection console.  
+  Three-file Python kernel (~23 KB), deterministic symbolic alignment lane `a ∈ (-1,+1)`, tamper-evident memory using SHA-256, and simple manifest-style rule behaviour.  
+  Designed as a minimal, inspectable entry point into Shunyaya symbolic intelligence.
 
 ---
 
@@ -123,15 +137,15 @@ express reality as a symbolic, auditable, bounded signal — stable across vendo
 
 ---
 
-**Recent Major Releases (2025)**  
+**Recent Major Releases (2025 — GitHub Published)**
 The following standards were published this year and extend Shunyaya Symbolic Mathematics across infrastructure, signals, and theoretical domains.
 
-- **SSMDE** — semantic posture as portable manifests beside existing data exchange.
-- **SSM-NET** — posture, stamps, and continuity beside internet traffic with untouched payloads.
-- **SSMEQ** — symbolic contrasts and power-residuals for volts, amps, pf, and grid health.
-- **SSM-ClockKe** — symbolic lanes, stability bands, and continuity stamps beside clock ticks.
-- **SSM-Infinity** — directional infinity with deterministic outcomes for indeterminate forms.
-- **SSM-AIM (upcoming)** — a tiny, manifest-first personal AI with reproducible stamped outputs.
+- **SSMDE** — semantic posture as portable manifests beside existing data exchange.  
+- **SSM-NET** — posture, stamps, and continuity beside internet traffic with untouched payloads.  
+- **SSMEQ** — symbolic contrasts and power-residuals for volts, amps, pf, and grid health.  
+- **SSM-ClockKe** — symbolic lanes, stability bands, and continuity stamps beside clock ticks.  
+- **SSM-Infinity** — directional infinity with deterministic outcomes for indeterminate forms.  
+- **SSM-AIM Mini** — a tiny, manifest-first personal AI console with deterministic symbolic lanes and tamper-evident memory.
 
 ---
 
@@ -178,7 +192,7 @@ This consistency makes the math auditable, the deployments reproducible, and the
 **Ecosystem policy**  
 - Each repository declares its own license and usage notes in its `README.md`.  
 
-- **Open-standard projects (SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe)** are free to implement with **no registration or fees**, provided formulas and stamps are implemented exactly as declared in a published manifest and any changes are clearly documented. Open-standard projects are still research frameworks — they simply offer more permissive, implementation-friendly terms.
+- **Open-standard projects (SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe, SSM-AIM Mini)** are free to implement with **no registration or fees**, provided formulas and stamps are implemented exactly as declared in a published manifest and any changes are clearly documented. Open-standard projects are still research frameworks — they simply offer more permissive, implementation-friendly terms.
 
 - **All other Shunyaya standards remain research frameworks released under CC BY-NC 4.0.**  
   Their *documents, examples, and site text* are CC BY-NC 4.0, and the standards themselves are not licensed for commercial use or exclusive stewardship.
