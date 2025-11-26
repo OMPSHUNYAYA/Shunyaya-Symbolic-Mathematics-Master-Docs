@@ -1,6 +1,10 @@
 # 🌐 Shunyaya Symbolic Mathematics — Master Index  
 **Repository:** Shunyaya-Symbolic-Mathematics-Master-Docs
 
+---
+
+**All standards below include real scripts, deterministic demos, CI-validated POCs, and reproducible examples — this is a working symbolic system, not a theoretical concept.**
+
 This repository is the single entry point for the Shunyaya Symbolic Mathematics ecosystem.  
 It links every active public project so that engineers, scientists, regulators, and partners can navigate the full framework without needing private context.
 
@@ -79,6 +83,13 @@ Law 0 defines the core two-lane structure used across all Shunyaya systems:
   A tiny, transparent, fully offline AI reflection console.  
   Three-file Python kernel (~23 KB), deterministic symbolic alignment lane `a ∈ (-1,+1)`, tamper-evident memory using SHA-256, and simple manifest-style rule behaviour.  
   Designed as a minimal, inspectable entry point into Shunyaya symbolic intelligence.
+
+  - [Shunyaya-Symbolic-Mathematical-Tweet (SSM-Tweet)](https://github.com/OMPSHUNYAYA/Shunyaya-Symbolic-Mathematical-Tweet)  
+  Deterministic structural messaging.  
+  Adds a transparent, bounded alignment lane (`a_raw → a_out`) and optional Quero lane (`q_raw → q_out`) beside any message — without touching payload (`phi((m,a)) = m`).  
+  Enables reproducible ordering, posture lanes, declared lineage, ZETA-0 resets, U/W kernel stability, and optional continuity stamps.  
+  Works in Overlay Mode (sidecar envelopes) or Native Mode (full structural messaging layer).  
+  CI-validated Python tools included: deterministic envelope generator, posture evaluator, Quero drift visualizer, heatmaps, and structural replay POC.
 
 ---
 
@@ -192,7 +203,11 @@ This consistency makes the math auditable, the deployments reproducible, and the
 **Ecosystem policy**  
 - Each repository declares its own license and usage notes in its `README.md`.  
 
-- **Open-standard projects (SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe, SSM-AIM Mini)** are free to implement with **no registration or fees**, provided formulas and stamps are implemented exactly as declared in a published manifest and any changes are clearly documented. Open-standard projects are still research frameworks — they simply offer more permissive, implementation-friendly terms.
+- **Open-standard projects (SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe, SSM-AIM Mini, SSM-Tweet)**  
+  are free to implement with **no registration or fees**, provided formulas, envelopes, lanes, and stamps  
+  are implemented exactly as declared in a published manifest and any changes are clearly documented.  
+  Open-standard projects remain research frameworks — they simply offer more permissive,  
+  implementation-friendly terms for integration, extension, and experimentation.
 
 - **All other Shunyaya standards remain research frameworks released under CC BY-NC 4.0.**  
   Their *documents, examples, and site text* are CC BY-NC 4.0, and the standards themselves are not licensed for commercial use or exclusive stewardship.
@@ -207,8 +222,9 @@ This consistency makes the math auditable, the deployments reproducible, and the
   - **“Shunyaya Symbolic Mathematical Temperature (SSMT)”**  
   - **“Shunyaya Symbolic Mathematical Network (SSM-NET)”**  
   - **“Shunyaya Symbolic Mathematical Electrical Quantities (SSMEQ)”**  
-  - **“Shunyaya Symbolic Mathematical Clock Kernel (SSM-ClockKe)”**
-  
+  - **“Shunyaya Symbolic Mathematical Clock Kernel (SSM-ClockKe)”**  
+  - **“Shunyaya Symbolic Mathematical Tweet (SSM-Tweet)”**
+
 **Safety**  
 - All Shunyaya materials are **observation-only** scaffolds intended to aid governance, auditability, and reproducibility.  
   Do not use as the sole gate in life-critical systems without independent verification and domain-appropriate redundancies.
