@@ -84,7 +84,7 @@ Law 0 defines the core two-lane structure used across all Shunyaya systems:
   Three-file Python kernel (~23 KB), deterministic symbolic alignment lane `a ∈ (-1,+1)`, tamper-evident memory using SHA-256, and simple manifest-style rule behaviour.  
   Designed as a minimal, inspectable entry point into Shunyaya symbolic intelligence.
 
-  - [Shunyaya-Symbolic-Mathematical-Tweet (SSM-Tweet)](https://github.com/OMPSHUNYAYA/Shunyaya-Symbolic-Mathematical-Tweet)  
+- [Symbolic-Mathematical-Tweet (SSM-Tweet)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Tweet)  
   Deterministic structural messaging.  
   Adds a transparent, bounded alignment lane (`a_raw → a_out`) and optional Quero lane (`q_raw → q_out`) beside any message — without touching payload (`phi((m,a)) = m`).  
   Enables reproducible ordering, posture lanes, declared lineage, ZETA-0 resets, U/W kernel stability, and optional continuity stamps.  
