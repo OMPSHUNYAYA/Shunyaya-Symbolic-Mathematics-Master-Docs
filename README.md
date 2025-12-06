@@ -218,6 +218,19 @@ Law 0 defines the core two-lane structure used across all Shunyaya systems:
 
 ---
 
+### 🌠 Symbolic Physics (Foundational Physical Laws Extended with SSM)
+
+- [Symbolic-Physics-LAW-0AR (LAW 0AR)](https://github.com/OMPSHUNYAYA/Symbolic-Physics-LAW-0AR)  
+  A physical symmetry law — distinct from the symbolic mathematics law family.  
+  LAW 0AR provides an origin-centered formulation of action–reaction symmetry that fully preserves Newtonian behaviour while offering a stable structural expression for distributed or field-mediated interactions.  
+  The law itself is physical; the bounded operator SSMO-AR is a mathematical tool derived from Shunyaya Symbolic Mathematics used only for analysis.
+
+**Status:** Public release (Open Standard • observational and interpretive use)
+
+This is the first official entry in the **Shunyaya Symbolic Physics** category — a parallel track that complements but remains distinct from the symbolic mathematics ecosystem.
+
+---
+
 **Recent Major Releases (2025 — GitHub Published)**
 The following standards were published this year and extend Shunyaya Symbolic Mathematics across infrastructure, signals, and theoretical domains.
 
@@ -227,6 +240,7 @@ The following standards were published this year and extend Shunyaya Symbolic Ma
 - **SSM-ClockKe** — symbolic lanes, stability bands, and continuity stamps beside clock ticks.  
 - **SSM-Infinity** — directional infinity with deterministic outcomes for indeterminate forms.  
 - **SSM-AIM Mini** — a tiny, manifest-first personal AI console with deterministic symbolic lanes and tamper-evident memory.
+- **LAW 0AR** — a physical symmetry law extending Newton’s Third Law with an origin-centered, bounded structural formulation for distributed and field-mediated interactions.
 
 ---
 
@@ -274,7 +288,7 @@ This consistency makes the math auditable, the deployments reproducible, and the
 Each repository declares its own license and usage notes in its `README.md`.
 
 ### ✅ Open-Standard Projects  
-**(SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe, SSM-AIM Mini, SSM-Tweet, SSM-Browse)**  
+**(SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe, SSM-AIM Mini, SSM-Tweet, SSM-Browse, LAW-0AR)**
 
 These projects are released as **Open Standards**, meaning:
 
