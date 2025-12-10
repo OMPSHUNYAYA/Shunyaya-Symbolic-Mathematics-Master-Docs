@@ -11,8 +11,8 @@ Across domains, the unifying principle is clear:
 
 In all structural projects (Clock, AI, Network, Messaging, Encrypt),  
 Shunyaya uses **real, verifiable continuity stamps** — mathematically portable,
-forward-only, and independently checkable (SSM-ClockKe principle).
-These stamps are proof that Shunyaya’s structures run in the real world.
+forward-only, and independently checkable (SSM-ClockKe principle).  
+These stamps are the proof that Shunyaya’s structures run in the real world.
 
 **All listed standards include working code: real scripts, deterministic demos, CI-validated POCs, and reproducible examples — this ecosystem is operational, 
 not theoretical.**
