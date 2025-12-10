@@ -4,14 +4,21 @@
 ---
 This repository is the entry point to the Shunyaya Symbolic Mathematics ecosystem — a unified map of all public, production-grade symbolic standards.
 
-It allows engineers, scientists, regulators, and researchers to navigate every active project without private context.
+It provides engineers, scientists, regulators, and researchers a single place to navigate every active project without private context.
 
-All projects share one principle:  
+Across domains, the unifying principle is clear:  
 **express reality as a symbolic, auditable, bounded signal — stable across vendors, borders, and time.**
 
-**All standards below include real scripts, deterministic demos, CI-validated POCs, and reproducible examples — this is a working symbolic system, not a theoretical concept.**
+In all structural projects (Clock, AI, Network, Messaging, Encrypt),  
+Shunyaya uses **real, verifiable continuity stamps** — mathematically portable,
+forward-only, and independently checkable (SSM-ClockKe principle).
+These stamps are proof that Shunyaya’s structures run in the real world.
+
+**All listed standards include working code: real scripts, deterministic demos, CI-validated POCs, and reproducible examples — this ecosystem is operational, 
+not theoretical.**
 
 ---
+
 **Quick Proof That Shunyaya Is Real — Run This in 5 Seconds**
 
 ```python
@@ -124,6 +131,15 @@ Law 0 defines the core two-lane structure used across all Shunyaya systems:
   ### 🌐 Networking & Internet Overlay
 - [Symbolic-Mathematical-Network (SSM-NET)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Network)  
   A manifest-first overlay beside existing traffic: keep payload bytes unchanged (`phi((m,a)) = m`), declare posture as `band`, commit a canonical subset `sha256=<hex>`, and link events with a portable continuity stamp `SSMCLOCK1|<iso_utc>|nonce=<...>|sha256=<...>|prev=<...>`. Observation-only; policy lives in published manifests.
+
+---
+
+### 🔐 Security & Encryption
+
+- [Shunyaya Symbolic Mathematical Encrypt (SSM-Encrypt)](https://github.com/OMPSHUNYAYA/SSM-Encrypt)  
+  Deterministic structural encryption with StampChain continuity, identity binding, post-decryption invalidation,
+  and offline lifecycle enforcement. Complements classical ciphers by securing the structural journey of a payload,
+  not the secrecy. Tiny one-file engine (~9 KB), fully deterministic, and browser runnable.
 
 ---
 
@@ -287,19 +303,26 @@ This consistency makes the math auditable, the deployments reproducible, and the
 **Ecosystem policy**  
 Each repository declares its own license and usage notes in its `README.md`.
 
-### ✅ Open-Standard Projects  
-**(SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe, SSM-AIM Mini, SSM-Tweet, SSM-Browse, LAW-0AR)**
+---
+
+## ✅ Open-Standard Projects  
+**(SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe, SSM-AIM Mini, SSM-Tweet, SSM-Browse, LAW-0AR, SSM-Encrypt)**
 
 These projects are released as **Open Standards**, meaning:
 
 - free implementation with **no registration or fees**  
 - allowed in personal, institutional, research, or commercial systems  
-- full permission to modify, extend, or redistribute  
+- full permission to **use, modify, extend, integrate, or redistribute**  
+- **optional attribution** (recommended but not required)  
 - no exclusivity or vendor lock-in  
-- formulas, envelopes, lanes, stamps, and manifest-declared logic must remain deterministic and transparent  
-- strictly **observation-only**; Value layer must remain untouched  
+- all formulas, stamps, envelopes, and symbolic logic remain deterministic and transparent  
 
-Open-standard projects are designed for **global, frictionless adoption**.
+**Warranty:**  
+These implementations are provided *as-is* under open-standard terms, without warranty of any kind.
+
+Open-standard projects are designed for **global, frictionless adoption** across vendors, systems, and jurisdictions.
+
+--
 
 ### 📘 Research Frameworks — CC BY-NC 4.0  
 All other Shunyaya standards (core symbolic mathematics, theoretical layers, documents, examples) remain under **CC BY-NC 4.0**:
@@ -309,6 +332,8 @@ All other Shunyaya standards (core symbolic mathematics, theoretical layers, doc
 - no warranty; no endorsement or affiliation implied  
 
 These standards define foundational mathematical constructs and therefore require attribution, unlike the Open-Standard category.
+
+---
 
 ### ⚠️ Safety  
 All Shunyaya materials are **observation-only** scaffolds intended for transparency, auditability, structural analysis, and reproducibility.  
