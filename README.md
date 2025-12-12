@@ -96,6 +96,18 @@ Law 0 defines the core two-lane structure used across all Shunyaya systems:
 ## 🔹 Current Active Repositories (Public)
 
 ### 🧩 Core Frameworks
+
+---
+
+- [Shunyaya Structural Universal Mathematics (SSUM)](https://github.com/OMPSHUNYAYA/Structural-Mathematics)  
+  Structural arithmetic framework where every number carries bounded, deterministic behavioural structure  
+  while guaranteeing exact classical collapse (`phi((m,a,s)) = m`).  
+  Includes an offline, single-file browser proof-of-concept demonstrating  
+  zero classical mismatches across operations.  
+  → [Demo_SSUM.html](https://github.com/OMPSHUNYAYA/Structural-Mathematics/blob/main/demo/Demo_SSUM.html)
+
+---
+
 - [Symbolic-Mathematics (SSM)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics)  
   Core Shunyaya Symbolic Mathematics: zero-centric symbolic arithmetic and entropy logic.
     - ✅ Proof of Concept: 10 real-life scenarios (scripts + “Getting Started” guides + CI workflow) — **[Symbolic-Mathematics-POC](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-POC)**
@@ -306,7 +318,8 @@ Each repository declares its own license and usage notes in its `README.md`.
 ---
 
 ## ✅ Open-Standard Projects  
-**(SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe, SSM-AIM Mini, SSM-Tweet, SSM-Browse, LAW-0AR, SSM-Encrypt)**
+
+**(SSUM, SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe, SSM-AIM Mini, SSM-Tweet, SSM-Browse, LAW-0AR, SSM-Encrypt)**
 
 These projects are released as **Open Standards**, meaning:
 
@@ -322,7 +335,7 @@ These implementations are provided *as-is* under open-standard terms, without wa
 
 Open-standard projects are designed for **global, frictionless adoption** across vendors, systems, and jurisdictions.
 
---
+---
 
 ### 📘 Research Frameworks — CC BY-NC 4.0  
 All other Shunyaya standards (core symbolic mathematics, theoretical layers, documents, examples) remain under **CC BY-NC 4.0**:
