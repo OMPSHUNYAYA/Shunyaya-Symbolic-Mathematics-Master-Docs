@@ -9,6 +9,12 @@ It provides engineers, scientists, regulators, and researchers a single place to
 Across domains, the unifying principle is clear:  
 **express reality as a symbolic, auditable, bounded signal — stable across vendors, borders, and time.**
 
+---
+
+**Shunyaya framework** evolved from a structural reinterpretation of zero,
+treating it as a dynamic baseline — a flow of zero —
+around which structure emerges, drifts, and stabilizes in mathematics and practice.
+
 In all structural projects (Clock, AI, Network, Messaging, Encrypt),  
 Shunyaya uses **real, verifiable continuity stamps** — mathematically portable,
 forward-only, and independently checkable (SSM-ClockKe principle).  
@@ -105,6 +111,15 @@ Law 0 defines the core two-lane structure used across all Shunyaya systems:
   Includes an offline, single-file browser proof-of-concept demonstrating  
   zero classical mismatches across operations.  
   → [Demo_SSUM.html](https://github.com/OMPSHUNYAYA/Structural-Mathematics/blob/main/demo/Demo_SSUM.html)
+
+---
+
+- [SSUM Observatory](github.com/OMPSHUNYAYA/ssum-observatory)  
+  A browser-only observatory of **deterministic SSUM demonstrations** showing how
+  structural channels evolve alongside classical mathematics **without altering results**.  
+  Includes reproducible case studies in numerical methods and geometry
+  (Newton solvers, near-singular behaviour, multiple roots, and 3D↔4D hyper-rotation),
+  each with live demos, console proofs, and verified observation notes.
 
 ---
 
