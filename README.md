@@ -278,16 +278,41 @@ This is the first official entry in the **Shunyaya Symbolic Physics** category �
 
 ---
 
-**Recent Major Releases (2025 — GitHub Published)**
-The following standards were published this year and extend Shunyaya Symbolic Mathematics across infrastructure, signals, and theoretical domains.
+## **Recent Major Releases (2025 — GitHub Published)**
 
-- **SSMDE** — semantic posture as portable manifests beside existing data exchange.  
-- **SSM-NET** — posture, stamps, and continuity beside internet traffic with untouched payloads.  
-- **SSMEQ** — symbolic contrasts and power-residuals for volts, amps, pf, and grid health.  
-- **SSM-ClockKe** — symbolic lanes, stability bands, and continuity stamps beside clock ticks.  
-- **SSM-Infinity** — directional infinity with deterministic outcomes for indeterminate forms.  
-- **SSM-AIM Mini** — a tiny, manifest-first personal AI console with deterministic symbolic lanes and tamper-evident memory.
-- **LAW 0AR** — a physical symmetry law extending Newton’s Third Law with an origin-centered, bounded structural formulation for distributed and field-mediated interactions.
+*Foundational standards and domain extensions released this year under the Shunyaya Symbolic Mathematics ecosystem.*
+
+---
+
+### 🧠 **Foundational & Core Standards**
+
+These releases define the **core symbolic laws, structures, and primitives** upon which other Shunyaya projects are built.
+
+- **SSUM** — *Structural Universal Mathematics* redefining numbers as bounded multi-lane entities while preserving classical collapse.
+- **SSM-UT** — *Symbolic Universal Time* enabling deterministic, clock-independent time recovery from observable cycles.
+- **SSM-Infinity** — Directional infinity with deterministic outcomes for indeterminate mathematical forms.
+- **LAW-0AR** — Origin-centered physical symmetry law extending Newton’s Third Law to distributed and field-mediated interactions.
+
+---
+
+### 🧱 **Infrastructure, Signals & Runtime Systems**
+
+These releases apply Shunyaya principles to **real-world systems**, without altering underlying protocols, clocks, or hardware.
+
+- **SSM-ClockKe** — Symbolic stability lanes, drift bands, and tamper-evident continuity beside clock ticks.
+- **SSM-Encrypt** — Deterministic symbolic envelopes and stamp chains layered over existing encryption.
+- **SSM-NET** — Symbolic posture, stamps, and continuity alongside live network traffic with untouched payloads.
+- **SSMEQ** — Symbolic contrasts and residual power analysis for voltage, current, power factor, and grid health.
+- **SSMDE** — Semantic posture and manifests attached to data exchange without breaking existing formats.
+
+---
+
+### 🤖 **Symbolic Intelligence & Tooling**
+
+These projects explore **symbolic reasoning, observability, and interaction**, built on deterministic lanes and transparent logic.
+
+- **SSM-AIM Mini** — Manifest-first symbolic AI console with deterministic memory and tamper-evident state.
+- **ssum-observatory** — Interactive visualization and experimentation environment for SSUM structures and behaviors.
 
 ---
 
