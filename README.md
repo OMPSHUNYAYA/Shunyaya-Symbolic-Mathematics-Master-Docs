@@ -225,6 +225,10 @@ Law 0 defines the core two-lane structure used across all Shunyaya systems:
 ---
 
 ### ⏱ Time & Chronology
+
+- [Symbolic-Mathematical-Universal-Time (SSM-UT)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Universal-Time)  
+  Clock-independent symbolic recovery of time from observable cycles. Establishes time existence without relying on UTC, TAI, GPS, network connectivity, or centralized authority. Deterministic, manifest-first, and fully offline. Serves as the foundational layer for resilient, authority-free time reconstruction and alignment. Observation and evaluation focused.
+
 - [Symbolic-Mathematical-Clock (SSM-Clock)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Clock)  
   Symbolic timekeeping and entropy-aware temporal structure.
 
@@ -232,7 +236,7 @@ Law 0 defines the core two-lane structure used across all Shunyaya systems:
   Deterministic stamping and chain-of-custody for events and measurements.
 
   - [Symbolic-Mathematical-Clock-Kernel (SSM-ClockKe)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Clock-Kernel)  
-  A lightweight, open-standard symbolic clock kernel. Turns ordinary ticks from scripts, timers, or event loops into a bounded alignment lane `a_out`, simple stability bands (A+…D), and a tamper-evident continuity stamp — without changing the underlying clock source. Observation-only; designed for teaching, diagnostics, and runtime observability.
+    A lightweight, open-standard symbolic clock kernel. Turns ordinary ticks from scripts, timers, or event loops into a bounded alignment lane `a_out`, simple stability bands (A+…D), and a tamper-evident continuity stamp — without changing the underlying clock source. Observation-only; designed for teaching, diagnostics, and runtime observability.
 
 ---
 
@@ -334,7 +338,7 @@ Each repository declares its own license and usage notes in its `README.md`.
 
 ## ✅ Open-Standard Projects  
 
-**(SSUM, SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe, SSM-AIM Mini, SSM-Tweet, SSM-Browse, LAW-0AR, SSM-Encrypt)**
+**(SSUM, SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe, SSM-AIM Mini, SSM-Tweet, SSM-Browse, LAW-0AR, SSM-Encrypt, SSM-UT)**
 
 These projects are released as **Open Standards**, meaning:
 
