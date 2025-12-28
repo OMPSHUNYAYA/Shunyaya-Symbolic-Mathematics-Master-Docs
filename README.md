@@ -114,6 +114,20 @@ Law 0 defines the core two-lane structure used across all Shunyaya systems:
 
 ---
 
+- [SSUM-STAR — Structural Action And Replay](https://github.com/OMPSHUNYAYA/SSUM-STAR)  
+  A deterministic, offline **structural action and replay system** within the
+  Shunyaya Structural Universal Mathematics (SSUM) framework.
+  SSUM-STAR transforms datasets into replayable structural timelines where
+  action, order, and continuity are preserved intrinsically,
+  without reliance on timestamps, metadata, or external clocks.
+  It guarantees exact historical reconstruction, deterministic replay,
+  and indexed seek while maintaining full auditability and offline reproducibility.
+  Unlike classical compression, which restores bytes,
+  SSUM-STAR restores **structural behavior** itself.
+
+
+---
+
 - [SSUM Observatory](github.com/OMPSHUNYAYA/ssum-observatory)  
   A browser-only observatory of **deterministic SSUM demonstrations** showing how
   structural channels evolve alongside classical mathematics **without altering results**.  
@@ -304,6 +318,7 @@ These releases apply Shunyaya principles to **real-world systems**, without alte
 - **SSM-NET** — Symbolic posture, stamps, and continuity alongside live network traffic with untouched payloads.
 - **SSMEQ** — Symbolic contrasts and residual power analysis for voltage, current, power factor, and grid health.
 - **SSMDE** — Semantic posture and manifests attached to data exchange without breaking existing formats.
+- **SSUM-STAR** — Structural Action And Replay enabling deterministic, offline reconstruction of datasets as replayable structural timelines with exact replay and intrinsic ordering.
 
 ---
 
@@ -404,5 +419,5 @@ It grants no exclusivity or stewardship over any domain; it exists to make the w
 
 ---
 
-© The Authors of the Shunyaya Framework and Shunyaya Symbolic Mathematics — advancing transparent, accountable, planetary infrastructure.
+© The Authors of the Shunyaya Framework, Shunyaya Structural Universal Mathematics and Shunyaya Symbolic Mathematics — advancing transparent, accountable, planetary infrastructure.
 
