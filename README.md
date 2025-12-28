@@ -127,7 +127,7 @@ Law 0 defines the core two-lane structure used across all Shunyaya systems:
 
 ---
 
-- [SSUM Observatory](github.com/OMPSHUNYAYA/ssum-observatory)  
+- [SSUM Observatory](https://github.com/OMPSHUNYAYA/ssum-observatory)
   A browser-only observatory of **deterministic SSUM demonstrations** showing how
   structural channels evolve alongside classical mathematics **without altering results**.  
   Includes reproducible case studies in numerical methods and geometry
