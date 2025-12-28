@@ -114,17 +114,16 @@ Law 0 defines the core two-lane structure used across all Shunyaya systems:
 
 ---
 
-- [SSUM-STAR — Structural Action And Replay](https://github.com/OMPSHUNYAYA/SSUM-STAR)  
-  A deterministic, offline **structural action and replay system** within the
+- [SSUM-STAR — Structural Time And Replay](https://github.com/OMPSHUNYAYA/SSUM-STAR)  
+  A deterministic, offline structural time and replay system within the
   Shunyaya Structural Universal Mathematics (SSUM) framework.
   SSUM-STAR transforms datasets into replayable structural timelines where
-  action, order, and continuity are preserved intrinsically,
+  order and continuity are preserved intrinsically,
   without reliance on timestamps, metadata, or external clocks.
   It guarantees exact historical reconstruction, deterministic replay,
   and indexed seek while maintaining full auditability and offline reproducibility.
   Unlike classical compression, which restores bytes,
-  SSUM-STAR restores **structural behavior** itself.
-
+  SSUM-STAR restores structural behavior itself.
 
 ---
 
@@ -292,42 +291,16 @@ This is the first official entry in the **Shunyaya Symbolic Physics** category �
 
 ---
 
-## **Recent Major Releases (2025 — GitHub Published)**
+## ⭐ Latest Release
 
-*Foundational standards and domain extensions released this year under the Shunyaya Symbolic Mathematics ecosystem.*
+### SSUM-STAR — Structural Time And Replay
 
----
+SSUM-STAR introduces deterministic, offline structural time and exact replay,
+transforming datasets into replayable structural timelines with intrinsic ordering
+and full auditability — without reliance on timestamps, metadata, or external clocks.
 
-### 🧠 **Foundational & Core Standards**
-
-These releases define the **core symbolic laws, structures, and primitives** upon which other Shunyaya projects are built.
-
-- **SSUM** — *Structural Universal Mathematics* redefining numbers as bounded multi-lane entities while preserving classical collapse.
-- **SSM-UT** — *Symbolic Universal Time* enabling deterministic, clock-independent time recovery from observable cycles.
-- **SSM-Infinity** — Directional infinity with deterministic outcomes for indeterminate mathematical forms.
-- **LAW-0AR** — Origin-centered physical symmetry law extending Newton’s Third Law to distributed and field-mediated interactions.
-
----
-
-### 🧱 **Infrastructure, Signals & Runtime Systems**
-
-These releases apply Shunyaya principles to **real-world systems**, without altering underlying protocols, clocks, or hardware.
-
-- **SSM-ClockKe** — Symbolic stability lanes, drift bands, and tamper-evident continuity beside clock ticks.
-- **SSM-Encrypt** — Deterministic symbolic envelopes and stamp chains layered over existing encryption.
-- **SSM-NET** — Symbolic posture, stamps, and continuity alongside live network traffic with untouched payloads.
-- **SSMEQ** — Symbolic contrasts and residual power analysis for voltage, current, power factor, and grid health.
-- **SSMDE** — Semantic posture and manifests attached to data exchange without breaking existing formats.
-- **SSUM-STAR** — Structural Action And Replay enabling deterministic, offline reconstruction of datasets as replayable structural timelines with exact replay and intrinsic ordering.
-
----
-
-### 🤖 **Symbolic Intelligence & Tooling**
-
-These projects explore **symbolic reasoning, observability, and interaction**, built on deterministic lanes and transparent logic.
-
-- **SSM-AIM Mini** — Manifest-first symbolic AI console with deterministic memory and tamper-evident state.
-- **ssum-observatory** — Interactive visualization and experimentation environment for SSUM structures and behaviors.
+It represents the first large-scale executable system implementing
+SSUM principles for historical reconstruction and deterministic replay.
 
 ---
 
@@ -373,37 +346,71 @@ This consistency makes the math auditable, the deployments reproducible, and the
 
 **Ecosystem policy**  
 Each repository declares its own license and usage notes in its `README.md`.
+The Shunyaya ecosystem follows a **tiered licensing model** distinguishing
+open standards, research materials, and executable systems.
 
 ---
 
-## ✅ Open-Standard Projects  
+## ✅ Open-Standard Projects (Default)
 
-**(SSUM, SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe, SSM-AIM Mini, SSM-Tweet, SSM-Browse, LAW-0AR, SSM-Encrypt, SSM-UT)**
+The majority of Shunyaya projects are released as **Open Standards**.
 
-These projects are released as **Open Standards**, meaning:
+This includes (but is not limited to):
 
-- free implementation with **no registration or fees**  
-- allowed in personal, institutional, research, or commercial systems  
-- full permission to **use, modify, extend, integrate, or redistribute**  
-- **optional attribution** (recommended but not required)  
-- no exclusivity or vendor lock-in  
-- all formulas, stamps, envelopes, and symbolic logic remain deterministic and transparent  
+**SSUM, SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe, SSM-AIM Mini, SSM-Tweet,  
+SSM-Browse, LAW-0AR, SSM-Encrypt, SSM-UT**
+
+Open-standard projects mean:
+
+- free implementation with **no registration or fees**
+- permitted use in personal, institutional, research, or commercial systems
+- full freedom to **use, modify, extend, integrate, or redistribute**
+- **optional attribution** (recommended but not required)
+- no exclusivity or vendor lock-in
+- deterministic, transparent formulas, stamps, envelopes, and symbolic logic
 
 **Warranty:**  
-These implementations are provided *as-is* under open-standard terms, without warranty of any kind.
+Provided *as-is* with no warranty or guarantee of fitness.
 
-Open-standard projects are designed for **global, frictionless adoption** across vendors, systems, and jurisdictions.
+Open-standard projects are designed for **global, frictionless adoption**
+across vendors, platforms, and jurisdictions.
 
 ---
 
-### 📘 Research Frameworks — CC BY-NC 4.0  
-All other Shunyaya standards (core symbolic mathematics, theoretical layers, documents, examples) remain under **CC BY-NC 4.0**:
+## 📘 Symbolic Mathematics & Research Materials — CC BY-NC 4.0
 
-- attribution required  
-- non-commercial usage  
-- no warranty; no endorsement or affiliation implied  
+Shunyaya Symbolic Mathematics (SSM) and related research materials,
+including symbolic formulations, theoretical layers, documents, and examples,
+are released under **Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0)**.
 
-These standards define foundational mathematical constructs and therefore require attribution, unlike the Open-Standard category.
+- attribution required
+- non-commercial use only
+- no warranty; no endorsement or affiliation implied
+
+These materials focus on **explanation, theory, and symbolic interpretation**
+rather than executable infrastructure.
+
+---
+
+## 📘 SSUM Implementations & Systems — CC BY 4.0
+
+Executable systems that implement **SSUM (Shunyaya Structural Universal Mathematics)**
+are released under licenses independent of the SSUM Open Standard.
+
+The following SSUM-based implementation is released under
+**Creative Commons Attribution 4.0 (CC BY 4.0)**:
+
+- **SSUM-STAR — Structural Time And Replay**
+
+These systems:
+
+- implement SSUM principles in executable form
+- permit commercial and non-commercial use
+- require attribution
+- carry no warranty or endorsement
+
+This does **not** alter the Open-Standard status of SSUM
+or the CC BY-NC 4.0 status of SSM research materials.
 
 ---
 
