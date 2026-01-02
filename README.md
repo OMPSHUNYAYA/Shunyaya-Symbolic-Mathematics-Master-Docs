@@ -84,10 +84,11 @@ for tick in range(1, 6):
 
 **Output example:**
 
+```
 time=1732969124.033  align=+0.88320  stamp=19bd4e3c82c7...
 time=1732969124.049  align=+0.90110  stamp=51a12c8b5d9e...
 time=1732969124.065  align=+0.91784  stamp=ad3ef114bc27...
-...
+```
 
 ---
 
@@ -147,7 +148,7 @@ Law 0 defines the core two-lane structure used across all Shunyaya systems:
 
 ## 🔬 **SSUM Observatory — Executable Proof of Structural Mathematics**
 
-The **SSUM Observatory** is a collection of **deterministic, executable case studies** demonstrating that  
+The **[SSUM Observatory](https://github.com/OMPSHUNYAYA/ssum-observatory)** is a collection of **deterministic, executable case studies** demonstrating that  
 **Shunyaya Structural Universal Mathematics (SSUM)** is operational, reproducible, and verifiable.
 
 Each case preserves exact classical results while exposing **structural behaviour** through browser execution or deterministic scripts — with no simulation, learning, or approximation.
