@@ -11,6 +11,24 @@ Across domains, the unifying principle is clear:
 
 ---
 
+## 📑 Table of Contents
+
+1. Introduction to the Shunyaya Framework
+2. Quick Proof That Shunyaya Is Real
+3. Independent Validation Across Time, Systems, and Domains
+4. Shunyaya Symbolic Mathematical Law (Law 0)
+5. Shunyaya Symbolic Mathematics (SSM)
+6. Shunyaya Structural Universal Mathematics (SSUM)
+7. SSUM Observatory — Executable Structural Evidence
+8. Verified Case Studies (Summary)
+9. Active Projects and Public Repositories
+10. Scientific Proofs and Demonstrations
+11. Safety, Determinism, and Reproducibility
+12. Licensing and Usage Scope
+13. Future Directions
+
+---
+
 **Shunyaya framework** evolved from a structural reinterpretation of zero,
 treating it as a dynamic baseline — a flow of zero —
 around which structure emerges, drifts, and stabilizes in mathematics and practice.
@@ -73,7 +91,7 @@ time=1732969124.065  align=+0.91784  stamp=ad3ef114bc27...
 
 ---
 
-### ⭐ **Why Shunyaya Is Real (The Three Proof Stories)**
+### ⭐ **3. Independent Validation Across Time, Systems, and Domains**
 
 Shunyaya is not theoretical — it runs in real, deterministic code today:
 
@@ -127,12 +145,55 @@ Law 0 defines the core two-lane structure used across all Shunyaya systems:
 
 ---
 
-- [SSUM Observatory](https://github.com/OMPSHUNYAYA/ssum-observatory)
-  A browser-only observatory of **deterministic SSUM demonstrations** showing how
-  structural channels evolve alongside classical mathematics **without altering results**.  
-  Includes reproducible case studies in numerical methods and geometry
-  (Newton solvers, near-singular behaviour, multiple roots, and 3D↔4D hyper-rotation),
-  each with live demos, console proofs, and verified observation notes.
+## 🔬 **SSUM Observatory — Executable Proof of Structural Mathematics**
+
+The **SSUM Observatory** is a collection of **deterministic, executable case studies** demonstrating that  
+**Shunyaya Structural Universal Mathematics (SSUM)** is operational, reproducible, and verifiable.
+
+Each case preserves exact classical results while exposing **structural behaviour** through browser execution or deterministic scripts — with no simulation, learning, or approximation.
+
+---
+
+## 🧪 **Verified Case Studies (Summary)**
+
+**01 — Newton Root Finding (Baseline)**  
+Browser-executable demonstration of classical Newton convergence with bounded structural channels.  
+Serves as the correctness anchor for all subsequent cases.
+
+**02 — Newton Near-Singular Derivative**  
+Reveals structural stress as derivatives approach zero, even when classical convergence still succeeds.  
+Browser-verifiable, deterministic, and reproducible.
+
+**03 — Newton Multiple Root**  
+Detects silent convergence degradation invisible to classical output alone.  
+Structural behaviour exposed alongside exact classical results.
+
+**04 — Hyper-Rotation Geometry (3D ↔ 4D)**  
+Exact 3D geometry preserved while structural channels observe dimensional drift under 4D rotation.  
+Fully browser-executable, no geometric distortion.
+
+**05 — Structural Attention (Deterministic, No Training)**  
+Attention expressed as a structural compatibility law — no training, no probability, no hidden state.  
+Deterministic scores with full explainability.
+
+**06 — Structural Stress Revelation (Mechanical Geometry)**  
+Geometry-first stress observability without material models, FEM, solvers, or simulation.  
+Deterministic scripts expose latent structural vulnerability.
+
+**07 — Structural Balance Revelation (Leaning Tower of Pisa)**  
+Script-based analysis of **millions of real-world LiDAR points** from a terrestrial scan.  
+Despite visible tilt, structural observables remain bounded, stable, and seed-invariant.
+
+**08 — Finite Structural Area Experiment (Squaring the Circle)**  
+Browser-verifiable, exact square packing using strict four-corner containment.  
+Finite enumeration with deterministic PASS/FAIL certification — no heuristics.
+
+---
+
+## 🧭 **What This Establishes**
+
+Across numerical methods, geometry, mechanics, data, and real-world structures, SSUM produces  
+**executable, inspectable, and falsifiable results** — proving structural mathematics is not theoretical, but operational.
 
 ---
 
@@ -358,7 +419,7 @@ The majority of Shunyaya projects are released as **Open Standards**.
 This includes (but is not limited to):
 
 **SSUM, SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe, SSM-AIM Mini, SSM-Tweet,  
-SSM-Browse, LAW-0AR, SSM-Encrypt, SSM-UT**
+SSM-Browse, LAW-0AR, SSM-Encrypt, SSM-UT, FSAE**
 
 Open-standard projects mean:
 
