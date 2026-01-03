@@ -439,21 +439,6 @@ across vendors, platforms, and jurisdictions.
 
 ---
 
-## 📘 Symbolic Mathematics & Research Materials — CC BY-NC 4.0
-
-Shunyaya Symbolic Mathematics (SSM) and related research materials,
-including symbolic formulations, theoretical layers, documents, and examples,
-are released under **Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0)**.
-
-- attribution required
-- non-commercial use only
-- no warranty; no endorsement or affiliation implied
-
-These materials focus on **explanation, theory, and symbolic interpretation**
-rather than executable infrastructure.
-
----
-
 ## 📘 SSUM Implementations & Systems — CC BY 4.0
 
 Executable systems that implement **SSUM (Shunyaya Structural Universal Mathematics)**
@@ -473,6 +458,21 @@ These systems:
 
 This does **not** alter the Open-Standard status of SSUM
 or the CC BY-NC 4.0 status of SSM research materials.
+
+---
+
+## 📘 Symbolic Mathematics & Research Materials
+
+Only the foundational Shunyaya Symbolic Mathematics (SSM) and related research materials,
+including symbolic formulations, theoretical layers, documents, and examples,
+are released under **Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0)**.
+
+- attribution required
+- non-commercial use only
+- no warranty; no endorsement or affiliation implied
+
+These materials focus on **explanation, theory, and symbolic interpretation**
+rather than executable infrastructure.
 
 ---
 
