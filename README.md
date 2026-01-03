@@ -2,48 +2,51 @@
 **Repository:** Shunyaya-Symbolic-Mathematics-Master-Docs
 
 ---
-This repository is the entry point to the Shunyaya Symbolic Mathematics ecosystem — a unified map of all public, production-grade symbolic standards.
 
-It provides engineers, scientists, regulators, and researchers a single place to navigate every active project without private context.
+This repository is the **execution-first entry point** to the Shunyaya Symbolic Mathematics ecosystem — a unified index of **runnable, auditable, production-grade symbolic standards**.
 
-Across domains, the unifying principle is clear:  
-**express reality as a symbolic, auditable, bounded signal — stable across vendors, borders, and time.**
+It provides engineers, scientists, regulators, and researchers a **single, public map of systems that already run**, with deterministic behavior and verifiable outputs — no private context required.
+
+Across domains, the unifying principle is consistent and concrete:  
+**represent reality as a symbolic, bounded, auditable signal that executes deterministically and remains stable across vendors, borders, and time.**
 
 ---
 
 ## 📑 Table of Contents
 
-1. Introduction to the Shunyaya Framework
-2. Quick Proof That Shunyaya Is Real
+1. Introduction — What Shunyaya Does in Practice
+2. Immediate Proof: Verifying Shunyaya in Minutes
 3. Independent Validation Across Time, Systems, and Domains
-4. Shunyaya Symbolic Mathematical Law (Law 0)
-5. Shunyaya Symbolic Mathematics (SSM)
-6. Shunyaya Structural Universal Mathematics (SSUM)
+4. Law 0 — The Executable Symbolic Law
+5. Shunyaya Symbolic Mathematics (SSM) — Foundations
+6. Shunyaya Structural Universal Mathematics (SSUM) — Runtime Mathematics
 7. SSUM Observatory — Executable Structural Evidence
-8. Verified Case Studies (Summary)
-9. Active Projects and Public Repositories
-10. Scientific Proofs and Demonstrations
-11. Safety, Determinism, and Reproducibility
-12. Licensing and Usage Scope
-13. Future Directions
+8. Verified Case Studies — Results Summary
+9. Active Projects and Public Repositories (Runnable)
+10. Scientific Demonstrations and Reproducible Proofs
+11. Safety, Determinism, and Reproducibility Guarantees
+12. Licensing, Usage Scope, and Deployment Rights
+13. Roadmap and Next Executable Directions
 
 ---
 
-**Shunyaya framework** evolved from a structural reinterpretation of zero,
-treating it as a dynamic baseline — a flow of zero —
-around which structure emerges, drifts, and stabilizes in mathematics and practice.
+The **Shunyaya framework** evolved from a structural reinterpretation of zero,
+treating it as a **dynamic baseline** around which structure
+emerges, drifts, and stabilizes in mathematics and real systems.
 
-In all structural projects (Clock, AI, Network, Messaging, Encrypt),  
-Shunyaya uses **real, verifiable continuity stamps** — mathematically portable,
-forward-only, and independently checkable (SSM-ClockKe principle).  
-These stamps are the proof that Shunyaya’s structures run in the real world.
+Across all structural projects (Clock, AI, Network, Messaging, Encrypt),
+Shunyaya uses **real, verifiable continuity stamps** that are mathematically portable,
+forward-only, and independently checkable (SSM-ClockKe principle).
+These stamps provide concrete proof that Shunyaya structures execute and persist
+in real-world environments.
 
-**All listed standards include working code: real scripts, deterministic demos, CI-validated POCs, and reproducible examples — this ecosystem is operational, 
-not theoretical.**
+**All listed standards include working code**: real scripts, deterministic demos,
+CI-validated proofs of concept, and reproducible examples.
+This ecosystem is **operational, auditable, and executable — not theoretical.**
 
 ---
 
-**Quick Proof That Shunyaya Is Real — Run This in 5 Seconds**
+**Quick Proof That Shunyaya Is Real — Verify in 5 Seconds**
 
 ```python
 # --- 20-line SSM-ClockKe Mini Demo ---
@@ -114,7 +117,7 @@ Across **timekeeping, AI, astronomy, networks, messaging, and observability**, o
 
 **“Every classical value carries a bounded alignment lane, revealing reality drift and stability while retaining the original number.”**
 
-Law 0 defines the core two-lane structure used across all Shunyaya systems:
+Law 0 defines the core two-lane structure used across all executable Shunyaya systems:
 
 ---
 
@@ -128,7 +131,7 @@ Law 0 defines the core two-lane structure used across all Shunyaya systems:
   Structural arithmetic framework where every number carries bounded, deterministic behavioural structure  
   while guaranteeing exact classical collapse (`phi((m,a,s)) = m`).  
   Includes an offline, single-file browser proof-of-concept demonstrating  
-  zero classical mismatches across operations.  
+  **zero classical mismatches across operations.**  
   → [Demo_SSUM.html](https://github.com/OMPSHUNYAYA/Structural-Mathematics/blob/main/demo/Demo_SSUM.html)
 
 ---
@@ -155,37 +158,49 @@ Each case preserves exact classical results while exposing **structural behaviou
 
 ---
 
+- [SSUM-Structural-Primality](https://github.com/OMPSHUNYAYA/SSUM-Structural-Primality)  
+  Deterministic structural analysis of **prime and composite numbers**, preserving exact classical primality  
+  while revealing resistance to factorization through bounded structural closure and proximity bands.
+
+---
+
 ## 🧪 **Verified Case Studies (Summary)**
 
-**01 — Newton Root Finding (Baseline)**  
+Each case below is **directly executable in the browser via GitHub Pages**.  
+No installation. No build. No dependencies.  
+Each preserves exact classical results while exposing deterministic structural observables.
+
+---
+
+**01 — [Newton Root Finding (Baseline)](https://ompshunyaya.github.io/ssum-observatory/01_newton_root/)**  
 Browser-executable demonstration of classical Newton convergence with bounded structural channels.  
 Serves as the correctness anchor for all subsequent cases.
 
-**02 — Newton Near-Singular Derivative**  
+**02 — [Newton Near-Singular Derivative](https://ompshunyaya.github.io/ssum-observatory/02_newton_near_singular/)**  
 Reveals structural stress as derivatives approach zero, even when classical convergence still succeeds.  
-Browser-verifiable, deterministic, and reproducible.
+Fully deterministic and browser-verifiable.
 
-**03 — Newton Multiple Root**  
+**03 — [Newton Multiple Root](https://ompshunyaya.github.io/ssum-observatory/03_newton_multiple_root/)**  
 Detects silent convergence degradation invisible to classical output alone.  
 Structural behaviour exposed alongside exact classical results.
 
-**04 — Hyper-Rotation Geometry (3D ↔ 4D)**  
+**04 — [Hyper-Rotation Geometry (3D ↔ 4D)](https://ompshunyaya.github.io/ssum-observatory/04_hyper_rotation_geometry/)**  
 Exact 3D geometry preserved while structural channels observe dimensional drift under 4D rotation.  
-Fully browser-executable, no geometric distortion.
+Fully browser-executable with no geometric distortion.
 
-**05 — Structural Attention (Deterministic, No Training)**  
+**05 — [Structural Attention (Deterministic, No Training)](https://ompshunyaya.github.io/ssum-observatory/05_structural_attention/)**  
 Attention expressed as a structural compatibility law — no training, no probability, no hidden state.  
 Deterministic scores with full explainability.
 
-**06 — Structural Stress Revelation (Mechanical Geometry)**  
+**06 — [Structural Stress Revelation (Geometry-First, No Simulation)](https://ompshunyaya.github.io/ssum-observatory/06_structural_stress_revelation/)**  
 Geometry-first stress observability without material models, FEM, solvers, or simulation.  
 Deterministic scripts expose latent structural vulnerability.
 
-**07 — Structural Balance Revelation (Leaning Tower of Pisa)**  
+**07 — [Structural Balance Revelation (Real-World Monument Geometry — Leaning Tower of Pisa)](https://ompshunyaya.github.io/ssum-observatory/07_structural_balance_revelation/)**  
 Script-based analysis of **millions of real-world LiDAR points** from a terrestrial scan.  
 Despite visible tilt, structural observables remain bounded, stable, and seed-invariant.
 
-**08 — Finite Structural Area Experiment (Squaring the Circle)**  
+**08 — [Finite Structural Area Experiment (Squaring the Circle)](https://ompshunyaya.github.io/ssum-observatory/08_finite_structural_area_experiment/)**  
 Browser-verifiable, exact square packing using strict four-corner containment.  
 Finite enumeration with deterministic PASS/FAIL certification — no heuristics.
 
@@ -419,8 +434,8 @@ The majority of Shunyaya projects are released as **Open Standards**.
 
 This includes (but is not limited to):
 
-**SSUM, SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe, SSM-AIM Mini, SSM-Tweet,  
-SSM-Browse, LAW-0AR, SSM-Encrypt, SSM-UT, FSAE**
+**SSUM, SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe, SSM-AIM Mini, SSM-Tweet, SSM-Browse,  
+LAW-0AR, SSM-Encrypt, SSM-UT, SSUM-Finite-Structural-Area-Experiment, SSUM-Structural-Primality**
 
 Open-standard projects mean:
 
