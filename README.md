@@ -34,6 +34,10 @@ The **Shunyaya framework** evolved from a structural reinterpretation of zero,
 treating it as a **dynamic baseline** around which structure
 emerges, drifts, and stabilizes in mathematics and real systems.
 
+At runtime, **Shunyaya Symbolic Mathematics (SSM)** provides the executable symbol layer,
+while **Shunyaya Structural Universal Mathematics (SSUM)** applies bounded structure
+to produce deterministic, classically correct system behavior.
+
 Across all structural projects (Clock, AI, Network, Messaging, Encrypt),
 Shunyaya uses **real, verifiable continuity stamps** that are mathematically portable,
 forward-only, and independently checkable (SSM-ClockKe principle).
@@ -43,6 +47,7 @@ in real-world environments.
 **All listed standards include working code**: real scripts, deterministic demos,
 CI-validated proofs of concept, and reproducible examples.
 This ecosystem is **operational, auditable, and executable — not theoretical.**
+
 
 ---
 
@@ -158,12 +163,6 @@ Each case preserves exact classical results while exposing **structural behaviou
 
 ---
 
-- [SSUM-Structural-Primality](https://github.com/OMPSHUNYAYA/SSUM-Structural-Primality)  
-  Deterministic structural analysis of **prime and composite numbers**, preserving exact classical primality  
-  while revealing resistance to factorization through bounded structural closure and proximity bands.
-
----
-
 ## 🧪 **Verified Case Studies (Summary)**
 
 Each case below is **directly executable in the browser via GitHub Pages**.  
@@ -212,6 +211,14 @@ Across numerical methods, geometry, mechanics, data, and real-world structures, 
 **executable, inspectable, and falsifiable results** — proving structural mathematics is not theoretical, but operational.
 
 ---
+
+- [SSUM-Structural-Primality](https://github.com/OMPSHUNYAYA/SSUM-Structural-Primality)  
+  Deterministic structural analysis of **prime and composite numbers**, preserving exact classical primality  
+  while revealing resistance to factorization through bounded structural closure and proximity bands.
+
+  ---
+
+## 🔷 Symbolic Mathematics — Executable Symbol Layer
 
 - [Symbolic-Mathematics (SSM)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics)  
   Core Shunyaya Symbolic Mathematics: zero-centric symbolic arithmetic and entropy logic.
