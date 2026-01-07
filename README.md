@@ -141,6 +141,16 @@ Law 0 defines the core two-lane structure used across all executable Shunyaya sy
 
 ---
 
+- [Shunyaya Structural Iteration Geometry (SSIG)](https://github.com/OMPSHUNYAYA/SSUM-Structural-Iteration-Geometry)  
+  A deterministic structural mathematics framework that reveals how iterative processes behave,  
+  not just whether they converge.  
+  SSIG treats iteration as motion under structure, making permission, resistance, oscillation,  
+  collapse, and intrinsic non-closure directly observable and classifiable.  
+  It replaces convergence-only thinking with **event-based structural regimes**,  
+  while remaining fully deterministic, reproducible, and classically compatible.  
+  
+---
+
 - [SSUM-STAR — Structural Time And Replay](https://github.com/OMPSHUNYAYA/SSUM-STAR)  
   A deterministic, offline structural time and replay system within the
   Shunyaya Structural Universal Mathematics (SSUM) framework.
@@ -252,7 +262,7 @@ Across numerical methods, geometry, mechanics, data, and real-world structures, 
 
 ---
 
-  ### 🌐 Networking & Internet Overlay
+### 🌐 Networking & Internet Overlay
 - [Symbolic-Mathematical-Network (SSM-NET)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Network)  
   A manifest-first overlay beside existing traffic: keep payload bytes unchanged (`phi((m,a)) = m`), declare posture as `band`, commit a canonical subset `sha256=<hex>`, and link events with a portable continuity stamp `SSMCLOCK1|<iso_utc>|nonce=<...>|sha256=<...>|prev=<...>`. Observation-only; policy lives in published manifests.
 
@@ -466,10 +476,11 @@ across vendors, platforms, and jurisdictions.
 Executable systems that implement **SSUM (Shunyaya Structural Universal Mathematics)**
 are released under licenses independent of the SSUM Open Standard.
 
-The following SSUM-based implementation is released under
+The following SSUM-based implementations are released under
 **Creative Commons Attribution 4.0 (CC BY 4.0)**:
 
 - **SSUM-STAR — Structural Time And Replay**
+- **SSIG — Shunyaya Structural Iteration Geometry**
 
 These systems:
 
