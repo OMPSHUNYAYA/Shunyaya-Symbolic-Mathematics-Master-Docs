@@ -151,6 +151,19 @@ Law 0 defines the core two-lane structure used across all executable Shunyaya sy
   
 ---
 
+- [SSUM-Structural-Distance (SSUM-SD)](https://github.com/OMPSHUNYAYA/SSUM-Structural-Distance)  
+  A deterministic metric that measures **structural cost accumulated along a trajectory**,  
+  reframing distance as *how costly motion is to structure*, not merely how far it moves numerically.  
+
+  SSUM-Structural-Distance does not modify solvers, algorithms, or geometry.  
+  It provides a **reproducible measurement layer** that quantifies permission, resistance,  
+  and collapse pressure across iterative mathematics, algorithms, and real-world geometry  
+  (including LiDAR-based structural analysis of the Leaning Tower of Pisa).  
+
+  Fully deterministic, offline, auditable, and classically compatible.
+
+---
+
 - [SSUM-STAR — Structural Time And Replay](https://github.com/OMPSHUNYAYA/SSUM-STAR)  
   A deterministic, offline structural time and replay system within the
   Shunyaya Structural Universal Mathematics (SSUM) framework.
@@ -387,14 +400,18 @@ This is the first official entry in the **Shunyaya Symbolic Physics** category �
 
 ## ⭐ Latest Release
 
-### SSUM-STAR — Structural Time And Replay
+### Structural Distance
 
-SSUM-STAR introduces deterministic, offline structural time and exact replay,
-transforming datasets into replayable structural timelines with intrinsic ordering
-and full auditability — without reliance on timestamps, metadata, or external clocks.
+- [SSUM-Structural-Distance (SSUM-SD)](https://github.com/OMPSHUNYAYA/SSUM-Structural-Distance)  
+  Introduces a deterministic metric that measures **structural cost accumulated along a trajectory**,  
+  reframing distance as *how costly motion is to structure*, not merely how far it moves numerically.  
 
-It represents the first large-scale executable system implementing
-SSUM principles for historical reconstruction and deterministic replay.
+  SSUM-Structural-Distance operates as a **reproducible measurement layer**,  
+  leaving solvers, algorithms, and geometry unchanged while quantifying permission, resistance,  
+  and collapse pressure across iterative mathematics, algorithms, and real-world geometry  
+  (including LiDAR-based analysis of the Leaning Tower of Pisa).  
+
+  Fully deterministic, offline, auditable, and classically compatible.
 
 ---
 
@@ -481,6 +498,7 @@ The following SSUM-based implementations are released under
 
 - **SSUM-STAR — Structural Time And Replay**
 - **SSIG — Shunyaya Structural Iteration Geometry**
+- **SSUM-SD — Structural Distance**
 
 These systems:
 
