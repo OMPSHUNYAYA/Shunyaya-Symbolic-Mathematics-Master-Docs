@@ -48,7 +48,6 @@ in real-world environments.
 CI-validated proofs of concept, and reproducible examples.
 This ecosystem is **operational, auditable, and executable — not theoretical.**
 
-
 ---
 
 **Quick Proof That Shunyaya Is Real — Verify in 5 Seconds**
@@ -72,8 +71,8 @@ def make_stamp(prev, payload, t):
     return hashlib.sha256(raw).hexdigest()
 
 for tick in range(1, 6):
-    t_utc = datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
-    a_raw = 0.02   # baseline stability (ClockKe real kernel uses jitter/noise)
+    t_utc = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    a_raw = 0.02   # constant baseline for demo (real ClockKe uses varying tick inputs)
     a_c   = max(min(a_raw, 0.999999), -0.999999)
     u     = atanh(a_c)
     U    += u
@@ -93,9 +92,11 @@ for tick in range(1, 6):
 **Output example:**
 
 ```
-time=1732969124.033  align=+0.88320  stamp=19bd4e3c82c7...
-time=1732969124.049  align=+0.90110  stamp=51a12c8b5d9e...
-time=1732969124.065  align=+0.91784  stamp=ad3ef114bc27...
+01  time=2026-01-10T16:19:25Z  align=+0.020000  stamp=df4130704acafc2c...
+02  time=2026-01-10T16:19:26Z  align=+0.020000  stamp=800e13e60709b904...
+03  time=2026-01-10T16:19:26Z  align=+0.020000  stamp=d611eb5f33bd499b...
+04  time=2026-01-10T16:19:27Z  align=+0.020000  stamp=f940c404a84a36e9...
+05  time=2026-01-10T16:19:27Z  align=+0.020000  stamp=f2b29040539ebaa1...
 ```
 
 ---
