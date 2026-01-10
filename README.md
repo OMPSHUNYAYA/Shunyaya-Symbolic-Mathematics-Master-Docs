@@ -100,7 +100,7 @@ time=1732969124.065  align=+0.91784  stamp=ad3ef114bc27...
 
 ---
 
-### ⭐ **3. Independent Validation Across Time, Systems, and Domains**
+### ⭐ **Independent Validation Across Time, Systems, and Domains**
 
 Shunyaya is not theoretical — it runs in real, deterministic code today:
 
@@ -177,6 +177,22 @@ Law 0 defines the core two-lane structure used across all executable Shunyaya sy
 
 ---
 
+- [SSUM-AIM Mini](https://github.com/OMPSHUNYAYA/SSUM-AIM-Mini)  
+  A tiny (~14 KB), fully offline, deterministic **AI reflection kernel** implemented as an  
+  **Artificial Intelligence Manifest (AIM)** built using **Shunyaya Structural Universal Mathematics (SSUM)**.  
+  Tracks a symbolic structural state `(m, a, s)` with guaranteed collapse `phi((m, a, s)) = m`,  
+  measures **SSUM Structural Distance** across turns (including Turn 1 from a fixed baseline),  
+  and records all interaction state in a manifest (`memory.json`) with SHA-256 tamper-evidence.  
+  Non-advisory by design — built for reflection, education, inspection, and reproducible research.
+
+---
+
+- [SSUM-Structural-Primality](https://github.com/OMPSHUNYAYA/SSUM-Structural-Primality)  
+  Deterministic structural analysis of **prime and composite numbers**, preserving exact classical primality  
+  while revealing resistance to factorization through bounded structural closure and proximity bands.
+
+---
+
 ## 🔬 **SSUM Observatory — Executable Proof of Structural Mathematics**
 
 The **[SSUM Observatory](https://github.com/OMPSHUNYAYA/ssum-observatory)** is a collection of **deterministic, executable case studies** demonstrating that  
@@ -234,12 +250,6 @@ Across numerical methods, geometry, mechanics, data, and real-world structures, 
 **executable, inspectable, and falsifiable results** — proving structural mathematics is not theoretical, but operational.
 
 ---
-
-- [SSUM-Structural-Primality](https://github.com/OMPSHUNYAYA/SSUM-Structural-Primality)  
-  Deterministic structural analysis of **prime and composite numbers**, preserving exact classical primality  
-  while revealing resistance to factorization through bounded structural closure and proximity bands.
-
-  ---
 
 ## 🔷 Symbolic Mathematics — Executable Symbol Layer
 
@@ -311,6 +321,9 @@ Across numerical methods, geometry, mechanics, data, and real-world structures, 
   A tiny, transparent, fully offline AI reflection console.  
   Three-file Python kernel (~23 KB), deterministic symbolic alignment lane `a ∈ (-1,+1)`, tamper-evident memory using SHA-256, and simple manifest-style rule behaviour.  
   Designed as a minimal, inspectable entry point into Shunyaya symbolic intelligence.
+  
+  **For structural evolution with trajectory cost, distance, and efficiency metrics, see  
+  [SSUM-AIM Mini](https://github.com/OMPSHUNYAYA/SSUM-AIM-Mini).**
 
 - [Symbolic-Mathematical-Tweet (SSM-Tweet)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Tweet)  
   Deterministic structural messaging.  
@@ -398,7 +411,7 @@ This is the first official entry in the **Shunyaya Symbolic Physics** category �
 
 ---
 
-## ⭐ Latest Release
+## ⭐ Latest Foundational Release
 
 ### Structural Distance
 
@@ -469,7 +482,8 @@ The majority of Shunyaya projects are released as **Open Standards**.
 This includes (but is not limited to):
 
 **SSUM, SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe, SSM-AIM Mini, SSM-Tweet, SSM-Browse,  
-LAW-0AR, SSM-Encrypt, SSM-UT, SSUM-Finite-Structural-Area-Experiment, SSUM-Structural-Primality**
+LAW-0AR, SSM-Encrypt, SSM-UT, SSUM-Finite-Structural-Area-Experiment, 
+SSUM-Structural-Primality, SSUM-AIM Mini**
 
 Open-standard projects mean:
 
