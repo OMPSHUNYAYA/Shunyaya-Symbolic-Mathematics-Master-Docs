@@ -62,21 +62,6 @@ In short:
 
 ---
 
-## 🛰 Upcoming: Structural Safety Routing (SSR) — Deny Unsafe Routes Before Optimization
-
-**Structural Safety Routing (SSUM-SSR)** is an **observation-only admissibility framework** built on SSUM.
-
-Given candidate routes or trajectories, SSR deterministically classifies each as **ALLOWED** or **DENIED** using explicit permission and spike gates — **before** any downstream ranking, optimization, or decision logic is applied.
-
-- no prediction
-- no simulation
-- no routing or control
-- no probabilistic scoring
-
-SSR reports **structural facts only**: whether a route is admissible to traverse at all.
-
----
-
 ## 📑 Table of Contents
 
 1. Introduction — What Shunyaya Does in Practice  
@@ -190,7 +175,7 @@ Law 0 defines the core two-lane structure used across all executable Shunyaya sy
   while guaranteeing exact classical collapse (`phi((m,a,s)) = m`).  
   Includes an offline, single-file browser proof-of-concept demonstrating  
   **zero classical mismatches across operations.**  
-  → [Demo_SSUM.html](https://github.com/OMPSHUNYAYA/Structural-Mathematics/blob/main/demo/Demo_SSUM.html)
+- [Demo_SSUM.html](https://github.com/OMPSHUNYAYA/Structural-Mathematics/blob/main/demo/Demo_SSUM.html)
 
 ---
 
@@ -214,6 +199,25 @@ Law 0 defines the core two-lane structure used across all executable Shunyaya sy
   (including LiDAR-based structural analysis of the Leaning Tower of Pisa).  
 
   Fully deterministic, offline, auditable, and classically compatible.
+
+---
+
+- [SSUM-Structural-Safety-Routing (SSUM-SSR)](https://github.com/OMPSHUNYAYA/SSUM-Structural-Safety-Routing)  
+  A deterministic **structural admissibility framework** that denies unsafe routes  
+  *before* any optimization or ranking is applied.
+
+  SSUM-SSR evaluates trajectories using the canonical structural state `(m, a, s)`  
+  and enforces explicit **permission collapse** and **structural spike** gates  
+  under the invariant collapse rule `phi((m,a,s)) = m`.
+
+  It does not compute routes, simulate physics, or predict outcomes.  
+  Instead, it provides an **observation-only safety layer** that classifies routes  
+  as **ALLOWED** or **DENIED** with deterministic, auditable reasons.
+
+  Canonical and mission-style trace sets demonstrate binary admissibility,  
+  reproducible denial, and ranking applied **only to permissible routes**.
+
+  Fully deterministic, domain-neutral, and classically correct by construction.
 
 ---
 
@@ -566,6 +570,7 @@ The following SSUM-based implementations are released under
 - **SSUM-STAR — Structural Time And Replay**
 - **SSIG — Shunyaya Structural Iteration Geometry**
 - **SSUM-SD — Structural Distance**
+- **SSUM-SSR — Structural Safety Routing**
 
 These systems:
 
