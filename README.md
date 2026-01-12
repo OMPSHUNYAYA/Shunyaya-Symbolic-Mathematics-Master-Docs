@@ -3,50 +3,95 @@
 
 ---
 
-This repository is the **execution-first entry point** to the Shunyaya Symbolic Mathematics ecosystem — a unified index of **runnable, auditable, production-grade symbolic standards**.
+This repository is the **execution-first entry point** to the Shunyaya ecosystem — a unified index of **runnable, auditable, production-grade symbolic and structural standards that already work**.
 
-It provides engineers, scientists, regulators, and researchers a **single, public map of systems that already run**, with deterministic behavior and verifiable outputs — no private context required.
+It provides engineers, scientists, regulators, and researchers a **single public map of systems that execute deterministically**, produce **verifiable outputs**, and remain **classically correct by construction** — **no private context, training, or simulation required**.
 
-Across domains, the unifying principle is consistent and concrete:  
+Across domains, the unifying principle is precise and enforced in code:  
 **represent reality as a symbolic, bounded, auditable signal that executes deterministically and remains stable across vendors, borders, and time.**
+
+Shunyaya framework is a **proof-first mathematical system** with **executable kernels, browser observatories, deterministic scripts, and CI-validated results** demonstrating that the mathematics runs exactly as specified.
+
+The Shunyaya framework originated from a structural reinterpretation of **zero** —
+not as a static null, but as a **dynamic baseline** from which structure emerges,
+drifts, accumulates cost, and stabilizes in both mathematics and real systems.
+
+---
+
+## 🔷 Two Layers of the Framework: SSM vs SSUM (What’s the Difference?)
+
+Shunyaya is built as a **two-layer system**, separating *symbolic meaning* from *structural motion* — while guaranteeing exact classical preservation in SSM and exact classical collapse in SSUM.
+
+### **Shunyaya Symbolic Mathematics (SSM) — Foundational Symbol Layer**
+
+**SSM is the foundational symbolic mathematics layer.**  
+It preserves every classical value exactly, while adding **bounded symbolic lanes** that make posture, drift, and stability **explicit, inspectable, and auditable**.
+
+- preserves classical meaning by invariant collapse (e.g., `phi((m,a)) = m`)
+- adds symbolic lanes, stamps, envelopes, and governance signals
+- overlays existing systems **without modifying payloads, protocols, or outputs**
+- enables auditability, lineage, and deterministic observability
+
+SSM answers:  
+**“What is the structural posture of this value, without changing the value itself?”**
+
+---
+
+### **Shunyaya Structural Universal Mathematics (SSUM) — Runtime Structure Layer**
+
+**SSUM is the structural runtime mathematics built on top of SSM.**  
+It treats motion, iteration, traversal, and evolution as **structural processes**, evaluated deterministically using a canonical state `(m, a, s)`.
+
+- canonical structural state: `(m, a, s)`
+- **collapse invariant:** `phi((m,a,s)) = m`  
+  (all structural behavior collapses exactly to the classical value)
+- measures accumulated **structural cost**, resistance, and collapse pressure
+- guarantees **no deviation from classical outputs**, regardless of structural complexity
+- enables executable measurement layers such as **Structural Distance**
+- enables admissibility and denial layers such as **Structural Safety Routing**
+
+SSUM enforces a rare but critical property:  
+**structural observability without any risk of classical mismatch.**
+
+SSUM answers:  
+**“What happened to structure over time — and does this motion remain admissible — while remaining exactly classically correct?”**
+
+In short:  
+**SSM = symbolic observability without changing meaning**  
+**SSUM = structural runtime mathematics for motion, accumulation, and collapse detection**
+
+---
+
+## 🛰 Upcoming: Structural Safety Routing (SSR) — Deny Unsafe Routes Before Optimization
+
+**Structural Safety Routing (SSUM-SSR)** is an **observation-only admissibility framework** built on SSUM.
+
+Given candidate routes or trajectories, SSR deterministically classifies each as **ALLOWED** or **DENIED** using explicit permission and spike gates — **before** any downstream ranking, optimization, or decision logic is applied.
+
+- no prediction
+- no simulation
+- no routing or control
+- no probabilistic scoring
+
+SSR reports **structural facts only**: whether a route is admissible to traverse at all.
 
 ---
 
 ## 📑 Table of Contents
 
-1. Introduction — What Shunyaya Does in Practice
-2. Immediate Proof: Verifying Shunyaya in Minutes
-3. Independent Validation Across Time, Systems, and Domains
-4. Law 0 — The Executable Symbolic Law
-5. Shunyaya Symbolic Mathematics (SSM) — Foundations
-6. Shunyaya Structural Universal Mathematics (SSUM) — Runtime Mathematics
-7. SSUM Observatory — Executable Structural Evidence
-8. Verified Case Studies — Results Summary
-9. Active Projects and Public Repositories (Runnable)
-10. Scientific Demonstrations and Reproducible Proofs
-11. Safety, Determinism, and Reproducibility Guarantees
-12. Licensing, Usage Scope, and Deployment Rights
-13. Roadmap and Next Executable Directions
-
----
-
-The **Shunyaya framework** evolved from a structural reinterpretation of zero,
-treating it as a **dynamic baseline** around which structure
-emerges, drifts, and stabilizes in mathematics and real systems.
-
-At runtime, **Shunyaya Symbolic Mathematics (SSM)** provides the executable symbol layer,
-while **Shunyaya Structural Universal Mathematics (SSUM)** applies bounded structure
-to produce deterministic, classically correct system behavior.
-
-Across all structural projects (Clock, AI, Network, Messaging, Encrypt),
-Shunyaya uses **real, verifiable continuity stamps** that are mathematically portable,
-forward-only, and independently checkable (SSM-ClockKe principle).
-These stamps provide concrete proof that Shunyaya structures execute and persist
-in real-world environments.
-
-**All listed standards include working code**: real scripts, deterministic demos,
-CI-validated proofs of concept, and reproducible examples.
-This ecosystem is **operational, auditable, and executable — not theoretical.**
+1. Introduction — What Shunyaya Does in Practice  
+2. Immediate Proof: Verifying Shunyaya in Minutes  
+3. Independent Validation Across Time, Systems, and Domains  
+4. Law 0 — The Executable Symbolic Law  
+5. Shunyaya Symbolic Mathematics (SSM) — Foundations  
+6. Shunyaya Structural Universal Mathematics (SSUM) — Runtime Mathematics  
+7. SSUM Observatory — Executable Structural Evidence  
+8. Verified Case Studies — Results Summary  
+9. Active Projects and Public Repositories (Runnable)  
+10. Scientific Demonstrations and Reproducible Proofs  
+11. Safety, Determinism, and Reproducibility Guarantees  
+12. Licensing, Usage Scope, and Deployment Rights  
+13. Roadmap and Next Executable Directions  
 
 ---
 
