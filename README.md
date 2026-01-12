@@ -153,13 +153,20 @@ Shunyaya is not theoretical — it runs in real, deterministic code today:
 - **SSM-ClockKe (20 lines):**  
   The same universal alignment kernel you just executed — producing stable lanes and tamper-evident stamp chains in seconds.
 
-- **SSM-AIM Mini (23 KB):**  
-  A complete, manifest-driven, offline symbolic AI — deterministic, transparent, and built without machine learning.
+- **SSUM-AIM Mini (~14 KB):**  
+  A complete, manifest-driven, fully offline **AI reflection kernel** built in plain Python — deterministic, transparent, and verifiable.  
+  Tracks a canonical structural state `(m, a, s)`, enforces guaranteed classical collapse `phi((m,a,s)) = m`, and prints SHA-256 integrity hashes each turn.  
+  Not a chatbot, not a neural model, not trained — designed to make thinking **visible and auditable**.
+
+- **SSUM Observatory (Executable Structural Proofs):**  
+  A collection of deterministic case studies demonstrating structural behavior **while preserving exact classical results**.  
+  Includes both **browser-executable GitHub Pages demonstrations** and **script-based analyses** (e.g., real-world LiDAR geometry such as the Leaning Tower of Pisa).  
+  No simulation. No learning. Fully reproducible under identical inputs.
 
 - **SSM-JTK (Ephemeris Kernel):**  
   Verified against **9,500 years of NASA/JPL data**, matching planetary positions with minute-level accuracy using the same symbolic mathematics.
 
-Across **timekeeping, AI, astronomy, networks, messaging, and observability**, one truth is consistent:  
+Across **timekeeping, AI, astronomy, geometry, networks, messaging, and observability**, one truth is consistent:  
 **Shunyaya already works — reproducibly, deterministically, and across domains.**
 
 ---
