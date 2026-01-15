@@ -18,47 +18,82 @@ drifts, accumulates cost, and stabilizes in both mathematics and real systems.
 
 ---
 
-## 🔷 Two Layers of the Framework: SSM vs SSUM (What’s the Difference?)
+## 🔷 Three Layers of the Shunyaya Framework — What Each One Answers
 
-Shunyaya is built as a **two-layer system**, separating *symbolic meaning* from *structural motion* — while guaranteeing exact classical preservation in SSM and exact classical collapse in SSUM.
+Shunyaya extends classical mathematics conservatively through **three independent framework layers**,  
+each answering a **different question**, while enforcing **exact collapse to classical results**.
+
+Classical mathematics asks:  
+**What is the value?**
+
+Calculus asks:  
+**How does the value change?**
+
+Shunyaya adds three additional, orthogonal questions:
+
+---
 
 ### **Shunyaya Symbolic Mathematics (SSM) — Foundational Symbol Layer**
 
-**SSM is the foundational symbolic mathematics layer.**  
-It preserves every classical value exactly, while adding **bounded symbolic lanes** that make posture, drift, and stability **explicit, inspectable, and auditable**.
+**SSM preserves every classical value exactly**, while adding a **bounded symbolic lane** that makes posture, drift, and stability **explicit and inspectable**.
 
-- preserves classical meaning by invariant collapse (e.g., `phi((m,a)) = m`)
-- adds symbolic lanes, stamps, envelopes, and governance signals
-- overlays existing systems **without modifying payloads, protocols, or outputs**
+- invariant collapse: `phi((m, a)) = m`
+- adds bounded alignment lanes beside values
+- introduces stamps, envelopes, and symbolic governance signals
+- overlays existing systems **without modifying payloads or outputs**
 - enables auditability, lineage, and deterministic observability
 
 SSM answers:  
-**“What is the structural posture of this value, without changing the value itself?”**
+**“Is this value structurally centered or drifting — without changing the value itself?”**
 
 ---
 
 ### **Shunyaya Structural Universal Mathematics (SSUM) — Runtime Structure Layer**
 
-**SSUM is the structural runtime mathematics built on top of SSM.**  
-It treats motion, iteration, traversal, and evolution as **structural processes**, evaluated deterministically using a canonical state `(m, a, s)`.
+**SSUM treats motion and iteration as structural processes**, evaluated deterministically using a canonical runtime state.
 
 - canonical structural state: `(m, a, s)`
-- **collapse invariant:** `phi((m,a,s)) = m`  
-  (all structural behavior collapses exactly to the classical value)
-- measures accumulated **structural cost**, resistance, and collapse pressure
+- invariant collapse: `phi((m, a, s)) = m`
+- measures accumulated structural cost and resistance over time
+- detects drift, oscillation, collapse pressure, and admissibility
+- enables executable layers such as **Structural Distance** and **Structural Safety Routing**
 - guarantees **no deviation from classical outputs**, regardless of structural complexity
-- enables executable measurement layers such as **Structural Distance**
-- enables admissibility and denial layers such as **Structural Safety Routing**
-
-SSUM enforces a rare but critical property:  
-**structural observability without any risk of classical mismatch.**
 
 SSUM answers:  
-**“What happened to structure over time — and does this motion remain admissible — while remaining exactly classically correct?”**
+**“How does structure evolve over time during motion or iteration — while remaining exactly classically correct?”**
 
-In short:  
-**SSM = symbolic observability without changing meaning**  
-**SSUM = structural runtime mathematics for motion, accumulation, and collapse detection**
+---
+
+### **Shunyaya Structural Equations (SSE) — Trust Governance Layer**
+
+**SSE governs whether a mathematically correct result may be trusted**, without modifying equations, solvers, or computations.
+
+- attaches structural governance to evaluation traces
+- enforces categorical outcomes: `ALLOW`, `CONVERGED_ALLOW`, `DENY`, `ABSTAIN`
+- operates under strict collapse: `phi((y, a, s)) = y`. 
+
+  (Here `y` denotes the classical value — same role as `m`.)
+- separates correctness from admissibility and trust
+- denies unsafe reliance **before** numerical or logical failure
+- remains fully deterministic and observation-only
+
+SSE answers:  
+**“Should this mathematically correct result be trusted here at all?”**
+
+---
+
+**Summary**
+
+- **SSM** reveals *posture* without changing meaning  
+- **SSUM** reveals *structural evolution* without changing outcomes  
+- **SSE** governs *trust* without changing computation  
+
+No approximation.  
+No solver replacement.  
+No numerical distortion.
+
+What follows are **executable proofs** that these frameworks already work.
+
 
 ---
 
@@ -160,7 +195,7 @@ Across **timekeeping, AI, astronomy, geometry, networks, messaging, and observab
 
 **“Every classical value carries a bounded alignment lane, revealing reality drift and stability while retaining the original number.”**
 
-Law 0 defines the core two-lane structure used across all executable Shunyaya systems:
+`Law 0 defines the two-lane invariant used across the ecosystem (phi((m,a)) = m).`
 
 ---
 
@@ -170,12 +205,27 @@ Law 0 defines the core two-lane structure used across all executable Shunyaya sy
 
 ---
 
+- [Shunyaya Structural Equations (SSE)](https://github.com/OMPSHUNYAYA/Shunyaya-Structural-Equations)  
+  Deterministic **equation-level trust governance framework** that evaluates when mathematically correct results  
+  may be **relied upon**, without modifying equations, solvers, or classical outputs.  
+
+  SSE enforces categorical admissibility outcomes — `ALLOW`, `CONVERGED_ALLOW`, `DENY`, `ABSTAIN` —  
+  under a strict collapse invariant (`phi((y, a, s)) = y`), guaranteeing exact classical equivalence.  
+
+  Includes executable proof series demonstrating:
+  - solver denial **before** numerical failure (MGH17 benchmark)
+  - calculus corridor governance near instability (reciprocal and square-root families)
+
+  Fully deterministic, observation-only, offline, reproducible, and classically correct by construction.
+
+---
+
 - [Shunyaya Structural Universal Mathematics (SSUM)](https://github.com/OMPSHUNYAYA/Structural-Mathematics)  
   Structural arithmetic framework where every number carries bounded, deterministic behavioural structure  
   while guaranteeing exact classical collapse (`phi((m,a,s)) = m`).  
   Includes an offline, single-file browser proof-of-concept demonstrating  
   **zero classical mismatches across operations.**  
-- [Demo_SSUM.html](https://github.com/OMPSHUNYAYA/Structural-Mathematics/blob/main/demo/Demo_SSUM.html)
+  - [Demo_SSUM.html](https://github.com/OMPSHUNYAYA/Structural-Mathematics/blob/main/demo/Demo_SSUM.html)
 
 ---
 
@@ -584,18 +634,23 @@ or the CC BY-NC 4.0 status of SSM research materials.
 
 ---
 
-## 📘 Symbolic Mathematics & Research Materials
+# 📘 Symbolic Mathematics & Research Materials
 
-Only the foundational Shunyaya Symbolic Mathematics (SSM) and related research materials,
-including symbolic formulations, theoretical layers, documents, and examples,
-are released under **Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0)**.
+Only **Shunyaya Symbolic Mathematics (SSM)** and **Shunyaya Structural Equations (SSE)**,
+along with their related theoretical documents and research materials,
+are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
 
+This covers symbolic theory, structural interpretation, specifications,
+proof documents, and educational references.
+
+Conditions:
 - attribution required
 - non-commercial use only
-- no warranty; no endorsement or affiliation implied
+- no warranty or endorsement
 
-These materials focus on **explanation, theory, and symbolic interpretation**
-rather than executable infrastructure.
+All other Shunyaya repositories (including SSUM-based systems, observatories,
+and executable frameworks) are released under CC BY 4.0 or Open Standard terms,
+as declared in their respective repositories.
 
 ---
 
