@@ -70,9 +70,8 @@ SSUM answers:
 
 - attaches structural governance to evaluation traces
 - enforces categorical outcomes: `ALLOW`, `CONVERGED_ALLOW`, `DENY`, `ABSTAIN`
-- operates under strict collapse: `phi((y, a, s)) = y`. 
-
-  (Here `y` denotes the classical value — same role as `m`.)
+- operates under strict collapse: `phi((y, a, s)) = y`  
+  where `y` denotes the classical value (same role as `m`)
 - separates correctness from admissibility and trust
 - denies unsafe reliance **before** numerical or logical failure
 - remains fully deterministic and observation-only
@@ -195,7 +194,7 @@ Across **timekeeping, AI, astronomy, geometry, networks, messaging, and observab
 
 **“Every classical value carries a bounded alignment lane, revealing reality drift and stability while retaining the original number.”**
 
-`Law 0 defines the two-lane invariant used across the ecosystem (phi((m,a)) = m).`
+`Law 0 defines the two-lane invariant used across the ecosystem (phi((m, a)) = m).`
 
 ---
 
