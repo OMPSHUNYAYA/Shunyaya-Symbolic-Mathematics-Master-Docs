@@ -299,6 +299,20 @@ Across **timekeeping, AI, astronomy, geometry, networks, messaging, and observab
 
 ---
 
+## 🌦️ Climate and Natural Systems
+
+- [SSUM-Snow](https://github.com/OMPSHUNYAYA/SSUM-Snow)  
+  A deterministic **structural trust layer** for snow forecasting.  
+  SSUM-Snow does not chase depth — it enforces **forecast permissibility before prediction** and restores meaning to silence.  
+  Uses the SSUM runtime invariant `phi((m, a, s)) = m`, so classical magnitudes remain unchanged while structure governs admissibility.  
+
+  **Highlights**
+  - **Multi-station validation (10 U.S. stations)** with identical parameters (no tuning, no heuristics)  
+  - **Evidence bundle** (`evidence/`) containing all SSUM inputs + hourly summaries (zipped, audit-ready)  
+  - Full reference trace published for one station (Milwaukee) for deep transparency without file explosion  
+
+---
+
 ## 🔬 **SSUM Observatory — Executable Proof of Structural Mathematics**
 
 The **[SSUM Observatory](https://github.com/OMPSHUNYAYA/ssum-observatory)** is a collection of **deterministic, executable case studies** demonstrating that  
@@ -620,6 +634,7 @@ The following SSUM-based implementations are released under
 - **SSIG — Shunyaya Structural Iteration Geometry**
 - **SSUM-SD — Structural Distance**
 - **SSUM-SSR — Structural Safety Routing**
+- **Shunyaya Structural Universal Mathematics — SSUM-Snow**
 
 These systems:
 
