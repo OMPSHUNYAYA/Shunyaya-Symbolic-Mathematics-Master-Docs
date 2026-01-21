@@ -10,7 +10,7 @@ It provides engineers, scientists, regulators, and researchers a **single public
 Across domains, the unifying principle is precise and enforced in code:  
 **represent reality as a symbolic, bounded, auditable signal that executes deterministically and remains stable across vendors, borders, and time.**
 
-Shunyaya framework is a **proof-first mathematical system** with **executable kernels, browser observatories, deterministic scripts, and CI-validated results** demonstrating that the mathematics runs exactly as specified.
+The Shunyaya framework is a **proof-first mathematical system** with **executable kernels, browser observatories, deterministic scripts, and CI-validated results** demonstrating that the mathematics runs exactly as specified.
 
 The Shunyaya framework originated from a structural reinterpretation of **zero** —
 not as a static null, but as a **dynamic baseline** from which structure emerges,
@@ -18,10 +18,9 @@ drifts, accumulates cost, and stabilizes in both mathematics and real systems.
 
 ---
 
-## 🔷 Three Layers of the Shunyaya Framework — What Each One Answers
+## 🔷 Five Layers of the Shunyaya Framework — What Each One Answers
 
-Shunyaya extends classical mathematics conservatively through **three independent framework layers**,  
-each answering a **different question**, while enforcing **exact collapse to classical results**.
+Shunyaya is the **umbrella framework** — a conservative extension stack that preserves **exact classical meaning** while making **origin, posture, evolution, diagnosis, and trust** executable and auditable.
 
 Classical mathematics asks:  
 **What is the value?**
@@ -29,7 +28,22 @@ Classical mathematics asks:
 Calculus asks:  
 **How does the value change?**
 
-Shunyaya adds three additional, orthogonal questions:
+Shunyaya adds five orthogonal questions — each implemented as a distinct framework layer, each enforcing **exact collapse to classical results**.
+
+---
+
+### **Shunyaya Structural Origin Mathematics (SSOM) — Origin Structure Layer**
+
+**SSOM reveals the structural posture of mathematics at the moment it comes into existence**, before computation begins.
+
+- structural object: `(m, a, s)`
+- invariant collapse: `phi((m, a, s)) = m`
+- detects origin-level posture differences even when classical results match
+- exposes the **Structural Reliability Horizon** for limits, derivatives, and integrals
+- observation-only, deterministic, reproducible
+
+SSOM answers:  
+**“Is this mathematical construction structurally fit to exist here — at origin?”**
 
 ---
 
@@ -64,6 +78,21 @@ SSUM answers:
 
 ---
 
+### **Shunyaya Structural Diagnosis (SSD) — Diagnostic Layer** *(upcoming release)*
+
+**SSD performs deterministic structural diagnosis of executions and traces**, revealing *where* stability erodes, *why* it erodes, and *what form* the erosion takes — without changing the underlying computation.
+
+- diagnostic traces are treated as structural state sequences
+- exposes failure corridors, instability bands, and regime transitions
+- separates “works” from “works safely and repeatably”
+- designed for explainability, auditability, and reproducible diagnosis
+- observation-only, deterministic, reproducible
+
+SSD answers:  
+**“What is structurally failing (or nearing failure) — and how early can we see it?”**
+
+---
+
 ### **Shunyaya Structural Equations (SSE) — Trust Governance Layer**
 
 **SSE governs whether a mathematically correct result may be trusted**, without modifying equations, solvers, or computations.
@@ -81,10 +110,12 @@ SSE answers:
 
 ---
 
-**Summary**
+## Summary
 
+- **SSOM** reveals *origin posture* before computation  
 - **SSM** reveals *posture* without changing meaning  
 - **SSUM** reveals *structural evolution* without changing outcomes  
+- **SSD** reveals *diagnosis* without changing execution  
 - **SSE** governs *trust* without changing computation  
 
 No approximation.  
@@ -92,7 +123,6 @@ No solver replacement.
 No numerical distortion.
 
 What follows are **executable proofs** that these frameworks already work.
-
 
 ---
 
@@ -201,6 +231,18 @@ Across **timekeeping, AI, astronomy, geometry, networks, messaging, and observab
 ## 🔹 Current Active Repositories (Public)
 
 ### 🧩 Core Frameworks
+
+---
+
+- [Shunyaya Structural Origin Mathematics (SSOM)](https://github.com/OMPSHUNYAYA/Shunyaya-Structural-Origin-Mathematics)  
+  Deterministic **origin-level structural mathematics framework** that evaluates whether a mathematical construction is **structurally fit to exist at the moment of origin**, before computation begins.  
+
+  SSOM introduces a canonical structural object `(m, a, s)` with a strict collapse invariant  
+  `phi((m, a, s)) = m`,  
+  guaranteeing that all classical values remain exact while exposing origin posture, refinement strain, accumulation stress, and the **Structural Reliability Horizon** across limits, derivatives, and integrals.  
+
+  SSOM does not modify mathematics, solvers, or outcomes.  
+  It is **observation-only**, fully deterministic, offline, reproducible, and audit-ready by construction.
 
 ---
 
@@ -650,9 +692,8 @@ or the CC BY-NC 4.0 status of SSM research materials.
 
 # 📘 Symbolic Mathematics & Research Materials
 
-Only **Shunyaya Symbolic Mathematics (SSM)** and **Shunyaya Structural Equations (SSE)**,
-along with their related theoretical documents and research materials,
-are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
+Only **Shunyaya Structural Origin Mathematics (SSOM)**, **Shunyaya Structural Equations (SSE)**, and **Shunyaya Symbolic Mathematics (SSM)**,
+along with their related theoretical documents and research materials, are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
 
 This covers symbolic theory, structural interpretation, specifications,
 proof documents, and educational references.
