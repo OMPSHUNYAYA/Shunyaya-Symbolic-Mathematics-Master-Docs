@@ -146,7 +146,19 @@ What follows are **executable proofs** that these frameworks already work.
 
 **Quick Proof That Shunyaya Is Real — Verify in 5 Seconds**
 
+This is not a conceptual illustration.  
+It is a **runnable, offline, deterministic kernel** that demonstrates the core Shunyaya principle:
+**structure can be revealed without altering classical meaning**.
+
+The example below uses the **SSM-ClockKe** mini kernel to produce:
+- a bounded alignment lane (`a_out`)
+- a tamper-evident continuity stamp chain
+- identical structural behavior across machines
+
+No data. No training. No simulation. Just execution.
+
 ```python
+
 # --- 20-line SSM-ClockKe Mini Demo ---
 # Deterministic alignment lane + tamper-evident stamp chain
 from math import tanh, log1p
@@ -181,17 +193,30 @@ for tick in range(1, 6):
     time.sleep(0.5)
 ```
 
----
-
-**Output example:**
+**Actual output from a real execution:**
 
 ```
-01  time=2026-01-10T16:19:25Z  align=+0.020000  stamp=df4130704acafc2c...
-02  time=2026-01-10T16:19:26Z  align=+0.020000  stamp=800e13e60709b904...
-03  time=2026-01-10T16:19:26Z  align=+0.020000  stamp=d611eb5f33bd499b...
-04  time=2026-01-10T16:19:27Z  align=+0.020000  stamp=f940c404a84a36e9...
-05  time=2026-01-10T16:19:27Z  align=+0.020000  stamp=f2b29040539ebaa1...
+01  time=2026-01-21T12:59:32Z  align=+0.020000  stamp=48c46d23b1dafa82...
+02  time=2026-01-21T12:59:33Z  align=+0.020000  stamp=a56a73a2e99f298b...
+03  time=2026-01-21T12:59:33Z  align=+0.020000  stamp=26b0beeebb419593...
+04  time=2026-01-21T12:59:34Z  align=+0.020000  stamp=cda96e309068e218...
+05  time=2026-01-21T12:59:34Z  align=+0.020000  stamp=e5adb4dc5abc2ced...
+
 ```
+
+**What this proves immediately**
+
+- The classical payload (time) is untouched  
+- A bounded symbolic alignment lane is produced deterministically  
+- Continuity is enforced via a cryptographic stamp chain  
+- Re-running the script reproduces the same structural behavior  
+- No solver, model, clock source, or external dependency is modified  
+
+This is the smallest possible executable proof that Shunyaya is **operational, not theoretical**.
+
+*Optional context:*  
+SSM reveals **runtime posture beside values**.  
+SSOM extends this one layer earlier — revealing **origin posture before computation begins**.
 
 ---
 
@@ -721,5 +746,5 @@ It grants no exclusivity or stewardship over any domain; it exists to make the w
 
 ---
 
-© The Authors of the Shunyaya Framework, Shunyaya Structural Universal Mathematics and Shunyaya Symbolic Mathematics — advancing transparent, accountable, planetary infrastructure.
+© The Authors of the Shunyaya Framework, Shunyaya Structural Origin Mathematics, Shunyaya Symbolic Mathematics, Shunyaya Structural Universal Mathematics, and Shunyaya Structural Equations  — advancing transparent, accountable, planetary infrastructure.
 
