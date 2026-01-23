@@ -360,8 +360,8 @@ Across **timekeeping, AI, astronomy, geometry, networks, messaging, and observab
 
 ---
 
-- [Shunyaya Structural Number Theory (SSNT)](https://github.com/OMPSHUNYAYA/SSNT)  
-  A deterministic, executable **behavioral layer on integers** that studies how numbers **yield, resist, fracture, and form regional order** under structural pressure — not by   classification alone.  
+- [Shunyaya Structural Number Theory (SSNT)](https://github.com/OMPSHUNYAYA/Structural-Number-Theory)  
+  A deterministic, executable **behavioral layer on integers** that studies how numbers **yield, resist, fracture, and form regional order** under structural pressure — not by classification alone.  
 
   SSNT reconstructs a structural time-like observable from closure depth (`t_hat(n)`), evaluates transition behavior (`n -> n+1`), and deterministically derives **corridors** (CALM / NORMAL / SHOCK / UNDEFINED), **fracture events**, **belts**, **epochs**, and a finite **SSNT signature alphabet** encoding integer behavior.  
 
