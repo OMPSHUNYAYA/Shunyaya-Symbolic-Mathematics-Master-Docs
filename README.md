@@ -360,6 +360,15 @@ Across **timekeeping, AI, astronomy, geometry, networks, messaging, and observab
 
 ---
 
+- [Shunyaya Structural Number Theory (SSNT)](https://github.com/OMPSHUNYAYA/SSNT)  
+  A deterministic, executable **behavioral layer on integers** that studies how numbers **yield, resist, fracture, and form regional order** under structural pressure — not by   classification alone.  
+
+  SSNT reconstructs a structural time-like observable from closure depth (`t_hat(n)`), evaluates transition behavior (`n -> n+1`), and deterministically derives **corridors** (CALM / NORMAL / SHOCK / UNDEFINED), **fracture events**, **belts**, **epochs**, and a finite **SSNT signature alphabet** encoding integer behavior.  
+
+  Includes a single master runner and a frozen, hash-verified canonical reference run (`SSNT_ALL_RUN_0001/`) for full auditability and reproducibility.
+  
+---
+
 - [SSUM-Structural-Primality](https://github.com/OMPSHUNYAYA/SSUM-Structural-Primality)  
   Deterministic structural analysis of **prime and composite numbers**, preserving exact classical primality  
   while revealing resistance to factorization through bounded structural closure and proximity bands.
@@ -702,6 +711,7 @@ The following SSUM-based implementations are released under
 - **SSUM-SD — Structural Distance**
 - **SSUM-SSR — Structural Safety Routing**
 - **Shunyaya Structural Universal Mathematics — SSUM-Snow**
+- **Shunyaya Structural Number Theory — SSNT**
 
 These systems:
 
