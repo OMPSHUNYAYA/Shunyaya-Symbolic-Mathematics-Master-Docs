@@ -144,7 +144,7 @@ What follows are **executable proofs** that these frameworks already work.
 
 ---
 
-**Quick Proof That Shunyaya Is Real — Verify in 5 Seconds**
+## 🚀 Quick Proof That Shunyaya Is Real — Verify in 5 Seconds
 
 This is not a conceptual illustration.  
 It is a **runnable, offline, deterministic kernel** that demonstrates the core Shunyaya principle:
@@ -367,7 +367,7 @@ Across **timekeeping, AI, astronomy, geometry, networks, messaging, and observab
   
 ---
 
-- [Shunyaya Structural Infinity Transform (SSIT)](https://github.com/OMPSHUNYAYA/SSIT)  
+- [Shunyaya Structural Infinity Transform (SSIT)](https://github.com/OMPSHUNYAYA/Structural-Infinity-Transform)  
   Deterministic **bridge transform** over SSNT that lifts finite closure structure into **lawful infinity-domain objects**.  
   Enables **structured infinity algebra** and **infinity governance** (typed objects, SIS banding, depth, curvature, zones, guard, IDO).  
   Preserves **exact classical arithmetic** and leaves SSNT observables unchanged.
