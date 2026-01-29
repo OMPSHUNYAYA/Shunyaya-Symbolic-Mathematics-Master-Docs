@@ -158,7 +158,6 @@ The example below uses the **SSM-ClockKe** mini kernel to produce:
 No data. No training. No simulation. Just execution.
 
 ```python
-
 # --- 20-line SSM-ClockKe Mini Demo ---
 # Deterministic alignment lane + tamper-evident stamp chain
 from math import tanh, log1p
@@ -201,7 +200,6 @@ for tick in range(1, 6):
 03  time=2026-01-21T12:59:33Z  align=+0.020000  stamp=26b0beeebb419593...
 04  time=2026-01-21T12:59:34Z  align=+0.020000  stamp=cda96e309068e218...
 05  time=2026-01-21T12:59:34Z  align=+0.020000  stamp=e5adb4dc5abc2ced...
-
 ```
 
 **What this proves immediately**
@@ -367,6 +365,13 @@ Across **timekeeping, AI, astronomy, geometry, networks, messaging, and observab
 
   Includes a single master runner and a frozen, hash-verified canonical reference run (`SSNT_ALL_RUN_0001/`) for full auditability and reproducibility.
   
+---
+
+- [Shunyaya Structural Infinity Transform (SSIT)](https://github.com/OMPSHUNYAYA/SSIT)  
+  Deterministic **bridge transform** over SSNT that lifts finite closure structure into **lawful infinity-domain objects**.  
+  Enables **structured infinity algebra** and **infinity governance** (typed objects, SIS banding, depth, curvature, zones, guard, IDO).  
+  Preserves **exact classical arithmetic** and leaves SSNT observables unchanged.
+
 ---
 
 - [SSUM-Structural-Primality](https://github.com/OMPSHUNYAYA/SSUM-Structural-Primality)  
@@ -698,12 +703,12 @@ across vendors, platforms, and jurisdictions.
 
 ---
 
-## 📘 SSUM Implementations & Systems — CC BY 4.0
+## 📘 Executable Systems — CC BY 4.0
 
-Executable systems that implement **SSUM (Shunyaya Structural Universal Mathematics)**
-are released under licenses independent of the SSUM Open Standard.
+Executable systems in the Shunyaya ecosystem are released under licenses
+independent of the SSUM Open Standard.
 
-The following SSUM-based implementations are released under
+The following executable implementations are released under
 **Creative Commons Attribution 4.0 (CC BY 4.0)**:
 
 - **SSUM-STAR — Structural Time And Replay**
@@ -712,10 +717,11 @@ The following SSUM-based implementations are released under
 - **SSUM-SSR — Structural Safety Routing**
 - **Shunyaya Structural Universal Mathematics — SSUM-Snow**
 - **Shunyaya Structural Number Theory — SSNT**
+- **Shunyaya Structural Infinity Transform — SSIT**
 
 These systems:
 
-- implement SSUM principles in executable form
+- are executable, deterministic implementations within the Shunyaya ecosystem
 - permit commercial and non-commercial use
 - require attribution
 - carry no warranty or endorsement
