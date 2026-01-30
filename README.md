@@ -78,15 +78,15 @@ SSUM answers:
 
 ---
 
-### **Shunyaya Structural Diagnosis (SSD) — Diagnostic Layer** *(upcoming release)*
+### **Shunyaya Structural Diagnosis (SSD) — Diagnostic Layer**
 
-**SSD performs deterministic structural diagnosis of executions and traces**, revealing *where* stability erodes, *why* it erodes, and *what form* the erosion takes — without changing the underlying computation.
+**SSD performs deterministic, post-hoc structural diagnosis of executions and traces**, revealing *where* stability erodes, *why* it erodes, and *what form* the erosion takes — **without changing any underlying computation**.
 
 - diagnostic traces are treated as structural state sequences
-- exposes failure corridors, instability bands, and regime transitions
+- exposes drift corridors, instability bands, and regime transitions
 - separates “works” from “works safely and repeatably”
 - designed for explainability, auditability, and reproducible diagnosis
-- observation-only, deterministic, reproducible
+- observation-only, deterministic, collapse-safe
 
 SSD answers:  
 **“What is structurally failing (or nearing failure) — and how early can we see it?”**
@@ -281,6 +281,18 @@ Across **timekeeping, AI, astronomy, geometry, networks, messaging, and observab
   - calculus corridor governance near instability (reciprocal and square-root families)
 
   Fully deterministic, observation-only, offline, reproducible, and classically correct by construction.
+
+---
+
+### Shunyaya Structural Diagnosis (SSD)
+
+- [Shunyaya Structural Diagnosis (SSD)](https://github.com/OMPSHUNYAYA/Shunyaya-Structural-Diagnosis)  
+  A deterministic, trace-based **post-hoc diagnostic framework** that makes **stability erosion** and **reliance risk** visible — without changing any classical computation.  
+
+  SSD operates strictly after execution on recorded traces and is **observation-only**: it does not modify solver behavior, execution order, or numerical results.  
+  It remains **collapse-safe by construction** under the invariant `phi((m, a, s)) = m`, preserving full classical meaning while exposing drift corridors, regime mixing, and explainable attribution.  
+
+  Produces audit-ready diagnostics (`ssd_report.json` / `.txt`) and canonical **SVG evidence snapshots** under `ssd_out_*` (citation-ready), with optional reference visualizations treated as non-evidence.
 
 ---
 
@@ -716,6 +728,7 @@ The following executable implementations are released under
 - **SSUM-SD — Structural Distance**
 - **SSUM-SSR — Structural Safety Routing**
 - **Shunyaya Structural Universal Mathematics — SSUM-Snow**
+- **Shunyaya Structural Diagnosis — SSD**
 - **Shunyaya Structural Number Theory — SSNT**
 - **Shunyaya Structural Infinity Transform — SSIT**
 
