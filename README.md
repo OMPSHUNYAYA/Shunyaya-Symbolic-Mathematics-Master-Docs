@@ -207,7 +207,7 @@ for tick in range(1, 6):
 - The classical payload (time) is untouched  
 - A bounded symbolic alignment lane is produced deterministically  
 - Continuity is enforced via a cryptographic stamp chain  
-- Re-running the script reproduces the same structural behavior  
+- Re-running the script with the same tick inputs reproduces the same structural behavior  
 - No solver, model, clock source, or external dependency is modified  
 
 This is the smallest possible executable proof that Shunyaya is **operational, not theoretical**.
@@ -236,7 +236,9 @@ Shunyaya is not theoretical — it runs in real, deterministic code today:
   No simulation. No learning. Fully reproducible under identical inputs.
 
 - **SSM-JTK (Ephemeris Kernel):**  
-  Verified against **9,500 years of NASA/JPL data**, matching planetary positions with minute-level accuracy using the same symbolic mathematics.
+  **Deep-time capable (year 0001–9500)** via **internal monthly self-consistency benches** (0001–9500; also 1800–2199), reporting **`p90 = 0`** and **`max = 0`** at monthly cadence **against the monthly reference tables**.  
+  Public validation is anchored by a **daily golden day-grid (1990–2030)** with strict integrity checks — **rāśi mapping** (`rasi = floor(wrap360(L_hat_deg)/30)`) and **node identity** (`Ketu = wrap360(Rahu + 180)`) — producing **PASS** under `tol = 1e-5` (wrap-aware).  
+  **Note:** This is **ephemeris-free at runtime**; optional cross-ephemeris scorecards can be run separately for external accuracy comparison when desired.
 
 Across **timekeeping, AI, astronomy, geometry, networks, messaging, and observability**, one truth is consistent:  
 **Shunyaya already works — reproducibly, deterministically, and across domains.**
@@ -698,14 +700,15 @@ This includes (but is not limited to):
 LAW-0AR, SSM-Encrypt, SSM-UT, SSUM-Finite-Structural-Area-Experiment, 
 SSUM-Structural-Primality, SSUM-AIM Mini**
 
-Open-standard projects mean:
+**Open-Standard projects mean:**
 
-- free implementation with **no registration or fees**
-- permitted use in personal, institutional, research, or commercial systems
-- full freedom to **use, modify, extend, integrate, or redistribute**
-- **optional attribution** (recommended but not required)
-- no exclusivity or vendor lock-in
-- deterministic, transparent formulas, stamps, envelopes, and symbolic logic
+- **Free to implement** with **no registration or fees**
+- **Protocol / format freedom:** any person or organization may implement the published standard in personal, institutional, research, or commercial systems
+- **No exclusivity or vendor lock-in:** implementations may be built in any language, on any platform, under any deployment model
+- **Deterministic and transparent by design:** formulas, stamps, envelopes, and symbolic logic are specified to execute reproducibly under identical inputs (e.g., `phi((m,a)) = m` where applicable)
+- **Attribution:** **appreciated but not required**, unless explicitly required by the license declared in a specific repository
+- **License authority:** the license stated in each repository is the sole governing legal instrument and overrides this summary
+
 
 **Warranty:**  
 Provided *as-is* with no warranty or guarantee of fitness.
