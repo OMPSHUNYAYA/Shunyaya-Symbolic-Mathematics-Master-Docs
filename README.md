@@ -394,6 +394,19 @@ Across **timekeeping, AI, astronomy, geometry, networks, messaging, and observab
 
 ---
 
+## 🌦️ Domain-Boundary Sciences
+
+- [Shunyaya Structural Transition Science (SSTS)](https://github.com/OMPSHUNYAYA/Structural-Transition-Science)  
+  Deterministic **transition-permission framework** that makes **admissibility explicit at domain boundaries** — most critically, **before energy becomes chemistry**.  
+
+  SSTS evaluates whether a transition is structurally permitted to begin using a minimal gate:
+  
+  `S = (g, a, c)` and `A_s = H( f(g,a,c) - tau )`, producing explicit postures `DENY / ABSTAIN / ALLOW`.  
+
+  Observation-only, non-interventional, offline, reproducible — preserving physics and chemistry exactly while making permission visible.
+
+---
+
 ## 🌦️ Climate and Natural Systems
 
 - [SSUM-Snow](https://github.com/OMPSHUNYAYA/SSUM-Snow)  
@@ -734,6 +747,7 @@ The following executable implementations are released under
 - **Shunyaya Structural Diagnosis — SSD**
 - **Shunyaya Structural Number Theory — SSNT**
 - **Shunyaya Structural Infinity Transform — SSIT**
+- **Shunyaya Symbolic Mathematical Infinity — SSM-Infinity**
 
 These systems:
 
@@ -749,8 +763,10 @@ or the CC BY-NC 4.0 status of SSM research materials.
 
 # 📘 Symbolic Mathematics & Research Materials
 
-Only **Shunyaya Structural Origin Mathematics (SSOM)**, **Shunyaya Structural Equations (SSE)**, and **Shunyaya Symbolic Mathematics (SSM)**,
-along with their related theoretical documents and research materials, are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
+Only **Shunyaya Structural Origin Mathematics (SSOM)**, **Shunyaya Structural Equations (SSE)**,
+**Shunyaya Symbolic Mathematics (SSM)**, and **Shunyaya Structural Transition Science (SSTS)**,
+along with their related theoretical documents and research materials, are released under
+Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
 
 This covers symbolic theory, structural interpretation, specifications,
 proof documents, and educational references.
