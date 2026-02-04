@@ -249,7 +249,7 @@ Across **timekeeping, AI, astronomy, geometry, networks, messaging, and observab
 
 **“Every classical value carries a bounded alignment lane, revealing reality drift and stability while retaining the original number.”**
 
-`Law 0 defines the two-lane invariant used across the ecosystem (phi((m, a)) = m).`
+Law 0 defines the two-lane invariant used across the ecosystem: `phi((m, a)) = m`.
 
 ---
 
@@ -385,6 +385,17 @@ Across **timekeeping, AI, astronomy, geometry, networks, messaging, and observab
   Deterministic **bridge transform** over SSNT that lifts finite closure structure into **lawful infinity-domain objects**.  
   Enables **structured infinity algebra** and **infinity governance** (typed objects, SIS banding, depth, curvature, zones, guard, IDO).  
   Preserves **exact classical arithmetic** and leaves SSNT observables unchanged.
+
+---
+
+- [Shunyaya Infinity Algebra (SIA)](https://github.com/OMPSHUNYAYA/Shunyaya-Infinity-Algebra)  
+  Deterministic **refusal-aware infinity algebra** that makes **structural admissibility explicit** for symbolic operations involving infinity — **before approximation, limits, or closure are applied**.  
+
+  SIA represents infinity as a structured object  
+  `Omega = < sign, posture, kind, witness >`  
+  and enforces explicit admissibility outcomes: `ALLOW / ABSTAIN / RESOLVE`, with dominant refusal semantics (`ABSTAIN`) to prevent fabricated meaning.  
+
+  Includes a **single sealed executable** and an **audit bundle** enabling clean-room verification via recomputation — while preserving all finite correctness and classical results unchanged.
 
 ---
 
@@ -668,7 +679,6 @@ These projects are in advanced preparation and will appear in this index once pu
 - SSM-Fin — symbolic finance lenses for portfolio, credit, and risk.
 - SSM-Cyber — bounded drift lenses for traffic/IDS and security analytics.
 - SSM-Health — physiological signals with symbolic stability lanes.
-- SSM-Climate — multi-scale environmental stability and early-warning dials.
 
 Additional domain adapters in safety, infrastructure, and planetary systems are in active pipeline.
 
@@ -748,6 +758,7 @@ The following executable implementations are released under
 - **Shunyaya Structural Number Theory — SSNT**
 - **Shunyaya Structural Infinity Transform — SSIT**
 - **Shunyaya Symbolic Mathematical Infinity — SSM-Infinity**
+- **Shunyaya Infinity Algebra — SIA**
 
 These systems:
 
