@@ -388,7 +388,7 @@ Law 0 defines the two-lane invariant used across the ecosystem: `phi((m, a)) = m
 
 ---
 
-- [Shunyaya Infinity Algebra (SIA)](https://github.com/OMPSHUNYAYA/Shunyaya-Infinity-Algebra)  
+- [Shunyaya Infinity Algebra (SIA)](https://github.com/OMPSHUNYAYA/Infinity-Algebra)  
   Deterministic **refusal-aware infinity algebra** that makes **structural admissibility explicit** for symbolic operations involving infinity — **before approximation, limits, or closure are applied**.  
 
   SIA represents infinity as a structured object  
