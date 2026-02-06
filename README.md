@@ -286,8 +286,6 @@ Law 0 defines the two-lane invariant used across the ecosystem: `phi((m, a)) = m
 
 ---
 
-### Shunyaya Structural Diagnosis (SSD)
-
 - [Shunyaya Structural Diagnosis (SSD)](https://github.com/OMPSHUNYAYA/Shunyaya-Structural-Diagnosis)  
   A deterministic, trace-based **post-hoc diagnostic framework** that makes **stability erosion** and **reliance risk** visible — without changing any classical computation.  
 
@@ -415,6 +413,24 @@ Law 0 defines the two-lane invariant used across the ecosystem: `phi((m, a)) = m
   `S = (g, a, c)` and `A_s = H( f(g,a,c) - tau )`, producing explicit postures `DENY / ABSTAIN / ALLOW`.  
 
   Observation-only, non-interventional, offline, reproducible — preserving physics and chemistry exactly while making permission visible.
+
+---
+
+- [Shunyaya Structural Buoyancy (SSB)](https://github.com/OMPSHUNYAYA/Shunyaya-Structural-Buoyancy)  
+  Deterministic **structural governance framework** that makes **buoyancy reliance admissibility explicit** — **before physical instability, failure, or collapse occurs**.  
+
+  SSB does **not** modify buoyancy physics. It preserves:
+  - Archimedes’ principle
+  - hydrostatics
+  - metacentric height (`GM`)
+  - classical force, geometry, and equilibrium laws
+
+  SSB introduces a lifecycle-aware structural state `(m, a, s)` with strict collapse:
+  `phi((m, a, s)) = m`  
+  meaning **all classical values remain exact** while **trust is governed deterministically**.
+
+  Produces explicit governance outcomes:
+  `ALLOW_NORMAL / ALLOW_RESTRICTED_MONITOR / DENY_FINAL / ABSTAIN_HUMAN_REVIEW`
 
 ---
 
@@ -759,6 +775,7 @@ The following executable implementations are released under
 - **Shunyaya Structural Infinity Transform — SSIT**
 - **Shunyaya Symbolic Mathematical Infinity — SSM-Infinity**
 - **Shunyaya Infinity Algebra — SIA**
+- **Shunyaya Structural Buoyancy — SSB**
 
 These systems:
 
