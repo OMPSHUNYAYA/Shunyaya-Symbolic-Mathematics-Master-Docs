@@ -416,7 +416,7 @@ Law 0 defines the two-lane invariant used across the ecosystem: `phi((m, a)) = m
 
 ---
 
-- [Shunyaya Structural Buoyancy (SSB)](https://github.com/OMPSHUNYAYA/Shunyaya-Structural-Buoyancy)  
+- [Shunyaya Structural Buoyancy (SSB)](https://github.com/OMPSHUNYAYA/Structural-Buoyancy)  
   Deterministic **structural governance framework** that makes **buoyancy reliance admissibility explicit** — **before physical instability, failure, or collapse occurs**.  
 
   SSB does **not** modify buoyancy physics. It preserves:
