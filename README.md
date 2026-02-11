@@ -555,6 +555,12 @@ Across numerical methods, geometry, mechanics, data, and real-world structures, 
 
 ---
 
+- [Shunyaya Structural Password (SSP)](https://github.com/OMPSHUNYAYA/Structural-Password)  
+  A deterministic **structural identity and execution-admissibility standard** that verifies **when identity and execution are permitted to be trusted at all** by requiring **exact replay of a structural traversal** — **no secrets, no tolerance, no probability**.  
+  Produces audit-grade evidence and closed outcomes: **ACCEPT / REJECT / ABSTAIN**, while preserving the invariant `phi((m, a, s)) = m`.
+
+---
+
 ### 🌡 Temperature & Environmental Stability
 - [Symbolic-Mathematical-Temperature (SSMT)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Temperature)  
   Open standard for temperature as a portable, auditable signal — unitless contrast `e_T` and bounded phase dials instead of raw °C/°F. Observation-only. No registration or fees. Shunyaya Symbolic Mathematical Temperature (SSMT).
@@ -737,7 +743,7 @@ This includes (but is not limited to):
 
 **SSUM, SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe, SSM-AIM Mini, SSM-Tweet, SSM-Browse,  
 LAW-0AR, SSM-Encrypt, SSM-UT, SSUM-Finite-Structural-Area-Experiment, 
-SSUM-Structural-Primality, SSUM-AIM Mini**
+SSUM-Structural-Primality, SSUM-AIM Mini, SSP**
 
 **Open-Standard projects mean:**
 
