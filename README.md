@@ -129,7 +129,7 @@ What follows are **executable proofs** that these frameworks already work.
 ## 📑 Table of Contents
 
 1. Introduction — What Shunyaya Does in Practice  
-2. Immediate Proof: Verifying Shunyaya in Minutes  
+2. Immediate Proof: Verifying Shunyaya in 10 Seconds  
 3. Independent Validation Across Time, Systems, and Domains  
 4. Law 0 — The Executable Symbolic Law  
 5. Shunyaya Symbolic Mathematics (SSM) — Foundations  
