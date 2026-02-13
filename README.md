@@ -140,11 +140,10 @@ What follows are **executable proofs** that these frameworks already work.
 10. Scientific Demonstrations and Reproducible Proofs  
 11. Safety, Determinism, and Reproducibility Guarantees  
 12. Licensing, Usage Scope, and Deployment Rights  
-13. Roadmap and Next Executable Directions  
 
 ---
 
-## 🚀 Quick Proof That Shunyaya Is Real — Verify in 5 Seconds
+## 🚀 Quick Proof That Shunyaya Is Real — Verify in 10 Seconds
 
 This is not a conceptual illustration.  
 It is a **runnable, offline, deterministic kernel** that demonstrates the core Shunyaya principle:
@@ -191,6 +190,8 @@ for tick in range(1, 6):
     print(f"{tick:02d}  time={t_utc}  align={a_out:+.6f}  stamp={stamp[:16]}...")
     time.sleep(0.5)
 ```
+
+Note: For strict replay determinism, replace datetime.now(...) with a fixed deterministic tick source. The above example demonstrates structural continuity, not replay identity.
 
 **Actual output from a real execution:**
 
@@ -304,6 +305,21 @@ Law 0 defines the two-lane invariant used across the ecosystem: `phi((m, a)) = m
   - [Demo_SSUM.html](https://github.com/OMPSHUNYAYA/Structural-Mathematics/blob/main/demo/Demo_SSUM.html)
 
 ---
+
+### 🧬 Structural Coherence & Unification Layer
+
+- [Shunyaya Structural Alphabet Unification (SSAU)](https://github.com/OMPSHUNYAYA/Structural-Alphabet-Unification)  
+  A deterministic **cross-domain unification standard** that proves a conservative result:  
+  deterministic systems compress into **finite structural regime vocabularies** that remain bounded under union — without altering domain laws or outputs.
+
+  SSAU operates at the governance / admissibility layer, preserving strict collapse invariance:  
+  `phi((m, a, s)) = m`
+
+  It validates cross-domain stability using **exact replay equivalence** (`B_A = B_B`), bounded governance lattice collapse, injection stability, and deterministic collision resolution (refusal dominance).
+
+---
+
+### ⚙️ Executable Structural Systems (Built on SSUM / SSAU Foundations)
 
 - [Shunyaya Structural Iteration Geometry (SSIG)](https://github.com/OMPSHUNYAYA/SSUM-Structural-Iteration-Geometry)  
   A deterministic structural mathematics framework that reveals how iterative processes behave,  
@@ -674,35 +690,26 @@ This is the first official entry in the **Shunyaya Symbolic Physics** category �
 
 ## ⭐ Latest Foundational Release
 
-### Structural Distance
+### Structural Alphabet Unification (SSAU)
 
-- [SSUM-Structural-Distance (SSUM-SD)](https://github.com/OMPSHUNYAYA/SSUM-Structural-Distance)  
-  Introduces a deterministic metric that measures **structural cost accumulated along a trajectory**,  
-  reframing distance as *how costly motion is to structure*, not merely how far it moves numerically.  
+- [Shunyaya Structural Alphabet Unification (SSAU)](https://github.com/OMPSHUNYAYA/Structural-Alphabet-Unification)  
+  Introduces a deterministic **cross-domain unification standard** showing that deterministic systems compress into
+  **finite structural regime vocabularies** that remain bounded under union — without altering domain laws or outputs.  
 
-  SSUM-Structural-Distance operates as a **reproducible measurement layer**,  
-  leaving solvers, algorithms, and geometry unchanged while quantifying permission, resistance,  
-  and collapse pressure across iterative mathematics, algorithms, and real-world geometry  
-  (including LiDAR-based analysis of the Leaning Tower of Pisa).  
+  SSAU operates at the governance / admissibility layer under strict collapse:
+  `phi((m, a, s)) = m`  
 
-  Fully deterministic, offline, auditable, and classically compatible.
+  Conformance is proven by **exact replay equivalence**:
+  `B_A = B_B`  
+
+  Establishes bounded lattice governance, deterministic collision resolution (refusal dominance),
+  and injection stability under adversarial expansion.
 
 ---
 
 ### 🧭 Master Index (this repository)
 - [Shunyaya-Symbolic-Mathematics-Master-Docs](https://github.com/OMPSHUNYAYA/Shunyaya-Symbolic-Mathematics-Master-Docs)  
   Central map of the ecosystem. Use this link in future to re-establish full project context.
-
----
-
-## 🔹 Future Extensions
-These projects are in advanced preparation and will appear in this index once published:
-
-- SSM-Fin — symbolic finance lenses for portfolio, credit, and risk.
-- SSM-Cyber — bounded drift lenses for traffic/IDS and security analytics.
-- SSM-Health — physiological signals with symbolic stability lanes.
-
-Additional domain adapters in safety, infrastructure, and planetary systems are in active pipeline.
 
 ---
 
@@ -720,7 +727,7 @@ This consistency makes the math auditable, the deployments reproducible, and the
 
 ## Semantic Category / Practical Scope
 
-- **Domains:** AI alignment, network observability, data provenance, governance frameworks, safety dials, operational assurance.
+- **Domains:** symbolic AI governance, network observability, data provenance, governance frameworks, safety dials, operational assurance.
 - **Integration surfaces:** HTTP / MQTT / Kafka / REST / streaming telemetry / embedded message buses.
 - **Implementation footprint:** Works in Python, Rust, Go, C, and browser JavaScript; no vendor dependencies; no protocol rewrites.
 
@@ -741,19 +748,21 @@ The majority of Shunyaya projects are released as **Open Standards**.
 
 This includes (but is not limited to):
 
-**SSUM, SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe, SSM-AIM Mini, SSM-Tweet, SSM-Browse,  
-LAW-0AR, SSM-Encrypt, SSM-UT, SSUM-Finite-Structural-Area-Experiment, 
-SSUM-Structural-Primality, SSUM-AIM Mini, SSP**
+**SSUM, SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe,  
+SSM-AIM Mini (SSM-based AI kernel),  
+SSUM-AIM Mini (SSUM-based AI kernel),  
+SSM-Tweet, SSM-Browse, LAW-0AR, SSM-Encrypt, SSM-UT,  
+SSUM-Finite-Structural-Area-Experiment,  
+SSUM-Structural-Primality, SSP, SSAU**
 
 **Open-Standard projects mean:**
 
 - **Free to implement** with **no registration or fees**
 - **Protocol / format freedom:** any person or organization may implement the published standard in personal, institutional, research, or commercial systems
 - **No exclusivity or vendor lock-in:** implementations may be built in any language, on any platform, under any deployment model
-- **Deterministic and transparent by design:** formulas, stamps, envelopes, and symbolic logic are specified to execute reproducibly under identical inputs (e.g., `phi((m,a)) = m` where applicable)
-- **Attribution:** **appreciated but not required**, unless explicitly required by the license declared in a specific repository
+- **Deterministic and transparent by design:** formulas, stamps, envelopes, and symbolic logic are specified to execute reproducibly under identical inputs (e.g., `phi((m,a)) = m` or `phi((m,a,s)) = m`, where applicable)
+- **Attribution:** recommended but not required, unless explicitly required by the license declared in a specific repository
 - **License authority:** the license stated in each repository is the sole governing legal instrument and overrides this summary
-
 
 **Warranty:**  
 Provided *as-is* with no warranty or guarantee of fitness.
@@ -790,43 +799,47 @@ These systems:
 - require attribution
 - carry no warranty or endorsement
 
-This does **not** alter the Open-Standard status of SSUM
-or the CC BY-NC 4.0 status of SSM research materials.
+This does **not** alter the Open-Standard status of projects released as Open Standards, 
+nor the CC BY-NC 4.0 status of specifically designated foundational research frameworks.
 
 ---
 
-# 📘 Symbolic Mathematics & Research Materials
+# 📘 Select Foundational Research Frameworks
 
-Only **Shunyaya Structural Origin Mathematics (SSOM)**, **Shunyaya Structural Equations (SSE)**,
-**Shunyaya Symbolic Mathematics (SSM)**, and **Shunyaya Structural Transition Science (SSTS)**,
-along with their related theoretical documents and research materials, are released under
-Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
+Only **Shunyaya Structural Origin Mathematics (SSOM)**,
+**Shunyaya Structural Equations (SSE)**,
+**Shunyaya Symbolic Mathematics (SSM)**,
+and **Shunyaya Structural Transition Science (SSTS)**,
+together with their associated theoretical documents and research materials,
+are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
 
-This covers symbolic theory, structural interpretation, specifications,
-proof documents, and educational references.
+This applies to symbolic theory, structural interpretation, specifications,
+proof documents, and educational reference materials within those frameworks.
 
 Conditions:
 - attribution required
 - non-commercial use only
 - no warranty or endorsement
 
-All other Shunyaya repositories (including SSUM-based systems, observatories,
-and executable frameworks) are released under CC BY 4.0 or Open Standard terms,
-as declared in their respective repositories.
+All other Shunyaya repositories are released under
+either Open Standard terms or CC BY 4.0,
+as explicitly declared in their respective repositories.
 
 ---
 
 ### ⚠️ Safety  
-All Shunyaya materials are **observation-only** scaffolds intended for transparency, auditability, structural analysis, and reproducibility.  
 
-They must **not** be used as decision gates in life-critical, safety-critical, or high-risk systems without independent verification and appropriate redundancies.
+All Shunyaya materials are **observation-only structural layers** intended for transparency, auditability, structural analysis, and reproducibility.  
+
+They do not replace domain laws, solvers, controls, or regulatory safeguards.
+
+They must **not** be used as sole decision gates in life-critical, safety-critical, or high-risk systems without independent verification, domain-specific validation, and appropriate redundancies.
 
 ---
 
 This `Shunyaya-Symbolic-Mathematics-Master-Docs` repository is an index and navigation layer.  
-It grants no exclusivity or stewardship over any domain; it exists to make the work visible, auditable, and useful to humanity.
+It grants no exclusivity, authority, or stewardship over any domain; it exists to make the work visible, auditable, and usable under the licenses declared in each repository.
 
 ---
 
-© The Authors of the Shunyaya Framework, Shunyaya Structural Origin Mathematics, Shunyaya Symbolic Mathematics, Shunyaya Structural Universal Mathematics, and Shunyaya Structural Equations  — advancing transparent, accountable, planetary infrastructure.
-
+© The Authors of the Shunyaya Framework — advancing transparent, accountable, planetary infrastructure.
