@@ -690,20 +690,14 @@ This is the first official entry in the **Shunyaya Symbolic Physics** category �
 
 ## ⭐ Latest Foundational Release
 
-### Structural Alphabet Unification (SSAU)
+- [Shunyaya-True-Logic (STL)](https://github.com/OMPSHUNYAYA/True-Logic)  
+  A deterministic structural collapse-governance standard — distinct from classical Boolean logic yet preserving it exactly.  
+  STL formalizes when truth may collapse, introducing a finite structural truth topology beneath `TRUE/FALSE` while enforcing strict conservative extension under `phi((m, a, s)) = m`.  
+  It governs admissibility, replay identity, and collapse discipline without modifying logical operators or outcomes.
 
-- [Shunyaya Structural Alphabet Unification (SSAU)](https://github.com/OMPSHUNYAYA/Structural-Alphabet-Unification)  
-  Introduces a deterministic **cross-domain unification standard** showing that deterministic systems compress into
-  **finite structural regime vocabularies** that remain bounded under union — without altering domain laws or outputs.  
+**Status:** Public release (Open Standard • deterministic • replay-verifiable)
 
-  SSAU operates at the governance / admissibility layer under strict collapse:
-  `phi((m, a, s)) = m`  
-
-  Conformance is proven by **exact replay equivalence**:
-  `B_A = B_B`  
-
-  Establishes bounded lattice governance, deterministic collision resolution (refusal dominance),
-  and injection stability under adversarial expansion.
+This is the first official entry in the **Shunyaya Logical Substrate** category — complementing symbolic mathematics while remaining structurally conservative and classically exact.
 
 ---
 
@@ -753,7 +747,7 @@ SSM-AIM Mini (SSM-based AI kernel),
 SSUM-AIM Mini (SSUM-based AI kernel),  
 SSM-Tweet, SSM-Browse, LAW-0AR, SSM-Encrypt, SSM-UT,  
 SSUM-Finite-Structural-Area-Experiment,  
-SSUM-Structural-Primality, SSP, SSAU**
+SSUM-Structural-Primality, SSP, SSAU, STL**
 
 **Open-Standard projects mean:**
 
