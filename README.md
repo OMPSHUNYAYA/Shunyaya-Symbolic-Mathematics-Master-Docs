@@ -306,6 +306,23 @@ Law 0 defines the two-lane invariant used across the ecosystem: `phi((m, a)) = m
 
 ---
 
+### ⚡ Structural Substrate & Magnitude Regime Layer
+
+- [Shunyaya Structural Substrate Layer (SSSL)](https://github.com/OMPSHUNYAYA/Structural-Substrate-Layer)  
+  A deterministic **structural magnitude substrate** that operates alongside classical electrodynamics (and any scalar magnitude trace) — introducing a **finite 4-state regime algebra** while preserving the classical value exactly.  
+
+  - finite structural alphabet: `A4 = {Z0, Eplus, S, Eminus}`  
+  - strict conservative collapse (non-negotiable): `phi((m,a,s)) = m`  
+  - deterministic evolution via a transition operator (no randomness, no tuning inside scope)  
+  - **replay-verifiable conformance identity:** `B_A = B_B` (byte-identical artifacts)  
+  - spectral boundedness discipline: `rho(P) <= 1`  
+  - admissibility governance: `adm_E(T) ∈ {ALLOW, ABSTAIN}`  
+
+  SSSL does **not** modify Maxwell’s equations, does **not** simulate, and does **not** predict.  
+  It governs **structural posture of magnitude evolution** with civilization-grade replay discipline.
+
+---
+  
 ### 🧬 Structural Coherence & Unification Layer
 
 - [Shunyaya Structural Alphabet Unification (SSAU)](https://github.com/OMPSHUNYAYA/Structural-Alphabet-Unification)  
@@ -747,7 +764,7 @@ SSM-AIM Mini (SSM-based AI kernel),
 SSUM-AIM Mini (SSUM-based AI kernel),  
 SSM-Tweet, SSM-Browse, LAW-0AR, SSM-Encrypt, SSM-UT,  
 SSUM-Finite-Structural-Area-Experiment,  
-SSUM-Structural-Primality, SSP, SSAU, STL**
+SSUM-Structural-Primality, SSP, SSAU, STL, SSSL**
 
 **Open-Standard projects mean:**
 
