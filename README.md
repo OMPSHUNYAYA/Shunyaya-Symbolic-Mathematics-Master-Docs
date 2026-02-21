@@ -1,20 +1,30 @@
 # 🌐 Shunyaya Symbolic Mathematics — Master Index  
 **Repository:** Shunyaya-Symbolic-Mathematics-Master-Docs
 
+![Execution-First](https://img.shields.io/badge/Execution-First-black)
+![Deterministic](https://img.shields.io/badge/Deterministic-Yes-green)
+![Replay-Discipline](https://img.shields.io/badge/Replay-Discipline%20(Where%20Published)-green)
+![Classical-Integrity](https://img.shields.io/badge/Classical-Outputs%20Unmodified-green)
+![Layered-Architecture](https://img.shields.io/badge/Architecture-Layered-purple)
+
 ---
 
-This repository is the **execution-first entry point** to the Shunyaya ecosystem — a unified index of **runnable, auditable, production-grade symbolic and structural standards that already work**.
+## ✅ Executable Proof Index (Start Here)
 
-It provides engineers, scientists, regulators, and researchers a **single public map of systems that execute deterministically**, produce **verifiable outputs**, and remain **classically correct by construction** — **no private context, training, or simulation required**.
+This repository is the **execution-first entry point** to the Shunyaya ecosystem — a unified index of **runnable, auditable, production-grade symbolic and structural standards** built to execute deterministically.
 
-Across domains, the unifying principle is precise and enforced in code:  
-**represent reality as a symbolic, bounded, auditable signal that executes deterministically and remains stable across vendors, borders, and time.**
+It provides engineers, scientists, regulators, and researchers a **single public map of systems that run exactly as specified**, preserve classical outputs via strict conservative collapse (e.g., `phi((m, a)) = m`, `phi((m, a, s)) = m`), and introduce structural governance **without modifying equations, solvers, or domain laws**.
 
-The Shunyaya framework is a **proof-first mathematical system** with **executable kernels, browser observatories, deterministic scripts, and CI-validated results** demonstrating that the mathematics runs exactly as specified.
+Where repositories publish conformance capsules and frozen evidence bundles, verification is replay-based and often includes **byte-identical artifact identity** (`B_A = B_B`) under independent runs.
 
-The Shunyaya framework originated from a structural reinterpretation of **zero** —
-not as a static null, but as a **dynamic baseline** from which structure emerges,
-drifts, accumulates cost, and stabilizes in both mathematics and real systems.
+Across domains, the unifying principle is precise and enforced in code:
+
+**represent reality as a bounded, symbolic, auditable signal that executes deterministically and remains stable across vendors, jurisdictions, and time.**
+
+The framework originated from a structural reinterpretation of **zero** —  
+not as a static null, but as a **dynamic baseline** from which structure emerges, drifts, accumulates cost, stabilizes, and governs admissibility across real mathematical and physical systems.
+
+Together, these repositories form a **layered structural infrastructure**: origin → runtime → diagnosis → trust → irreversibility — all collapse-safe by construction.
 
 ---
 
@@ -143,16 +153,16 @@ What follows are **executable proofs** that these frameworks already work.
 
 ---
 
-## 🚀 Quick Proof That Shunyaya Is Real — Verify in 10 Seconds
+## 🚀 Quick Proof That Shunyaya Runs — Execute in 10 Seconds
 
 This is not a conceptual illustration.  
-It is a **runnable, offline, deterministic kernel** that demonstrates the core Shunyaya principle:
-**structure can be revealed without altering classical meaning**.
+It is a **runnable, offline kernel** that demonstrates the core Shunyaya principle:
+**structural collapse-safety and continuity** — without requiring replay identity in this mini demo.
 
 The example below uses the **SSM-ClockKe** mini kernel to produce:
 - a bounded alignment lane (`a_out`)
 - a tamper-evident continuity stamp chain
-- identical structural behavior across machines
+- structurally consistent behavior across machines
 
 No data. No training. No simulation. Just execution.
 
@@ -320,6 +330,21 @@ Law 0 defines the two-lane invariant used across the ecosystem: `phi((m, a)) = m
 
   SSSL does **not** modify Maxwell’s equations, does **not** simulate, and does **not** predict.  
   It governs **structural posture of magnitude evolution** with civilization-grade replay discipline.
+
+---
+
+- [Shunyaya Structural Irreversibility Layer (SSIL)](https://github.com/OMPSHUNYAYA/Structural-Irreversibility-Layer)  
+  A deterministic **irreversibility governance layer** that detects and regulates structural transitions from reversible to irreversible regimes — **without modifying classical equations, solvers, or magnitudes**.  
+
+  - strict conservative collapse: `phi((m,a,s,r)) = m`  
+  - finite irreversibility grammar: `R = {R0, E0, I1, I2, C}`  
+  - bounded-horizon structural window: `W_H(t) = {t-H+1, ..., t}`  
+  - continuation admissibility: `IRR_ADM(t) ∈ {CONTINUE, ABSTAIN}`  
+  - replay-verifiable conformance identity: `B_A = B_B` (byte-identical artifacts; no tolerance)  
+
+  SSIL does **not** predict, optimize, simulate, or intervene.  
+  It governs **structural continuation permission under irreversible boundary pressure**,  
+  enforcing deterministic restraint before collapse escalation — while remaining fully classically exact.
 
 ---
   
@@ -764,7 +789,7 @@ SSM-AIM Mini (SSM-based AI kernel),
 SSUM-AIM Mini (SSUM-based AI kernel),  
 SSM-Tweet, SSM-Browse, LAW-0AR, SSM-Encrypt, SSM-UT,  
 SSUM-Finite-Structural-Area-Experiment,  
-SSUM-Structural-Primality, SSP, SSAU, STL, SSSL**
+SSUM-Structural-Primality, SSP, SSAU, STL, SSSL, SSIL**
 
 **Open-Standard projects mean:**
 
