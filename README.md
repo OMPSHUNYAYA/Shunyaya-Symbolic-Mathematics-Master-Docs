@@ -26,7 +26,7 @@ not as a static null, but as a **dynamic baseline** from which structure emerges
 
 ---
 
-### 🏗 Civilization-Grade (Finite, Replay-Verified) Structural Infrastructure
+## 🏗 Civilization-Grade (Finite, Replay-Verified) Structural Infrastructure
 
 origin → runtime → diagnosis → trust → irreversibility  
 all collapse-safe by construction.
