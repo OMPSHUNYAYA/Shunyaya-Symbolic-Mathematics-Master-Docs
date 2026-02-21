@@ -24,7 +24,12 @@ Across domains, the unifying principle is precise and enforced in code:
 The framework originated from a structural reinterpretation of **zero** —  
 not as a static null, but as a **dynamic baseline** from which structure emerges, drifts, accumulates cost, stabilizes, and governs admissibility across real mathematical and physical systems.
 
-Together, these repositories form a **layered structural infrastructure**: origin → runtime → diagnosis → trust → irreversibility — all collapse-safe by construction.
+---
+
+### 🏗 Civilization-Grade (Finite, Replay-Verified) Structural Infrastructure
+
+origin → runtime → diagnosis → trust → irreversibility  
+all collapse-safe by construction.
 
 ---
 
