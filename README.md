@@ -351,6 +351,9 @@ Law 0 defines the two-lane invariant used across the ecosystem: `phi((m, a)) = m
   It governs **structural continuation permission under irreversible boundary pressure**,  
   enforcing deterministic restraint before collapse escalation — while remaining fully classically exact.
 
+  - [ssil-demo (Deterministic Demo Harness — Frozen Audit Snapshot v1.0)](https://github.com/OMPSHUNYAYA/ssil-demo)  
+    Minimal replay-verifiable observatory harness demonstrating `B_A = B_B` under locked deterministic scope, without altering specification authority.
+
 ---
   
 ### 🧬 Structural Coherence & Unification Layer
