@@ -323,7 +323,7 @@ Law 0 defines the two-lane invariant used across the ecosystem: `phi((m, a)) = m
 
 ### ⚡ Behavioral Classification Layer
 
-### 🧬 [Shunyaya Behavioral Mathematics (SBM)](https://github.com/OMPSHUNYAYA/Behavioral-Mathematics)
+- [Shunyaya Behavioral Mathematics (SBM)](https://github.com/OMPSHUNYAYA/Behavioral-Mathematics)
 
 Deterministic structural emergence and operator classification via a finite structural alphabet — with classical magnitude preserved.
 
