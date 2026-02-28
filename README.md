@@ -321,6 +321,24 @@ Law 0 defines the two-lane invariant used across the ecosystem: `phi((m, a)) = m
 
 ---
 
+### ⚡ Behavioral Classification Layer
+
+### 🧬 [Shunyaya Behavioral Mathematics (SBM)](https://github.com/OMPSHUNYAYA/Behavioral-Mathematics)
+
+Deterministic structural emergence and operator classification via a finite structural alphabet — with classical magnitude preserved.
+
+- **Invariant:** `phi((m, a, s)) = m`
+- **State:** `X(t) = (m(t), a(t), s(t))`
+- **Alphabet:** `Sigma = {sigma_0, ..., sigma_L}` (finite, operator-defined), with `H >= 1`
+- **Conformance:** `B_A = B_B` (byte-identical replay required)
+- **Fingerprint:** `(alpha(N,H), gamma(H,N), Sigma)`
+
+Replay-verified where published.
+
+In short: **classical outputs remain exact; structure becomes finite, classifiable, and reproducible.**
+
+---
+
 ### ⚡ Structural Substrate & Magnitude Regime Layer
 
 - [Shunyaya Structural Substrate Layer (SSSL)](https://github.com/OMPSHUNYAYA/Structural-Substrate-Layer)  
@@ -797,7 +815,7 @@ SSM-AIM Mini (SSM-based AI kernel),
 SSUM-AIM Mini (SSUM-based AI kernel),  
 SSM-Tweet, SSM-Browse, LAW-0AR, SSM-Encrypt, SSM-UT,  
 SSUM-Finite-Structural-Area-Experiment,  
-SSUM-Structural-Primality, SSP, SSAU, STL, SSSL, SSIL**
+SSUM-Structural-Primality, SSP, SSAU, STL, SSSL, SSIL, SBM**
 
 **Open-Standard projects mean:**
 
