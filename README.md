@@ -33,6 +33,22 @@ all collapse-safe by construction.
 
 ---
 
+## ⚡ A Counterintuitive Fact (~3 KB Deterministic AI Kernel)
+
+A ~3 KB AI kernel produces a **deterministic execution certificate — not merely an output**.
+
+Conformance condition:
+
+`B_A = B_B`
+
+No probability.  
+No tolerance.  
+No trust required.
+
+- [SSUM-AIM Observatory](https://github.com/OMPSHUNYAYA/SSUM-AIM-Observatory)
+
+---
+
 ## 🔷 Five Layers of the Shunyaya Framework — What Each One Answers
 
 Shunyaya is the **umbrella framework** — a conservative extension stack that preserves **exact classical meaning** while making **origin, posture, evolution, diagnosis, and trust** executable and auditable.
@@ -816,6 +832,11 @@ SSUM-AIM Mini (SSUM-based AI kernel),
 SSM-Tweet, SSM-Browse, LAW-0AR, SSM-Encrypt, SSM-UT,  
 SSUM-Finite-Structural-Area-Experiment,  
 SSUM-Structural-Primality, SSP, SSAU, STL, SSSL, SSIL, SBM**
+
+In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
+
+It is not a domain-layer project, but a deterministic certification framework
+for manifest-bound replay identity across executable capsules.
 
 **Open-Standard projects mean:**
 
