@@ -447,6 +447,29 @@ In short: **classical outputs remain exact; structure becomes finite, classifiab
 
 ---
 
+- [Structural Computation Core (SSC-Core)](https://github.com/OMPSHUNYAYA/Structural-Computation-Core)  
+  Deterministic **structural computation geometry framework** that derives **execution structure directly from execution trace** while preserving classical computation exactly.
+
+  SSC-Core introduces structural observables over runtime execution:
+
+  - structural work field `Psi(t)`
+  - structural compression `Omega`
+  - structural curvature `K`
+  - structural fingerprint `F`
+
+  Every execution remains **collapse-safe** under the invariant:
+
+  `phi((m,a,s)) = m`
+
+  Certification is **trace-derived and replay-verifiable**, requiring exact artifact identity:
+
+  `B_A = B_B`
+
+  SSC-Core does **not modify classical algorithms, solvers, or outputs**.  
+  It measures **structural execution geometry** and produces deterministic certificates of computation integrity.
+
+  ---
+
 - [SSUM-STAR — Structural Time And Replay](https://github.com/OMPSHUNYAYA/SSUM-STAR)  
   A deterministic, offline structural time and replay system within the
   Shunyaya Structural Universal Mathematics (SSUM) framework.
@@ -831,7 +854,7 @@ SSM-AIM Mini (SSM-based AI kernel),
 SSUM-AIM Mini (SSUM-based AI kernel),  
 SSM-Tweet, SSM-Browse, LAW-0AR, SSM-Encrypt, SSM-UT,  
 SSUM-Finite-Structural-Area-Experiment,  
-SSUM-Structural-Primality, SSP, SSAU, STL, SSSL, SSIL, SBM**
+SSUM-Structural-Primality, SSP, SSAU, STL, SSSL, SSIL, SBM, SSC-Core**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
