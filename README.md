@@ -33,9 +33,9 @@ all collapse-safe by construction.
 
 ---
 
-## ⚡ A Counterintuitive Fact (~3 KB Deterministic AI Kernel)
+## ⚡ A Counterintuitive Fact (1.05 KB+ Deterministic AI Kernel)
 
-A ~3 KB AI kernel produces a **deterministic execution certificate — not merely an output**.
+A ~1.05 KB AI kernel can produce a **deterministic execution certificate — not merely an output**.
 
 Conformance condition:
 
@@ -44,6 +44,9 @@ Conformance condition:
 No probability.  
 No tolerance.  
 No trust required.
+
+*Within the Shunyaya framework, AI refers to **AIM (Artificial Intelligence Manifest)** —
+deterministic manifest-based computation rather than probabilistic machine learning.*
 
 - [SSUM-AIM Observatory](https://github.com/OMPSHUNYAYA/SSUM-AIM-Observatory)
 
