@@ -52,6 +52,26 @@ deterministic manifest-based computation rather than probabilistic machine learn
 
 ---
 
+## ⚙ SSUM-AIM Formula Kernel (AIMFK) — Deterministic Formula Intelligence (~25 KB)
+
+**AIMFK** is a ~25 KB deterministic kernel that performs **symbolic mathematical computation through explicit rule transformations — not probabilistic inference**.
+
+Computation model:
+
+`Result = Φ(Task, Rules, Inputs)`
+
+Identical inputs produce **replay-verifiable symbolic results**.
+
+No probability.  
+No model weights.  
+No training data.
+
+*Within the Shunyaya framework, AI refers to **AIM (Artificial Intelligence Manifest)** — deterministic rule-based computation rather than probabilistic machine learning.*
+
+- [SSUM-AIM Formula Kernel (AIMFK)](https://github.com/OMPSHUNYAYA/SSUM-AIM-Formula-Kernel)
+
+---
+
 ## 🔷 Five Layers of the Shunyaya Framework — What Each One Answers
 
 Shunyaya is the **umbrella framework** — a conservative extension stack that preserves **exact classical meaning** while making **origin, posture, evolution, diagnosis, and trust** executable and auditable.
@@ -857,7 +877,8 @@ SSM-AIM Mini (SSM-based AI kernel),
 SSUM-AIM Mini (SSUM-based AI kernel),  
 SSM-Tweet, SSM-Browse, LAW-0AR, SSM-Encrypt, SSM-UT,  
 SSUM-Finite-Structural-Area-Experiment,  
-SSUM-Structural-Primality, SSP, SSAU, STL, SSSL, SSIL, SBM, SSC-Core**
+SSUM-Structural-Primality, SSP, SSAU, STL, SSSL, SSIL, SBM, SSC-Core,
+SSUM-AIM Formula Kernel (AIMFK)**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
