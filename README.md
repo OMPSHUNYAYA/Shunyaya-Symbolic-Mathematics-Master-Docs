@@ -877,7 +877,7 @@ SSM-AIM Mini (SSM-based AI kernel),
 SSUM-AIM Mini (SSUM-based AI kernel),  
 SSM-Tweet, SSM-Browse, LAW-0AR, SSM-Encrypt, SSM-UT,  
 SSUM-Finite-Structural-Area-Experiment,  
-SSUM-Structural-Primality, SSP, SSAU, STL, SSSL, SSIL, SBM, SSC-Core,
+SSUM-Structural-Primality, SSP, SSAU, STL, SSSL, SSIL, SBM, SSC-Core,   
 SSUM-AIM Formula Kernel (AIMFK)**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
