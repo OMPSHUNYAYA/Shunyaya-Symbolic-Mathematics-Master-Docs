@@ -11,31 +11,56 @@
 
 ## ✅ Executable Proof Index (Start Here)
 
-This repository is the **execution-first entry point** to the Shunyaya ecosystem — a unified index of **runnable, auditable, production-grade symbolic and structural standards** built to execute deterministically.
+This repository is the **execution-first public entry point** to the Shunyaya ecosystem — a unified index of **runnable, auditable, civilization-grade symbolic and structural standards** built to execute deterministically.
 
 It provides engineers, scientists, regulators, and researchers a **single public map of systems that run exactly as specified**, preserve classical outputs via strict conservative collapse (e.g., `phi((m, a)) = m`, `phi((m, a, s)) = m`), and introduce structural governance **without modifying equations, solvers, or domain laws**.
 
 Where repositories publish conformance capsules and frozen evidence bundles, verification is replay-based and often includes **byte-identical artifact identity** (`B_A = B_B`) under independent runs.
 
-Across domains, the unifying principle is precise and enforced in code:
+Across domains, the unifying principle is simple and enforced in code:
 
-**represent reality as a bounded, symbolic, auditable signal that executes deterministically and remains stable across vendors, jurisdictions, and time.**
+**represent reality as a bounded, symbolic, auditable signal that executes deterministically and remains stable across systems, vendors, jurisdictions, and time.**
 
 The framework originated from a structural reinterpretation of **zero** —  
 not as a static null, but as a **dynamic baseline** from which structure emerges, drifts, accumulates cost, stabilizes, and governs admissibility across real mathematical and physical systems.
 
 ---
 
-## 🏗 Civilization-Grade (Finite, Replay-Verified) Structural Infrastructure
+## 🏗 Civilization-Grade Structural Infrastructure
 
 origin → runtime → diagnosis → trust → irreversibility  
-all collapse-safe by construction.
+finite, replay-verified, and collapse-safe by construction.
+
+---
+
+## ⚡ A Fundamental Breakthrough (~1 KB Deterministic Execution Kernel)
+
+A ~1 KB kernel can produce a **replay-verifiable execution certificate — not merely an output**.
+
+Execution identity model:
+
+`E = Phi(P, I, O)`
+
+Replay identity condition:
+
+`B_A = B_B`
+
+Identical execution boundaries produce **identical certificates**.  
+Any change produces a **different certificate**.
+
+No probability.  
+No tolerance.  
+No trust required.
+
+**EIK** certifies **execution identity** from the observable execution boundary.
+
+- [Shunyaya Execution Identity Kernel (EIK)](https://github.com/OMPSHUNYAYA/Execution-Identity-Kernel)
 
 ---
 
 ## ⚡ A Counterintuitive Fact (1.05 KB+ Deterministic AI Kernel)
 
-A ~1.05 KB AI kernel can produce a **deterministic execution certificate — not merely an output**.
+A ~1.05 KB AI kernel can produce a **replay-verifiable execution certificate — not merely an output**.
 
 Conformance condition:
 
@@ -176,7 +201,7 @@ No approximation.
 No solver replacement.  
 No numerical distortion.
 
-What follows are **executable proofs** that these frameworks already work.
+What follows are **executable proofs** that these frameworks already run.
 
 ---
 
@@ -265,7 +290,7 @@ Note: For strict replay determinism, replace datetime.now(...) with a fixed dete
 - Re-running the script with the same tick inputs reproduces the same structural behavior  
 - No solver, model, clock source, or external dependency is modified  
 
-This is the smallest possible executable proof that Shunyaya is **operational, not theoretical**.
+This is the smallest executable proof that Shunyaya is **operational, not theoretical**.
 
 *Optional context:*  
 SSM reveals **runtime posture beside values**.  
@@ -295,7 +320,7 @@ Shunyaya is not theoretical — it runs in real, deterministic code today:
   Public validation is anchored by a **daily golden day-grid (1990–2030)** with strict integrity checks — **rāśi mapping** (`rasi = floor(wrap360(L_hat_deg)/30)`) and **node identity** (`Ketu = wrap360(Rahu + 180)`) — producing **PASS** under `tol = 1e-5` (wrap-aware).  
   **Note:** This is **ephemeris-free at runtime**; optional cross-ephemeris scorecards can be run separately for external accuracy comparison when desired.
 
-Across **timekeeping, AI, astronomy, geometry, networks, messaging, and observability**, one truth is consistent:  
+Across **timekeeping, AI, astronomy, geometry, networks, messaging, and observability**, one result is consistent:
 **Shunyaya already works — reproducibly, deterministically, and across domains.**
 
 ---
@@ -647,8 +672,8 @@ Finite enumeration with deterministic PASS/FAIL certification — no heuristics.
 
 ## 🧭 **What This Establishes**
 
-Across numerical methods, geometry, mechanics, data, and real-world structures, SSUM produces  
-**executable, inspectable, and falsifiable results** — proving structural mathematics is not theoretical, but operational.
+Across numerical methods, geometry, mechanics, data, and real-world structures, SSUM produces
+**executable, inspectable, and falsifiable results** — proving structural mathematics is operational, not theoretical.
 
 ---
 
@@ -878,7 +903,7 @@ SSUM-AIM Mini (SSUM-based AI kernel),
 SSM-Tweet, SSM-Browse, LAW-0AR, SSM-Encrypt, SSM-UT,  
 SSUM-Finite-Structural-Area-Experiment,  
 SSUM-Structural-Primality, SSP, SSAU, STL, SSSL, SSIL, SBM, SSC-Core,   
-SSUM-AIM Formula Kernel (AIMFK)**
+AIMFK, EIK**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
