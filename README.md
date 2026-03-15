@@ -33,7 +33,24 @@ finite, replay-verified, and collapse-safe by construction.
 
 ---
 
-## ⚡ A Fundamental Breakthrough (~1 KB Deterministic Execution Kernel)
+## ⚡ A Counterintuitive Breakthrough (~819-Byte Replay Identity Capsule)
+
+A tiny ~819-byte artifact can produce a **replay-verifiable identity of sequence history — not merely a hash**.
+
+Replay identity condition:
+
+`B_A = B_B`
+
+If the same sequence runs again, the identity remains unchanged.  
+Any change in the sequence produces a **different capsule**.
+
+History becomes **replayable through structure**.
+
+- [Replay Identity Capsule (RIC)](https://github.com/OMPSHUNYAYA/RIC-Proof)
+
+---
+
+## ⚡ A Counterintuitive Fact (~1 KB Execution Identity Kernel)
 
 A ~1 KB kernel can produce a **replay-verifiable execution certificate — not merely an output**.
 
@@ -58,9 +75,9 @@ No trust required.
 
 ---
 
-## ⚡ A Counterintuitive Fact (1.05 KB+ Deterministic AI Kernel)
+## ⚡ A Fundamental Shift (~1.05 KB Deterministic AI Kernel — AIC Capsule)
 
-A ~1.05 KB AI kernel can produce a **replay-verifiable execution certificate — not merely an output**.
+A ~1.05 KB AI kernel can produce a **replay-verifiable execution certificate — not merely a program output**.
 
 Conformance condition:
 
@@ -72,6 +89,8 @@ No trust required.
 
 *Within the Shunyaya framework, AI refers to **AIM (Artificial Intelligence Manifest)** —
 deterministic manifest-based computation rather than probabilistic machine learning.*
+
+Apart from AIC, the Observatory contains several other tiny AI certification kernels, each producing a different type of **deterministic structural certificate**.
 
 - [SSUM-AIM Observatory](https://github.com/OMPSHUNYAYA/SSUM-AIM-Observatory)
 
@@ -903,7 +922,7 @@ SSUM-AIM Mini (SSUM-based AI kernel),
 SSM-Tweet, SSM-Browse, LAW-0AR, SSM-Encrypt, SSM-UT,  
 SSUM-Finite-Structural-Area-Experiment,  
 SSUM-Structural-Primality, SSP, SSAU, STL, SSSL, SSIL, SBM, SSC-Core,   
-AIMFK, EIK**
+AIMFK, EIK, RIC-Proof**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
