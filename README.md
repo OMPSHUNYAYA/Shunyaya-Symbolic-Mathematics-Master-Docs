@@ -33,7 +33,7 @@ finite, replay-verified, and collapse-safe by construction.
 
 ---
 
-## ⚡ A Counterintuitive Breakthrough (~819-Byte Replay Identity Capsule)
+## ⚡ A Counterintuitive Breakthrough (~819-Byte Replay Identity Capsule — RIC)
 
 A tiny ~819-byte artifact can produce a **replay-verifiable identity of sequence history — not merely a hash**.
 
@@ -46,7 +46,7 @@ Any change in the sequence produces a **different capsule**.
 
 History becomes **replayable through structure**.
 
-- [Replay Identity Capsule (RIC)](https://github.com/OMPSHUNYAYA/RIC-Proof)
+- [RIC-Proof — Replay Identity Capsule (RIC)](https://github.com/OMPSHUNYAYA/RIC-Proof)
 
 ---
 
