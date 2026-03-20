@@ -9,41 +9,49 @@
 
 ---
 
-## 🌍 When Time Disappears
+## 🌐 When Time Becomes Structure — And Computation Follows
 
-What happens when the world shuts down for months?
+What if not just time — but computation itself — does not require synchronization?
 
 No internet.  
 No GPS.  
-No synchronization.
-
-When systems restart — how is time restored?
-
----
-
-**SSUM-Time** demonstrates a counterintuitive answer:
-
-**time can be structurally inferred, propagated, and reconstructed**  
-through deterministic multi-cycle alignment — without continuous external synchronization.
+No clocks.  
+No ordering.  
 
 ---
 
-This is executable and replay-verifiable:
+**SSUM-Time** shows:
+
+**time can be structurally inferred and reconstructed**  
+without continuous external synchronization.
 
 - drift → corrected  
 - bad anchor → rejected  
 - long-gap shutdown → recovered  
 - offline → fully operational  
 
----
-
-### ⚡ Live Proof
-
-- [SSUM-Time — Structural Time Engine](https://github.com/OMPSHUNYAYA/SSUM-Time)
+🔗 [SSUM-Time — Structural Time Engine](https://github.com/OMPSHUNYAYA/SSUM-Time)
 
 ---
 
-**Continuity can be preserved through structure — not continuous synchronization.**
+**STOCRS** extends this further:
+
+**computation can be structurally resolved**  
+without time, order, or synchronization.
+
+- incomplete fragments → safe  
+- different systems → independent  
+- no coordination → required for correctness
+- final result → identical  
+
+🔗 [STOCRS — Structural Computation Engine](https://github.com/OMPSHUNYAYA/STOCRS)
+
+---
+
+**Time can emerge from structure.  
+Computation can emerge from structure.**
+
+**Correctness does not require synchronization.**
 
 ---
 
@@ -960,7 +968,8 @@ SSUM-AIM Mini (SSUM-based AI kernel),
 SSM-Tweet, SSM-Browse, LAW-0AR, SSM-Encrypt, SSM-UT,  
 SSUM-Finite-Structural-Area-Experiment,  
 SSUM-Structural-Primality, SSP, SSAU, STL, SSSL, SSIL, SBM, SSC-Core,   
-AIMFK, EIK, RIC-Proof, SSUM-Time Reference Implementation**
+AIMFK, EIK, RIC-Proof, SSUM-Time Reference Implementation,   
+STOCRS Reference Implementation**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
@@ -1022,7 +1031,7 @@ Only **Shunyaya Structural Origin Mathematics (SSOM)**,
 **Shunyaya Structural Equations (SSE)**,
 **Shunyaya Symbolic Mathematics (SSM)**,
 **Shunyaya Structural Transition Science (SSTS)**,
-and **SSUM-Time Architecture**,
+**SSUM-Time Architecture**, and **STOCRS Architecture**
 
 together with their associated theoretical documents and research materials,
 are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
