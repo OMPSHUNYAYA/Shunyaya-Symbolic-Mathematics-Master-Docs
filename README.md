@@ -260,111 +260,51 @@ No training data.
 
 ---
 
-## 🔷 Five Layers of the Shunyaya Framework — What Each One Answers
+## 🔷 Five Layers of the Shunyaya Framework
 
-Shunyaya is the **umbrella framework** — a conservative extension stack that preserves **exact classical meaning** while making **origin, posture, evolution, diagnosis, and trust** executable and auditable.
+Shunyaya is a **conservative structural extension** that preserves exact classical results while making **origin, posture, evolution, diagnosis, and trust** executable and auditable.
 
-Classical mathematics asks:  
-**What is the value?**
-
-Calculus asks:  
-**How does the value change?**
-
-Shunyaya adds five orthogonal questions — each implemented as a distinct framework layer, each enforcing **exact collapse to classical results**.
+Classical math asks: **What is the value?**  
+Calculus asks: **How does it change?**  
+Shunyaya adds: **Is it structurally valid, stable, evolving correctly, and safe to trust?**
 
 ---
 
-### **Shunyaya Structural Origin Mathematics (SSOM) — Origin Structure Layer**
-
-**SSOM reveals the structural posture of mathematics at the moment it comes into existence**, before computation begins.
-
-- structural object: `(m, a, s)`
-- invariant collapse: `phi((m, a, s)) = m`
-- detects origin-level posture differences even when classical results match
-- exposes the **Structural Reliability Horizon** for limits, derivatives, and integrals
-- observation-only, deterministic, reproducible
-
-SSOM answers:  
-**“Is this mathematical construction structurally fit to exist here — at origin?”**
+| Layer | Core Question | What It Adds | Classical Output |
+|------|--------------|--------------|------------------|
+| **SSOM** | Is this valid at origin? | Origin-level structural admissibility, reliability horizon | Preserved |
+| **SSM** | Is the value centered or drifting? | Bounded alignment lane `(m, a)` | Preserved |
+| **SSUM** | How does structure evolve? | Structural state `(m, a, s)`, cost, pressure, admissibility | Preserved |
+| **SSD** | Where is stability eroding? | Deterministic structural diagnosis of traces | Preserved |
+| **SSE** | Should this be trusted? | Explicit trust governance (`ALLOW / ABSTAIN / DENY`) | Preserved |
 
 ---
 
-### **Shunyaya Symbolic Mathematics (SSM) — Foundational Symbol Layer**
+## 🔒 Invariants (Non-Negotiable)
 
-**SSM preserves every classical value exactly**, while adding a **bounded symbolic lane** that makes posture, drift, and stability **explicit and inspectable**.
+`phi((m, a)) = m`  
+`phi((m, a, s)) = m`
 
-- invariant collapse: `phi((m, a)) = m`
-- adds bounded alignment lanes beside values
-- introduces stamps, envelopes, and symbolic governance signals
-- overlays existing systems **without modifying payloads or outputs**
-- enables auditability, lineage, and deterministic observability
-
-SSM answers:  
-**“Is this value structurally centered or drifting — without changing the value itself?”**
+- classical values remain exact  
+- no solver modification  
+- no approximation or simulation  
 
 ---
 
-### **Shunyaya Structural Universal Mathematics (SSUM) — Runtime Structure Layer**
+## 🧠 Summary
 
-**SSUM treats motion and iteration as structural processes**, evaluated deterministically using a canonical runtime state.
+- **SSOM** → origin validity  
+- **SSM** → posture visibility  
+- **SSUM** → structural evolution  
+- **SSD** → failure diagnosis  
+- **SSE** → trust governance  
 
-- canonical structural state: `(m, a, s)`
-- invariant collapse: `phi((m, a, s)) = m`
-- measures accumulated structural cost and resistance over time
-- detects drift, oscillation, collapse pressure, and admissibility
-- enables executable layers such as **Structural Distance** and **Structural Safety Routing**
-- guarantees **no deviation from classical outputs**, regardless of structural complexity
-
-SSUM answers:  
-**“How does structure evolve over time during motion or iteration — while remaining exactly classically correct?”**
+**Nothing classical changes.  
+Structure becomes visible.**
 
 ---
 
-### **Shunyaya Structural Diagnosis (SSD) — Diagnostic Layer**
-
-**SSD performs deterministic, post-hoc structural diagnosis of executions and traces**, revealing *where* stability erodes, *why* it erodes, and *what form* the erosion takes — **without changing any underlying computation**.
-
-- diagnostic traces are treated as structural state sequences
-- exposes drift corridors, instability bands, and regime transitions
-- separates “works” from “works safely and repeatably”
-- designed for explainability, auditability, and reproducible diagnosis
-- observation-only, deterministic, collapse-safe
-
-SSD answers:  
-**“What is structurally failing (or nearing failure) — and how early can we see it?”**
-
----
-
-### **Shunyaya Structural Equations (SSE) — Trust Governance Layer**
-
-**SSE governs whether a mathematically correct result may be trusted**, without modifying equations, solvers, or computations.
-
-- attaches structural governance to evaluation traces
-- enforces categorical outcomes: `ALLOW`, `CONVERGED_ALLOW`, `DENY`, `ABSTAIN`
-- operates under strict collapse: `phi((y, a, s)) = y`  
-  where `y` denotes the classical value (same role as `m`)
-- separates correctness from admissibility and trust
-- denies unsafe reliance **before** numerical or logical failure
-- remains fully deterministic and observation-only
-
-SSE answers:  
-**“Should this mathematically correct result be trusted here at all?”**
-
----
-
-## Summary
-
-- **SSOM** reveals *origin posture* before computation  
-- **SSM** reveals *posture* without changing meaning  
-- **SSUM** reveals *structural evolution* without changing outcomes  
-- **SSD** reveals *diagnosis* without changing execution  
-- **SSE** governs *trust* without changing computation  
-
-No approximation.  
-No solver replacement.  
-No numerical distortion.
-
-What follows are **executable proofs** that these frameworks already run.
+➡️ What follows are **executable proofs** of these layers in action.
 
 ---
 
@@ -461,30 +401,26 @@ SSOM extends this one layer earlier — revealing **origin posture before comput
 
 ---
 
-### ⭐ **Independent Validation Across Time, Systems, and Domains**
+### ⭐ Independent Validation (Across Domains)
 
-Shunyaya is not theoretical — it runs in real, deterministic code today:
+Shunyaya is not theoretical — it is **running systems** across domains:
 
-- **SSM-ClockKe (20 lines):**  
-  The same universal alignment kernel you just executed — producing stable lanes and tamper-evident stamp chains in seconds.
+- **SSM-ClockKe** → alignment + continuity in ~20 lines  
+- **SSUM-AIM Mini** → deterministic AI without training or probability  
+- **SSUM Observatory** → executable proofs (geometry, computation, real-world data)  
+- **SSM-JTK** → deep-time deterministic kernel (year 0001–9500, validated via monthly self-consistency benches and anchored by golden day-grid checks)
 
-- **SSUM-AIM Mini (~14 KB):**  
-  A complete, manifest-driven, fully offline **AI reflection kernel** built in plain Python — deterministic, transparent, and verifiable.  
-  Tracks a canonical structural state `(m, a, s)`, enforces guaranteed classical collapse `phi((m,a,s)) = m`, and prints SHA-256 integrity hashes each turn.  
-  Not a chatbot, not a neural model, not trained — designed to make thinking **visible and auditable**.
+---
 
-- **SSUM Observatory (Executable Structural Proofs):**  
-  A collection of deterministic case studies demonstrating structural behavior **while preserving exact classical results**.  
-  Includes both **browser-executable GitHub Pages demonstrations** and **script-based analyses** (e.g., real-world LiDAR geometry such as the Leaning Tower of Pisa).  
-  No simulation. No learning. Fully reproducible under identical inputs.
+Across **time, AI, astronomy, geometry, networks, and computation**:
 
-- **SSM-JTK (Ephemeris Kernel):**  
-  **Deep-time capable (year 0001–9500)** via **internal monthly self-consistency benches** (0001–9500; also 1800–2199), reporting **`p90 = 0`** and **`max = 0`** at monthly cadence **against the monthly reference tables**.  
-  Public validation is anchored by a **daily golden day-grid (1990–2030)** with strict integrity checks — **rāśi mapping** (`rasi = floor(wrap360(L_hat_deg)/30)`) and **node identity** (`Ketu = wrap360(Rahu + 180)`) — producing **PASS** under `tol = 1e-5` (wrap-aware).  
-  **Note:** This is **ephemeris-free at runtime**; optional cross-ephemeris scorecards can be run separately for external accuracy comparison when desired.
+**same principle → same result**
 
-Across **timekeeping, AI, astronomy, geometry, networks, messaging, and observability**, one result is consistent:
-**Shunyaya already works — reproducibly, deterministically, and across domains.**
+`correctness = structure`
+
+---
+
+**Deterministic. Reproducible. Cross-domain. Already working.**
 
 ---
 
@@ -500,117 +436,54 @@ Law 0 defines the two-lane invariant used across the ecosystem: `phi((m, a)) = m
 
 ### 🧩 Core Frameworks
 
----
-
 - [Shunyaya Structural Origin Mathematics (SSOM)](https://github.com/OMPSHUNYAYA/Shunyaya-Structural-Origin-Mathematics)  
-  Deterministic **origin-level structural mathematics framework** that evaluates whether a mathematical construction is **structurally fit to exist at the moment of origin**, before computation begins.  
-
-  SSOM introduces a canonical structural object `(m, a, s)` with a strict collapse invariant  
-  `phi((m, a, s)) = m`,  
-  guaranteeing that all classical values remain exact while exposing origin posture, refinement strain, accumulation stress, and the **Structural Reliability Horizon** across limits, derivatives, and integrals.  
-
-  SSOM does not modify mathematics, solvers, or outcomes.  
-  It is **observation-only**, fully deterministic, offline, reproducible, and audit-ready by construction.
-
----
+  Origin-level structural admissibility before computation.  
+  Canonical state `(m, a, s)` with invariant `phi((m, a, s)) = m`.  
+  Reveals origin posture and reliability horizon — without altering classical results.
 
 - [Shunyaya Structural Equations (SSE)](https://github.com/OMPSHUNYAYA/Shunyaya-Structural-Equations)  
-  Deterministic **equation-level trust governance framework** that evaluates when mathematically correct results  
-  may be **relied upon**, without modifying equations, solvers, or classical outputs.  
-
-  SSE enforces categorical admissibility outcomes — `ALLOW`, `CONVERGED_ALLOW`, `DENY`, `ABSTAIN` —  
-  under a strict collapse invariant (`phi((y, a, s)) = y`), guaranteeing exact classical equivalence.  
-
-  Includes executable proof series demonstrating:
-  - solver denial **before** numerical failure (MGH17 benchmark)
-  - calculus corridor governance near instability (reciprocal and square-root families)
-
-  Fully deterministic, observation-only, offline, reproducible, and classically correct by construction.
-
----
+  Trust governance for mathematically correct results.  
+  Enforces `ALLOW / CONVERGED_ALLOW / DENY / ABSTAIN` under strict collapse.  
+  Deterministic, observation-only, and classically exact.
 
 - [Shunyaya Structural Diagnosis (SSD)](https://github.com/OMPSHUNYAYA/Shunyaya-Structural-Diagnosis)  
-  A deterministic, trace-based **post-hoc diagnostic framework** that makes **stability erosion** and **reliance risk** visible — without changing any classical computation.  
-
-  SSD operates strictly after execution on recorded traces and is **observation-only**: it does not modify solver behavior, execution order, or numerical results.  
-  It remains **collapse-safe by construction** under the invariant `phi((m, a, s)) = m`, preserving full classical meaning while exposing drift corridors, regime mixing, and explainable attribution.  
-
-  Produces audit-ready diagnostics (`ssd_report.json` / `.txt`) and canonical **SVG evidence snapshots** under `ssd_out_*` (citation-ready), with optional reference visualizations treated as non-evidence.
-
----
+  Post-execution structural diagnosis of traces.  
+  Exposes drift, instability, and regime transitions without modifying computation.  
+  Produces audit-ready diagnostic artifacts.
 
 - [Shunyaya Structural Universal Mathematics (SSUM)](https://github.com/OMPSHUNYAYA/Structural-Mathematics)  
-  Structural arithmetic framework where every number carries bounded, deterministic behavioural structure  
-  while guaranteeing exact classical collapse (`phi((m,a,s)) = m`).  
-  Includes an offline, single-file browser proof-of-concept demonstrating  
-  **zero classical mismatches across operations.**  
+  Structural runtime framework with canonical state `(m, a, s)` and exact collapse.  
+  Measures evolution, cost, and admissibility — with zero deviation from classical outputs.  
   - [Demo_SSUM.html](https://github.com/OMPSHUNYAYA/Structural-Mathematics/blob/main/demo/Demo_SSUM.html)
 
 ---
 
-### ⚡ Behavioral Classification Layer
+### ⚡ Behavioral Classification
 
-- [Shunyaya Behavioral Mathematics (SBM)](https://github.com/OMPSHUNYAYA/Behavioral-Mathematics)
-
-Deterministic structural emergence and operator classification via a finite structural alphabet — with classical magnitude preserved.
-
-- **Invariant:** `phi((m, a, s)) = m`
-- **State:** `X(t) = (m(t), a(t), s(t))`
-- **Alphabet:** `Sigma = {sigma_0, ..., sigma_L}` (finite, operator-defined), with `H >= 1`
-- **Conformance:** `B_A = B_B` (byte-identical replay required)
-- **Fingerprint:** `(alpha(N,H), gamma(H,N), Sigma)`
-
-Replay-verified where published.
-
-In short: **classical outputs remain exact; structure becomes finite, classifiable, and reproducible.**
+- [Shunyaya Behavioral Mathematics (SBM)](https://github.com/OMPSHUNYAYA/Behavioral-Mathematics)  
+  Finite structural classification of behavior under invariant `phi((m,a,s)) = m`.  
+  Deterministic, replay-verifiable (`B_A = B_B`), and fully classically preserved.
 
 ---
 
-### ⚡ Structural Substrate & Magnitude Regime Layer
+### ⚡ Structural Substrate & Irreversibility
 
 - [Shunyaya Structural Substrate Layer (SSSL)](https://github.com/OMPSHUNYAYA/Structural-Substrate-Layer)  
-  A deterministic **structural magnitude substrate** that operates alongside classical electrodynamics (and any scalar magnitude trace) — introducing a **finite 4-state regime algebra** while preserving the classical value exactly.  
-
-  - finite structural alphabet: `A4 = {Z0, Eplus, S, Eminus}`  
-  - strict conservative collapse (non-negotiable): `phi((m,a,s)) = m`  
-  - deterministic evolution via a transition operator (no randomness, no tuning inside scope)  
-  - **replay-verifiable conformance identity:** `B_A = B_B` (byte-identical artifacts)  
-  - spectral boundedness discipline: `rho(P) <= 1`  
-  - admissibility governance: `adm_E(T) ∈ {ALLOW, ABSTAIN}`  
-
-  SSSL does **not** modify Maxwell’s equations, does **not** simulate, and does **not** predict.  
-  It governs **structural posture of magnitude evolution** with civilization-grade replay discipline.
-
----
+  Finite regime algebra (`A4`) governing magnitude evolution with strict collapse.  
+  Replay-verifiable (`B_A = B_B`), deterministic, and non-interventional.
 
 - [Shunyaya Structural Irreversibility Layer (SSIL)](https://github.com/OMPSHUNYAYA/Structural-Irreversibility-Layer)  
-  A deterministic **irreversibility governance layer** that detects and regulates structural transitions from reversible to irreversible regimes — **without modifying classical equations, solvers, or magnitudes**.  
-
-  - strict conservative collapse: `phi((m,a,s,r)) = m`  
-  - finite irreversibility grammar: `R = {R0, E0, I1, I2, C}`  
-  - bounded-horizon structural window: `W_H(t) = {t-H+1, ..., t}`  
-  - continuation admissibility: `IRR_ADM(t) ∈ {CONTINUE, ABSTAIN}`  
-  - replay-verifiable conformance identity: `B_A = B_B` (byte-identical artifacts; no tolerance)  
-
-  SSIL does **not** predict, optimize, simulate, or intervene.  
-  It governs **structural continuation permission under irreversible boundary pressure**,  
-  enforcing deterministic restraint before collapse escalation — while remaining fully classically exact.
-
-  - [ssil-demo (Deterministic Demo Harness — Frozen Audit Snapshot v1.0)](https://github.com/OMPSHUNYAYA/ssil-demo)  
-    Minimal replay-verifiable observatory harness demonstrating `B_A = B_B` under locked deterministic scope, without altering specification authority.
+  Irreversibility governance via finite grammar and bounded horizon.  
+  Enforces continuation admissibility without modifying classical systems.  
+  - [ssil-demo (Deterministic Demo Harness — Frozen Audit Snapshot v1.0)](https://github.com/OMPSHUNYAYA/ssil-demo)
 
 ---
-  
-### 🧬 Structural Coherence & Unification Layer
+
+### 🧬 Structural Coherence & Unification
 
 - [Shunyaya Structural Alphabet Unification (SSAU)](https://github.com/OMPSHUNYAYA/Structural-Alphabet-Unification)  
-  A deterministic **cross-domain unification standard** that proves a conservative result:  
-  deterministic systems compress into **finite structural regime vocabularies** that remain bounded under union — without altering domain laws or outputs.
-
-  SSAU operates at the governance / admissibility layer, preserving strict collapse invariance:  
-  `phi((m, a, s)) = m`
-
-  It validates cross-domain stability using **exact replay equivalence** (`B_A = B_B`), bounded governance lattice collapse, injection stability, and deterministic collision resolution (refusal dominance).
+  Cross-domain unification of deterministic systems into finite structural vocabularies.  
+  Preserves strict collapse `phi((m,a,s)) = m` with replay identity (`B_A = B_B`).
 
 ---
 
