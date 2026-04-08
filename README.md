@@ -34,6 +34,8 @@ These are **working systems** that remove dependency on:
 - order  
 - synchronization  
 - coordination  
+- execution  
+- transactions  
 
 And still produce the **same correct result**.
 
@@ -109,6 +111,38 @@ Note: Structural-Time (STIME), SSUM-Time, and SSM time systems represent differe
 
 ---
 
+### 🧩 SLANG — Structural Language
+
+**Computation from structure — without execution, control flow, or prescribed sequencing**
+
+- same structure → same outcome  
+- different rule order → no change  
+- no execution → deterministic resolution  
+
+→ **Computation is resolved, not executed**
+
+SLANG represents the structural runtime layer where outcomes emerge from completeness and consistency of structure.
+
+---
+
+### 💰 SLANG-Money
+
+**Financial state from structure — without transactions or settlement flow**
+
+- no transactions → still same balance  
+- no ordering → no ambiguity  
+- no execution → no movement required  
+
+→ **Financial state is resolved, not transferred**
+
+`state_visible iff structure_mature`
+
+A minimal deterministic kernel demonstrating that balances emerge from complete and consistent structure — not from transaction flow.
+
+🔗 [SLANG-Money](https://github.com/OMPSHUNYAYA/SLANG-Money)
+
+---
+
 ### 🕰 SSUM-Time
 
 **Time reconstruction from structure — without continuous sync**
@@ -132,7 +166,13 @@ Note: Structural-Time (STIME), SSUM-Time, and SSM time systems represent differe
 ## ⚡ What This Shows
 
 Each system removes a dependency.  
-Each system still preserves correctness.
+Each system still preserves correctness.  
+
+Nothing is replaced.  
+Nothing new is introduced.  
+
+Structure does not approximate correctness.  
+It preserves it exactly.
 
 ---
 
@@ -141,9 +181,14 @@ Each system still preserves correctness.
 | Time         | clocks                         | structure    |
 | Decision     | training / order               | structure    |
 | Meaning      | sequence                       | structure    |
-| Money        | time / ordering                | structure    |
+| Money        | transactions / ordering        | structure    |
 | Truth        | agreement                      | structure    |
-| Computation  | execution order                | structure    |
+| Computation  | execution / control flow       | structure    |
+| AI           | inference / training           | structure    |
+| Cybersecurity| process / pipelines            | structure    |
+| Identity     | authority / registry           | structure    |
+| Consensus    | voting / quorum                | structure    |
+| Network      | connectivity                   | structure    |
 
 ---
 
@@ -747,7 +792,8 @@ AIMFK, EIK, RIC-Proof, SSUM-Time Reference Implementation,
 STOCRS Reference Implementation, ORL Reference Implementation, 
 ORL-Money Reference Implementation, ORL-Chat Reference Implementation, 
 SIL Reference Implementation, ORL-AI Reference Implementation, 
-Structural-Time Reference Implementation**
+Structural-Time Reference Implementation
+SLANG-Money Reference Implementation**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
@@ -816,7 +862,8 @@ Only **Shunyaya Structural Origin Mathematics (SSOM)**,
 **ORL-Chat Architecture**,
 **SIL Architecture**,
 **ORL-AI Architecture**,
-**Structural-Time Architecture**
+**Structural-Time Architecture**,
+**SLANG-Money Architecture**
 
 together with their associated theoretical documents and research materials,
 are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
