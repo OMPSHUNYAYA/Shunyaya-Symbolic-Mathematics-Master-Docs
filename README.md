@@ -143,6 +143,25 @@ A minimal deterministic kernel demonstrating that balances emerge from complete 
 
 ---
 
+### 🔍 SLANG-Audit
+
+**Audit from structure — without verification, replay, or reconciliation**
+
+- no verification → still same audit outcome  
+- no replay → no dependency on history  
+- no reconciliation → no pipeline required  
+- no ordering → no ambiguity  
+
+→ **Audit is resolved, not verified**
+
+`outcome_visible iff structure_mature`
+
+A minimal deterministic kernel demonstrating that audit outcomes emerge from **complete AND consistent structure** — not from verification workflows.
+
+🔗 [SLANG-Audit](https://github.com/OMPSHUNYAYA/SLANG-Audit)
+
+---
+
 ### 🕰 SSUM-Time
 
 **Time reconstruction from structure — without continuous sync**
@@ -789,11 +808,11 @@ SSM-Tweet, SSM-Browse, LAW-0AR, SSM-Encrypt, SSM-UT,
 SSUM-Finite-Structural-Area-Experiment,  
 SSUM-Structural-Primality, SSP, SSAU, STL, SSSL, SSIL, SBM, SSC-Core,   
 AIMFK, EIK, RIC-Proof, SSUM-Time Reference Implementation,   
-STOCRS Reference Implementation, ORL Reference Implementation, 
-ORL-Money Reference Implementation, ORL-Chat Reference Implementation, 
-SIL Reference Implementation, ORL-AI Reference Implementation, 
-Structural-Time Reference Implementation
-SLANG-Money Reference Implementation**
+STOCRS Reference Implementation, ORL Reference Implementation,    
+ORL-Money Reference Implementation, ORL-Chat Reference Implementation,    
+SIL Reference Implementation, ORL-AI Reference Implementation,    
+Structural-Time Reference Implementation, SLANG-Money Reference Implementation,  
+SLANG-Audit Reference Implementation**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
@@ -863,7 +882,8 @@ Only **Shunyaya Structural Origin Mathematics (SSOM)**,
 **SIL Architecture**,
 **ORL-AI Architecture**,
 **Structural-Time Architecture**,
-**SLANG-Money Architecture**
+**SLANG-Money Architecture**,
+**SLANG-Audit Architecture**
 
 together with their associated theoretical documents and research materials,
 are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
