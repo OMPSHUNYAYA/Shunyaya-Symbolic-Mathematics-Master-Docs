@@ -123,6 +123,26 @@ Note: Structural-Time (STIME), SSUM-Time, and SSM time systems represent differe
 
 SLANG represents the structural runtime layer where outcomes emerge from completeness and consistency of structure.
 
+The minimal executable proof of this model is demonstrated in SLANG-Computation.
+
+---
+
+### ⚙️ SLANG-Computation
+
+**Computation from structure — without execution flow, control flow, or sequencing**
+
+- no execution → still same outcome  
+- different rule order -> no change  
+- no control flow → deterministic resolution  
+
+→ **Computation is resolved, not executed**
+
+`outcome_visible iff structure_mature`
+
+A minimal deterministic kernel proving that computational outcomes emerge from **complete AND consistent structure** — not from execution flow or procedural orchestration.
+
+🔗 [SLANG-Computation](https://github.com/OMPSHUNYAYA/SLANG-Computation)
+
 ---
 
 ### 💰 SLANG-Money
@@ -811,8 +831,8 @@ AIMFK, EIK, RIC-Proof, SSUM-Time Reference Implementation,
 STOCRS Reference Implementation, ORL Reference Implementation,    
 ORL-Money Reference Implementation, ORL-Chat Reference Implementation,    
 SIL Reference Implementation, ORL-AI Reference Implementation,    
-Structural-Time Reference Implementation, SLANG-Money Reference Implementation,  
-SLANG-Audit Reference Implementation**
+Structural-Time Reference Implementation, SLANG-Computation Reference Implementation,  
+SLANG-Audit Reference Implementation, SLANG-Money Reference Implementation**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
@@ -882,6 +902,7 @@ Only **Shunyaya Structural Origin Mathematics (SSOM)**,
 **SIL Architecture**,
 **ORL-AI Architecture**,
 **Structural-Time Architecture**,
+**SLANG-Computation Architecture**,
 **SLANG-Money Architecture**,
 **SLANG-Audit Architecture**
 
@@ -909,6 +930,14 @@ All Shunyaya materials are **observation-only structural layers** intended for t
 They do not replace domain laws, solvers, controls, or regulatory safeguards.
 
 They must **not** be used as sole decision gates in life-critical, safety-critical, or high-risk systems without independent verification, domain-specific validation, and appropriate redundancies.
+
+---
+
+### Terminology Note
+
+Shunyaya is an original modern structural and mathematical framework developed by the authors of the Shunyaya Framework.
+
+It is distinct from Shunyata and is not a restatement of any prior philosophical term or doctrine.
 
 ---
 
