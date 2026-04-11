@@ -13,14 +13,16 @@
 
 ## 🌐 When Time Becomes Structure — And Truth Follows
 
-What if not just time — but computation, truth, and even money —  
-do not require synchronization?
+What if not just time — but computation, truth, money, and even networked correctness —  
+do not require synchronization, ordering, continuous connectivity, or cloud dependency?
 
 No internet.  
 No GPS.  
 No clocks.  
 No ordering.  
 No coordination.  
+No continuous network dependency.  
+No cloud dependency.  
 
 ---
 
@@ -36,6 +38,7 @@ These are **working systems** that remove dependency on:
 - coordination  
 - execution  
 - transactions  
+- continuous network connectivity
 
 And still produce the **same correct result**.
 
@@ -108,6 +111,27 @@ Note: Structural-Time (STIME), SSUM-Time, and SSM time systems represent differe
 → **Same structure → same result**
 
 🔗 [STOCRS](https://github.com/OMPSHUNYAYA/STOCRS)
+
+---
+
+### 🌐 STINT-Money
+
+**Money from structure — without continuous network connectivity**
+
+- no connectivity → still correct state  
+- no synchronization → no dependency  
+- no ordering → deterministic convergence  
+- delayed merge → same outcome  
+
+→ **Financial correctness is preserved, not transmitted**
+
+`correctness = resolve(S)`
+
+`state_visible iff structure_mature`
+
+A deterministic reference implementation demonstrating that financial correctness can be preserved and reconstructed under disconnection, delay, and unordered availability — without continuous network dependency.
+
+🔗 [STINT-Money](https://github.com/OMPSHUNYAYA/STINT-Money)
 
 ---
 
@@ -215,19 +239,29 @@ It preserves it exactly.
 
 ---
 
-| Domain        | Removed Dependency              | What Remains |
-|--------------|--------------------------------|--------------|
-| Time         | clocks                         | structure    |
-| Decision     | training / order               | structure    |
-| Meaning      | sequence                       | structure    |
-| Money        | transactions / ordering        | structure    |
-| Truth        | agreement                      | structure    |
-| Computation  | execution / control flow       | structure    |
-| AI           | inference / training           | structure    |
-| Cybersecurity| process / pipelines            | structure    |
-| Identity     | authority / registry           | structure    |
-| Consensus    | voting / quorum                | structure    |
-| Network      | connectivity                   | structure    |
+## 🧱 Dependency Elimination Framework
+
+| Domain | Removed Dependency | What Preserves Correctness |
+|---|---|---|
+| Time | clocks | structure |
+| Decision | order | structure |
+| Meaning | sequence | structure |
+| Money | continuous connectivity | structure |
+| Truth | agreement | structure |
+| Computation | execution | structure |
+| AI | inference | structure |
+| Cybersecurity | process / pipelines | structure |
+| Identity | authority / registry | structure |
+| Consensus | voting / quorum | structure |
+| Network | connectivity | structure |
+| Cloud | cloud infrastructure | structure |
+| Audit | verification | structure |
+
+Each row removes a dependency — yet correctness remains intact.
+
+Nothing is replaced.  
+Nothing is approximated.  
+Only the dependency is eliminated.
 
 ---
 
@@ -832,7 +866,8 @@ STOCRS Reference Implementation, ORL Reference Implementation,
 ORL-Money Reference Implementation, ORL-Chat Reference Implementation,    
 SIL Reference Implementation, ORL-AI Reference Implementation,    
 Structural-Time Reference Implementation, SLANG-Computation Reference Implementation,  
-SLANG-Audit Reference Implementation, SLANG-Money Reference Implementation**
+SLANG-Audit Reference Implementation, SLANG-Money Reference Implementation,
+STINT-Money Reference Implementation**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
@@ -904,7 +939,8 @@ Only **Shunyaya Structural Origin Mathematics (SSOM)**,
 **Structural-Time Architecture**,
 **SLANG-Computation Architecture**,
 **SLANG-Money Architecture**,
-**SLANG-Audit Architecture**
+**SLANG-Audit Architecture**,
+**STINT-Money Architecture**
 
 together with their associated theoretical documents and research materials,
 are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
