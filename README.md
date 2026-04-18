@@ -13,7 +13,7 @@
 
 ## 🌐 When Time Becomes Structure — And Truth Follows
 
-What if not just time — but computation, truth, money, and even networked correctness —  
+What if not just time — but computation, truth, money, transition, and even networked correctness — 
 do not require synchronization, ordering, continuous connectivity, or cloud dependency?
 
 No internet.  
@@ -39,6 +39,7 @@ These are **working systems** that remove dependency on:
 - execution  
 - transactions  
 - continuous network connectivity
+- traversal
 
 And still produce the **same correct result**.
 
@@ -132,6 +133,30 @@ Note: Structural-Time (STIME), SSUM-Time, and SSM time systems represent differe
 A deterministic reference implementation demonstrating that financial correctness can be preserved and reconstructed under disconnection, delay, and unordered availability — without continuous network dependency.
 
 🔗 [STINT-Money](https://github.com/OMPSHUNYAYA/STINT-Money)
+
+---
+
+### 🧭 STRAL-Path
+
+**System Path from structure — without traversal, graph search, or ordered exploration**
+
+- no traversal → still same path truth  
+- no BFS / DFS → no dependency  
+- no ordering → deterministic resolution  
+- incomplete structure → no forced path  
+- multiple valid paths → no arbitrary selection  
+
+→ **Path correctness is resolved, not discovered**
+
+`path_truth_visible iff structure_mature`
+
+`structure_mature = complete AND consistent`
+
+`transition correctness = resolve(structure)`
+
+A minimal deterministic kernel demonstrating that path correctness emerges directly from **complete AND consistent structure** — not from traversal, search, or exploration.
+
+🔗 [STRAL-Path](https://github.com/OMPSHUNYAYA/STRAL-Path)
 
 ---
 
@@ -256,6 +281,7 @@ It preserves it exactly.
 | Network | connectivity | structure |
 | Cloud | cloud infrastructure | structure |
 | Audit | verification | structure |
+| Transition | traversal / search | structure |
 
 Each row removes a dependency — yet correctness remains intact.
 
@@ -867,7 +893,7 @@ ORL-Money Reference Implementation, ORL-Chat Reference Implementation,
 SIL Reference Implementation, ORL-AI Reference Implementation,    
 Structural-Time Reference Implementation, SLANG-Computation Reference Implementation,  
 SLANG-Audit Reference Implementation, SLANG-Money Reference Implementation,
-STINT-Money Reference Implementation**
+STINT-Money Reference Implementation, STRAL-Path Reference Implementation**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
@@ -940,7 +966,8 @@ Only **Shunyaya Structural Origin Mathematics (SSOM)**,
 **SLANG-Computation Architecture**,
 **SLANG-Money Architecture**,
 **SLANG-Audit Architecture**,
-**STINT-Money Architecture**
+**STINT-Money Architecture**,
+**STRAL-Path Architecture**
 
 together with their associated theoretical documents and research materials,
 are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
