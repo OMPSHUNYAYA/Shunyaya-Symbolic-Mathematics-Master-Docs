@@ -256,6 +256,41 @@ A minimal deterministic kernel demonstrating that audit outcomes emerge from **c
 
 ---
 
+### 🧪 **SLANG-Observatory**
+
+**Deterministic outcomes from structure — without workflows, sequencing, or execution pipelines**
+
+→ **Same structure → same outcome. No structure → no outcome.**
+
+`correctness = structure`  
+`outcome_visible iff structure_mature`
+
+A living collection of tiny deterministic kernels proving that outcomes emerge directly from **complete AND consistent structure** — not from process.
+
+🔗 [SLANG-Observatory](https://github.com/OMPSHUNYAYA/SLANG-Observatory)
+
+---
+
+#### 🔹 **SLANG-Invoice**
+
+**Invoice approval from structure — without workflow or sequencing**
+
+- no workflow → still same approval  
+- no sequencing → no dependency  
+- no orchestration → deterministic resolution  
+- incomplete structure → no approval  
+- conflicting structure → no forced approval  
+
+→ **Approval is resolved, not processed**
+
+`payable_visible iff structure_mature`
+
+A minimal deterministic kernel demonstrating that invoice approval emerges directly from **complete AND consistent structure** — not from approval chains, sequencing, or orchestration.
+
+🔗 [SLANG-Invoice](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-Invoice)
+
+---
+
 ### 🕰 SSUM-Time
 
 **Time reconstruction from structure — without continuous sync**
@@ -924,7 +959,7 @@ SIL Reference Implementation, ORL-AI Reference Implementation,
 Structural-Time Reference Implementation, SLANG-Computation Reference Implementation,  
 SLANG-Audit Reference Implementation, SLANG-Money Reference Implementation,
 STINT-Money Reference Implementation, STRAL-Path Reference Implementation,
-STILE Reference Implementation**
+STILE Reference Implementation, SLANG-Invoice Reference Implementation**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
@@ -999,7 +1034,8 @@ Only **Shunyaya Structural Origin Mathematics (SSOM)**,
 **SLANG-Audit Architecture**,
 **STINT-Money Architecture**,
 **STRAL-Path Architecture**,
-**STILE Architecture**
+**STILE Architecture**,
+**SLANG-Invoice Architecture**
 
 together with their associated theoretical documents and research materials,
 are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
