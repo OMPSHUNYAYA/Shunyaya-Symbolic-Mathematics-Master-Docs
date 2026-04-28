@@ -291,6 +291,26 @@ A minimal deterministic kernel demonstrating that invoice approval emerges direc
 
 ---
 
+#### 🔹 **SLANG-Claims**
+
+**Claim payout from structure — without workflow or sequencing**
+
+- no workflow → still same payout  
+- no sequencing → no dependency  
+- no orchestration → deterministic resolution  
+- incomplete structure → no payout  
+- conflicting structure → no forced payout  
+
+→ **Payout is resolved, not processed**
+
+`payout_visible iff structure_mature`
+
+A minimal deterministic kernel demonstrating that claim payout emerges directly from **complete AND consistent structure** — not from workflows, approval chains, or verification processes.
+
+🔗 [SLANG-Claims](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-Claims)
+
+---
+
 ### 🕰 SSUM-Time
 
 **Time reconstruction from structure — without continuous sync**
@@ -959,7 +979,8 @@ SIL Reference Implementation, ORL-AI Reference Implementation,
 Structural-Time Reference Implementation, SLANG-Computation Reference Implementation,  
 SLANG-Audit Reference Implementation, SLANG-Money Reference Implementation,
 STINT-Money Reference Implementation, STRAL-Path Reference Implementation,
-STILE Reference Implementation, SLANG-Invoice Reference Implementation**
+STILE Reference Implementation, SLANG-Invoice Reference Implementation,
+SLANG-Claims Reference Implementation**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
@@ -1035,7 +1056,8 @@ Only **Shunyaya Structural Origin Mathematics (SSOM)**,
 **STINT-Money Architecture**,
 **STRAL-Path Architecture**,
 **STILE Architecture**,
-**SLANG-Invoice Architecture**
+**SLANG-Invoice Architecture**,
+**SLANG-Claims Architecture**
 
 together with their associated theoretical documents and research materials,
 are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
