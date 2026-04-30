@@ -37,9 +37,10 @@ These are **working systems** that remove dependency on:
 - synchronization  
 - coordination  
 - execution  
+- computation  
 - transactions  
 - continuous network connectivity  
-- traversal
+- traversal  
 - communication
 
 And still produce the **same correct result**.
@@ -113,6 +114,30 @@ Note: Structural-Time (STIME), SSUM-Time, and SSM time systems represent differe
 → **Same structure → same result**
 
 🔗 [STOCRS](https://github.com/OMPSHUNYAYA/STOCRS)
+
+---
+
+### ⭐ SVARE
+
+**Value from structure — without computation, arithmetic, or evaluation**
+
+- no computation → still same value  
+- no arithmetic → no dependency  
+- no evaluation → deterministic resolution  
+- incomplete structure → no value  
+- inconsistent structure → no arbitrary value  
+
+→ **Value correctness is determined, not computed**
+
+`value_visible iff structure_uniquely_resolves`
+
+`structure_uniquely_resolves = complete AND consistent`
+
+`value correctness = resolve(structure)`
+
+A minimal deterministic reference implementation demonstrating that value correctness emerges directly from **complete AND consistent structure** — not from computation, arithmetic, or evaluation pipelines.
+
+🔗 [SVARE](https://github.com/OMPSHUNYAYA/SVARE)
 
 ---
 
@@ -980,7 +1005,7 @@ Structural-Time Reference Implementation, SLANG-Computation Reference Implementa
 SLANG-Audit Reference Implementation, SLANG-Money Reference Implementation,
 STINT-Money Reference Implementation, STRAL-Path Reference Implementation,
 STILE Reference Implementation, SLANG-Invoice Reference Implementation,
-SLANG-Claims Reference Implementation**
+SLANG-Claims Reference Implementation, SVARE Reference Implementation**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
@@ -1057,7 +1082,8 @@ Only **Shunyaya Structural Origin Mathematics (SSOM)**,
 **STRAL-Path Architecture**,
 **STILE Architecture**,
 **SLANG-Invoice Architecture**,
-**SLANG-Claims Architecture**
+**SLANG-Claims Architecture**,
+**SVARE Architecture**
 
 together with their associated theoretical documents and research materials,
 are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
