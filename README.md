@@ -41,7 +41,8 @@ These are **working systems** that remove dependency on:
 - transactions  
 - continuous network connectivity  
 - traversal  
-- communication
+- communication  
+- cloud infrastructure
 
 And still produce the **same correct result**.
 
@@ -207,6 +208,28 @@ A minimal deterministic kernel demonstrating that path correctness emerges direc
 A minimal deterministic kernel demonstrating that delivery correctness emerges directly from **complete AND consistent structure** — not from communication, messaging pipelines, or network interaction.
 
 🔗 [STILE](https://github.com/OMPSHUNYAYA/STILE)
+
+---
+
+### ☁️ STIC
+
+**System correctness from structure — without cloud infrastructure, coordination, or execution dependency**
+
+- no cloud → still same correctness  
+- no infrastructure → no dependency  
+- no coordination → deterministic resolution  
+- incomplete structure → no correctness  
+- inconsistent structure → no arbitrary correctness  
+
+→ **Correctness is resolved, not provisioned**
+
+`correctness_visible iff structure_complete AND structure_consistent`
+
+`system_correctness = resolve(structure)`
+
+A minimal deterministic reference implementation demonstrating that system correctness emerges directly from **complete AND consistent structure** — not from cloud infrastructure, coordination pipelines, or execution environments.
+
+🔗 [STIC](https://github.com/OMPSHUNYAYA/STIC)
 
 ---
 
@@ -1005,7 +1028,8 @@ Structural-Time Reference Implementation, SLANG-Computation Reference Implementa
 SLANG-Audit Reference Implementation, SLANG-Money Reference Implementation,
 STINT-Money Reference Implementation, STRAL-Path Reference Implementation,
 STILE Reference Implementation, SLANG-Invoice Reference Implementation,
-SLANG-Claims Reference Implementation, SVARE Reference Implementation**
+SLANG-Claims Reference Implementation, SVARE Reference Implementation,
+STIC Reference Implementation**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
@@ -1083,7 +1107,8 @@ Only **Shunyaya Structural Origin Mathematics (SSOM)**,
 **STILE Architecture**,
 **SLANG-Invoice Architecture**,
 **SLANG-Claims Architecture**,
-**SVARE Architecture**
+**SVARE Architecture**,
+**STIC Architecture**
 
 together with their associated theoretical documents and research materials,
 are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
