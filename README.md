@@ -42,7 +42,8 @@ These are **working systems** that remove dependency on:
 - continuous network connectivity  
 - traversal  
 - communication  
-- cloud infrastructure
+- cloud infrastructure  
+- editing / timelines / manual workflows  
 
 And still produce the **same correct result**.
 
@@ -233,6 +234,28 @@ A minimal deterministic reference implementation demonstrating that system corre
 
 ---
 
+### 🎬 STRUMER
+
+**Video from structure — without editing, timelines, or manual workflows**
+
+- no editing → still same video  
+- no timeline → no dependency  
+- no manual composition → deterministic resolution  
+- incomplete structure → no video  
+- inconsistent structure → no arbitrary video  
+
+→ **Video is revealed, not edited**
+
+`video_visible iff video_structure_complete AND video_structure_consistent`
+
+`video_output = resolve(structure)`
+
+A minimal deterministic reference implementation demonstrating that video output emerges directly from **complete AND consistent structure** — not from editing tools, timelines, or manual workflows.
+
+🔗 [STRUMER](https://github.com/OMPSHUNYAYA/STRUMER)
+
+---
+
 ### 🧩 SLANG — Structural Language
 
 **Computation from structure — without execution, control flow, or prescribed sequencing**
@@ -410,6 +433,7 @@ All dependencies resolve to structure.
 | Consensus | voting / quorum | structure |
 | Network | connectivity | structure |
 | Cloud | cloud infrastructure | structure |
+| Media | editing / timelines / manual workflows | structure |
 | Audit | verification | structure |
 | Transition | traversal / search | structure |
 | Integration | communication / coordination | structure |
@@ -1029,7 +1053,7 @@ SLANG-Audit Reference Implementation, SLANG-Money Reference Implementation,
 STINT-Money Reference Implementation, STRAL-Path Reference Implementation,
 STILE Reference Implementation, SLANG-Invoice Reference Implementation,
 SLANG-Claims Reference Implementation, SVARE Reference Implementation,
-STIC Reference Implementation**
+STIC Reference Implementation, STRUMER Reference Implementation**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
@@ -1108,7 +1132,8 @@ Only **Shunyaya Structural Origin Mathematics (SSOM)**,
 **SLANG-Invoice Architecture**,
 **SLANG-Claims Architecture**,
 **SVARE Architecture**,
-**STIC Architecture**
+**STIC Architecture**,
+**STRUMER Architecture**
 
 together with their associated theoretical documents and research materials,
 are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
