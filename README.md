@@ -250,9 +250,31 @@ A minimal deterministic reference implementation demonstrating that system corre
 
 `video_output = resolve(structure)`
 
-A minimal deterministic reference implementation demonstrating that video output emerges directly from **complete AND consistent structure** — not from editing tools, timelines, or manual workflows.
+A minimal deterministic reference implementation showing that video output emerges directly from **complete AND consistent structure** — not from editing tools, timelines, or manual workflows.
 
 🔗 [STRUMER](https://github.com/OMPSHUNYAYA/STRUMER)
+
+---
+
+### 🧩 STRUMER-D
+
+**Diagrams from structure — without drawing tools or layout tuning**
+
+- no drawing → still same diagram  
+- no layout → no dependency  
+- no manual placement → deterministic resolution  
+- incomplete structure → no diagram  
+- inconsistent structure → no arbitrary diagram  
+
+→ **Diagram is revealed, not drawn**
+
+`diagram_visible iff diagram_structure_complete AND diagram_structure_consistent`
+
+`diagram_output = resolve(structure)`
+
+A minimal deterministic reference implementation demonstrating that diagram output emerges directly from **complete AND consistent structure** — not from drawing tools, layout tuning, or manual workflows.
+
+🔗 [STRUMER-D](https://github.com/OMPSHUNYAYA/STRUMER/tree/main/STRUMER-D)
 
 ---
 
