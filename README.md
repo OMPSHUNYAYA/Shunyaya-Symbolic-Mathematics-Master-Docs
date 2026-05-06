@@ -21,7 +21,7 @@ The same published scripts recreate the same videos repeatedly — demonstrating
 - reproducibility  
 - structure-driven media generation  
 
-Join the Structural Revolution — remove dependency, preserve correctness.
+**Join the Structural Revolution — remove dependency, preserve correctness.**
 
 ---
 
