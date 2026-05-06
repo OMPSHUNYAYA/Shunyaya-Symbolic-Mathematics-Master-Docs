@@ -15,11 +15,13 @@
 
 Public Shunyaya videos are created using the structural approach.
 
-The same published scripts recreate the same videos repeatedly — demonstrating:
+The same published scripts recreate structurally identical videos repeatedly — demonstrating:
 
 - deterministic output  
 - reproducibility  
 - structure-driven media generation  
+
+**Shunyaya Framework: 75+ demonstrated structural systems — and growing.**
 
 **Join the Structural Revolution — remove dependency, preserve correctness.**
 
@@ -289,6 +291,28 @@ A minimal deterministic reference implementation showing that video output emerg
 A minimal deterministic reference implementation demonstrating that diagram output emerges directly from **complete AND consistent structure** — not from drawing tools, layout tuning, or manual workflows.
 
 🔗 [STRUMER-D](https://github.com/OMPSHUNYAYA/STRUMER/tree/main/STRUMER-D)
+
+---
+
+### 🔊 STRUMER-A
+
+**Audio from structure — without editing, waveform tuning, or manual sequencing**
+
+- no audio editing → still same audio  
+- no waveform tuning → no dependency  
+- no manual sequencing → deterministic resolution  
+- incomplete structure → no audio  
+- inconsistent structure → no arbitrary audio  
+
+→ **Audio is revealed, not edited**
+
+`audio_visible iff audio_structure_complete AND audio_structure_consistent`
+
+`audio_output = resolve(structure)`
+
+A minimal deterministic reference implementation demonstrating that audio output emerges directly from **complete AND consistent structure** — not from audio editors, waveform workflows, timelines, or manual composition.
+
+🔗 [STRUMER-A](https://github.com/OMPSHUNYAYA/STRUMER/tree/main/STRUMER-A)
 
 ---
 
