@@ -404,6 +404,42 @@ A minimal deterministic kernel demonstrating that claim payout emerges directly 
 
 ---
 
+#### 🔹 **SLANG-Cybersecurity**
+
+**Cybersecurity escalation from structure — without pipelines or sequencing**
+
+- no escalation pipeline → still same resolution  
+- no sequencing → no dependency  
+- no orchestration → deterministic resolution  
+- incomplete structure → no escalation  
+- conflicting structure → no forced escalation  
+
+→ **Escalation is resolved, not processed**
+
+`escalation_visible iff structure_mature`
+
+A minimal deterministic kernel demonstrating that cybersecurity escalation emerges directly from **complete AND consistent structure** — not from pipelines, orchestration layers, or workflow sequencing.
+
+🔗 [SLANG-Cybersecurity](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-Cybersecurity)
+
+---
+
+#### 🔹 **SLANG-Password**
+
+**Access resolution from structure — without authentication workflows**
+
+🔗 [SLANG-Password](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-Password)
+
+---
+
+#### 🔹 **SLANG-ResetPassword**
+
+**Password reset resolution from structure — without reset workflows**
+
+🔗 [SLANG-ResetPassword](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-ResetPassword)
+
+---
+
 ### 🕰 SSUM-Time
 
 **Time reconstruction from structure — without continuous sync**
@@ -1075,7 +1111,9 @@ SLANG-Audit Reference Implementation, SLANG-Money Reference Implementation,
 STINT-Money Reference Implementation, STRAL-Path Reference Implementation,
 STILE Reference Implementation, SLANG-Invoice Reference Implementation,
 SLANG-Claims Reference Implementation, SVARE Reference Implementation,
-STIC Reference Implementation, STRUMER Reference Implementation**
+STIC Reference Implementation, STRUMER Reference Implementation,
+SLANG-Cybersecurity Reference Implementation, SLANG-Password Reference Implementation,
+SLANG-ResetPassword Reference Implementation**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
@@ -1133,31 +1171,25 @@ nor the CC BY-NC 4.0 status of specifically designated foundational research fra
 
 # 📘 Select Foundational Research Frameworks
 
-Only **Shunyaya Structural Origin Mathematics (SSOM)**,
-**Shunyaya Structural Equations (SSE)**,
-**Shunyaya Symbolic Mathematics (SSM)**,
-**Shunyaya Structural Transition Science (SSTS)**,
-**SSUM-Time Architecture**,
-**STOCRS Architecture**,
-**ORL Architecture**,
-**ORL-Money Architecture**,
-**ORL-Chat Architecture**,
-**SIL Architecture**,
-**ORL-AI Architecture**,
-**Structural-Time Architecture**,
-**SLANG-Computation Architecture**,
-**SLANG-Money Architecture**,
-**SLANG-Audit Architecture**,
-**STINT-Money Architecture**,
-**STRAL-Path Architecture**,
-**STILE Architecture**,
-**SLANG-Invoice Architecture**,
-**SLANG-Claims Architecture**,
-**SVARE Architecture**,
-**STIC Architecture**,
-**STRUMER Architecture**
+Only:
 
-together with their associated theoretical documents and research materials,
+**Shunyaya Structural Origin Mathematics (SSOM)**,  
+**Shunyaya Structural Equations (SSE)**,  
+**Shunyaya Symbolic Mathematics (SSM)**,  
+**Shunyaya Structural Transition Science (SSTS)**
+
+and the following architectural frameworks:
+
+**SSUM-Time Architecture**, **STOCRS Architecture**,  
+**ORL Architecture**, **ORL-Money Architecture**, **ORL-Chat Architecture**, **ORL-AI Architecture**,  
+**SIL Architecture**, **Structural-Time Architecture**,  
+**SLANG-Computation Architecture**, **SLANG-Money Architecture**, **SLANG-Audit Architecture**,  
+**SLANG-Invoice Architecture**, **SLANG-Claims Architecture**,  
+**SLANG-Cybersecurity Architecture**, **SLANG-Password Architecture**, **SLANG-ResetPassword Architecture**,  
+**STINT-Money Architecture**, **STRAL-Path Architecture**, **STILE Architecture**,  
+**SVARE Architecture**, **STIC Architecture**, **STRUMER Architecture**
+
+together with their associated theoretical documents and research materials,  
 are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
 
 This applies to symbolic theory, structural interpretation, specifications,
