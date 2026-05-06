@@ -11,6 +11,20 @@
 
 ---
 
+## 🎬 Real-World Validation
+
+Public Shunyaya videos are created using the structural approach.
+
+The same published scripts recreate the same videos repeatedly — demonstrating:
+
+- deterministic output  
+- reproducibility  
+- structure-driven media generation  
+
+Join the Structural Revolution — remove dependency, preserve correctness.
+
+---
+
 ## 🌐 When Time Becomes Structure — And Truth Follows
 
 What if not just time — but computation, truth, money, transition, and even networked correctness — 
