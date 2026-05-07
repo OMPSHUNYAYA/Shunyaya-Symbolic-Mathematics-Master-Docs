@@ -13,7 +13,7 @@
 
 ## 🎬 Real-World Validation
 
-Public Shunyaya videos are created using the structural approach.
+Public Shunyaya videos are generated using the structural approach.
 
 The same published scripts recreate structurally identical videos repeatedly — demonstrating:
 
@@ -29,11 +29,12 @@ The same published scripts recreate structurally identical videos repeatedly —
 
 ## 🌐 When Time Becomes Structure — And Truth Follows
 
-What if not just time — but computation, truth, money, transition, and even networked correctness — 
-do not require synchronization, ordering, continuous connectivity, or cloud dependency?
+What if not just time — but computation, truth, money, transition, media, and even spatial admissibility —  
+do not require synchronization, ordering, continuous connectivity, rendering trust, or cloud dependency?
 
 No internet.  
-No GPS.  
+No blind GPS trust.  
+No blind rendering trust.  
 No clocks.  
 No ordering.  
 No coordination.  
@@ -316,6 +317,30 @@ A minimal deterministic reference implementation demonstrating that audio output
 
 ---
 
+---
+
+### 🧭 S-Coordinate
+
+**Coordinate visibility from structure — without blind spatial assumption**
+
+- no rendering trust → still same admissibility  
+- no GPS trust → no dependency  
+- no map-layer assumption → deterministic resolution  
+- incomplete structure → no admissible visibility  
+- conflicting structure → no arbitrary visibility  
+
+→ **Coordinate admissibility is resolved, not rendered**
+
+`coordinate_visible iff S = RESOLVED AND tau = VALID AND sigma_deterministic`
+
+`coordinate_visibility = resolve(structure)`
+
+A minimal deterministic reference implementation demonstrating that coordinate admissibility emerges directly from **complete AND consistent structure** — not from rendering systems, GPS trust, map-layer assumptions, or numerical coordinates alone.
+
+🔗 [S-Coordinate](https://github.com/OMPSHUNYAYA/S-Coordinate)
+
+---
+
 ### 🧩 SLANG — Structural Language
 
 **Computation from structure — without execution, control flow, or prescribed sequencing**
@@ -529,17 +554,20 @@ All dependencies resolve to structure.
 | Consensus | voting / quorum | structure |
 | Network | connectivity | structure |
 | Cloud | cloud infrastructure | structure |
-| Media | editing / timelines / manual workflows | structure |
+| Media (Video) | editing / timelines / manual workflows | structure |
+| Media (Diagram) | manual drawing / layout | structure |
+| Media (Audio) | waveform editing / sequencing | structure |
+| Spatial Systems | blind spatial assumption / rendering trust | structure |
 | Audit | verification | structure |
 | Transition | traversal / search | structure |
 | Integration | communication / coordination | structure |
 | Communication | acknowledgements / retries / messaging pipelines | structure |
 
-Each row is a direct removal — not a substitution.  
+Each row is a **direct removal** — not a substitution.  
 Nothing new is inserted.  
 Nothing is compensated for.  
 Nothing is approximated.  
-And yet correctness remains.  
+And yet **correctness remains**.  
 If correctness survives removal, the dependency was never fundamental.
 
 ---
@@ -1151,7 +1179,7 @@ STILE Reference Implementation, SLANG-Invoice Reference Implementation,
 SLANG-Claims Reference Implementation, SVARE Reference Implementation,
 STIC Reference Implementation, STRUMER Reference Implementation,
 SLANG-Cybersecurity Reference Implementation, SLANG-Password Reference Implementation,
-SLANG-ResetPassword Reference Implementation**
+SLANG-ResetPassword Reference Implementation, S-Coordinate Reference Implementation**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
@@ -1225,7 +1253,7 @@ and the following architectural frameworks:
 **SLANG-Invoice Architecture**, **SLANG-Claims Architecture**,  
 **SLANG-Cybersecurity Architecture**, **SLANG-Password Architecture**, **SLANG-ResetPassword Architecture**,  
 **STINT-Money Architecture**, **STRAL-Path Architecture**, **STILE Architecture**,  
-**SVARE Architecture**, **STIC Architecture**, **STRUMER Architecture**
+**SVARE Architecture**, **STIC Architecture**, **STRUMER Architecture**, **S-Coordinate Architecture**
 
 together with their associated theoretical documents and research materials,  
 are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
