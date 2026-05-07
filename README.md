@@ -536,6 +536,13 @@ It preserves it exactly.
 
 ---
 
+Across all these systems, the same structural pattern appears repeatedly.
+
+The dependency changes.  
+The preserved invariant does not.
+
+---
+
 ## 🧱 Dependency Elimination Framework
 
 All dependencies resolve to structure.
