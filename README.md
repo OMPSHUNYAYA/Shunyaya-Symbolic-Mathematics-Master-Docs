@@ -25,21 +25,32 @@ The same published scripts recreate structurally identical videos repeatedly —
 
 **Join the Structural Revolution — remove dependency, preserve correctness.**
 
+![Shunyaya Structural Stack](https://raw.githubusercontent.com/OMPSHUNYAYA/SLANG-Observatory/main/docs/Shunyaya-Structural-Stack.png)
+
 ---
 
 ## 🌐 When Time Becomes Structure — And Truth Follows
 
-What if not just time — but computation, truth, money, transition, media, and even spatial admissibility —  
-do not require synchronization, ordering, continuous connectivity, rendering trust, or cloud dependency?
+What if not just time — but computation, truth, money, media, observability, and even forecast visibility —  
+do not require synchronization, ordering, continuous connectivity, forced publication, rendering trust, or cloud dependency?
 
 No internet.  
 No blind GPS trust.  
 No blind rendering trust.  
+No forced visibility.  
+No premature certainty.  
 No clocks.  
 No ordering.  
 No coordination.  
 No continuous network dependency.  
 No cloud dependency.  
+
+Only structure.
+
+`correctness = structure`  
+`outcome_visible iff structure_mature`
+
+Across the Shunyaya structural ecosystem, outcomes emerge directly from **complete AND consistent structure** — not from workflows, pipelines, sequencing, or forced visibility.
 
 ---
 
@@ -60,9 +71,12 @@ These are **working systems** that remove dependency on:
 - traversal  
 - communication  
 - cloud infrastructure  
+- forced visibility / publication  
 - editing / timelines / manual workflows  
 
 And still produce the **same correct result**.
+
+`correctness = structure`
 
 ---
 
@@ -317,8 +331,6 @@ A minimal deterministic reference implementation demonstrating that audio output
 
 ---
 
----
-
 ### 🧭 S-Coordinate
 
 **Coordinate visibility from structure — without blind spatial assumption**
@@ -362,7 +374,7 @@ The minimal executable proof of this model is demonstrated in SLANG-Computation.
 **Computation from structure — without execution flow, control flow, or sequencing**
 
 - no execution → still same outcome  
-- different rule order -> no change  
+- different rule order → no change  
 - no control flow → deterministic resolution  
 
 → **Computation is resolved, not executed**
@@ -487,6 +499,26 @@ A minimal deterministic kernel demonstrating that cybersecurity escalation emerg
 
 ---
 
+#### 🔹 **SLANG-Hurricane**
+
+**Hurricane forecast visibility from structure — without forced cones or premature visibility**
+
+- no forced forecast exposure → still same admissibility  
+- no premature visibility → no dependency  
+- no visibility pressure → deterministic structural gating  
+- incomplete structure → no forecast visibility  
+- unstable structure → no forced forecast  
+
+→ **Forecast visibility is admitted, not forced**
+
+`forecast_visible iff structure_mature`
+
+A minimal deterministic kernel demonstrating that hurricane forecast visibility emerges directly from **complete AND consistent structure** — not from forced cones, premature publication pressure, or visibility workflows.
+
+🔗 [SLANG-Hurricane](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-Hurricane)
+
+---
+
 #### 🔹 **SLANG-Password**
 
 **Access resolution from structure — without authentication workflows**
@@ -536,16 +568,16 @@ It preserves it exactly.
 
 ---
 
+## 🧱 Dependency Elimination Framework
+
 Across all these systems, the same structural pattern appears repeatedly.
 
 The dependency changes.  
 The preserved invariant does not.
 
----
+![Dependency Elimination Framework](https://raw.githubusercontent.com/OMPSHUNYAYA/SLANG-Observatory/main/docs/Dependency-Elimination-Framework.png)
 
-## 🧱 Dependency Elimination Framework
-
-All dependencies resolve to structure.
+All listed dependencies resolve to structure.
 
 | Domain | Removed Dependency | What Preserves Correctness |
 |---|---|---|
@@ -564,6 +596,7 @@ All dependencies resolve to structure.
 | Media (Video) | editing / timelines / manual workflows | structure |
 | Media (Diagram) | manual drawing / layout | structure |
 | Media (Audio) | waveform editing / sequencing | structure |
+| Forecast Visibility | forced publication / premature visibility | structure |
 | Spatial Systems | blind spatial assumption / rendering trust | structure |
 | Audit | verification | structure |
 | Transition | traversal / search | structure |
@@ -1186,7 +1219,8 @@ STILE Reference Implementation, SLANG-Invoice Reference Implementation,
 SLANG-Claims Reference Implementation, SVARE Reference Implementation,
 STIC Reference Implementation, STRUMER Reference Implementation,
 SLANG-Cybersecurity Reference Implementation, SLANG-Password Reference Implementation,
-SLANG-ResetPassword Reference Implementation, S-Coordinate Reference Implementation**
+SLANG-ResetPassword Reference Implementation, S-Coordinate Reference Implementation,
+SLANG-Hurricane Reference Implementation**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
@@ -1260,7 +1294,8 @@ and the following architectural frameworks:
 **SLANG-Invoice Architecture**, **SLANG-Claims Architecture**,  
 **SLANG-Cybersecurity Architecture**, **SLANG-Password Architecture**, **SLANG-ResetPassword Architecture**,  
 **STINT-Money Architecture**, **STRAL-Path Architecture**, **STILE Architecture**,  
-**SVARE Architecture**, **STIC Architecture**, **STRUMER Architecture**, **S-Coordinate Architecture**
+**SVARE Architecture**, **STIC Architecture**, **STRUMER Architecture**, **S-Coordinate Architecture**,
+**SLANG-Hurricane Architecture**
 
 together with their associated theoretical documents and research materials,  
 are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
