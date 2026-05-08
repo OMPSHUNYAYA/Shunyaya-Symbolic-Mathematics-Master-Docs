@@ -85,486 +85,229 @@ And still produce the **same correct result**.
 
 ---
 
-### 🕰 Structural Time (STIME)
+# 🧱 Structural Foundations
 
-**Time from structure — without clocks**
-
-- no clocks → still same time  
-- no ordering → still same progression  
-- no sync → still deterministic  
-
-→ **Time is resolved, not measured**
-
-🔗 [Structural-Time](https://github.com/OMPSHUNYAYA/Structural-Time)
-
-Note: Structural-Time (STIME), SSUM-Time, and SSM time systems represent different layers of time resolution within the Shunyaya framework.
+Core systems demonstrating that mathematical correctness, position, time, and truth can emerge directly from structure.
 
 ---
 
-### 🧠 ORL-AI
+### ⭐ **SVARE**
 
-**Decision from structure — without training, order, or time**
-
-- same signals → same decision  
-- no order → no ambiguity  
-- no sync → no divergence  
-
-→ **Decision is resolved, not predicted**
-
-🔗 [ORL-AI](https://github.com/OMPSHUNYAYA/ORL-AI)
-
----
-
-### 💬 ORL-Chat
-
-**Meaning from structure — without message order**
-
-→ **Same messages. Same structure. Same meaning.**
-
-🔗 [ORL-Chat](https://github.com/OMPSHUNYAYA/ORL-Chat)
-
----
-
-### 💰 ORL-Money
-
-**Money from structure — without time or sequencing**
-
-→ **No duplication. No loss. Deterministic balance.**
-
-🔗 [ORL-Money](https://github.com/OMPSHUNYAYA/ORL-Money)
-
----
-
-### 📘 ORL
-
-**Truth from structure — without agreement**
-
-→ **Conflicts contained. No forced truth.**
-
-🔗 [ORL](https://github.com/OMPSHUNYAYA/Orderless-Ledger)
-
----
-
-### ⚙️ STOCRS
-
-**Computation from structure — without execution order**
-
-→ **Same structure → same result**
-
-🔗 [STOCRS](https://github.com/OMPSHUNYAYA/STOCRS)
-
----
-
-### ⭐ SVARE
-
-**Value from structure — without computation, arithmetic, or evaluation**
-
-- no computation → still same value  
-- no arithmetic → no dependency  
-- no evaluation → deterministic resolution  
-- incomplete structure → no value  
-- inconsistent structure → no arbitrary value  
-
-→ **Value correctness is determined, not computed**
-
-`value_visible iff structure_uniquely_resolves`
-
-`structure_uniquely_resolves = complete AND consistent`
-
-`value correctness = resolve(structure)`
-
-A minimal deterministic reference implementation demonstrating that value correctness emerges directly from **complete AND consistent structure** — not from computation, arithmetic, or evaluation pipelines.
+**Value correctness from structure — without computation**
 
 🔗 [SVARE](https://github.com/OMPSHUNYAYA/SVARE)
 
 ---
 
-### 🌐 STINT-Money
+### ⭐ **SIL**
 
-**Money from structure — without continuous network connectivity**
+**Position from structure — without time or sequence**
 
-- no connectivity → still correct state  
-- no synchronization → no dependency  
-- no ordering → deterministic convergence  
-- delayed merge → same outcome  
-
-→ **Financial correctness is preserved, not transmitted**
-
-`correctness = resolve(S)`
-
-`state_visible iff structure_mature`
-
-A deterministic reference implementation demonstrating that financial correctness can be preserved and reconstructed under disconnection, delay, and unordered availability — without continuous network dependency.
-
-🔗 [STINT-Money](https://github.com/OMPSHUNYAYA/STINT-Money)
+🔗 [SIL](https://github.com/OMPSHUNYAYA/Structural-Integer-Line)
 
 ---
 
-### 🧭 STRAL-Path
+### 🕰 **STIME**
 
-**System Path from structure — without traversal, graph search, or ordered exploration**
+**Time from structure — without clocks**
 
-- no traversal → still same path truth  
-- no BFS / DFS → no dependency  
-- no ordering → deterministic resolution  
-- incomplete structure → no forced path  
-- multiple valid paths → no arbitrary selection  
-
-→ **Path correctness is resolved, not discovered**
-
-`path_truth_visible iff structure_mature`
-
-`structure_mature = complete AND consistent`
-
-`transition correctness = resolve(structure)`
-
-A minimal deterministic kernel demonstrating that path correctness emerges directly from **complete AND consistent structure** — not from traversal, search, or exploration.
-
-🔗 [STRAL-Path](https://github.com/OMPSHUNYAYA/STRAL-Path)
+🔗 [Structural-Time](https://github.com/OMPSHUNYAYA/Structural-Time)
 
 ---
 
-### 📡 STILE
+### 🕰 **SSUM-Time**
 
-**Delivery from structure — without communication, acknowledgements, retries, or network dependency**
+**Time reconstruction from structure — without continuous synchronization**
 
-- no communication → still same delivery  
-- no acknowledgements → no dependency  
-- no retries → deterministic resolution  
-- incomplete structure → no delivery  
-- inconsistent structure → no arbitrary delivery  
-
-→ **Delivery is admitted, not transmitted**
-
-`message_delivered iff structure_aligned`
-
-`structure_aligned = complete AND consistent`
-
-`delivery correctness = resolve(structure)`
-
-A minimal deterministic kernel demonstrating that delivery correctness emerges directly from **complete AND consistent structure** — not from communication, messaging pipelines, or network interaction.
-
-🔗 [STILE](https://github.com/OMPSHUNYAYA/STILE)
+🔗 [SSUM-Time](https://github.com/OMPSHUNYAYA/SSUM-Time)
 
 ---
 
-### ☁️ STIC
+### 📘 **ORL**
 
-**System correctness from structure — without cloud infrastructure, coordination, or execution dependency**
+**Truth from structure — without agreement**
 
-- no cloud → still same correctness  
-- no infrastructure → no dependency  
-- no coordination → deterministic resolution  
-- incomplete structure → no correctness  
-- inconsistent structure → no arbitrary correctness  
-
-→ **Correctness is resolved, not provisioned**
-
-`correctness_visible iff structure_complete AND structure_consistent`
-
-`system_correctness = resolve(structure)`
-
-A minimal deterministic reference implementation demonstrating that system correctness emerges directly from **complete AND consistent structure** — not from cloud infrastructure, coordination pipelines, or execution environments.
-
-🔗 [STIC](https://github.com/OMPSHUNYAYA/STIC)
+🔗 [ORL](https://github.com/OMPSHUNYAYA/Orderless-Ledger)
 
 ---
 
-### 🎬 STRUMER
+# ⚙️ Structural Runtime & Resolution
 
-**Video from structure — without editing, timelines, or manual workflows**
-
-- no editing → still same video  
-- no timeline → no dependency  
-- no manual composition → deterministic resolution  
-- incomplete structure → no video  
-- inconsistent structure → no arbitrary video  
-
-→ **Video is revealed, not edited**
-
-`video_visible iff video_structure_complete AND video_structure_consistent`
-
-`video_output = resolve(structure)`
-
-A minimal deterministic reference implementation showing that video output emerges directly from **complete AND consistent structure** — not from editing tools, timelines, or manual workflows.
-
-🔗 [STRUMER](https://github.com/OMPSHUNYAYA/STRUMER)
+Systems demonstrating deterministic resolution without execution pipelines, cloud orchestration, or continuous connectivity.
 
 ---
 
-### 🧩 STRUMER-D
+### ⚙️ **STOCRS**
 
-**Diagrams from structure — without drawing tools or layout tuning**
+**Computation from structure — without execution order**
 
-- no drawing → still same diagram  
-- no layout → no dependency  
-- no manual placement → deterministic resolution  
-- incomplete structure → no diagram  
-- inconsistent structure → no arbitrary diagram  
-
-→ **Diagram is revealed, not drawn**
-
-`diagram_visible iff diagram_structure_complete AND diagram_structure_consistent`
-
-`diagram_output = resolve(structure)`
-
-A minimal deterministic reference implementation demonstrating that diagram output emerges directly from **complete AND consistent structure** — not from drawing tools, layout tuning, or manual workflows.
-
-🔗 [STRUMER-D](https://github.com/OMPSHUNYAYA/STRUMER/tree/main/STRUMER-D)
+🔗 [STOCRS](https://github.com/OMPSHUNYAYA/STOCRS)
 
 ---
 
-### 🔊 STRUMER-A
+### 🧩 **SLANG**
 
-**Audio from structure — without editing, waveform tuning, or manual sequencing**
-
-- no audio editing → still same audio  
-- no waveform tuning → no dependency  
-- no manual sequencing → deterministic resolution  
-- incomplete structure → no audio  
-- inconsistent structure → no arbitrary audio  
-
-→ **Audio is revealed, not edited**
-
-`audio_visible iff audio_structure_complete AND audio_structure_consistent`
-
-`audio_output = resolve(structure)`
-
-A minimal deterministic reference implementation demonstrating that audio output emerges directly from **complete AND consistent structure** — not from audio editors, waveform workflows, timelines, or manual composition.
-
-🔗 [STRUMER-A](https://github.com/OMPSHUNYAYA/STRUMER/tree/main/STRUMER-A)
-
----
-
-### 🧭 S-Coordinate
-
-**Coordinate visibility from structure — without blind spatial assumption**
-
-- no rendering trust → still same admissibility  
-- no GPS trust → no dependency  
-- no map-layer assumption → deterministic resolution  
-- incomplete structure → no admissible visibility  
-- conflicting structure → no arbitrary visibility  
-
-→ **Coordinate admissibility is resolved, not rendered**
-
-`coordinate_visible iff S = RESOLVED AND tau = VALID AND sigma_deterministic`
-
-`coordinate_visibility = resolve(structure)`
-
-A minimal deterministic reference implementation demonstrating that coordinate admissibility emerges directly from **complete AND consistent structure** — not from rendering systems, GPS trust, map-layer assumptions, or numerical coordinates alone.
-
-🔗 [S-Coordinate](https://github.com/OMPSHUNYAYA/S-Coordinate)
-
----
-
-### 🧩 SLANG — Structural Language
-
-**Computation from structure — without execution, control flow, or prescribed sequencing**
-
-- same structure → same outcome  
-- different rule order → no change  
-- no execution → deterministic resolution  
-
-→ **Computation is resolved, not executed**
-
-SLANG represents the structural runtime layer where outcomes emerge from completeness and consistency of structure.
-
-The minimal executable proof of this model is demonstrated in SLANG-Computation.
-
----
-
-### ⚙️ SLANG-Computation
-
-**Computation from structure — without execution flow, control flow, or sequencing**
-
-- no execution → still same outcome  
-- different rule order → no change  
-- no control flow → deterministic resolution  
-
-→ **Computation is resolved, not executed**
-
-`outcome_visible iff structure_mature`
-
-A minimal deterministic kernel proving that computational outcomes emerge from **complete AND consistent structure** — not from execution flow or procedural orchestration.
+**Deterministic admissibility from structure — without workflow dependency**
 
 🔗 [SLANG-Computation](https://github.com/OMPSHUNYAYA/SLANG-Computation)
 
 ---
 
-### 💰 SLANG-Money
+### ☁️ **STIC**
 
-**Financial state from structure — without transactions or settlement flow**
+**System correctness from structure — without cloud infrastructure**
 
-- no transactions → still same balance  
-- no ordering → no ambiguity  
-- no execution → no movement required  
-
-→ **Financial state is resolved, not transferred**
-
-`state_visible iff structure_mature`
-
-A minimal deterministic kernel demonstrating that balances emerge from complete and consistent structure — not from transaction flow.
-
-🔗 [SLANG-Money](https://github.com/OMPSHUNYAYA/SLANG-Money)
+🔗 [STIC](https://github.com/OMPSHUNYAYA/STIC)
 
 ---
 
-### 🔍 SLANG-Audit
+### 🌐 **STINT-Money**
 
-**Audit from structure — without verification, replay, or reconciliation**
+**Financial correctness from structure — without continuous connectivity**
 
-- no verification → still same audit outcome  
-- no replay → no dependency on history  
-- no reconciliation → no pipeline required  
-- no ordering → no ambiguity  
-
-→ **Audit is resolved, not verified**
-
-`outcome_visible iff structure_mature`
-
-A minimal deterministic kernel demonstrating that audit outcomes emerge from **complete AND consistent structure** — not from verification workflows.
-
-🔗 [SLANG-Audit](https://github.com/OMPSHUNYAYA/SLANG-Audit)
+🔗 [STINT-Money](https://github.com/OMPSHUNYAYA/STINT-Money)
 
 ---
 
-### 🧪 **SLANG-Observatory**
+### 📡 **STILE**
 
-**Deterministic outcomes from structure — without workflows, sequencing, or execution pipelines**
+**Delivery correctness from structure — without messaging dependency**
 
-→ **Same structure → same outcome. No structure → no outcome.**
-
-`correctness = structure`  
-`outcome_visible iff structure_mature`
-
-A living collection of tiny deterministic kernels proving that outcomes emerge directly from **complete AND consistent structure** — not from process.
-
-🔗 [SLANG-Observatory](https://github.com/OMPSHUNYAYA/SLANG-Observatory)
+🔗 [STILE](https://github.com/OMPSHUNYAYA/STILE)
 
 ---
 
-#### 🔹 **SLANG-Invoice**
+### 🧭 **STRAL-Path**
 
-**Invoice approval from structure — without workflow or sequencing**
+**Path correctness from structure — without traversal or search**
 
-- no workflow → still same approval  
-- no sequencing → no dependency  
-- no orchestration → deterministic resolution  
-- incomplete structure → no approval  
-- conflicting structure → no forced approval  
+🔗 [STRAL-Path](https://github.com/OMPSHUNYAYA/STRAL-Path)
 
-→ **Approval is resolved, not processed**
+---
 
-`payable_visible iff structure_mature`
+# 🧠 Structural Intelligence & Coordination
 
-A minimal deterministic kernel demonstrating that invoice approval emerges directly from **complete AND consistent structure** — not from approval chains, sequencing, or orchestration.
+Systems demonstrating meaning, decisions, and coordination emerging directly from structure.
+
+---
+
+### 🧠 **ORL-AI**
+
+**Decision from structure — without training order or synchronization**
+
+🔗 [ORL-AI](https://github.com/OMPSHUNYAYA/ORL-AI)
+
+---
+
+### 💬 **ORL-Chat**
+
+**Meaning from structure — without message order**
+
+🔗 [ORL-Chat](https://github.com/OMPSHUNYAYA/ORL-Chat)
+
+---
+
+### 💰 **ORL-Money**
+
+**Money correctness from structure — without sequencing**
+
+🔗 [ORL-Money](https://github.com/OMPSHUNYAYA/ORL-Money)
+
+---
+
+# 🎬 Structural Media & Observability
+
+Systems demonstrating that visibility and media can emerge directly from structure rather than rendering workflows.
+
+---
+
+### 🎬 **STRUMER**
+
+**Video from structure — without editing workflows**
+
+🔗 [STRUMER](https://github.com/OMPSHUNYAYA/STRUMER)
+
+---
+
+### 🧩 **STRUMER-D**
+
+**Diagram visibility from structure — without drawing or layout workflows**
+
+🔗 [STRUMER-D](https://github.com/OMPSHUNYAYA/STRUMER/tree/main/STRUMER-D)
+
+---
+
+### 🔊 **STRUMER-A**
+
+**Audio from structure — without waveform editing or sequencing**
+
+🔗 [STRUMER-A](https://github.com/OMPSHUNYAYA/STRUMER/tree/main/STRUMER-A)
+
+---
+
+### 🧭 **S-Coordinate**
+
+**Coordinate admissibility from structure — without blind spatial assumptions**
+
+🔗 [S-Coordinate](https://github.com/OMPSHUNYAYA/S-Coordinate)
+
+---
+
+# 🧪 SLANG Observatory Kernels
+
+Tiny deterministic admissibility kernels demonstrating dependency elimination across real-world domains.
+
+---
+
+### 🔹 **SLANG-Invoice**
+
+**Invoice approval from structure — without workflow dependency**
 
 🔗 [SLANG-Invoice](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-Invoice)
 
 ---
 
-#### 🔹 **SLANG-Claims**
+### 🔹 **SLANG-Claims**
 
-**Claim payout from structure — without workflow or sequencing**
-
-- no workflow → still same payout  
-- no sequencing → no dependency  
-- no orchestration → deterministic resolution  
-- incomplete structure → no payout  
-- conflicting structure → no forced payout  
-
-→ **Payout is resolved, not processed**
-
-`payout_visible iff structure_mature`
-
-A minimal deterministic kernel demonstrating that claim payout emerges directly from **complete AND consistent structure** — not from workflows, approval chains, or verification processes.
+**Claim payout from structure — without verification workflows**
 
 🔗 [SLANG-Claims](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-Claims)
 
 ---
 
-#### 🔹 **SLANG-Cybersecurity**
+### 🔹 **SLANG-Cybersecurity**
 
-**Cybersecurity escalation from structure — without pipelines or sequencing**
-
-- no escalation pipeline → still same resolution  
-- no sequencing → no dependency  
-- no orchestration → deterministic resolution  
-- incomplete structure → no escalation  
-- conflicting structure → no forced escalation  
-
-→ **Escalation is resolved, not processed**
-
-`escalation_visible iff structure_mature`
-
-A minimal deterministic kernel demonstrating that cybersecurity escalation emerges directly from **complete AND consistent structure** — not from pipelines, orchestration layers, or workflow sequencing.
+**Cybersecurity escalation from structure — without pipelines**
 
 🔗 [SLANG-Cybersecurity](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-Cybersecurity)
 
 ---
 
-#### 🔹 **SLANG-Hurricane**
+### 🔹 **SLANG-Hurricane**
 
-**Hurricane forecast visibility from structure — without forced cones or premature visibility**
-
-- no forced forecast exposure → still same admissibility  
-- no premature visibility → no dependency  
-- no visibility pressure → deterministic structural gating  
-- incomplete structure → no forecast visibility  
-- unstable structure → no forced forecast  
-
-→ **Forecast visibility is admitted, not forced**
-
-`forecast_visible iff structure_mature`
-
-A minimal deterministic kernel demonstrating that hurricane forecast visibility emerges directly from **complete AND consistent structure** — not from forced cones, premature publication pressure, or visibility workflows.
+**Forecast visibility from structure — without forced publication**
 
 🔗 [SLANG-Hurricane](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-Hurricane)
 
 ---
 
-#### 🔹 **SLANG-Exam**
+### 🔹 **SLANG-Exam**
 
-**Question paper visibility from structure — without pre-created papers or secrecy workflows**
-
-- no pre-created paper dependency → still same admissibility  
-- no secrecy workflow dependency → deterministic visibility  
-- no sequencing → no dependency  
-- incomplete structure → no paper visibility  
-- conflicting structure → no forced visibility  
-
-→ **Question visibility is admitted, not pre-generated**
-
-`exam_visible iff structure_mature`
-
-A minimal deterministic kernel demonstrating that question paper visibility emerges directly from **complete AND consistent structure** — not from pre-created papers, secrecy workflows, or staged release mechanisms.
+**Question paper visibility from structure — without pre-created papers**
 
 🔗 [SLANG-Exam](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-Exam)
 
 ---
 
-#### 🔹 **SLANG-Voting**
+### 🔹 **SLANG-Voting**
 
-**Election winner visibility from structure — without ballots, machines, or recounts as correctness dependencies**
-
-- no recount dependency → still same admissibility  
-- no tally sequencing dependency → deterministic visibility  
-- no aggregation pipeline dependency → no dependency  
-- incomplete structure → no winner visibility  
-- conflicting structure → no forced winner  
-
-→ **Winner visibility is admitted, not process-derived**
-
-`winner_visible iff structure_mature`
-
-A minimal deterministic kernel demonstrating that election winner visibility emerges directly from **complete AND consistent structure** — not from recount workflows, tally sequencing, or aggregation pipelines as the source of correctness.
+**Election winner visibility from structure — without recount workflows as correctness dependency**
 
 🔗 [SLANG-Voting](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-Voting)
 
 ---
 
-#### 🔹 **SLANG-Password**
+### 🔹 **SLANG-Password**
 
 **Access resolution from structure — without authentication workflows**
 
@@ -572,7 +315,7 @@ A minimal deterministic kernel demonstrating that election winner visibility eme
 
 ---
 
-#### 🔹 **SLANG-ResetPassword**
+### 🔹 **SLANG-ResetPassword**
 
 **Password reset resolution from structure — without reset workflows**
 
@@ -580,23 +323,17 @@ A minimal deterministic kernel demonstrating that election winner visibility eme
 
 ---
 
-### 🕰 SSUM-Time
+# 🌍 Core Structural Invariant
 
-**Time reconstruction from structure — without continuous sync**
+Across all systems:
 
-→ **Drift corrected. Time recovered. Offline safe.**
+`same structure -> same outcome`
 
-🔗 [SSUM-Time](https://github.com/OMPSHUNYAYA/SSUM-Time)
+`incomplete structure -> no forced outcome`
 
----
+`conflicting structure -> no unsafe resolution`
 
-### ⭐ SIL
-
-**Position from structure — without time or sequence**
-
-→ **Same structure → same position**
-
-🔗 [SIL](https://github.com/OMPSHUNYAYA/Structural-Integer-Line)
+`correctness = structure`
 
 ---
 
