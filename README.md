@@ -32,7 +32,7 @@ The same published scripts recreate structurally identical videos repeatedly —
 ## 🌐 When Time Becomes Structure — And Truth Follows
 
 What if not just time — but computation, truth, money, media, observability, and even forecast visibility —  
-do not require synchronization, ordering, continuous connectivity, forced publication, rendering trust, or cloud dependency?
+do not require synchronization, ordering, continuous connectivity, forced publication, rendering trust, workflow dependency, execution trust, or cloud dependency?
 
 No internet.  
 No blind GPS trust.  
@@ -42,6 +42,8 @@ No premature certainty.
 No clocks.  
 No ordering.  
 No coordination.  
+No workflow dependency.  
+No execution trust.  
 No continuous network dependency.  
 No cloud dependency.  
 
@@ -66,6 +68,9 @@ These are **working systems** that remove dependency on:
 - coordination  
 - execution  
 - computation  
+- authentication  
+- verification workflows  
+- consensus / quorum  
 - transactions  
 - continuous network connectivity  
 - traversal  
@@ -519,6 +524,46 @@ A minimal deterministic kernel demonstrating that hurricane forecast visibility 
 
 ---
 
+#### 🔹 **SLANG-Exam**
+
+**Question paper visibility from structure — without pre-created papers or secrecy workflows**
+
+- no pre-created paper dependency → still same admissibility  
+- no secrecy workflow dependency → deterministic visibility  
+- no sequencing → no dependency  
+- incomplete structure → no paper visibility  
+- conflicting structure → no forced visibility  
+
+→ **Question visibility is admitted, not pre-generated**
+
+`exam_visible iff structure_mature`
+
+A minimal deterministic kernel demonstrating that question paper visibility emerges directly from **complete AND consistent structure** — not from pre-created papers, secrecy workflows, or staged release mechanisms.
+
+🔗 [SLANG-Exam](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-Exam)
+
+---
+
+#### 🔹 **SLANG-Voting**
+
+**Election winner visibility from structure — without ballots, machines, or recounts as correctness dependencies**
+
+- no recount dependency → still same admissibility  
+- no tally sequencing dependency → deterministic visibility  
+- no aggregation pipeline dependency → no dependency  
+- incomplete structure → no winner visibility  
+- conflicting structure → no forced winner  
+
+→ **Winner visibility is admitted, not process-derived**
+
+`winner_visible iff structure_mature`
+
+A minimal deterministic kernel demonstrating that election winner visibility emerges directly from **complete AND consistent structure** — not from recount workflows, tally sequencing, or aggregation pipelines as the source of correctness.
+
+🔗 [SLANG-Voting](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-Voting)
+
+---
+
 #### 🔹 **SLANG-Password**
 
 **Access resolution from structure — without authentication workflows**
@@ -590,13 +635,15 @@ All listed dependencies resolve to structure.
 | AI | inference | structure |
 | Cybersecurity | process / pipelines | structure |
 | Identity | authority / registry / certificate / replay identity | structure |
+| Authentication | login / reset workflows | structure |
 | Consensus | voting / quorum | structure |
+| Governance | recount / tally workflows | structure |
 | Network | connectivity | structure |
 | Cloud | cloud infrastructure | structure |
 | Media (Video) | editing / timelines / manual workflows | structure |
 | Media (Diagram) | manual drawing / layout | structure |
 | Media (Audio) | waveform editing / sequencing | structure |
-| Forecast Visibility | forced publication / premature visibility | structure |
+| Observability | forced visibility / premature publication | structure |
 | Spatial Systems | blind spatial assumption / rendering trust | structure |
 | Audit | verification | structure |
 | Transition | traversal / search | structure |
@@ -1220,7 +1267,8 @@ SLANG-Claims Reference Implementation, SVARE Reference Implementation,
 STIC Reference Implementation, STRUMER Reference Implementation,
 SLANG-Cybersecurity Reference Implementation, SLANG-Password Reference Implementation,
 SLANG-ResetPassword Reference Implementation, S-Coordinate Reference Implementation,
-SLANG-Hurricane Reference Implementation**
+SLANG-Hurricane Reference Implementation, SLANG-Exam Reference Implementation,
+SLANG-Voting Reference Implementation**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
@@ -1295,7 +1343,7 @@ and the following architectural frameworks:
 **SLANG-Cybersecurity Architecture**, **SLANG-Password Architecture**, **SLANG-ResetPassword Architecture**,  
 **STINT-Money Architecture**, **STRAL-Path Architecture**, **STILE Architecture**,  
 **SVARE Architecture**, **STIC Architecture**, **STRUMER Architecture**, **S-Coordinate Architecture**,
-**SLANG-Hurricane Architecture**
+**SLANG-Hurricane Architecture**, **SLANG-Exam Architecture**, **SLANG-Voting Architecture**
 
 together with their associated theoretical documents and research materials,  
 are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
