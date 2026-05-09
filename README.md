@@ -411,12 +411,15 @@ All listed dependencies resolve to structure.
 | Integration | communication / coordination | structure |
 | Communication | acknowledgements / retries / messaging pipelines | structure |
 
-Each row is a **direct removal** — not a substitution.  
-Nothing new is inserted.  
-Nothing is compensated for.  
-Nothing is approximated.  
-And yet **correctness remains**.  
-If correctness survives removal, the dependency was never fundamental.
+Each row demonstrates a reduction of runtime dependency through structure.
+
+Correctness remains reproducible under structural constraints.
+
+Dependencies may shift from runtime coordination toward structural definition,
+while preserving deterministic outcomes.
+
+If correctness remains stable after reducing a dependency,
+that dependency may not be fundamental to correctness.
 
 ---
 
