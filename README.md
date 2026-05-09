@@ -350,6 +350,30 @@ It preserves it exactly.
 
 ---
 
+---
+
+## ⚠️ Precision of Claim
+
+Shunyaya does not claim that execution,  
+infrastructure, communication, workflows,  
+or computation disappear physically.
+
+The claim is structural:
+
+under deterministic conditions,  
+those mechanisms need not remain  
+the fundamental source of admissible correctness.
+
+Operational substrates may still exist.
+
+Correctness becomes structurally governed,  
+deterministically reproducible,  
+and replay-verifiable.
+
+---
+
+---
+
 ## 🧱 Dependency Elimination Framework
 
 Across all these systems, the same structural pattern appears repeatedly.
