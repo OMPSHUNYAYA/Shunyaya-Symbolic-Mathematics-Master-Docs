@@ -385,7 +385,7 @@ The preserved invariant does not.
 
 All listed dependencies resolve to structure.
 
-| Domain | Removed Dependency from Correctness | What Preserves Correctness |
+| Domain | Removed Dependency for Correctness | What Preserves Correctness |
 |---|---|---|
 | Time | clocks | structure |
 | Decision | order | structure |
