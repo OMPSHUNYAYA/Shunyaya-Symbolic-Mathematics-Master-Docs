@@ -411,14 +411,15 @@ All listed dependencies resolve to structure for correctness.
 | Integration | communication / coordination | structure |
 | Communication | acknowledgements / retries / messaging pipelines | structure |
 
-Each row demonstrates a reduction of runtime dependency through structure.
+Each row demonstrates removal of a dependency for correctness,
+while structure preserves correctness.
 
 Correctness remains reproducible under structural constraints.
 
 Dependencies may shift from runtime coordination toward structural definition,
 while preserving deterministic outcomes.
 
-If correctness remains stable after reducing a dependency,
+If correctness remains stable after removing a dependency,
 that dependency may not be fundamental to correctness.
 
 ---
