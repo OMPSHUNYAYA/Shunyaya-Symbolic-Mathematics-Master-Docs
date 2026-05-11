@@ -383,9 +383,9 @@ The preserved invariant does not.
 
 ![Dependency Elimination Framework](https://raw.githubusercontent.com/OMPSHUNYAYA/SLANG-Observatory/main/docs/Dependency-Elimination-Framework.png)
 
-All listed dependencies resolve to structure.
+All listed dependencies resolve to structure for correctness.
 
-| Domain | Removed Dependency for Correctness | What Preserves Correctness |
+| Domain | Dependency Removed for Correctness | What Preserves Correctness |
 |---|---|---|
 | Time | clocks | structure |
 | Decision | order | structure |
