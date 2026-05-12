@@ -145,6 +145,14 @@ Systems demonstrating deterministic resolution without execution pipelines, clou
 
 ---
 
+### ⚙️ **STOCRS-R**
+
+**Deterministic application correctness from structure — without procedural sequencing**
+
+🔗 [STOCRS-R](https://github.com/OMPSHUNYAYA/STOCRS-R)
+
+---
+
 ### 🧩 **SLANG**
 
 **Deterministic admissibility from structure — without workflow dependency**
@@ -1033,7 +1041,7 @@ STIC Reference Implementation, STRUMER Reference Implementation,
 SLANG-Cybersecurity Reference Implementation, SLANG-Password Reference Implementation,
 SLANG-ResetPassword Reference Implementation, S-Coordinate Reference Implementation,
 SLANG-Hurricane Reference Implementation, SLANG-Exam Reference Implementation,
-SLANG-Voting Reference Implementation**
+SLANG-Voting Reference Implementation, STOCRS-R Reference Implementation**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
@@ -1108,7 +1116,8 @@ and the following architectural frameworks:
 **SLANG-Cybersecurity Architecture**, **SLANG-Password Architecture**, **SLANG-ResetPassword Architecture**,  
 **STINT-Money Architecture**, **STRAL-Path Architecture**, **STILE Architecture**,  
 **SVARE Architecture**, **STIC Architecture**, **STRUMER Architecture**, **S-Coordinate Architecture**,
-**SLANG-Hurricane Architecture**, **SLANG-Exam Architecture**, **SLANG-Voting Architecture**
+**SLANG-Hurricane Architecture**, **SLANG-Exam Architecture**, **SLANG-Voting Architecture**,
+**STOCRS-R Architecture**
 
 together with their associated theoretical documents and research materials,  
 are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
