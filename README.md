@@ -400,7 +400,7 @@ All listed dependencies resolve to structure for correctness.
 | Meaning | sequence | structure |
 | Money | transactions / continuous connectivity | structure |
 | Truth | agreement | structure |
-| Computation | execution | structure |
+| Computation | execution / arithmetic dependency | structure |
 | AI | inference | structure |
 | Cybersecurity | process / pipelines | structure |
 | Identity | authority / registry / certificate / replay identity | structure |
@@ -414,21 +414,16 @@ All listed dependencies resolve to structure for correctness.
 | Media (Audio) | waveform editing / sequencing | structure |
 | Observability | forced visibility / premature publication | structure |
 | Spatial Systems | blind spatial assumption / rendering trust | structure |
-| Audit | verification | structure |
+| Audit | verification / replay reconstruction | structure |
 | Transition | traversal / search | structure |
 | Integration | communication / coordination | structure |
 | Communication | acknowledgements / retries / messaging pipelines | structure |
 
-Each row demonstrates removal of a dependency for correctness,
-while structure preserves correctness.
+Each row demonstrates reduction of a dependency as the fundamental source of correctness, while structure preserves deterministic outcomes.
 
-Correctness remains reproducible under structural constraints.
+Operational substrates may still exist, but correctness becomes structurally governed, reproducible, and replay-verifiable.
 
-Dependencies may shift from runtime coordination toward structural definition,
-while preserving deterministic outcomes.
-
-If correctness remains stable after removing a dependency,
-that dependency may not be fundamental to correctness.
+If correctness remains structurally stable after reducing a dependency, that dependency may not have been fundamental to correctness.
 
 ---
 
