@@ -13,7 +13,7 @@
 
 ## 📑 Start Here
 
-1. **Dependency Elimination Framework** — correctness preserved through structure after reducing assumed dependencies  
+1. **Dependency Elimination Framework** — correctness preserved through structure after removing assumed dependencies for correctness
 2. **Shunyaya Structural Stack** — layered structural systems removing execution, order, time, connectivity, traversal, and infrastructure dependency  
 3. **Executable Proof Index** — runnable deterministic systems across computation, finance, AI, media, networking, and observability  
 4. **Runnable Structural Systems** — replay-verifiable reference implementations and executable demonstrations  
@@ -432,11 +432,11 @@ All listed dependencies resolve to structure for correctness.
 | Integration | communication / coordination | structure |
 | Communication | acknowledgements / retries / messaging pipelines | structure |
 
-Each row demonstrates reduction of a dependency as the fundamental source of correctness, while structure preserves deterministic outcomes.
+Each row demonstrates removal of an assumed dependency as the fundamental source of correctness, while structure preserves deterministic outcomes.
 
 Operational substrates may still exist, but correctness becomes structurally governed, reproducible, and replay-verifiable.
 
-If correctness remains structurally stable after reducing a dependency, that dependency may not have been fundamental to correctness.
+If correctness remains structurally stable after removing an assumed dependency for correctness, that dependency may not have been fundamental to correctness.
 
 ---
 
