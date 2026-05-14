@@ -11,6 +11,21 @@
 
 ---
 
+## 📑 Start Here
+
+1. **Dependency Elimination Framework** — correctness preserved through structure after reducing assumed dependencies  
+2. **Shunyaya Structural Stack** — layered structural systems removing execution, order, time, connectivity, traversal, and infrastructure dependency  
+3. **Executable Proof Index** — runnable deterministic systems across computation, finance, AI, media, networking, and observability  
+4. **Runnable Structural Systems** — replay-verifiable reference implementations and executable demonstrations  
+5. **Shunyaya Mathematical Foundations** — `SSOM -> SSM -> SSUM -> SSD -> SSE`  
+6. **Independent Validation Across Time, Systems, and Domains**  
+7. **Verified Case Studies and Structural Results Summary**  
+8. **Scientific Demonstrations and Reproducible Proofs**  
+9. **Safety, Determinism, and Reproducibility Guarantees**  
+10. **Licensing, Usage Scope, and Deployment Rights**
+
+---
+
 ## 🎬 Real-World Validation
 
 Public Shunyaya videos are generated using the structural approach.
@@ -380,8 +395,6 @@ and replay-verifiable.
 
 ---
 
----
-
 ## 🧱 Dependency Elimination Framework
 
 Across all these systems, the same structural pattern appears repeatedly.
@@ -589,23 +602,6 @@ Structure becomes visible.**
 ---
 
 ➡️ What follows are **executable proofs** of these layers in action.
-
----
-
-## 📑 Table of Contents
-
-1. Introduction — What Shunyaya Does in Practice  
-2. Immediate Proof: Verifying Shunyaya in 10 Seconds  
-3. Independent Validation Across Time, Systems, and Domains  
-4. Law 0 — The Executable Symbolic Law  
-5. Shunyaya Symbolic Mathematics (SSM) — Foundations  
-6. Shunyaya Structural Universal Mathematics (SSUM) — Runtime Mathematics  
-7. SSUM Observatory — Executable Structural Evidence  
-8. Verified Case Studies — Results Summary  
-9. Active Projects and Public Repositories (Runnable)  
-10. Scientific Demonstrations and Reproducible Proofs  
-11. Safety, Determinism, and Reproducibility Guarantees  
-12. Licensing, Usage Scope, and Deployment Rights  
 
 ---
 
