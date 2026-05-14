@@ -450,9 +450,9 @@ This is one consistent result:
 
 ---
 
-## ✅ Executable Proof Index (Start Here)
+## ✅ Executable Structural Systems & Proof Index
 
-This repository is the **execution-first public entry point** to the Shunyaya ecosystem — a unified index of **runnable, auditable, civilization-grade symbolic and structural standards** built to execute deterministically.
+This repository provides a **unified public map of executable structural systems, deterministic proofs, and replay-verifiable reference implementations** across the Shunyaya ecosystem.
 
 It provides engineers, scientists, regulators, and researchers a **single public map of systems that run exactly as specified**, preserve classical outputs via strict conservative collapse (e.g., `phi((m, a)) = m`, `phi((m, a, s)) = m`), and introduce structural governance **without modifying equations, solvers, or domain laws**.
 
