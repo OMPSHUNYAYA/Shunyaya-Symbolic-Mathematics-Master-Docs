@@ -208,6 +208,24 @@ Systems demonstrating deterministic resolution without execution pipelines, clou
 
 ---
 
+# 🧠 Structural Resolution & Admissibility Systems
+
+Systems demonstrating deterministic admissibility resolution from structure before computation, inference, orchestration flow, or execution.
+
+---
+
+### 🧠 **SRI**
+
+**Intelligence admissibility from structure — before AI execution**
+
+`intelligence_admissibility = resolve(structure)`
+
+Deterministic structural admissibility where intelligence states emerge from complete and consistent structure before inference, prediction, or orchestration flow.
+
+🔗 [SRI](https://github.com/OMPSHUNYAYA/SRI)
+
+---
+
 # 🧠 Structural Intelligence & Coordination
 
 Systems demonstrating meaning, decisions, and coordination emerging directly from structure.
@@ -1032,7 +1050,8 @@ STIC Reference Implementation, STRUMER Reference Implementation,
 SLANG-Cybersecurity Reference Implementation, SLANG-Password Reference Implementation,
 SLANG-ResetPassword Reference Implementation, S-Coordinate Reference Implementation,
 SLANG-Hurricane Reference Implementation, SLANG-Exam Reference Implementation,
-SLANG-Voting Reference Implementation, STOCRS-R Reference Implementation**
+SLANG-Voting Reference Implementation, STOCRS-R Reference Implementation,
+SRI Reference Implementation**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
@@ -1108,7 +1127,7 @@ and the following architectural frameworks:
 **STINT-Money Architecture**, **STRAL-Path Architecture**, **STILE Architecture**,  
 **SVARE Architecture**, **STIC Architecture**, **STRUMER Architecture**, **S-Coordinate Architecture**,
 **SLANG-Hurricane Architecture**, **SLANG-Exam Architecture**, **SLANG-Voting Architecture**,
-**STOCRS-R Architecture**
+**STOCRS-R Architecture, SRI Architecture**
 
 together with their associated theoretical documents and research materials,  
 are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
