@@ -415,14 +415,31 @@ and replay-verifiable.
 
 ## 🧱 Dependency Elimination Framework
 
-Across all these systems, the same structural pattern appears repeatedly.
-
-The dependency changes.  
-The preserved invariant does not.
+The following Dependency Elimination Framework summarizes structural dependency-elimination demonstrations across **75+ systems** within the Shunyaya ecosystem (see indexed repositories for runnable reference implementations).
 
 ![Dependency Elimination Framework](https://raw.githubusercontent.com/OMPSHUNYAYA/SLANG-Observatory/main/docs/Dependency-Elimination-Framework.png)
 
-All listed dependencies resolve to structure for correctness.
+**Important terminology clarification:**
+
+Each row below uses terms such as computation, truth, consensus, execution, inference, realization, and representation in the specific sense defined within the Shunyaya structural framework.
+
+The claim is **not** that clocks, execution systems, communication, agreement, inference, realization systems, or infrastructure become operationally useless.
+
+The claim is narrower and more fundamental:
+
+`structural completeness and consistency may preserve correctness even after these dependencies are removed as the governing source of correctness.`
+
+Operational substrates may still exist.  
+Execution may still occur.  
+Infrastructure may still remain useful.  
+Generation may still occur.  
+Representation may still occur.
+
+But correctness itself may become **structurally governed**.
+
+Readers from mainstream computer science, distributed systems, AI, networking, mathematics, systems engineering, and generative AI backgrounds are strongly encouraged to evaluate the linked runnable implementations before interpreting individual rows in isolation.
+
+**All listed dependencies resolve to structure for correctness.**
 
 | Domain | Dependency Removed for Correctness | What Preserves Correctness |
 |---|---|---|
@@ -433,6 +450,8 @@ All listed dependencies resolve to structure for correctness.
 | Truth | agreement | structure |
 | Computation | execution / arithmetic dependency | structure |
 | AI | inference | structure |
+| Realization | probabilistic generation | structure |
+| Representation | unconstrained semantic expansion | structure |
 | Cybersecurity | process / pipelines | structure |
 | Identity | authority / registry / certificate / replay identity | structure |
 | Authentication | login / reset workflows | structure |
@@ -450,9 +469,14 @@ All listed dependencies resolve to structure for correctness.
 | Integration | communication / coordination | structure |
 | Communication | acknowledgements / retries / messaging pipelines | structure |
 
-Each row demonstrates removal of an assumed dependency as the fundamental source of correctness, while structure preserves deterministic outcomes.
+Each row demonstrates removal of an assumed dependency as the governing source of correctness, while structure preserves **replay-stable deterministic outcomes**.
 
-Operational substrates may still exist, but correctness becomes structurally governed, reproducible, and replay-verifiable.
+Operational substrates may still exist, but correctness becomes:
+
+- **structurally governed**
+- **reproducible**
+- **replay-verifiable**
+- **admissibility-bounded**
 
 If correctness remains structurally stable after removing an assumed dependency for correctness, that dependency may not have been fundamental to correctness.
 
