@@ -391,8 +391,6 @@ It preserves it exactly.
 
 ---
 
----
-
 ## ⚠️ Precision of Claim
 
 Shunyaya does not claim that execution,  
