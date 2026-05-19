@@ -168,6 +168,14 @@ Systems demonstrating deterministic resolution without execution pipelines, clou
 
 ---
 
+### ⚙️ **STRUPER**
+
+**Deterministic structural realization from structure — beyond procedural realization flow**
+
+🔗 [STRUPER](https://github.com/OMPSHUNYAYA/STRUPER)
+
+---
+
 ### 🧩 **SLANG**
 
 **Deterministic admissibility from structure — without workflow dependency**
@@ -1073,7 +1081,7 @@ SLANG-Cybersecurity Reference Implementation, SLANG-Password Reference Implement
 SLANG-ResetPassword Reference Implementation, S-Coordinate Reference Implementation,
 SLANG-Hurricane Reference Implementation, SLANG-Exam Reference Implementation,
 SLANG-Voting Reference Implementation, STOCRS-R Reference Implementation,
-SRI Reference Implementation**
+SRI Reference Implementation, STRUPER Reference Implementation**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
@@ -1149,7 +1157,7 @@ and the following architectural frameworks:
 **STINT-Money Architecture**, **STRAL-Path Architecture**, **STILE Architecture**,  
 **SVARE Architecture**, **STIC Architecture**, **STRUMER Architecture**, **S-Coordinate Architecture**,
 **SLANG-Hurricane Architecture**, **SLANG-Exam Architecture**, **SLANG-Voting Architecture**,
-**STOCRS-R Architecture, SRI Architecture**
+**STOCRS-R Architecture**, **SRI Architecture**, **STRUPER Architecture**
 
 together with their associated theoretical documents and research materials,  
 are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
