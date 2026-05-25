@@ -29,7 +29,7 @@ https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA
 
 Explore the full deterministic observatory repository:
 
-[SSM-JTK Repository](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-Jyotish-Transit-Kernel)
+[SSM-JA Observatory Repository](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-Jyotish-Transit-Kernel/tree/main/SSM-JA)
 
 ---
 
