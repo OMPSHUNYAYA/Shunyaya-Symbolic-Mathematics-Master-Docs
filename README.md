@@ -11,6 +11,28 @@
 
 ---
 
+# 🌐 LIVE Browser-Native Observatory
+
+**SSM-JA — Ephemeris-Independent Jyotish Atlas**
+
+Launch the live deterministic observatory directly in the browser:
+
+https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_3_11.html
+
+- offline-capable
+- browser-native
+- deterministic
+- ephemeris-independent
+- single-file observatory
+
+`offline deterministic structure -> reproducible observational realization`
+
+Explore the full deterministic observatory repository:
+
+[SSM-JTK Repository](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-Jyotish-Transit-Kernel)
+
+---
+
 ## 📑 Start Here
 
 1. **Dependency Elimination Framework** — correctness preserved through structure after removing assumed dependencies for correctness
@@ -46,8 +68,8 @@ The same published scripts recreate structurally identical videos repeatedly —
 
 ## 🌐 When Time Becomes Structure — And Truth Follows
 
-What if not just time — but computation, truth, money, media, observability, and even forecast visibility —  
-do not require synchronization, ordering, continuous connectivity, forced publication, rendering trust, workflow dependency, execution trust, or cloud dependency?
+What if not just time — but computation, truth, money, media, observability, forecast visibility, and even runtime ephemeris dependency —  
+do not require synchronization, ordering, continuous connectivity, forced publication, rendering trust, workflow dependency, execution trust, cloud infrastructure, or runtime ephemeris services?
 
 No internet.  
 No blind GPS trust.  
@@ -83,10 +105,10 @@ These are **working systems** that remove dependency on:
 - coordination  
 - execution  
 - computation  
-- authentication  
+- runtime ephemeris dependency  
 - verification workflows  
-- consensus / quorum  
-- transactions  
+- consensus / quorum coordination  
+- transaction sequencing  
 - continuous network connectivity  
 - traversal  
 - communication  
@@ -94,7 +116,7 @@ These are **working systems** that remove dependency on:
 - forced visibility / publication  
 - editing / timelines / manual workflows  
 
-And still produce the **same correct result**.
+while still preserving deterministic admissibility and reproducible realization within bounded structural conditions.
 
 `correctness = structure`
 
@@ -469,6 +491,7 @@ Readers from mainstream computer science, distributed systems, AI, networking, m
 | Media (Diagram) | manual drawing / layout | structure |
 | Media (Audio) | waveform editing / sequencing | structure |
 | Observability | forced visibility / premature publication | structure |
+| Observational Astronomy | runtime ephemeris dependency | structure |
 | Spatial Systems | blind spatial assumption / rendering trust | structure |
 | Audit | verification / replay reconstruction | structure |
 | Transition | traversal / search | structure |
@@ -993,7 +1016,7 @@ Across **numerics, geometry, physics, data, and real-world systems**:
 ### 🌌 Temporal & Conceptual Extensions
 
 - [Symbolic-Mathematics-Jyotish-Transit-Kernel (SSM-JTK)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-Jyotish-Transit-Kernel)  
-  Deterministic planetary/temporal kernel with structural lanes.
+  Deterministic ephemeris-independent transit kernel with the LIVE browser-native `SSM-JA` offline observatory layer.
 
 - [Zeozo — y = m*x + c, redefined](https://github.com/OMPSHUNYAYA/Zeozo)  
   Structural reinterpretation of linearity and offset.
@@ -1081,7 +1104,8 @@ SLANG-Cybersecurity Reference Implementation, SLANG-Password Reference Implement
 SLANG-ResetPassword Reference Implementation, S-Coordinate Reference Implementation,
 SLANG-Hurricane Reference Implementation, SLANG-Exam Reference Implementation,
 SLANG-Voting Reference Implementation, STOCRS-R Reference Implementation,
-SRI Reference Implementation, STRUPER Reference Implementation**
+SRI Reference Implementation, STRUPER Reference Implementation,
+SSM-JA Reference Implementation**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
@@ -1157,7 +1181,8 @@ and the following architectural frameworks:
 **STINT-Money Architecture**, **STRAL-Path Architecture**, **STILE Architecture**,  
 **SVARE Architecture**, **STIC Architecture**, **STRUMER Architecture**, **S-Coordinate Architecture**,
 **SLANG-Hurricane Architecture**, **SLANG-Exam Architecture**, **SLANG-Voting Architecture**,
-**STOCRS-R Architecture**, **SRI Architecture**, **STRUPER Architecture**
+**STOCRS-R Architecture**, **SRI Architecture**, **STRUPER Architecture**,
+**SSM-JTK and SSM-JA Architecture**
 
 together with their associated theoretical documents and research materials,  
 are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
