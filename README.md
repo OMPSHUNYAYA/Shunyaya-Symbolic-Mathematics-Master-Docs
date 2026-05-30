@@ -521,6 +521,36 @@ This is one consistent result:
 
 ---
 
+# 🛡 Structural Capability Visibility Systems
+
+Systems demonstrating deterministic capability visibility through structural admissibility rather than automatic exposure.
+
+---
+
+### 🛡 **CAPS**
+
+**Capability visibility from structure — without automatic exposure**
+
+Deterministic structural visibility demonstrations exploring whether capability existence and capability visibility may remain structurally separated across real product domains.
+
+🔗 [CAPS](https://github.com/OMPSHUNYAYA/CAPS)
+
+---
+
+# 🧪 CAPS Demonstration Kernels
+
+Focused capability visibility demonstrations across real product domains.
+
+---
+
+### 🔹 **CAPS-SmartBulb**
+
+**Capability visibility through admissibility — without automatic exposure**
+
+🔗 [CAPS-SmartBulb](https://github.com/OMPSHUNYAYA/CAPS/tree/main/demo/CAPS-SmartBulb)
+
+---
+
 ## ✅ Executable Structural Systems & Proof Index
 
 This repository provides a **unified public map of executable structural systems, deterministic proofs, and replay-verifiable reference implementations** across the Shunyaya ecosystem.
@@ -1105,7 +1135,7 @@ SLANG-ResetPassword Reference Implementation, S-Coordinate Reference Implementat
 SLANG-Hurricane Reference Implementation, SLANG-Exam Reference Implementation,
 SLANG-Voting Reference Implementation, STOCRS-R Reference Implementation,
 SRI Reference Implementation, STRUPER Reference Implementation,
-SSM-JA Reference Implementation**
+SSM-JA Reference Implementation, CAPS Reference Implementation**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
@@ -1173,16 +1203,13 @@ Only:
 and the following architectural frameworks:
 
 **SSUM-Time Architecture**, **STOCRS Architecture**,  
-**ORL Architecture**, **ORL-Money Architecture**, **ORL-Chat Architecture**, **ORL-AI Architecture**,  
+**ORL Architecture**,  
 **SIL Architecture**, **Structural-Time Architecture**,  
-**SLANG-Computation Architecture**, **SLANG-Money Architecture**, **SLANG-Audit Architecture**,  
-**SLANG-Invoice Architecture**, **SLANG-Claims Architecture**,  
-**SLANG-Cybersecurity Architecture**, **SLANG-Password Architecture**, **SLANG-ResetPassword Architecture**,  
+**SLANG Architecture**,  
 **STINT-Money Architecture**, **STRAL-Path Architecture**, **STILE Architecture**,  
-**SVARE Architecture**, **STIC Architecture**, **STRUMER Architecture**, **S-Coordinate Architecture**,
-**SLANG-Hurricane Architecture**, **SLANG-Exam Architecture**, **SLANG-Voting Architecture**,
-**STOCRS-R Architecture**, **SRI Architecture**, **STRUPER Architecture**,
-**SSM-JTK and SSM-JA Architecture**
+**SVARE Architecture**, **STIC Architecture**, **STRUMER Architecture**, **S-Coordinate Architecture**,  
+**STOCRS-R Architecture**, **SRI Architecture**, **STRUPER Architecture**,  
+**SSM-JTK Architecture**, **SSM-JA Architecture**, **CAPS Architecture**
 
 together with their associated theoretical documents and research materials,  
 are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
