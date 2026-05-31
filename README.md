@@ -551,6 +551,14 @@ Focused capability visibility demonstrations across real product domains.
 
 ---
 
+### 🔹 **CAPS-DoorLock**
+
+**Physical-access capability visibility through structural admissibility**
+
+🔗 [CAPS-DoorLock](https://github.com/OMPSHUNYAYA/CAPS/tree/main/demo/CAPS-DoorLock)
+
+---
+
 ## ✅ Executable Structural Systems & Proof Index
 
 This repository provides a **unified public map of executable structural systems, deterministic proofs, and replay-verifiable reference implementations** across the Shunyaya ecosystem.
@@ -1135,7 +1143,8 @@ SLANG-ResetPassword Reference Implementation, S-Coordinate Reference Implementat
 SLANG-Hurricane Reference Implementation, SLANG-Exam Reference Implementation,
 SLANG-Voting Reference Implementation, STOCRS-R Reference Implementation,
 SRI Reference Implementation, STRUPER Reference Implementation,
-SSM-JA Reference Implementation, CAPS Reference Implementation**
+SSM-JA Reference Implementation, CAPS-SmartBulb Reference Implementation,
+CAPS-DoorLock Reference Implementation,**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
