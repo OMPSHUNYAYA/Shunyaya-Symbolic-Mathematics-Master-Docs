@@ -66,6 +66,51 @@ The same published scripts recreate structurally identical videos repeatedly —
 
 ---
 
+# 🧭 **How To Read This Repository**
+
+This repository may be explored in three different ways depending on what you want.
+
+### **1. Understand The Core Idea**
+
+Start here if you want to understand the central claim:
+
+- Dependency Elimination Framework
+- Shunyaya Structural Stack
+
+Goal → `correctness = structure`
+
+---
+
+### **2. Understand The Architecture**
+
+Start here if you want to understand how structural systems connect together:
+
+- Structural Foundations
+- Runtime & Resolution Layers
+- Structural Admissibility Systems
+- Domain Demonstrations
+
+Goal → `same structure -> same outcome`
+
+---
+
+### **3. Verify That It Actually Runs**
+
+Start here if you want runnable evidence first:
+
+- Executable Proof Index
+- Observatory Kernels
+- Reference Implementations
+- Demonstration Repositories
+
+Goal → `deterministic + reproducible + replay-verifiable`
+
+---
+
+**Different entry points. Same structural invariants.**
+
+---
+
 ## 🌐 When Time Becomes Structure — And Truth Follows
 
 What if not just time — but computation, truth, money, media, observability, forecast visibility, and even runtime ephemeris dependency —  
@@ -513,11 +558,31 @@ If correctness remains structurally stable after removing an assumed dependency 
 
 ## ⚡ The Realization
 
-This is not multiple systems.
+These are not isolated systems.
 
-This is one consistent result:
+These are multiple demonstrations of the same structural direction.
+
+Different domains
+
+↓
+
+different dependencies removed
+
+↓
+
+same governing principle
+
+↓
 
 `correctness = structure`
+
+The question explored throughout this repository is not:
+
+"How many systems exist?"
+
+The question is:
+
+**Does the same structural invariant continue surviving across domains?**
 
 ---
 
