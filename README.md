@@ -1196,34 +1196,41 @@ The majority of Shunyaya projects are released as **Open Standards**.
 
 This includes (but is not limited to):
 
-**SSUM, SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe,  
-SSM-AIM Mini (SSM-based AI kernel),  
-SSUM-AIM Mini (SSUM-based AI kernel),  
-SSM-Tweet, SSM-Browse, LAW-0AR, SSM-Encrypt, SSM-UT,  
-SSUM-Finite-Structural-Area-Experiment,  
-SSUM-Structural-Primality, SSP, SSAU, STL, SSSL, SSIL, SBM, SSC-Core,   
-AIMFK, EIK, RIC-Proof, SSUM-Time Reference Implementation,   
-STOCRS Reference Implementation, ORL Reference Implementation,    
-ORL-Money Reference Implementation, ORL-Chat Reference Implementation,    
-SIL Reference Implementation, ORL-AI Reference Implementation,    
-Structural-Time Reference Implementation, SLANG-Computation Reference Implementation,  
-SLANG-Audit Reference Implementation, SLANG-Money Reference Implementation,
-STINT-Money Reference Implementation, STRAL-Path Reference Implementation,
-STILE Reference Implementation, SLANG-Invoice Reference Implementation,
-SLANG-Claims Reference Implementation, SVARE Reference Implementation,
-STIC Reference Implementation, STRUMER Reference Implementation,
-SLANG-Cybersecurity Reference Implementation, SLANG-Password Reference Implementation,
-SLANG-ResetPassword Reference Implementation, S-Coordinate Reference Implementation,
-SLANG-Hurricane Reference Implementation, SLANG-Exam Reference Implementation,
-SLANG-Voting Reference Implementation, STOCRS-R Reference Implementation,
-SRI Reference Implementation, STRUPER Reference Implementation,
-SSM-JA Reference Implementation, CAPS-SmartBulb Reference Implementation,
-CAPS-DoorLock Reference Implementation, CAPS-Router Reference Implementation**
+### **Structural Mathematics Systems**
 
-In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
+SSUM, SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe, SSM-Clock Stamp, SSP, SSAU, STL, SSSL, SSIL, SBM, SSC-Core
 
-It is not a domain-layer project, but a deterministic certification framework
-for manifest-bound replay identity across executable capsules.
+### **AI / Intelligence / Reasoning**
+
+SSM-AIM Mini (SSM-based AI kernel), SSUM-AIM Mini (SSUM-based AI kernel), AIMFK, SSM-Tweet, SSM-Browse
+
+### **Security / Identity / Verification**
+
+LAW-0AR, SSM-Encrypt, SSM-UT, EIK, RIC-Proof
+
+### **Mathematics / Scientific Exploration**
+
+SSUM-Finite-Structural-Area-Experiment, SSUM-Structural-Primality
+
+### **Structural Runtime / Resolution Systems**
+
+SSUM-Time Reference Implementation, Structural-Time Reference Implementation, STOCRS Reference Implementation, STOCRS-R Reference Implementation, SIL Reference Implementation, STIC Reference Implementation, STRUPER Reference Implementation, SRI Reference Implementation, SVARE Reference Implementation
+
+### **ORL / Financial / Settlement Systems**
+
+ORL Reference Implementation, ORL-Money Reference Implementation, ORL-Chat Reference Implementation, ORL-AI Reference Implementation, STINT-Money Reference Implementation
+
+### **SLANG Structural Systems**
+
+SLANG-Computation Reference Implementation, SLANG-Audit Reference Implementation, SLANG-Money Reference Implementation, SLANG-Invoice Reference Implementation, SLANG-Claims Reference Implementation, SLANG-Cybersecurity Reference Implementation, SLANG-Password Reference Implementation, SLANG-ResetPassword Reference Implementation, SLANG-Hurricane Reference Implementation, SLANG-Exam Reference Implementation, SLANG-Voting Reference Implementation
+
+### **Structural Domain Systems**
+
+STRAL-Path Reference Implementation, STILE Reference Implementation, STRUMER Reference Implementation, S-Coordinate Reference Implementation
+
+### **### Observatories / Visibility / Capability Systems**
+
+SSM-JA Reference Implementation, CAPS-SmartBulb Reference Implementation, CAPS-DoorLock Reference Implementation, CAPS-Router Reference Implementation, SSUM-AIM Observatory
 
 **Open-Standard projects mean:**
 
