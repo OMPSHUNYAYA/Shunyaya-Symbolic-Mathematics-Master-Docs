@@ -5,9 +5,10 @@
 
 ![Execution-First](https://img.shields.io/badge/Execution-First-black)
 ![Deterministic](https://img.shields.io/badge/Deterministic-Yes-green)
-![Replay-Discipline](https://img.shields.io/badge/Replay-Discipline%20(Where%20Published)-green)
+![Replay-Verifiable](https://img.shields.io/badge/Replay-Verifiable%20(Where%20Published)-green)
 ![Classical-Integrity](https://img.shields.io/badge/Classical-Outputs%20Unmodified-green)
 ![Layered-Architecture](https://img.shields.io/badge/Architecture-Layered-purple)
+![75+ Structural Systems](https://img.shields.io/badge/75%2B-Structural%20Systems-gold)
 
 ---
 
@@ -624,6 +625,14 @@ Focused capability visibility demonstrations across real product domains.
 
 ---
 
+### 🔹 **CAPS-Router**
+
+**Network infrastructure capability visibility through structural admissibility**
+
+🔗 [CAPS-Router](https://github.com/OMPSHUNYAYA/CAPS/tree/main/demo/CAPS-Router)
+
+---
+
 ## ✅ Executable Structural Systems & Proof Index
 
 This repository provides a **unified public map of executable structural systems, deterministic proofs, and replay-verifiable reference implementations** across the Shunyaya ecosystem.
@@ -1209,7 +1218,7 @@ SLANG-Hurricane Reference Implementation, SLANG-Exam Reference Implementation,
 SLANG-Voting Reference Implementation, STOCRS-R Reference Implementation,
 SRI Reference Implementation, STRUPER Reference Implementation,
 SSM-JA Reference Implementation, CAPS-SmartBulb Reference Implementation,
-CAPS-DoorLock Reference Implementation,**
+CAPS-DoorLock Reference Implementation, CAPS-Router Reference Implementation**
 
 In addition, the **SSUM-AIM Observatory** is released as an Open Standard.
 
