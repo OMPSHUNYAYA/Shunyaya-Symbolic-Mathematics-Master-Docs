@@ -156,7 +156,7 @@ These are **working systems** that remove dependency on:
 - consensus / quorum coordination  
 - transaction sequencing  
 - continuous network connectivity  
-- traversal  
+- traversal / repeated rediscovery  
 - communication  
 - cloud infrastructure  
 - forced visibility / publication  
@@ -281,6 +281,14 @@ Systems demonstrating deterministic resolution without execution pipelines, clou
 **Path correctness from structure — without traversal or search**
 
 🔗 [STRAL-Path](https://github.com/OMPSHUNYAYA/STRAL-Path)
+
+---
+
+### ⭐ **STRUE**
+
+**Folder truth retrieval from structure — without repeated rediscovery during retrieval**
+
+🔗 [STRUE](https://github.com/OMPSHUNYAYA/STRUE)
 
 ---
 
@@ -541,6 +549,7 @@ Readers from mainstream computer science, distributed systems, AI, networking, m
 | Spatial Systems | blind spatial assumption / rendering trust | structure |
 | Audit | verification / replay reconstruction | structure |
 | Transition | traversal / search | structure |
+| Truth Retrieval | repeated rediscovery / traversal-based retrieval | structure |
 | Integration | communication / coordination | structure |
 | Communication | acknowledgements / retries / messaging pipelines | structure |
 
@@ -1214,7 +1223,7 @@ SSUM-Finite-Structural-Area-Experiment, SSUM-Structural-Primality
 
 ### **Structural Runtime / Resolution Systems**
 
-SSUM-Time Reference Implementation, Structural-Time Reference Implementation, STOCRS Reference Implementation, STOCRS-R Reference Implementation, SIL Reference Implementation, STIC Reference Implementation, STRUPER Reference Implementation, SRI Reference Implementation, SVARE Reference Implementation
+SSUM-Time Reference Implementation, Structural-Time Reference Implementation, STOCRS Reference Implementation, STOCRS-R Reference Implementation, SIL Reference Implementation, STIC Reference Implementation, STRUPER Reference Implementation, STRUE Reference Implementation, SRI Reference Implementation, SVARE Reference Implementation
 
 ### **ORL / Financial / Settlement Systems**
 
@@ -1228,7 +1237,7 @@ SLANG-Computation Reference Implementation, SLANG-Audit Reference Implementation
 
 STRAL-Path Reference Implementation, STILE Reference Implementation, STRUMER Reference Implementation, S-Coordinate Reference Implementation
 
-### **### Observatories / Visibility / Capability Systems**
+### **Observatories / Visibility / Capability Systems**
 
 SSM-JA Reference Implementation, CAPS-SmartBulb Reference Implementation, CAPS-DoorLock Reference Implementation, CAPS-Router Reference Implementation, SSUM-AIM Observatory
 
@@ -1299,7 +1308,8 @@ and the following architectural frameworks:
 **STINT-Money Architecture**, **STRAL-Path Architecture**, **STILE Architecture**,  
 **SVARE Architecture**, **STIC Architecture**, **STRUMER Architecture**, **S-Coordinate Architecture**,  
 **STOCRS-R Architecture**, **SRI Architecture**, **STRUPER Architecture**,  
-**SSM-JTK Architecture**, **SSM-JA Architecture**, **CAPS Architecture**
+**SSM-JTK Architecture**, **SSM-JA Architecture**, **CAPS Architecture**,
+**STRUE Architecture**
 
 together with their associated theoretical documents and research materials,  
 are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
