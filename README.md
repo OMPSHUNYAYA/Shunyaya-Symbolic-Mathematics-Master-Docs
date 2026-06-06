@@ -1247,8 +1247,7 @@ STRAL-Path Reference Implementation, STILE Reference Implementation, STRUMER Ref
 
 ### **Observatories / Visibility / Capability Systems**
 
-SSM-JA Reference Implementation, CAPS-SmartBulb Reference Implementation, CAPS-DoorLock Reference Implementation, CAPS-Router Reference Implementation, 
-CAPS-Printer Reference Implementation, SSUM-AIM Observatory
+SSM-JA Reference Implementation, CAPS-SmartBulb Reference Implementation, CAPS-DoorLock Reference Implementation, CAPS-Router Reference Implementation, CAPS-Printer Reference Implementation, SSUM-AIM Observatory
 
 **Open-Standard projects mean:**
 
