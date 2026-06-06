@@ -642,6 +642,14 @@ Focused capability visibility demonstrations across real product domains.
 
 ---
 
+### 🔹 **CAPS-Printer**
+
+**Document-output capability visibility through structural admissibility**
+
+🔗 [CAPS-Printer](https://github.com/OMPSHUNYAYA/CAPS/tree/main/demo/CAPS-Printer)
+
+---
+
 ## ✅ Executable Structural Systems & Proof Index
 
 This repository provides a **unified public map of executable structural systems, deterministic proofs, and replay-verifiable reference implementations** across the Shunyaya ecosystem.
@@ -1239,7 +1247,8 @@ STRAL-Path Reference Implementation, STILE Reference Implementation, STRUMER Ref
 
 ### **Observatories / Visibility / Capability Systems**
 
-SSM-JA Reference Implementation, CAPS-SmartBulb Reference Implementation, CAPS-DoorLock Reference Implementation, CAPS-Router Reference Implementation, SSUM-AIM Observatory
+SSM-JA Reference Implementation, CAPS-SmartBulb Reference Implementation, CAPS-DoorLock Reference Implementation, CAPS-Router Reference Implementation, 
+CAPS-Printer Reference Implementation, SSUM-AIM Observatory
 
 **Open-Standard projects mean:**
 
