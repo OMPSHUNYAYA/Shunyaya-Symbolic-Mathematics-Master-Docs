@@ -310,6 +310,18 @@ Deterministic structural admissibility where intelligence states emerge from com
 
 ---
 
+### 🔔 **SNARE**
+
+**Notification visibility from structure — without application-defined interruption rules**
+
+`notification_visible iff structure_admissible`
+
+Deterministic structural visibility governance where alerts, reminders, updates, and interruptions are resolved through structure before interruption occurs.
+
+🔗 [SNARE](https://github.com/OMPSHUNYAYA/SNARE)
+
+---
+
 # 🧠 Structural Intelligence & Coordination
 
 Systems demonstrating meaning, decisions, and coordination emerging directly from structure.
@@ -1231,7 +1243,7 @@ SSUM-Finite-Structural-Area-Experiment, SSUM-Structural-Primality
 
 ### **Structural Runtime / Resolution Systems**
 
-SSUM-Time Reference Implementation, Structural-Time Reference Implementation, STOCRS Reference Implementation, STOCRS-R Reference Implementation, SIL Reference Implementation, STIC Reference Implementation, STRUPER Reference Implementation, STRUE Reference Implementation, SRI Reference Implementation, SVARE Reference Implementation
+SSUM-Time Reference Implementation, Structural-Time Reference Implementation, STOCRS Reference Implementation, STOCRS-R Reference Implementation, SIL Reference Implementation, STIC Reference Implementation, STRUPER Reference Implementation, STRUE Reference Implementation, SRI Reference Implementation, SVARE Reference Implementation, SNARE Reference Implementation
 
 ### **ORL / Financial / Settlement Systems**
 
@@ -1317,7 +1329,7 @@ and the following architectural frameworks:
 **SVARE Architecture**, **STIC Architecture**, **STRUMER Architecture**, **S-Coordinate Architecture**,  
 **STOCRS-R Architecture**, **SRI Architecture**, **STRUPER Architecture**,  
 **SSM-JTK Architecture**, **SSM-JA Architecture**, **CAPS Architecture**,
-**STRUE Architecture**
+**STRUE Architecture**, **SNARE Architecture**
 
 together with their associated theoretical documents and research materials,  
 are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
