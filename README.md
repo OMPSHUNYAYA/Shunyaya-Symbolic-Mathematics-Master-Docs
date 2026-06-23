@@ -322,6 +322,26 @@ Deterministic structural visibility governance where alerts, reminders, updates,
 
 ---
 
+### ⛵ **SAIL**
+
+**Intelligence in AI emerging from visible structure — beyond foundational dependence on language, hidden memory, or training**
+
+`structure -> invariant -> evidence -> certificate -> outcome`
+
+Structural AI and structural computing framework exploring whether reasoning, certification, coordination, federation, execution, and measurable realization can emerge through visible structural interaction.
+
+🔗 [SAIL](https://github.com/OMPSHUNYAYA/SAIL)
+
+**Reference Applications**
+
+- [Requirement Realization Console](https://github.com/OMPSHUNYAYA/SAIL/tree/main/applications/SAIL_Requirement_Realization_Console_v1_1_2) — Certifies requirements through execution, measurement, outcome verification, and realization.
+- [Requirements Management System](https://github.com/OMPSHUNYAYA/SAIL/tree/main/applications/SAIL_Requirements_Management_System_v1_1_2) — Governs requirements through policy, traceability, approval, and realization.
+- [Incident Management System](https://github.com/OMPSHUNYAYA/SAIL/tree/main/applications/SAIL_Incident_Management_System_v1_1_2) — Resolves incidents through triage, conditional escalation, recovery, and verification.
+- [Compliance and Audit Console](https://github.com/OMPSHUNYAYA/SAIL/tree/main/applications/SAIL_Compliance_Audit_Console_v1_1_2) — Certifies controls through policy, evidence, exceptions, and deterministic audit receipts.
+- [Federation Operations Console](https://github.com/OMPSHUNYAYA/SAIL/tree/main/applications/SAIL_Federation_Operations_Console_v1_1_2) — Certifies distributed coordination through quorum, consensus, replay, and federation audit.
+
+---
+
 # 🧠 Structural Intelligence & Coordination
 
 Systems demonstrating meaning, decisions, and coordination emerging directly from structure.
@@ -1243,7 +1263,7 @@ SSUM-Finite-Structural-Area-Experiment, SSUM-Structural-Primality
 
 ### **Structural Runtime / Resolution Systems**
 
-SSUM-Time Reference Implementation, Structural-Time Reference Implementation, STOCRS Reference Implementation, STOCRS-R Reference Implementation, SIL Reference Implementation, STIC Reference Implementation, STRUPER Reference Implementation, STRUE Reference Implementation, SRI Reference Implementation, SVARE Reference Implementation, SNARE Reference Implementation
+SSUM-Time Reference Implementation, Structural-Time Reference Implementation, STOCRS Reference Implementation, STOCRS-R Reference Implementation, SIL Reference Implementation, STIC Reference Implementation, STRUPER Reference Implementation, STRUE Reference Implementation, SRI Reference Implementation, SVARE Reference Implementation, SNARE Reference Implementation, SAIL Reference Implementation
 
 ### **ORL / Financial / Settlement Systems**
 
@@ -1329,7 +1349,7 @@ and the following architectural frameworks:
 **SVARE Architecture**, **STIC Architecture**, **STRUMER Architecture**, **S-Coordinate Architecture**,  
 **STOCRS-R Architecture**, **SRI Architecture**, **STRUPER Architecture**,  
 **SSM-JTK Architecture**, **SSM-JA Architecture**, **CAPS Architecture**,
-**STRUE Architecture**, **SNARE Architecture**
+**STRUE Architecture**, **SNARE Architecture**, **SAIL Architecture**
 
 together with their associated theoretical documents and research materials,  
 are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
