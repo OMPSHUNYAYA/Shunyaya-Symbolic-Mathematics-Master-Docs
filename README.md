@@ -34,6 +34,20 @@ Explore the full deterministic observatory repository:
 
 ---
 
+# ⚖️ **Beyond Centre of Mass: A Foundational Stability Breakthrough**
+
+### **SSG — Structural Stability Geometry**
+
+**Beyond centre of mass: balance becomes an executable, replay-verifiable closed return relation.**
+
+`admissible disturbance -> return OR redistribution OR arrest`
+
+Four structurally distinct native solver routes reproduce the same winning partition. Four assurance layers observe agreement, verify transitions, diagnose disagreement, and govern release certification. A fresh GitHub clone verified `238/238` manifest files, `8/8` components, and `12/12` system certification checks.
+
+🔗 [Structural Stability Geometry — SSG](https://github.com/OMPSHUNYAYA/SSG)
+
+---
+
 ## 📑 Start Here
 
 1. **Dependency Elimination Framework** — correctness preserved through structure after removing assumed dependencies for correctness
@@ -1275,7 +1289,7 @@ SLANG-Computation Reference Implementation, SLANG-Audit Reference Implementation
 
 ### **Structural Domain Systems**
 
-STRAL-Path Reference Implementation, STILE Reference Implementation, STRUMER Reference Implementation, S-Coordinate Reference Implementation
+Structural Stability Geometry (SSG) Reference Implementation, STRAL-Path Reference Implementation, STILE Reference Implementation, STRUMER Reference Implementation, S-Coordinate Reference Implementation
 
 ### **Observatories / Visibility / Capability Systems**
 
@@ -1349,7 +1363,8 @@ and the following architectural frameworks:
 **SVARE Architecture**, **STIC Architecture**, **STRUMER Architecture**, **S-Coordinate Architecture**,  
 **STOCRS-R Architecture**, **SRI Architecture**, **STRUPER Architecture**,  
 **SSM-JTK Architecture**, **SSM-JA Architecture**, **CAPS Architecture**,
-**STRUE Architecture**, **SNARE Architecture**, **SAIL Architecture**
+**STRUE Architecture**, **SNARE Architecture**, **SAIL Architecture**,  
+**SSG Architecture**
 
 together with their associated theoretical documents and research materials,  
 are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
