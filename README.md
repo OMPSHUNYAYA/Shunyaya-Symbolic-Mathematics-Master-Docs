@@ -356,6 +356,16 @@ Structural AI and structural computing framework exploring whether reasoning, ce
 
 ---
 
+### 🤖 **STRIDE — Structural Robotic Intention and Deterministic Execution**
+
+**AI may propose actions, but robots move only when structure permits.**
+
+`motion_allowed iff valid_motion_contract_exists`
+
+🔗 [STRIDE](https://github.com/OMPSHUNYAYA/STRIDE)
+
+---
+
 # 🧠 Structural Intelligence & Coordination
 
 Systems demonstrating meaning, decisions, and coordination emerging directly from structure.
@@ -1253,11 +1263,15 @@ open standards, research materials, and executable systems.
 
 ---
 
-## ✅ Open-Standard Projects (Default)
+## ✅ Open Use and Open Standard Projects
 
-The majority of Shunyaya projects are released as **Open Standards**.
+The projects below permit open implementation or open use under the license declared in each repository.
 
-This includes (but is not limited to):
+To date, all Shunyaya licenses labeled Open Use or Open Standard are custom project licenses. They are not represented as OSI-approved open-source licenses.
+
+Most Shunyaya projects are released under Open Use or Open Standard terms.
+
+This includes, but is not limited to:
 
 ### **Structural Mathematics Systems**
 
@@ -1277,7 +1291,7 @@ SSUM-Finite-Structural-Area-Experiment, SSUM-Structural-Primality
 
 ### **Structural Runtime / Resolution Systems**
 
-SSUM-Time Reference Implementation, Structural-Time Reference Implementation, STOCRS Reference Implementation, STOCRS-R Reference Implementation, SIL Reference Implementation, STIC Reference Implementation, STRUPER Reference Implementation, STRUE Reference Implementation, SRI Reference Implementation, SVARE Reference Implementation, SNARE Reference Implementation, SAIL Reference Implementation
+SSUM-Time Reference Implementation, Structural-Time Reference Implementation, STOCRS Reference Implementation, STOCRS-R Reference Implementation, SIL Reference Implementation, STIC Reference Implementation, STRUPER Reference Implementation, STRUE Reference Implementation, SRI Reference Implementation, SVARE Reference Implementation, SNARE Reference Implementation, SAIL Reference Implementation, STRIDE Reference Implementation
 
 ### **ORL / Financial / Settlement Systems**
 
@@ -1295,10 +1309,10 @@ Structural Stability Geometry (SSG) Reference Implementation, STRAL-Path Referen
 
 SSM-JA Reference Implementation, CAPS-SmartBulb Reference Implementation, CAPS-DoorLock Reference Implementation, CAPS-Router Reference Implementation, CAPS-Printer Reference Implementation, SSUM-AIM Observatory
 
-**Open-Standard projects mean:**
+**Open Use and Open Standard projects generally mean:**
 
 - **Free to implement** with **no registration or fees**
-- **Protocol / format freedom:** any person or organization may implement the published standard in personal, institutional, research, or commercial systems
+- **Implementation freedom:** any person or organization may use or implement the published reference implementation, protocol, or format in personal, institutional, research, or commercial systems
 - **No exclusivity or vendor lock-in:** implementations may be built in any language, on any platform, under any deployment model
 - **Deterministic and transparent by design:** formulas, stamps, envelopes, and symbolic logic are specified to execute reproducibly under identical inputs (e.g., `phi((m,a)) = m` or `phi((m,a,s)) = m`, where applicable)
 - **Attribution:** recommended but not required, unless explicitly required by the license declared in a specific repository
@@ -1307,7 +1321,7 @@ SSM-JA Reference Implementation, CAPS-SmartBulb Reference Implementation, CAPS-D
 **Warranty:**  
 Provided *as-is* with no warranty or guarantee of fitness.
 
-Open-standard projects are designed for **global, frictionless adoption**
+These projects are designed for **global, frictionless adoption**
 across vendors, platforms, and jurisdictions.
 
 ---
@@ -1364,7 +1378,7 @@ and the following architectural frameworks:
 **STOCRS-R Architecture**, **SRI Architecture**, **STRUPER Architecture**,  
 **SSM-JTK Architecture**, **SSM-JA Architecture**, **CAPS Architecture**,
 **STRUE Architecture**, **SNARE Architecture**, **SAIL Architecture**,  
-**SSG Architecture**
+**SSG Architecture**, **STRIDE Architecture**
 
 together with their associated theoretical documents and research materials,  
 are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
@@ -1377,9 +1391,7 @@ Conditions:
 - non-commercial use only
 - no warranty or endorsement
 
-All other Shunyaya repositories are released under
-either Open Standard terms or CC BY 4.0,
-as explicitly declared in their respective repositories.
+All other Shunyaya repositories are governed by the terms explicitly declared in their respective repositories, including Open Use, Open Standard, or CC BY 4.0 terms.
 
 ---
 
