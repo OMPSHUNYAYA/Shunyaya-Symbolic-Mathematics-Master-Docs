@@ -190,7 +190,7 @@ Core systems demonstrating that mathematical correctness, position, time, and tr
 
 ### ⭐ **SVARE**
 
-**Value correctness from structure — without computation**
+**Structure-first exact scientific calculator and bounded deterministic math oracle for supported expressions**
 
 🔗 [SVARE](https://github.com/OMPSHUNYAYA/SVARE)
 
