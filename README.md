@@ -15,7 +15,7 @@
 ## 📑 Start Here
 
 1. **Live Flagships** — SSM-JA, SVARE, and Structural Stability Geometry 
-2. **Structural Evidence & Dependency Framework** — invariants, scope, established-work relationship, and evidence boundaries  
+2. **Structural Evidence & Dependency Framework** — invariants, precision of claim, implemented dependency boundaries, and claim boundaries  
 3. **Dependency-Elimination Systems** — foundations, runtime, admissibility, intelligence, media, SLANG, and CAPS  
 4. **Mathematical Architecture & Executable Evidence** — five layers, collapse invariants, runnable demonstrations, and certification kernels  
 5. **Mathematical & Domain Repository Index** — frameworks, sciences, observatories, operators, time, and conceptual extensions  
@@ -131,9 +131,9 @@ Across implementations where declared:
 
 Each implementation tests whether an assumed dependency can be removed from the governing source of admissible resolution within a bounded structural model.
 
-Classical outputs, domain rules, and operational mechanisms remain unchanged where applicable.
+Existing domain outputs and rules remain unchanged where applicable. Operational mechanisms may remain available without governing the admissible outcome.
 
-Structure adds explicit admissibility, deterministic resolution, and reproducible evidence.
+Where implemented, structure adds explicit admissibility, deterministic resolution, and reproducible evidence.
 
 ---
 
@@ -151,36 +151,33 @@ Replay verification applies where published.
 
 ## 🧱 Dependency Elimination Framework
 
-The Dependency Elimination Framework brings together more than 75 executable and documented structural implementations, including standalone systems, framework applications, deterministic kernels, observatories, and reference demonstrations.
+The Dependency Elimination Framework maps more than 75 executable and documented structural implementations across mathematics, computing, finance, AI, communication, media, observability, and scientific domains.
 
-Each implementation examines a bounded question:
+Each implementation tests the same practical move:
 
-**Can an assumed dependency be removed from the governing source of an admissible outcome while deterministic resolution remains reproducible?**
+`operational dependency -> no longer the sole resolution authority`
 
-`admissible outcome = resolve(complete, consistent, domain-bounded structure)`
+`complete + consistent + domain-bounded structure -> admissible outcome`
 
-The distinctive contribution is not the claim that every underlying technique is unprecedented. It is the use of a common structural discipline across otherwise different domains:
+`incomplete structure -> unresolved`
 
-- complete and compatible structure may resolve
-- incomplete structure remains unresolved
-- conflicting structure produces `ABSTAIN` or `DENY`
-- operational mechanisms remain available without automatically governing the admissible outcome
+`conflicting structure -> ABSTAIN OR DENY`
+
+Dependency elimination does not mean that clocks, execution, communication, infrastructure, inference, transactions, or workflows physically disappear.
+
+They may remain operational. The claim is that, within the declared model, they no longer have to determine the admissible outcome.
 
 ![Dependency Elimination Framework](https://raw.githubusercontent.com/OMPSHUNYAYA/SLANG-Observatory/main/docs/Dependency-Elimination-Framework.png)
 
-### **Scope of Elimination**
+### **Implemented Dependency Boundaries**
 
-Dependency elimination does not mean that clocks, execution, communication, infrastructure, inference, transactions, or workflows become physically unnecessary.
-
-It means that, within a declared deterministic model, an operational mechanism may no longer be required as the **governing source of admissible resolution**.
-
-| Domain | Dependency Removed from Governing Resolution | Structural Basis |
+| Domain | Dependency Eliminated from Sole Resolution Authority | Structural Basis |
 |---|---|---|
 | Time | wall-clock synchronization | accepted transition structure |
 | Decision | arrival order | normalized complete evidence |
-| Meaning | fragment sequence | complete compatible semantic structure |
-| Money | transaction order / continuous connectivity | complete compatible financial state |
-| Truth / Ledger | agreement as sole resolution authority | complete compatible ledger state |
+| Meaning | fragment sequence | complete consistent semantic structure |
+| Money | transaction order / continuous connectivity | complete consistent financial state |
+| Truth / Ledger | agreement as sole resolution authority | complete consistent ledger state |
 | Computation | prescribed execution order | complete admissible computation structure |
 | AI Admissibility | inference as admission authority | declared invariants and evidence |
 | Realization | probabilistic generation as the sole realization path | deterministic specification |
@@ -201,60 +198,36 @@ It means that, within a declared deterministic model, an operational mechanism m
 | Audit | repeated reconstruction workflow | maintained evidence and receipts |
 | Transition | traversal or search | declared transition relation |
 | Truth Retrieval | repeated query-time traversal | maintained folder-truth structure |
-| Integration | live coordination as the sole resolution source | compatible interface structure |
+| Integration | live coordination as the sole resolution source | consistent interface structure |
 | Communication | acknowledgements and retries as delivery truth | aligned delivery evidence |
 
-### **Relationship to Established Work**
+### **Claim Boundary**
 
-Shunyaya does not claim that every underlying computational or mathematical technique is unprecedented.
+Individual implementations may use established mathematical or computational techniques. The framework claim concerns **what governs resolution**, not ownership of every mechanism used inside an implementation.
 
-Its contribution is the use of a shared structural resolution, evidence, and abstention discipline across multiple bounded domains.
+Each repository defines its own inputs, structural rules, verification evidence, limitations, and unresolved states.
 
-Where structure remains incomplete or conflicting, the framework preserves the unresolved boundary. It does not manufacture agreement, bypass established limitations, or replace existing mathematical and computational methods.
+Where applicable, the collapse invariants:
 
----
-
-### **Evidence Boundary**
-
-The collapse invariant:
+`phi((m, a)) = m`
 
 `phi((m, a, s)) = m`
 
-establishes conservative preservation of `m` by construction.
+preserve `m` by construction.
 
-It does not, by itself, establish the informational value of `a` or `s`, or superiority over established analytical methods. Those claims require repository-specific experiments, comparisons, and reproducible evidence.
+They do not, by themselves, prove the informational value of `a` or `s`, establish superiority over other methods, or certify real-world safety.
 
-`conservative collapse = output-preservation invariant`
+`collapse = declared output preservation`
 
-`dependency elimination = bounded implementation claim`
+`dependency elimination = repository-bounded implementation claim`
 
-`comparative validation = continuing evidence burden`
+`comparison and broader validation = continuing evidence requirement`
 
-Replay verification applies where published. Operational substrates may remain useful or necessary even when they no longer determine the structurally admissible outcome.
+The recurring framework discipline is:
 
----
+`same declared structure + same versioned rules -> same resolution state or admissible outcome`
 
-## ⚡ The Unifying Question
-
-These implementations are not presented as separate theories. They are bounded tests of one structural direction across different domains:
-
-different domains
-
-↓
-
-different dependencies removed from governing resolution
-
-↓
-
-same admissibility discipline
-
-`complete compatible structure -> resolve`
-
-`incomplete or conflicting structure -> no forced resolution`
-
-The central question is not how many implementations exist.
-
-It is whether the same structural discipline remains coherent, reproducible, and useful across domains.
+`missing or conflicting structure -> no forced outcome`
 
 ---
 
