@@ -807,64 +807,65 @@ Within this project, **AIM** means **Artificial Intelligence Manifest**. AIMFK c
 
 ## 🔷 Five Layers of the Shunyaya Framework
 
-Shunyaya is a **conservative structural extension** that preserves exact classical results while making **origin, posture, evolution, diagnosis, and trust** executable and auditable.
+Shunyaya is a **conservative structural extension**. It adds origin, posture, evolution, diagnosis, and trust-admissibility lanes while preserving the declared classical output under collapse by design.
 
-Classical math asks: **What is the value?**  
+Classical mathematics asks: **What is the value?**  
 Calculus asks: **How does it change?**  
-Shunyaya adds: **Is it structurally valid, stable, evolving correctly, and safe to trust?**
+Shunyaya adds: **What is its structural posture, and when is reliance admissible?**
 
 ---
 
 | Layer | Core Question | What It Adds | Classical Output |
-|------|--------------|--------------|------------------|
-| **SSOM** | Is this valid at origin? | Origin-level structural admissibility, reliability horizon | Preserved |
-| **SSM** | Is the value centered or drifting? | Bounded alignment lane `(m, a)` | Preserved |
-| **SSUM** | How does structure evolve? | Structural state `(m, a, s)`, cost, pressure, admissibility | Preserved |
-| **SSD** | Where is stability eroding? | Deterministic structural diagnosis of traces | Preserved |
-| **SSE** | Should this be trusted? | Explicit trust governance (`ALLOW / ABSTAIN / DENY`) | Preserved |
+|---|---|---|---|
+| **SSOM** | Is this construction admissible at origin? | Origin posture and reliability horizon | Preserved by design |
+| **SSM** | Is the value centered or drifting? | Bounded alignment lane `(m, a)` | Preserved by design |
+| **SSUM** | How does structure evolve? | Structural state `(m, a, s)`, cost, and pressure | Preserved by design |
+| **SSD** | Where is structural stability eroding? | Deterministic diagnosis of declared traces | Preserved by design |
+| **SSE** | Is reliance admissible here? | Explicit governance states such as `ALLOW`, `ABSTAIN`, and `DENY` | Preserved by design |
 
 ---
 
-## 🔒 Invariants (Non-Negotiable)
+## 🔒 Collapse Invariants
 
-`phi((m, a)) = m`  
+`phi((m, a)) = m`
+
 `phi((m, a, s)) = m`
 
-- classical values remain exact  
-- no solver modification  
-- no approximation or simulation  
+These invariants preserve `m` by construction.
+
+- collapse does not alter the declared classical value
+- structural lanes remain separate from classical output
+- underlying equations and solvers remain unchanged where the framework is applied as an overlay
+- collapse preservation does not, by itself, validate the informational value of `a` or `s`
 
 ---
 
 ## 🧠 Summary
 
-- **SSOM** → origin validity  
-- **SSM** → posture visibility  
-- **SSUM** → structural evolution  
-- **SSD** → failure diagnosis  
-- **SSE** → trust governance  
+- **SSOM** -> origin admissibility
+- **SSM** -> posture visibility
+- **SSUM** -> structural evolution
+- **SSD** -> structural diagnosis
+- **SSE** -> reliance governance
 
-**Nothing classical changes.  
-Structure becomes visible.**
-
----
-
-➡️ What follows are **executable proofs** of these layers in action.
+**Classical output remains intact. Structural information becomes explicit.**
 
 ---
 
-## 🚀 Quick Proof That Shunyaya Runs — Execute in 10 Seconds
+What follows are executable implementations and published evidence across these layers.
 
-This is not a conceptual illustration.  
-It is a **runnable, offline kernel** that demonstrates the core Shunyaya principle:
-**structural collapse-safety and continuity** — without requiring replay identity in this mini demo.
+---
 
-The example below uses the **SSM-ClockKe** mini kernel to produce:
+## 🚀 Quick Executable Demonstration — Run in 10 Seconds
+
+This runnable, offline mini kernel demonstrates core SSM-ClockKe behavior:
+
 - a bounded alignment lane (`a_out`)
+- deterministic accumulation for identical alignment inputs
 - a tamper-evident continuity stamp chain
-- structurally consistent behavior across machines
+- preservation of the original timestamp payload
 
-No data. No training. No simulation. Just execution.
+No training. No probabilistic inference. No external service. Just local execution.
 
 ```python
 # --- 20-line SSM-ClockKe Mini Demo ---
@@ -901,489 +902,712 @@ for tick in range(1, 6):
     time.sleep(0.5)
 ```
 
-Note: For strict replay determinism, replace datetime.now(...) with a fixed deterministic tick source. The above example demonstrates structural continuity, not replay identity.
+**Replay note:** This mini demo uses live timestamps and therefore demonstrates structural continuity, not strict replay identity. For byte-identical replay, use the same deterministic tick inputs, including fixed timestamps.
 
 **Actual output from a real execution:**
 
 ```
-01  time=2026-01-21T12:59:32Z  align=+0.020000  stamp=48c46d23b1dafa82...
-02  time=2026-01-21T12:59:33Z  align=+0.020000  stamp=a56a73a2e99f298b...
-03  time=2026-01-21T12:59:33Z  align=+0.020000  stamp=26b0beeebb419593...
-04  time=2026-01-21T12:59:34Z  align=+0.020000  stamp=cda96e309068e218...
-05  time=2026-01-21T12:59:34Z  align=+0.020000  stamp=e5adb4dc5abc2ced...
+01  time=2026-07-07T04:23:40Z  align=+0.020000  stamp=9cb42232aa9b54b1...
+02  time=2026-07-07T04:23:41Z  align=+0.020000  stamp=1cd43b1946134edd...
+03  time=2026-07-07T04:23:41Z  align=+0.020000  stamp=6cbb0bfcb9734164...
+04  time=2026-07-07T04:23:42Z  align=+0.020000  stamp=b7281bce66dfef3f...
+05  time=2026-07-07T04:23:42Z  align=+0.020000  stamp=02001152f9229072...
 ```
 
-**What this proves immediately**
+**What this demonstrates**
 
-- The classical payload (time) is untouched  
-- A bounded symbolic alignment lane is produced deterministically  
-- Continuity is enforced via a cryptographic stamp chain  
-- Re-running the script with the same tick inputs reproduces the same structural behavior  
-- No solver, model, clock source, or external dependency is modified  
+- the timestamp payload remains unchanged
+- the alignment lane remains bounded
+- identical complete inputs reproduce the same alignment behavior
+- each stamp commits to the previous stamp, current payload, and timestamp
+- deletion, modification, or reordering becomes visible during chain verification
+- the underlying clock source is observed, not modified
 
-This is the smallest executable proof that Shunyaya is **operational, not theoretical**.
+This is a compact executable demonstration that the structural kernel is implemented and directly testable.
 
 *Optional context:*  
-SSM reveals **runtime posture beside values**.  
-SSOM extends this one layer earlier — revealing **origin posture before computation begins**.
+SSM places structural posture beside unchanged values.  
+SSOM investigates structural posture one layer earlier, at mathematical origin.
 
 ---
 
-### ⭐ Independent Validation (Across Domains)
+### ⭐ Executable Evidence Across Domains
 
-Shunyaya is not theoretical — it is **running systems** across domains:
+Shunyaya includes runnable, inspectable implementations across distinct structural domains:
 
-- **SSM-ClockKe** → alignment + continuity in ~20 lines  
-- **SSUM-AIM Mini** → deterministic AI without training or probability  
-- **SSUM Observatory** → executable proofs (geometry, computation, real-world data)  
-- **SSM-JTK** → deep-time deterministic kernel (year 0001–9500, validated via monthly self-consistency benches and anchored by golden day-grid checks)
+- **SSM-ClockKe** -> bounded alignment and tamper-evident continuity in a compact offline kernel  
+- **SSUM-AIM Mini** -> deterministic manifest-based reflection through explicit rules, without training or probabilistic inference  
+- **SSUM Observatory** -> browser-native case studies across numerical methods, geometry, and real-world LiDAR data  
+- **SSM-JTK** -> offline observational structure with golden data, manifests, acceptance gates, and a reproducible validator  
 
----
+Across time, manifest computation, geometry, numerics, and observational astronomy:
 
-Across **time, AI, astronomy, geometry, networks, and computation**:
+`same declared inputs + same versioned rules -> same reproducible result`
 
-**same principle → same result**
-
-`correctness = structure`
+**Runnable. Inspectable. Reproducible within declared scope.**
 
 ---
 
-**Deterministic. Reproducible. Cross-domain. Already working.**
+### 🟢 Shunyaya Symbolic Law 0
+
+**A classical value may be extended with a bounded alignment lane while preserving the original value under collapse.**
+
+`phi((m, a)) = m`
+
+Within the framework, `m` retains the classical value and `a in (-1, +1)` represents declared structural alignment. Preservation of `m` is guaranteed by design; interpretation of `a` remains application-specific.
 
 ---
 
-### 🟢 Shunyaya Symbolic Mathematical Law (Law 0)
-
-**“Every classical value carries a bounded alignment lane, revealing reality drift and stability while retaining the original number.”**
-
-Law 0 defines the two-lane invariant used across the ecosystem: `phi((m, a)) = m`.
-
----
-
-## 🔹 Current Active Repositories (Public)
+## 🔹 Current Active Repositories
 
 ### 🧩 Core Frameworks
 
-- [Shunyaya Structural Origin Mathematics (SSOM)](https://github.com/OMPSHUNYAYA/Shunyaya-Structural-Origin-Mathematics)  
-  Origin-level structural admissibility before computation.  
-  Canonical state `(m, a, s)` with invariant `phi((m, a, s)) = m`.  
-  Reveals origin posture and reliability horizon — without altering classical results.
+### ⭐ **SSOM — Shunyaya Structural Origin Mathematics**
 
-- [Shunyaya Structural Equations (SSE)](https://github.com/OMPSHUNYAYA/Shunyaya-Structural-Equations)  
-  Trust governance for mathematically correct results.  
-  Enforces `ALLOW / CONVERGED_ALLOW / DENY / ABSTAIN` under strict collapse.  
-  Deterministic, observation-only, and classically exact.
+**Structural posture at mathematical origin — before computation begins.**
 
-- [Shunyaya Structural Diagnosis (SSD)](https://github.com/OMPSHUNYAYA/Shunyaya-Structural-Diagnosis)  
-  Post-execution structural diagnosis of traces.  
-  Exposes drift, instability, and regime transitions without modifying computation.  
-  Produces audit-ready diagnostic artifacts.
+`phi((m, a, s)) = m`
 
-- [Shunyaya Structural Universal Mathematics (SSUM)](https://github.com/OMPSHUNYAYA/Structural-Mathematics)  
-  Structural runtime framework with canonical state `(m, a, s)` and exact collapse.  
-  Measures evolution, cost, and admissibility — with zero deviation from classical outputs.  
-  - [Demo_SSUM.html](https://github.com/OMPSHUNYAYA/Structural-Mathematics/blob/main/demo/Demo_SSUM.html)
+Observes approach, refinement, and accumulation while preserving classical output by design.
+
+🔗 [SSOM](https://github.com/OMPSHUNYAYA/Shunyaya-Structural-Origin-Mathematics)
+
+---
+
+### ⭐ **SSE — Shunyaya Structural Equations**
+
+**Reliance admissibility for mathematically correct results.**
+
+`ALLOW | CONVERGED_ALLOW | DENY | ABSTAIN`
+
+Evaluates declared structural traces while preserving classical output by design.
+
+---
+
+🔗 [SSE](https://github.com/OMPSHUNYAYA/Shunyaya-Structural-Equations)
+
+### ⭐ **SSD — Shunyaya Structural Diagnosis**
+
+**Structural erosion from execution traces — without modifying computation.**
+
+Produces deterministic, audit-ready diagnostic artifacts.
+
+---
+
+🔗 [SSD](https://github.com/OMPSHUNYAYA/Structural-Diagnosis)
+
+### ⭐ **SSUM — Shunyaya Structural Universal Mathematics**
+
+**Structural evolution alongside unchanged classical magnitude.**
+
+`x = (m, a, s)`
+
+`phi((m, a, s)) = m`
+
+Tracks bounded alignment and structural signature across supported operations while preserving `m` under collapse by design.
+
+🔗 [SSUM](https://github.com/OMPSHUNYAYA/Structural-Mathematics)
+
+🌐 [Offline Browser Demo](https://github.com/OMPSHUNYAYA/Structural-Mathematics/blob/main/demo/Demo_SSUM.html)
 
 ---
 
 ### ⚡ Behavioral Classification
 
-- [Shunyaya Behavioral Mathematics (SBM)](https://github.com/OMPSHUNYAYA/Behavioral-Mathematics)  
-  Finite structural classification of behavior under invariant `phi((m,a,s)) = m`.  
-  Deterministic, replay-verifiable (`B_A = B_B`), and fully classically preserved.
+### ⭐ **SBM — Shunyaya Behavioral Mathematics**
+
+**Behavioral regimes from bounded structural signatures.**
+
+`X(t) = (m(t), a(t), s(t))`
+
+Uses finite structural alphabets and exact replay conformance while preserving `m` under collapse by design.
+
+`B_A = B_B`
+
+🔗 [SBM](https://github.com/OMPSHUNYAYA/Behavioral-Mathematics)
 
 ---
 
 ### ⚡ Structural Substrate & Irreversibility
 
-- [Shunyaya Structural Substrate Layer (SSSL)](https://github.com/OMPSHUNYAYA/Structural-Substrate-Layer)  
-  Finite regime algebra (`A4`) governing magnitude evolution with strict collapse.  
-  Replay-verifiable (`B_A = B_B`), deterministic, and non-interventional.
+### ⭐ **SSSL — Shunyaya Structural Substrate Layer**
 
-- [Shunyaya Structural Irreversibility Layer (SSIL)](https://github.com/OMPSHUNYAYA/Structural-Irreversibility-Layer)  
-  Irreversibility governance via finite grammar and bounded horizon.  
-  Enforces continuation admissibility without modifying classical systems.  
-  - [ssil-demo (Deterministic Demo Harness — Frozen Audit Snapshot v1.0)](https://github.com/OMPSHUNYAYA/ssil-demo)
+**Finite structural regimes over scalar magnitude evolution.**
+
+`A4 = {Z0, Eplus, S, Eminus}`
+
+Preserves `m` under collapse by design and requires exact replay identity `B_A = B_B`.
+
+🔗 [SSSL](https://github.com/OMPSHUNYAYA/Structural-Substrate-Layer)
+
+---
+
+### ⭐ **SSIL — Shunyaya Structural Irreversibility Layer**
+
+**Continuation admissibility across declared irreversibility regimes.**
+
+`R = {R0, E0, I1, I2, C}`
+
+`IRR_ADM(t) in {CONTINUE, ABSTAIN}`
+
+Uses a fixed bounded horizon and exact replay without altering classical magnitude or certifying real-world safety.
+
+🔗 [SSIL](https://github.com/OMPSHUNYAYA/Structural-Irreversibility-Layer)
+
+🧪 [SSIL Deterministic Demo](https://github.com/OMPSHUNYAYA/ssil-demo)
 
 ---
 
 ### 🧬 Structural Coherence & Unification
 
-- [Shunyaya Structural Alphabet Unification (SSAU)](https://github.com/OMPSHUNYAYA/Structural-Alphabet-Unification)  
-  Cross-domain unification of deterministic systems into finite structural vocabularies.  
-  Preserves strict collapse `phi((m,a,s)) = m` with replay identity (`B_A = B_B`).
+### ⭐ **SSAU — Shunyaya Structural Alphabet Unification**
+
+**Finite structural alphabets across instrumented deterministic domains.**
+
+`phi((m, a, s)) = m`
+
+`B_A = B_B`
+
+Governs bounded admissibility and refusal while preserving domain magnitude by design.
+
+🔗 [SSAU](https://github.com/OMPSHUNYAYA/Structural-Alphabet-Unification)
 
 ---
 
-### ⚙️ Executable Structural Systems (SSUM / SSAU)
+### ⚙️ Executable Structural Systems
 
-- [Shunyaya Structural Iteration Geometry (SSIG)](https://github.com/OMPSHUNYAYA/SSUM-Structural-Iteration-Geometry)  
-  Structural view of iteration as motion — revealing convergence, resistance, oscillation, and non-closure.
+### ⭐ **SSIG — Shunyaya Structural Iteration Geometry**
 
-- [SSUM-Structural-Distance (SSUM-SD)](https://github.com/OMPSHUNYAYA/SSUM-Structural-Distance)  
-  Measures structural cost along trajectories — distance as accumulated pressure, not displacement.
+**Iteration behavior as structural motion — without modifying the solver.**
 
-- [SSUM-Structural-Safety-Routing (SSUM-SSR)](https://github.com/OMPSHUNYAYA/SSUM-Structural-Safety-Routing)  
-  Structural admissibility layer — denies unsafe routes before optimization (`ALLOW / DENY`).
+Classifies closure, resistance, oscillation, and non-closure through deterministic traces.
 
-- [Structural Computation Core (SSC-Core)](https://github.com/OMPSHUNYAYA/Structural-Computation-Core)  
-  Structural execution geometry from traces — replay-verifiable (`B_A = B_B`) computation certificates.
+🔗 [SSIG](https://github.com/OMPSHUNYAYA/SSUM-Structural-Iteration-Geometry)
 
-- [SSUM-STAR — Structural Time And Replay](https://github.com/OMPSHUNYAYA/SSUM-STAR)  
-  Structural timelines with deterministic replay — restores behavior, not just data.
+---
 
-- [SSUM-AIM Mini](https://github.com/OMPSHUNYAYA/SSUM-AIM-Mini)  
-  ~14 KB deterministic AI kernel — manifest-driven, replayable, and collapse-safe.
+### ⭐ **SSUM-SD — Structural Distance**
 
-- [Shunyaya Structural Number Theory (SSNT)](https://github.com/OMPSHUNYAYA/Structural-Number-Theory)  
-  Structural behavior of integers — regimes, corridors, and transition signatures.
+**Structural cost along motion — beyond numerical displacement.**
 
-- [Shunyaya Structural Infinity Transform (SSIT)](https://github.com/OMPSHUNYAYA/Structural-Infinity-Transform)  
-  Bridge from finite structure to governed infinity-domain objects.
+Measures accumulated permission and resistance without replacing classical distance.
 
-- [Shunyaya Infinity Algebra (SIA)](https://github.com/OMPSHUNYAYA/Infinity-Algebra)  
-  Refusal-aware infinity algebra — enforces admissibility before symbolic operations.
+🔗 [SSUM-SD](https://github.com/OMPSHUNYAYA/SSUM-Structural-Distance)
 
-- [SSUM-Structural-Primality](https://github.com/OMPSHUNYAYA/SSUM-Structural-Primality)  
-  Structural view of primes — factor resistance and proximity bands with exact classical preservation.
+---
+
+### ⭐ **SSUM-SSR — Structural Safety Routing**
+
+**Route admissibility from declared structure — before optimization.**
+
+Produces deterministic `ALLOW` or `DENY` states without certifying real-world safety.
+
+🔗 [SSUM-SSR](https://github.com/OMPSHUNYAYA/SSUM-Structural-Safety-Routing)
+
+---
+
+### ⭐ **SSC-Core — Structural Computation Core**
+
+**Execution geometry from deterministic traces — without modifying algorithms.**
+
+Preserves magnitude under collapse by design and supports replay-verifiable computation evidence.
+
+🔗 [SSC-Core](https://github.com/OMPSHUNYAYA/Structural-Computation-Core)
+
+---
+
+### ⭐ **SSUM-STAR — Structural Time and Replay**
+
+**Replayable timelines from invariant-preserving state transitions.**
+
+`decode(encode(structure)) == structure`
+
+🔗 [SSUM-STAR](https://github.com/OMPSHUNYAYA/SSUM-STAR)
+
+---
+
+### ⭐ **SSUM-AIM Mini**
+
+**Manifest-based reflection through visible deterministic state.**
+
+A compact, offline, non-advisory kernel without training or probabilistic inference.
+
+🔗 [SSUM-AIM Mini](https://github.com/OMPSHUNYAYA/SSUM-AIM-Mini)
+
+---
+
+### ⭐ **SSNT — Shunyaya Structural Number Theory**
+
+**Integer behavior under declared structural pressure.**
+
+Observes transition regimes without changing arithmetic or predicting primes.
+
+🔗 [SSNT](https://github.com/OMPSHUNYAYA/Structural-Number-Theory)
+
+---
+
+### ⭐ **SSIT — Shunyaya Structural Infinity Transform**
+
+**Finite structure mapped to governed infinity-domain objects.**
+
+Does not redefine infinity, limits, calculus, or classical arithmetic.
+
+🔗 [SSIT](https://github.com/OMPSHUNYAYA/Structural-Infinity-Transform)
+
+---
+
+### ⭐ **SIA — Shunyaya Infinity Algebra**
+
+**Permission and refusal for operations involving infinity.**
+
+A deterministic admissibility layer, not a computer algebra system or limit calculator.
+
+🔗 [SIA](https://github.com/OMPSHUNYAYA/Infinity-Algebra)
+
+---
+
+### ⭐ **SSUM Structural Primality**
+
+**Bounded divisibility behavior alongside unchanged classical primality.**
+
+Adds resistance and proximity metrics without altering prime classification.
+
+🔗 [SSUM Structural Primality](https://github.com/OMPSHUNYAYA/SSUM-Structural-Primality)
 
 ---
 
 ## 🌦️ Domain-Boundary Sciences
 
-- [Shunyaya Structural Transition Science (SSTS)](https://github.com/OMPSHUNYAYA/Structural-Transition-Science)  
-  Structural transition admissibility at domain boundaries — explicit `DENY / ABSTAIN / ALLOW` before transitions occur.
+### ⭐ **SSTS — Shunyaya Structural Transition Science**
 
-- [Shunyaya Structural Buoyancy (SSB)](https://github.com/OMPSHUNYAYA/Structural-Buoyancy)  
-  Structural governance of buoyancy reliance — admissibility before instability or failure, with strict collapse `phi((m,a,s)) = m`.
+**Transition permission at declared domain boundaries.**
+
+`DENY | ABSTAIN | ALLOW`
+
+Evaluates admissibility before transition commitment without modifying physics, chemistry, or domain equations.
+
+🔗 [SSTS](https://github.com/OMPSHUNYAYA/Structural-Transition-Science)
+
+---
+
+### ⭐ **SSB — Shunyaya Structural Buoyancy**
+
+**Reliance admissibility above unchanged classical buoyancy.**
+
+`phi((m, a, s)) = m`
+
+Governs continued reliance within its structural model; it does not predict failure or certify physical safety.
+
+🔗 [SSB](https://github.com/OMPSHUNYAYA/Structural-Buoyancy)
 
 ---
 
 ## 🌦️ Climate and Natural Systems
 
-- [SSUM-Snow](https://github.com/OMPSHUNYAYA/SSUM-Snow)  
-  Structural trust layer for forecasting — enforces admissibility before prediction under `phi((m,a,s)) = m`.  
-  Multi-station validated, reproducible, with audit-ready evidence bundles. 
+### ⭐ **SSUM-Snow — Structural Snow Trust Modeling**
+
+**Forecast admissibility from atmospheric structure — before relying on snow magnitude.**
+
+`phi((m, a, s)) = m`
+
+Deterministic, observation-only, and tested across 10 stations with published inputs, summaries, and reproducibility evidence.
+
+🔗 [SSUM-Snow](https://github.com/OMPSHUNYAYA/SSUM-Snow)
 
 ---
 
-## 🔬 SSUM Observatory — Executable Structural Proofs
+## 🔬 SSUM Observatory — Executable Structural Observatories
 
-The **[SSUM Observatory](https://github.com/OMPSHUNYAYA/ssum-observatory)** is a collection of **deterministic, executable case studies** proving that SSUM is **operational, reproducible, and verifiable**.
+The **[SSUM Observatory](https://github.com/OMPSHUNYAYA/ssum-observatory)** contains self-contained cases for inspecting deterministic structural behavior alongside unchanged classical outputs.
 
-All cases:
-- preserve exact classical results  
-- expose structural behavior  
-- run directly in browser (no setup)
-
----
-
-## 🧪 Verified Cases
-
-- **01 — [Newton Root](https://ompshunyaya.github.io/ssum-observatory/01_newton_root/)** → baseline convergence with structural channels  
-- **02 — [Near-Singular Derivative](https://ompshunyaya.github.io/ssum-observatory/02_newton_near_singular/)** → stress near zero derivatives  
-- **03 — [Multiple Root](https://ompshunyaya.github.io/ssum-observatory/03_newton_multiple_root/)** → hidden convergence degradation  
-- **04 — [Hyper-Rotation Geometry](https://ompshunyaya.github.io/ssum-observatory/04_hyper_rotation_geometry/)** → 3D preserved, 4D structural drift observed  
-- **05 — [Structural Attention](https://ompshunyaya.github.io/ssum-observatory/05_structural_attention/)** → deterministic attention (no training)  
-- **06 — [Structural Stress](https://ompshunyaya.github.io/ssum-observatory/06_structural_stress_revelation/)** → geometry-first stress detection  
-- **07 — [Leaning Tower (LiDAR)](https://ompshunyaya.github.io/ssum-observatory/07_structural_balance_revelation/)** → real-world structural stability  
-- **08 — [Finite Area (Squaring the Circle)](https://ompshunyaya.github.io/ssum-observatory/08_finite_structural_area_experiment/)** → deterministic packing (PASS/FAIL)
+- browser-native and directly inspectable
+- reproducible within each declared case
+- structural channels remain observational
+- classical magnitude is preserved under collapse by design
 
 ---
 
-## 🧭 What This Establishes
+## 🧪 Current Cases
 
-Across **numerics, geometry, physics, data, and real-world systems**:
-
-**structure is observable, executable, and falsifiable — without altering classical results.**
-
----
-
-## 🔷 Symbolic Mathematics — Executable Symbol Layer (SSM)
-
-- [Symbolic-Mathematics (SSM)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics)  
-  Core symbolic layer `(m, a)` — bounded alignment beside values with exact collapse `phi((m,a)) = m`.  
-  - Proofs: **[Symbolic-Mathematics-POC](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-POC)**
-
-- [Symbolic-Mathematical-Symbols (SSMS)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Symbols)  
-  Shared symbolic operators, lanes, and invariants.  
-  - [Symbolic-Mathematical-Infinity (SSM-Infinity)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Infinity)
+- **01 — [Newton Root](https://ompshunyaya.github.io/ssum-observatory/01_newton_root/)** — baseline convergence with structural channels  
+- **02 — [Near-Singular Derivative](https://ompshunyaya.github.io/ssum-observatory/02_newton_near_singular/)** — structural stress near small derivatives  
+- **03 — [Multiple Root](https://ompshunyaya.github.io/ssum-observatory/03_newton_multiple_root/)** — convergence degradation around repeated roots  
+- **04 — [Hyper-Rotation Geometry](https://ompshunyaya.github.io/ssum-observatory/04_hyper_rotation_geometry/)** — structural behavior during 3D–4D transformation  
+- **05 — [Structural Attention](https://ompshunyaya.github.io/ssum-observatory/05_structural_attention/)** — deterministic compatibility-based attention without training  
+- **06 — [Structural Stress](https://ompshunyaya.github.io/ssum-observatory/06_structural_stress_revelation/)** — geometry-first structural amplification patterns  
+- **07 — [Leaning Tower Geometry](https://ompshunyaya.github.io/ssum-observatory/07_structural_balance_revelation/)** — LiDAR-based geometric balance observations  
+- **08 — [Finite Structural Area](https://ompshunyaya.github.io/ssum-observatory/08_finite_structural_area_experiment/)** — deterministic square-packing certification  
 
 ---
 
-### 🔬 Scientific Proofs
+## 🧭 What This Demonstrates
 
-- **Bounded Classical Laws (POC)**  
-  Classical laws + alignment lane `a ∈ (-1,+1)` → stability and drift visibility (`phi((m,a)) = m`)  
-  👉 **[Symbolic-Mathematics-Bounded-Classical-Laws-POC](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-Bounded-Classical-Laws-POC)**
+Across numerics, geometry, deterministic attention, and observational data:
 
----
+`same declared case + same rules -> same observable structural behavior`
 
-### 🔁 Data, Network, Security
+**Executable, inspectable, and reproducible within declared scope.**
 
-- [Symbolic-Mathematical-Data-Exchange (SSMDE)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Data-Exchange)  
-  Manifest-driven, order-invariant data exchange with structural stamps.
-
-- [Symbolic-Mathematical-Network (SSM-NET)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Network)  
-  Overlay networking — payload unchanged, structure tracked (`phi((m,a)) = m`).
-
-- [Shunyaya Symbolic Mathematical Encrypt (SSM-Encrypt)](https://github.com/OMPSHUNYAYA/SSM-Encrypt)  
-  Structural encryption — lifecycle integrity via deterministic stamp chains.
-
-- [Shunyaya Structural Password (SSP)](https://github.com/OMPSHUNYAYA/Structural-Password)  
-  Replay-based identity admissibility (`ACCEPT / REJECT / ABSTAIN`).
+The Observatory provides evidence and illustration, not comparative proof of superiority or certification for production and safety-critical use.
 
 ---
 
-### 🌡 Physical Signals & Systems
+## 🔷 Symbolic Mathematics — Foundation and Operator Layer
 
-- [Symbolic-Mathematical-Temperature (SSMT)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Temperature)  
-  Structural temperature — phase and contrast without altering values.
+### ⭐ **SSM — Shunyaya Symbolic Mathematics**
 
-- [Symbolic-Mathematical-Electrical-Quantities (SSMEQ)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Electrical-Quantities)  
-  Electrical overlay — drift and residual visibility with exact preservation.
+**Classical magnitude with a bounded structural alignment lane.**
+
+`x = (m, a)`
+
+`phi((m, a)) = m`
+
+Preserves `m` under collapse by design; interpretation of `a` remains observational and domain-specific.
+
+🔗 [SSM](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics)
+
+🧪 [SSM Runnable Proof of Concept](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-POC)
+
+---
+
+### ⭐ **SSMS — Shunyaya Symbolic Mathematical Symbols**
+
+**A plain-ASCII operator canon for symbolic numerals.**
+
+Defines bounded operators, pooling, comparisons, declared parameters, and reproducible manifests.
+
+🔗 [SSMS](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Symbols)
+
+---
+
+### ⭐ **SSM-Infinity — Symbolic Mathematical Infinity**
+
+**A deterministic alignment algebra for symbolic infinity-class objects.**
+
+`<sign * infinity, alignment>`
+
+A separate symbolic domain—not classical limits, cardinal arithmetic, ordinal arithmetic, or set theory.
+
+🔗 [SSM-Infinity](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Infinity)
+
+---
+
+### 🔬 Executable Classical-Law Demonstrations
+
+### ⭐ **SSM Bounded Classical Laws — POC**
+
+**Classical-law outputs with an added bounded posture lane.**
+
+`phi((m, a)) = m`
+
+Observation-only Python examples preserve the classical formulas by design. Current posture values are illustrative unless derived and validated from measured data.
+
+🔗 [Bounded Classical Laws — POC](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-Bounded-Classical-Laws-POC)
+
+---
+
+### 🔁 Data, Network & Structural Security
+
+### ⭐ **SSMDE — Symbolic Mathematical Data Exchange**
+
+**Manifest-bound data exchange with order-invariant fusion and continuity stamps.**
+
+Carries bounded alignment, policy identity, and replay-auditable lineage beside each record.
+
+🔗 [SSMDE](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Data-Exchange)
+
+---
+
+### ⭐ **SSM-NET — Symbolic Mathematical Network**
+
+**Verifiable declarations beside unchanged network payloads.**
+
+`phi((m, a)) = m`
+
+Adds manifest policy, canonical commitments, and continuity stamps without replacing transport protocols or network security.
+
+🔗 [SSM-NET](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Network)
+
+---
+
+### ⭐ **SSM-Encrypt — Symbolic Mathematical Encrypt**
+
+**Forward-only lifecycle continuity beside classical encryption.**
+
+`stamp_n = sha256(prev_stamp + sha256(cipher) + auth_msg_n)`
+
+A research demonstration for structural continuity and one-use validity; classical cryptography remains responsible for secrecy and production security.
+
+🔗 [SSM-Encrypt](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Encrypt)
+
+---
+
+### ⭐ **SSP — Shunyaya Structural Password**
+
+**Identity and execution admissibility through exact structural reproduction.**
+
+`ACCEPT iff sig(T(m')) = sig(T(m))`
+
+Produces `ACCEPT`, `REJECT`, or `ABSTAIN`; it is a research primitive, not a password manager, login system, access-control policy, or replacement for cryptography.
+
+🔗 [SSP](https://github.com/OMPSHUNYAYA/Structural-Password)
+
+---
+
+### 🌡 Physical Signal Overlays
+
+### ⭐ **SSMT — Symbolic Mathematical Temperature**
+
+**Portable temperature contrast and phase posture beside unchanged readings.**
+
+`e_T = ln(T_K / T_ref)`
+
+Adds bounded threshold-relative lanes and optional hysteresis. Observation-only; calibration and local safety limits remain authoritative.
+
+🔗 [SSMT](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Temperature)
+
+---
+
+### ⭐ **SSMEQ — Symbolic Mathematical Electrical Quantities**
+
+**Electrical contrast and self-consistency residuals beside unchanged telemetry.**
+
+`r_P = e_P_meas - (e_V + e_I + ln(pf / pf_ref))`
+
+A manifest-first overlay with optional commitments and continuity stamps; it does not replace meters, SCADA, protection systems, or engineering diagnosis.
+
+🔗 [SSMEQ](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Electrical-Quantities)
 
 ---
 
 ### 🧠 Intelligence & Interaction
 
-- [Symbolic-Mathematical-AI (SSM-AI)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-AI)  
-  Deterministic symbolic intelligence with alignment lanes.
+### ⭐ **SSM-AI — Symbolic Mathematical AI**
 
-- [Symbolic-Mathematical-AI-Manifest-Mini (SSM-AIM Mini)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-AI-Manifest-Mini)  
-  ~23 KB offline AI kernel — transparent, replayable, manifest-driven.  
-  → See also: [SSUM-AIM Mini](https://github.com/OMPSHUNYAYA/SSUM-AIM-Mini)
+**Bounded structural posture beside unchanged AI scores.**
 
-- [Symbolic-Mathematical-Tweet (SSM-Tweet)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Tweet)  
-  Structural messaging with alignment lanes and continuity stamps.
+Observation-only, order-invariant, and reproducible without retraining or modifying model outputs.
 
-- [Symbolic-Mathematical-Browse (SSM-Browse)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Browse)  
-  Structural browsing — deterministic envelopes without content dependency.
+🔗 [SSM-AI](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-AI)
 
 ---
 
-### ⚙️ Hardware, Audit, Science
+### ⭐ **SSM-AIM Mini — Artificial Intelligence Manifest Mini**
 
-- [Symbolic-Mathematical-Hardware (SSMH)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Hardware)  
-  Structural hardware layer — drift visibility and safety-aware computation.
+**Transparent rule-based reflection in a compact offline console.**
 
-- [Symbolic-Mathematical-Audit (SSM-Audit)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Audit)  
-  Structural audit layer — stability signals for finance and operations.
+A ~23 KB manifest-driven kernel with file-based memory and tamper-evident hashing; not a neural, predictive, or advisory system.
 
-- [Symbolic-Mathematical-Chemistry (SSM-Chem)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Chemistry)  
-  Structural view of reactions and process thresholds.
+🔗 [SSM-AIM Mini](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-AI-Manifest-Mini)
+
+→ [SSUM-AIM Mini](https://github.com/OMPSHUNYAYA/SSUM-AIM-Mini)
 
 ---
 
-### ⏱ Time & Chronology (SSM)
+### ⭐ **SSM-Tweet — Symbolic Mathematical Messaging**
 
-- [Symbolic-Mathematical-Universal-Time (SSM-UT)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Universal-Time)  
-  Cycle-based, clock-independent time reconstruction.
+**Deterministic structural envelopes beside unchanged messages.**
 
-- [Symbolic-Mathematical-Clock (SSM-Clock)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Clock)  
-  Structural time posture and drift visibility.
+Adds bounded lanes, sequence metadata, manifests, and optional continuity stamps without interpreting message content.
 
-- [Symbolic-Mathematical-Clock-Stamp (SSM-Clock-Stamp)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Clock-Stamp)  
-  Deterministic continuity and event stamping.  
-  - [Symbolic-Mathematical-Clock-Kernel (SSM-ClockKe)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Clock-Kernel)  
-    Lightweight deterministic clock kernel — alignment lane + stamp chain.
+🔗 [SSM-Tweet](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Tweet)
+
+---
+
+### ⭐ **SSM-Browse — Symbolic Mathematical Browse**
+
+**Reproducible structural envelopes for browsing events.**
+
+A non-semantic observation kernel—not a browser engine, ranking system, or behavioural model.
+
+🔗 [SSM-Browse](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Browse)
+
+---
+
+### ⚙️ Hardware, Audit & Chemistry
+
+### ⭐ **SSMH — Symbolic Mathematical Hardware**
+
+**Bounded confidence beside unchanged hardware KPIs.**
+
+Order-invariant, reproducible, and observation-only; not for operational or safety-critical control.
+
+🔗 [SSMH](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Hardware)
+
+---
+
+### ⭐ **SSM-Audit — Symbolic Mathematical Audit**
+
+**Stability and drift posture beside unchanged KPIs.**
+
+Adds reproducible structural bands and manifests without replacing established audit procedures.
+
+🔗 [SSM-Audit](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Audit)
+
+---
+
+### ⭐ **SSMC — Symbolic Mathematical Chemistry**
+
+**Alignment-aware structural mathematics for reaction pathways.**
+
+A mathematics-first, observation-grade framework that preserves classical results under collapse by design.
+
+🔗 [SSMC](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Chemistry)
+
+---
+
+### ⏱ Time & Chronology
+
+### ⭐ **SSM-UT — Symbolic Mathematical Universal Time**
+
+**Symbolic time recovered from observable cycles — without trusted clocks or continuous synchronization.**
+
+`tau_hat = argmin_t E(t)`
+
+Complements UTC, TAI, and GPS; it does not replace them.
+
+🔗 [SSM-UT](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Universal-Time)
+
+---
+
+### ⭐ **SSM-Clock — Symbolic Mathematical Clock**
+
+**Phase-based time recovery from a declared manifest.**
+
+Offline, deterministic, ephemeris-free, and observation-only.
+
+🔗 [SSM-Clock](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Clock)
+
+---
+
+### ⭐ **SSM-CS — Symbolic Mathematical Clock Stamp**
+
+**Offline integrity and ordering through compact chained ASCII stamps.**
+
+Binds exact file bytes, a human-verifiable clock position, and prior-chain continuity.
+
+🔗 [SSM-Clock Stamp](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Clock-Stamp)
+
+---
+
+### ⭐ **SSM-ClockKe — Symbolic Mathematical Clock Kernel**
+
+**Periodic-signal stability beside an unchanged clock source.**
+
+Adds a bounded alignment lane and optional tamper-evident continuity chain.
+
+🔗 [SSM-ClockKe](https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Clock-Kernel)
 
 ---
 
 ### 🌌 Temporal & Conceptual Extensions
 
-- [Symbolic-Mathematics-Jyotish-Transit-Kernel (SSM-JTK)](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-Jyotish-Transit-Kernel)  
-  Deterministic ephemeris-independent transit kernel with the LIVE browser-native `SSM-JA` offline observatory layer.
+### ⭐ **SSM-JTK — Jyotish Transit Kernel**
 
-- [Zeozo — y = m*x + c, redefined](https://github.com/OMPSHUNYAYA/Zeozo)  
-  Structural reinterpretation of linearity and offset.
+**Daily sidereal longitude realization from versioned manifests and golden data.**
 
-- [Symbolic-Mathematics-0over0-Limits](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-0over0-Limits)  
-  Structural treatment of undefined forms (`0/0`).
+Observation-only, reproducible, and independent of runtime ephemeris services.
 
----
-
-### 🧾 Legacy (Pre-Unification)
-
-- Zentrube — early structural entropy framework (proof of concept for drift tracking).  
-  Superseded by unified SSM `(m, a)` model — retained as lineage reference.
+🔗 [SSM-JTK](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-Jyotish-Transit-Kernel)
 
 ---
 
-### 🌠 Symbolic Physics
+### ⭐ **ZEOZO — Bounded Zero-Centric Signal**
 
-- [Symbolic-Physics-LAW-0AR (LAW 0AR)](https://github.com/OMPSHUNYAYA/Symbolic-Physics-LAW-0AR)  
-  Origin-centered action–reaction symmetry preserving Newtonian behavior, with structural expression for distributed interactions.  
-  (Physical law; SSM used only as analysis tool)
+**Time-aware drift and alignment from robust normalized structure.**
 
-**Status:** Open standard (observational use)
+Provides a deterministic research demonstration; broader domain applications remain under development.
+
+🔗 [ZEOZO](https://github.com/OMPSHUNYAYA/Zeozo)
+
+---
+
+### ⭐ **SSM `0/0` Limits**
+
+**Deterministic classification of supported `0/0` limits from local asymptotic rates.**
+
+`p_f > p_g -> ZERO | p_f = p_g -> FINITE | p_f < p_g -> INFINITY`
+
+Preserves the classical magnitude class while adding an observational alignment lane.
+
+🔗 [SSM `0/0` Limits](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-0over0-Limits)
+
+---
+
+### 🧾 Legacy — Pre-Unification
+
+**Zentrube** — an early structural entropy proof of concept for drift tracking.
+
+Superseded by the unified SSM `(m, a)` model and retained only as a lineage reference.
+
+---
+
+### 🌠 Structural Physics Interpretation
+
+### ⭐ **LAW 0AR — Origin-Centered Action–Reaction Symmetry**
+
+**A bounded structural representation of action–reaction symmetry.**
+
+`A(F) = Z(B(D(F)))`
+
+`R(F) = -A(F)`
+
+Preserves symmetric opposition and recovers the classical pair form within its declared limit, without introducing new forces or replacing momentum conservation.
+
+SSMO-AR is an observational mathematical operator, not an engineering prediction or safety model.
+
+🔗 [LAW 0AR](https://github.com/OMPSHUNYAYA/Symbolic-Physics-LAW-0AR)
+
+**Status:** Open Use License — observational and interpretive use
 
 ---
 
 ### 🧭 Master Index
 
-- [Shunyaya-Symbolic-Mathematics-Master-Docs](https://github.com/OMPSHUNYAYA/Shunyaya-Symbolic-Mathematics-Master-Docs)  
-  Central map of the ecosystem.
+**Central navigation map for the Shunyaya ecosystem.**
+
+🔗 [Shunyaya Symbolic Mathematics — Master Docs](https://github.com/OMPSHUNYAYA/Shunyaya-Symbolic-Mathematics-Master-Docs)
 
 ---
 
-## 🔹 Shared Structure
+## 🔹 Common Repository Pattern
 
-- README — purpose  
-- GETTING_STARTED — quick onboarding  
-- CALIBRATION — safe tuning  
-- Specs + manifests + checksums  
+Where applicable, repositories may include:
 
-→ Auditable • Reproducible • Deterministic
+- `README` — purpose, scope, and boundaries
+- runnable implementations or browser demonstrations
+- specifications, manifests, fixtures, and checksums
+- replay, conformance, or self-test evidence
+
+`declared inputs + versioned rules -> reproducible result`
+
+Exact contents and verification boundaries are defined by each repository.
 
 ---
 
 ## Scope
 
-- **Domains:** AI governance, networks, data, operations  
-- **Integration:** HTTP, MQTT, Kafka, REST, telemetry  
-- **Runtime:** Python, Rust, Go, C, JS (no vendor lock-in)
+- **Domains:** mathematics, deterministic computing, AI admissibility, time, finance, data, networks, media, observability, and structural science
+- **Artifacts:** frameworks, reference systems, applications, kernels, observatories, and demonstrations
+- **Runtimes:** browser-native and local implementations across multiple languages
+
+No ecosystem-wide runtime, protocol, or integration dependency is required.
 
 ---
 
-## 🔹 License / Usage
+## 🔹 License & Usage
 
-**Ecosystem policy**  
-Each repository declares its own license and usage notes in its `README.md`.
-The Shunyaya ecosystem follows a **tiered licensing model** distinguishing
-open standards, research materials, and executable systems.
+Licensing is **repository-specific**.
 
----
+Each repository’s `README`, `LICENSE`, or usage notice is the sole authority for that project. Depending on the repository:
 
-## ✅ Open Use and Open Standard Projects
+- reference implementations may use an **Open Use License** or another declared implementation license
+- architecture, theory, specifications, and documentation may use **CC BY-NC 4.0**
+- some earlier projects may use **CC BY 4.0** or other stated terms
 
-The projects below permit open implementation or open use under the license declared in each repository.
+No single license should be assumed across the ecosystem.
 
-To date, all Shunyaya licenses labeled Open Use or Open Standard are custom project licenses. They are not represented as OSI-approved open-source licenses.
-
-Most Shunyaya projects are released under Open Use or Open Standard terms.
-
-This includes, but is not limited to:
-
-### **Structural Mathematics Systems**
-
-SSUM, SSMDE, SSMT, SSM-NET, SSMEQ, SSM-ClockKe, SSM-Clock Stamp, SSP, SSAU, STL, SSSL, SSIL, SBM, SSC-Core
-
-### **AI / Intelligence / Reasoning**
-
-SSM-AIM Mini (SSM-based AI kernel), SSUM-AIM Mini (SSUM-based AI kernel), AIMFK, SSM-Tweet, SSM-Browse
-
-### **Security / Identity / Verification**
-
-LAW-0AR, SSM-Encrypt, SSM-UT, EIK, RIC-Proof
-
-### **Mathematics / Scientific Exploration**
-
-SSUM-Finite-Structural-Area-Experiment, SSUM-Structural-Primality
-
-### **Structural Runtime / Resolution Systems**
-
-SSUM-Time Reference Implementation, Structural-Time Reference Implementation, STOCRS Reference Implementation, STOCRS-R Reference Implementation, SIL Reference Implementation, STIC Reference Implementation, STRUPER Reference Implementation, STRUE Reference Implementation, SRI Reference Implementation, SVARE Reference Implementation, SNARE Reference Implementation, SAIL Reference Implementation, STRIDE Reference Implementation
-
-### **ORL / Financial / Settlement Systems**
-
-ORL Reference Implementation, ORL-Money Reference Implementation, ORL-Chat Reference Implementation, ORL-AI Reference Implementation, STINT-Money Reference Implementation
-
-### **SLANG Structural Systems**
-
-SLANG-Computation Reference Implementation, SLANG-Audit Reference Implementation, SLANG-Money Reference Implementation, SLANG-Invoice Reference Implementation, SLANG-Claims Reference Implementation, SLANG-Cybersecurity Reference Implementation, SLANG-Password Reference Implementation, SLANG-ResetPassword Reference Implementation, SLANG-Hurricane Reference Implementation, SLANG-Exam Reference Implementation, SLANG-Voting Reference Implementation
-
-### **Structural Domain Systems**
-
-Structural Stability Geometry (SSG) Reference Implementation, STRAL-Path Reference Implementation, STILE Reference Implementation, STRUMER Reference Implementation, S-Coordinate Reference Implementation
-
-### **Observatories / Visibility / Capability Systems**
-
-SSM-JA Reference Implementation, CAPS-SmartBulb Reference Implementation, CAPS-DoorLock Reference Implementation, CAPS-Router Reference Implementation, CAPS-Printer Reference Implementation, SSUM-AIM Observatory
-
-**Open Use and Open Standard projects generally mean:**
-
-- **Free to implement** with **no registration or fees**
-- **Implementation freedom:** any person or organization may use or implement the published reference implementation, protocol, or format in personal, institutional, research, or commercial systems
-- **No exclusivity or vendor lock-in:** implementations may be built in any language, on any platform, under any deployment model
-- **Deterministic and transparent by design:** formulas, stamps, envelopes, and symbolic logic are specified to execute reproducibly under identical inputs (e.g., `phi((m,a)) = m` or `phi((m,a,s)) = m`, where applicable)
-- **Attribution:** recommended but not required, unless explicitly required by the license declared in a specific repository
-- **License authority:** the license stated in each repository is the sole governing legal instrument and overrides this summary
-
-**Warranty:**  
-Provided *as-is* with no warranty or guarantee of fitness.
-
-These projects are designed for **global, frictionless adoption**
-across vendors, platforms, and jurisdictions.
-
----
-
-## 📘 Executable Systems — CC BY 4.0
-
-Executable systems in the Shunyaya ecosystem are released under licenses
-independent of the SSUM Open Standard.
-
-The following executable implementations are released under
-**Creative Commons Attribution 4.0 (CC BY 4.0)**:
-
-- **SSUM-STAR — Structural Time And Replay**
-- **SSIG — Shunyaya Structural Iteration Geometry**
-- **SSUM-SD — Structural Distance**
-- **SSUM-SSR — Structural Safety Routing**
-- **Shunyaya Structural Universal Mathematics — SSUM-Snow**
-- **Shunyaya Structural Diagnosis — SSD**
-- **Shunyaya Structural Number Theory — SSNT**
-- **Shunyaya Structural Infinity Transform — SSIT**
-- **Shunyaya Symbolic Mathematical Infinity — SSM-Infinity**
-- **Shunyaya Infinity Algebra — SIA**
-- **Shunyaya Structural Buoyancy — SSB**
-
-These systems:
-
-- are executable, deterministic implementations within the Shunyaya ecosystem
-- permit commercial and non-commercial use
-- require attribution
-- carry no warranty or endorsement
-
-This does **not** alter the Open-Standard status of projects released as Open Standards, 
-nor the CC BY-NC 4.0 status of specifically designated foundational research frameworks.
-
----
-
-# 📘 Select Foundational Research Frameworks
-
-Only:
-
-**Shunyaya Structural Origin Mathematics (SSOM)**,  
-**Shunyaya Structural Equations (SSE)**,  
-**Shunyaya Symbolic Mathematics (SSM)**,  
-**Shunyaya Structural Transition Science (SSTS)**
-
-and the following architectural frameworks:
-
-**SSUM-Time Architecture**, **STOCRS Architecture**,  
-**ORL Architecture**,  
-**SIL Architecture**, **Structural-Time Architecture**,  
-**SLANG Architecture**,  
-**STINT-Money Architecture**, **STRAL-Path Architecture**, **STILE Architecture**,  
-**SVARE Architecture**, **STIC Architecture**, **STRUMER Architecture**, **S-Coordinate Architecture**,  
-**STOCRS-R Architecture**, **SRI Architecture**, **STRUPER Architecture**,  
-**SSM-JTK Architecture**, **SSM-JA Architecture**, **CAPS Architecture**,
-**STRUE Architecture**, **SNARE Architecture**, **SAIL Architecture**,  
-**SSG Architecture**, **STRIDE Architecture**
-
-together with their associated theoretical documents and research materials,  
-are released under Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0).
-
-This applies to symbolic theory, structural interpretation, specifications,
-proof documents, and educational reference materials within those frameworks.
-
-Conditions:
-- attribution required
-- non-commercial use only
-- no warranty or endorsement
-
-All other Shunyaya repositories are governed by the terms explicitly declared in their respective repositories, including Open Use, Open Standard, or CC BY 4.0 terms.
+All materials are provided **as-is**, without warranty or endorsement. Review the applicable repository terms before implementation, redistribution, modification, or commercial use.
 
 ---
 
@@ -1391,23 +1615,27 @@ All other Shunyaya repositories are governed by the terms explicitly declared in
 
 All Shunyaya materials are **observation-only structural layers** intended for transparency, auditability, structural analysis, and reproducibility.  
 
-They do not replace domain laws, solvers, controls, or regulatory safeguards.
+They do not replace domain laws, solvers, controls, professional judgment, or regulatory safeguards.
 
 They must **not** be used as sole decision gates in life-critical, safety-critical, or high-risk systems without independent verification, domain-specific validation, and appropriate redundancies.
+
+All materials are provided **as-is**. To the maximum extent permitted by applicable law, the authors and contributors accept no liability for loss, damage, or other consequences arising from their use, modification, distribution, reliance, or deployment.
 
 ---
 
 ### Terminology Note
 
-Shunyaya is an original modern structural and mathematical framework developed by the authors of the Shunyaya Framework.
+**Shunyaya** is an original modern structural and mathematical framework developed by its authors.
 
-It is distinct from Shunyata and is not a restatement of any prior philosophical term or doctrine.
-
----
-
-This `Shunyaya-Symbolic-Mathematics-Master-Docs` repository is an index and navigation layer.  
-It grants no exclusivity, authority, or stewardship over any domain; it exists to make the work visible, auditable, and usable under the licenses declared in each repository.
+It is distinct from **Shunyata** and is not a restatement of any earlier philosophical term or doctrine.
 
 ---
 
-© The Authors of the Shunyaya Framework — advancing transparent, accountable, planetary infrastructure.
+This `Shunyaya-Symbolic-Mathematics-Master-Docs` repository serves as an index and navigation layer for the ecosystem.
+
+It claims no exclusivity, authority, or stewardship over any domain. Its purpose is to make the work visible, inspectable, reproducible, and accessible under the terms declared by each repository.
+
+---
+
+© The Authors of the Shunyaya Framework — advancing transparent and accountable structural infrastructure.
+
