@@ -1,7 +1,7 @@
 # 🌐 Shunyaya Symbolic Mathematics — Ecosystem Map  
 **Repository:** Shunyaya-Symbolic-Mathematics-Master-Docs  
 
-*A unified structural ecosystem spanning SSM foundations, SSUM runtime, admissibility, deterministic resolution, and executable reference systems.*
+*A unified structural ecosystem spanning SSM foundations, SSUM structural evolution, admissibility, deterministic resolution, and executable reference systems.*
 
 ![Execution-First](https://img.shields.io/badge/Execution-First-black)
 ![Deterministic-by-Design](https://img.shields.io/badge/Deterministic-by%20Design-green)
@@ -14,12 +14,13 @@
 
 ## 📑 Start Here
 
-1. **Dependency Elimination Framework** — scope, definitions, and bounded demonstrations  
-2. **Shunyaya Structural Stack** — layers, relationships, and dependency boundaries  
-3. **Executable Implementation Index** — more than 75 systems, applications, kernels, observatories, and demonstrations  
-4. **Mathematical Foundations** — `SSOM -> SSM -> SSUM -> SSD -> SSE`  
-5. **Published Evidence and Case Studies** — tests, replays, conformance results, and observed outcomes  
-6. **Safety, Scope, and Licensing** — limitations, usage conditions, and repository-specific terms
+1. **Live Flagships** — SSM-JA and Structural Stability Geometry  
+2. **Structural Evidence & Dependency Framework** — invariants, scope, established-work relationship, and evidence boundaries  
+3. **Dependency-Elimination Systems** — foundations, runtime, admissibility, intelligence, media, SLANG, and CAPS  
+4. **Mathematical Architecture & Executable Evidence** — five layers, collapse invariants, runnable demonstrations, and certification kernels  
+5. **Mathematical & Domain Repository Index** — frameworks, sciences, observatories, operators, time, and conceptual extensions  
+6. **Repository Pattern & Scope** — artifact types, runtimes, and repository boundaries  
+7. **Licensing, Safety & Terminology** — repository-specific terms, safeguards, and terminology
 
 ---
 
@@ -62,21 +63,166 @@ SSG provides a computational foundation for structural closure; it does not by i
 
 ---
 
-## ⚡ Executable Structural Evidence
+# ⚡ Executable Structural Evidence
 
-More than 75 executable and documented structural implementations, including independent systems, framework applications, deterministic kernels, observatories, and reference demonstrations.
+More than 75 executable and documented structural implementations, including standalone systems, framework applications, deterministic kernels, observatories, and reference demonstrations.
 
-Within declared structural boundaries, they test whether assumed dependencies can be removed from the governing source of correctness while deterministic outcomes remain reproducible.
+Within declared structural boundaries, they test whether assumed dependencies can be removed from the governing source of admissible resolution while deterministic outcomes remain reproducible.
 
 `same canonical structure -> same canonical outcome`
 
 `incomplete or conflicting structure -> no forced resolution`
 
-Published Shunyaya media scripts also recreate defined outputs from identical inputs, demonstrating structure-driven reproducibility.
+Published Shunyaya media scripts recreate defined outputs from identical declared inputs under the same versioned rules, where documented.
 
 ![Shunyaya Structural Stack](https://raw.githubusercontent.com/OMPSHUNYAYA/SLANG-Observatory/main/docs/Shunyaya-Structural-Stack.png)
 
-The systems below are grouped by the dependency each implementation removes from the governing source of correctness within its declared scope.
+The sections below group implementations by structural role and by the dependency boundary each explores within its declared scope.
+
+---
+
+# 🌍 Core Structural Invariants
+
+Across implementations where declared:
+
+`same canonical structure -> same canonical outcome`
+
+`incomplete structure -> no forced resolution`
+
+`conflicting structure -> ABSTAIN OR DENY`
+
+`admissible outcome = resolve(declared structure)`
+
+---
+
+## ⚡ What This Shows
+
+Each implementation tests whether an assumed dependency can be removed from the governing source of admissible resolution within a bounded structural model.
+
+Classical outputs, domain rules, and operational mechanisms remain unchanged where applicable.
+
+Structure adds explicit admissibility, deterministic resolution, and reproducible evidence.
+
+---
+
+## ⚠️ Precision of Claim
+
+Shunyaya does not claim that execution, infrastructure, communication, workflows, or computation disappear physically.
+
+The claim is narrower:
+
+under declared deterministic conditions, these mechanisms need not remain the sole governing source of admissible resolution.
+
+Replay verification applies where published.
+
+---
+
+## 🧱 Dependency Elimination Framework
+
+The Dependency Elimination Framework brings together more than 75 executable and documented structural implementations, including standalone systems, framework applications, deterministic kernels, observatories, and reference demonstrations.
+
+Each implementation examines a bounded question:
+
+**Can an assumed dependency be removed from the governing source of an admissible outcome while deterministic resolution remains reproducible?**
+
+`admissible outcome = resolve(complete, consistent, domain-bounded structure)`
+
+The distinctive contribution is not the claim that every underlying technique is unprecedented. It is the use of a common structural discipline across otherwise different domains:
+
+- complete and compatible structure may resolve
+- incomplete structure remains unresolved
+- conflicting structure produces `ABSTAIN` or `DENY`
+- operational mechanisms remain available without automatically governing the admissible outcome
+
+![Dependency Elimination Framework](https://raw.githubusercontent.com/OMPSHUNYAYA/SLANG-Observatory/main/docs/Dependency-Elimination-Framework.png)
+
+### **Scope of Elimination**
+
+Dependency elimination does not mean that clocks, execution, communication, infrastructure, inference, transactions, or workflows become physically unnecessary.
+
+It means that, within a declared deterministic model, an operational mechanism may no longer be required as the **governing source of admissible resolution**.
+
+| Domain | Dependency Removed from Governing Resolution | Structural Basis |
+|---|---|---|
+| Time | wall-clock synchronization | accepted transition structure |
+| Decision | arrival order | normalized complete evidence |
+| Meaning | fragment sequence | complete compatible semantic structure |
+| Money | transaction order / continuous connectivity | complete compatible financial state |
+| Truth / Ledger | agreement as sole resolution authority | complete compatible ledger state |
+| Computation | prescribed execution order | complete admissible computation structure |
+| AI Admissibility | inference as admission authority | declared invariants and evidence |
+| Realization | probabilistic generation as the sole realization path | deterministic specification |
+| Representation | unconstrained semantic expansion | bounded representation contract |
+| Cybersecurity | pipeline sequence as escalation authority | complete escalation evidence |
+| Identity | registry lookup as the sole admission source | replay-verifiable identity structure |
+| Authentication | login or reset workflow sequence | complete admission evidence |
+| Consensus | forced resolution under incomplete or conflicting state | compatibility checks and abstention |
+| Governance | recount or tally workflow as the sole result source | complete recorded tally structure |
+| Network | continuous connectivity | reconcilable structural state |
+| Cloud | cloud availability as the sole resolution authority | self-contained deterministic state |
+| Media — Video | manual editing and timeline workflows | complete video specification |
+| Media — Diagram | manual drawing and layout workflows | complete diagram specification |
+| Media — Audio | manual waveform editing and sequencing | complete audio specification |
+| Observability | forced visibility or premature publication | maturity and admissibility gates |
+| Observational Astronomy | runtime ephemeris access | embedded bounded observational structure |
+| Spatial Systems | coordinate value or rendering alone | coordinate admissibility structure |
+| Audit | repeated reconstruction workflow | maintained evidence and receipts |
+| Transition | traversal or search | declared transition relation |
+| Truth Retrieval | repeated query-time traversal | maintained folder-truth structure |
+| Integration | live coordination as the sole resolution source | compatible interface structure |
+| Communication | acknowledgements and retries as delivery truth | aligned delivery evidence |
+
+### **Relationship to Established Work**
+
+Shunyaya does not claim that every underlying computational or mathematical technique is unprecedented.
+
+Its contribution is the use of a shared structural resolution, evidence, and abstention discipline across multiple bounded domains.
+
+Where structure remains incomplete or conflicting, the framework preserves the unresolved boundary. It does not manufacture agreement, bypass established limitations, or replace existing mathematical and computational methods.
+
+---
+
+### **Evidence Boundary**
+
+The collapse invariant:
+
+`phi((m, a, s)) = m`
+
+establishes conservative preservation of `m` by construction.
+
+It does not, by itself, establish the informational value of `a` or `s`, or superiority over established analytical methods. Those claims require repository-specific experiments, comparisons, and reproducible evidence.
+
+`conservative collapse = output-preservation invariant`
+
+`dependency elimination = bounded implementation claim`
+
+`comparative validation = continuing evidence burden`
+
+Replay verification applies where published. Operational substrates may remain useful or necessary even when they no longer determine the structurally admissible outcome.
+
+---
+
+## ⚡ The Unifying Question
+
+These implementations are not presented as separate theories. They are bounded tests of one structural direction across different domains:
+
+different domains
+
+↓
+
+different dependencies removed from governing resolution
+
+↓
+
+same admissibility discipline
+
+`complete compatible structure -> resolve`
+
+`incomplete or conflicting structure -> no forced resolution`
+
+The central question is not how many implementations exist.
+
+It is whether the same structural discipline remains coherent, reproducible, and useful across domains.
 
 ---
 
@@ -496,149 +642,6 @@ A minimal admission kernel, not a reset engine or replacement for MFA, token sec
 
 ---
 
-# 🌍 Core Structural Invariants
-
-Across implementations where declared:
-
-`same canonical structure -> same canonical outcome`
-
-`incomplete structure -> no forced resolution`
-
-`conflicting structure -> ABSTAIN OR DENY`
-
-`admissible correctness = resolve(declared structure)`
-
----
-
-## ⚡ What This Shows
-
-Each implementation tests whether an assumed dependency can be removed from the governing source of correctness within a bounded structural model.
-
-Classical outputs, domain rules, and operational mechanisms remain unchanged where applicable.
-
-Structure adds explicit admissibility, deterministic resolution, and reproducible evidence.
-
----
-
-## ⚠️ Precision of Claim
-
-Shunyaya does not claim that execution, infrastructure, communication, workflows, or computation disappear physically.
-
-The claim is narrower:
-
-under declared deterministic conditions, these mechanisms need not remain the sole governing source of admissible correctness.
-
-Replay verification applies where published.
-
----
-
-## 🧱 Dependency Elimination Framework
-
-The Dependency Elimination Framework brings together more than 75 executable and documented structural implementations, including independent systems, framework applications, deterministic kernels, observatories, and reference demonstrations.
-
-Each implementation examines a bounded question:
-
-**Can an assumed dependency be removed from the governing source of an admissible outcome while deterministic resolution remains reproducible?**
-
-`admissible outcome = resolve(complete, consistent, domain-bounded structure)`
-
-The distinctive contribution is not the claim that every underlying technique is unprecedented. It is the use of a common structural discipline across otherwise different domains:
-
-- complete and compatible structure may resolve
-- incomplete structure remains unresolved
-- conflicting structure produces `ABSTAIN` or `DENY`
-- operational mechanisms remain available without automatically governing correctness
-
-![Dependency Elimination Framework](https://raw.githubusercontent.com/OMPSHUNYAYA/SLANG-Observatory/main/docs/Dependency-Elimination-Framework.png)
-
-### **Scope of Elimination**
-
-Dependency elimination does not mean that clocks, execution, communication, infrastructure, inference, transactions, or workflows become physically unnecessary.
-
-It means that, within a declared deterministic model, an operational mechanism may no longer be required as the **governing source of admissible correctness**.
-
-| Domain | Dependency Removed from Governing Resolution | Structural Basis |
-|---|---|---|
-| Time | wall-clock synchronization | accepted transition structure |
-| Decision | arrival order | normalized complete evidence |
-| Meaning | fragment sequence | complete compatible semantic structure |
-| Money | transaction order / continuous connectivity | complete compatible financial state |
-| Truth / Ledger | agreement as sole resolution authority | complete compatible ledger state |
-| Computation | prescribed execution order | complete admissible computation structure |
-| AI Admissibility | inference as admission authority | declared invariants and evidence |
-| Realization | probabilistic generation as the sole realization path | deterministic specification |
-| Representation | unconstrained semantic expansion | bounded representation contract |
-| Cybersecurity | pipeline sequence as escalation authority | complete escalation evidence |
-| Identity | registry lookup as the sole admission source | replay-verifiable identity structure |
-| Authentication | login or reset workflow sequence | complete admission evidence |
-| Consensus | forced resolution under incomplete or conflicting state | compatibility checks and abstention |
-| Governance | recount or tally workflow as the sole result source | complete recorded tally structure |
-| Network | continuous connectivity | reconcilable structural state |
-| Cloud | cloud availability as correctness authority | self-contained deterministic state |
-| Media — Video | manual editing and timeline workflows | complete video specification |
-| Media — Diagram | manual drawing and layout workflows | complete diagram specification |
-| Media — Audio | manual waveform editing and sequencing | complete audio specification |
-| Observability | forced visibility or premature publication | maturity and admissibility gates |
-| Observational Astronomy | runtime ephemeris access | embedded bounded observational structure |
-| Spatial Systems | coordinate value or rendering alone | coordinate admissibility structure |
-| Audit | repeated reconstruction workflow | maintained evidence and receipts |
-| Transition | traversal or search | declared transition relation |
-| Truth Retrieval | repeated query-time traversal | maintained folder-truth structure |
-| Integration | live coordination as the sole resolution source | compatible interface structure |
-| Communication | acknowledgements and retries as delivery truth | aligned delivery evidence |
-
-### **Relationship to Established Methods**
-
-Shunyaya does not claim to originate logical time, declarative computation, order-independent convergence, content-addressed integrity, or coordination avoidance.
-
-Its contribution is a unified structural resolution and abstention model, expressed through runnable implementations across multiple domains.
-
-Where structure remains incomplete or conflicting, abstention preserves the boundary. It does not bypass distributed-consensus impossibility results or manufacture agreement.
-
-### **Evidence Boundary**
-
-The collapse invariant:
-
-`phi((m, a, s)) = m`
-
-establishes conservative preservation of `m` by construction.
-
-It does not, by itself, establish the informational value of `a` or `s`, or superiority over established analytical methods. Those claims require repository-specific experiments, comparisons, and reproducible evidence.
-
-`conservative collapse = safety guarantee`
-
-`dependency elimination = bounded implementation claim`
-
-`comparative validation = continuing evidence burden`
-
-Replay verification applies where published. Operational substrates may remain useful or necessary even when they no longer determine the structurally admissible outcome.
-
----
-
-## ⚡ The Unifying Question
-
-These implementations are not presented as separate theories. They are bounded tests of one structural direction across different domains:
-
-different domains
-
-↓
-
-different dependencies removed from governing resolution
-
-↓
-
-same admissibility discipline
-
-`complete compatible structure -> resolve`
-
-`incomplete or conflicting structure -> no forced resolution`
-
-The central question is not how many implementations exist.
-
-It is whether the same structural discipline remains coherent, reproducible, and useful across domains.
-
----
-
 # 🛡 Structural Capability Visibility
 
 Systems separating capability existence from capability visibility through deterministic admissibility.
@@ -657,7 +660,7 @@ Replayable product-domain demonstrations; not a replacement for authentication, 
 
 ---
 
-# 🧪 CAPS Demonstration Kernels
+## 🧪 CAPS Demonstration Kernels
 
 Focused runnable demonstrations separating capability existence from capability visibility across product domains.
 
@@ -709,99 +712,18 @@ A runnable demonstration, not a production print-management or document-security
 
 ---
 
-## ✅ Executable Structural Systems & Evidence Index
+# 🔷 Mathematical Architecture & Executable Evidence
 
-This repository provides a **unified public map of executable structural systems, deterministic kernels, observatories, and replay-verifiable reference implementations** across the Shunyaya ecosystem.
-
-Published implementations preserve declared classical outputs through conservative collapse, including:
-
-`phi((m, a)) = m`
-
-`phi((m, a, s)) = m`
-
-Where conformance capsules or frozen evidence bundles are published, independent runs may be compared through byte-identical artifact identity:
-
-`B_A = B_B`
-
-Across domains, the shared direction is:
-
-**bounded structure, deterministic resolution, explicit admissibility, and reproducible evidence.**
-
-The framework originates from a structural reinterpretation of **zero** as a dynamic baseline from which posture, drift, accumulation, stability, and admissibility can be represented.
+The following sections present the five-layer framework, collapse invariants, executable demonstrations, replay capsules, and repository-specific evidence.
 
 ---
+
 
 ## 🏗 Layered Structural Infrastructure
 
-`origin -> runtime -> diagnosis -> trust -> irreversibility`
+`origin -> posture -> evolution -> diagnosis -> reliance`
 
-Finite, replay-verifiable where published, and collapse-preserving by design.
-
----
-
-## ⚡ A Compact Replay Identity Demonstration (~819 Bytes)
-
-The Replay Identity Capsule reconstructs a deterministic sequence history and compresses that history into a stable cryptographic identity.
-
-`RIC = SHA256(encode(history(sequence)))`
-
-Replay condition:
-
-`same encoded history -> same capsule`
-
-A changed sequence ordinarily produces a changed reconstructed history and capsule, subject to the standard assumptions of the hash function.
-
-RIC identifies the replayed history rather than only the final output.
-
-🔗 [RIC-Proof — Replay Identity Capsule](https://github.com/OMPSHUNYAYA/RIC-Proof)
-
----
-
-## ⚡ A Compact Execution Identity Kernel (~1 KB)
-
-A ~1 KB deterministic kernel produces a replay-verifiable certificate for the observable execution boundary.
-
-`B = (target_sha256, argv, stdin_text, stdout_text, stderr_text, exit_code)`
-
-`E = SHA256(JSON_canonical(B))`
-
-`same observable boundary -> same certificate`
-
-Changes within the certified boundary ordinarily produce different certificates, subject to standard cryptographic hash assumptions.
-
-No probabilistic matching or tolerance is used. EIK certifies execution identity—not algorithm correctness, safety, domain validity, or full environment reproducibility.
-
-🔗 [Shunyaya Execution Identity Kernel — EIK](https://github.com/OMPSHUNYAYA/Execution-Identity-Kernel)
-
----
-
-## ⚡ A Compact Deterministic Certification Capsule (~1.05 KB)
-
-The AIC capsule evaluates invertibility over a finite, fully enumerable domain and produces either an explicit inverse mapping or a collision witness.
-
-`same inputs + disciplined environment -> B_A = B_B`
-
-Conformance uses exact replay identity, without random sampling, probabilistic acceptance, or tolerance-based matching.
-
-Within SSUM-AIM, **AIM** means **Artificial Intelligence Manifest**: deterministic manifest-based computation rather than probabilistic machine learning.
-
-The Observatory also includes compact capsules for computational identity, cycle structure, and execution replay.
-
-🔗 [SSUM-AIM Observatory](https://github.com/OMPSHUNYAYA/SSUM-AIM-Observatory)
-
----
-
-## ⚙ **SSUM-AIM Formula Kernel (AIMFK) — Deterministic Symbolic Computation (~25 KB)**
-
-**Explicit rule transformations with replay-verifiable proof traces.**
-
-`Result = Phi(Task, Rules, Inputs)`
-
-Identical supported task payloads under the same frozen release produce identical results. No training data, model weights, or probabilistic inference.
-
-Within this project, **AIM** means **Artificial Intelligence Manifest**. AIMFK certifies deterministic formula computation, not domain validity or numerical conditioning.
-
-🔗 [SSUM-AIM Formula Kernel — AIMFK](https://github.com/OMPSHUNYAYA/SSUM-AIM-Formula-Kernel)
+Bounded where declared, replay-verifiable where published, and collapse-preserving where applicable.
 
 ---
 
@@ -822,6 +744,16 @@ Shunyaya adds: **What is its structural posture, and when is reliance admissible
 | **SSUM** | How does structure evolve? | Structural state `(m, a, s)`, cost, and pressure | Preserved by design |
 | **SSD** | Where is structural stability eroding? | Deterministic diagnosis of declared traces | Preserved by design |
 | **SSE** | Is reliance admissible here? | Explicit governance states such as `ALLOW`, `ABSTAIN`, and `DENY` | Preserved by design |
+
+---
+
+### 🟢 Shunyaya Symbolic Law 0
+
+**A classical value may be extended with a bounded alignment lane while preserving the original value under collapse.**
+
+`phi((m, a)) = m`
+
+Within the framework, `m` retains the classical value and `a in (-1, +1)` represents declared structural alignment. Preservation of `m` is guaranteed by design; interpretation of `a` remains application-specific.
 
 ---
 
@@ -920,7 +852,7 @@ for tick in range(1, 6):
 - the alignment lane remains bounded
 - identical complete inputs reproduce the same alignment behavior
 - each stamp commits to the previous stamp, current payload, and timestamp
-- deletion, modification, or reordering becomes visible during chain verification
+- modification or reordering, and deletion within a known or externally anchored chain, become visible during verification
 - the underlying clock source is observed, not modified
 
 This is a compact executable demonstration that the structural kernel is implemented and directly testable.
@@ -931,7 +863,7 @@ SSOM investigates structural posture one layer earlier, at mathematical origin.
 
 ---
 
-### ⭐ Executable Evidence Across Domains
+## ⭐ Executable Evidence Across Domains
 
 Shunyaya includes runnable, inspectable implementations across distinct structural domains:
 
@@ -948,19 +880,77 @@ Across time, manifest computation, geometry, numerics, and observational astrono
 
 ---
 
-### 🟢 Shunyaya Symbolic Law 0
+## ⚡ A Compact Replay Identity Demonstration (~819 Bytes)
 
-**A classical value may be extended with a bounded alignment lane while preserving the original value under collapse.**
+The Replay Identity Capsule reconstructs a deterministic sequence history and compresses that history into a stable cryptographic identity.
 
-`phi((m, a)) = m`
+`RIC = SHA256(encode(history(sequence)))`
 
-Within the framework, `m` retains the classical value and `a in (-1, +1)` represents declared structural alignment. Preservation of `m` is guaranteed by design; interpretation of `a` remains application-specific.
+Replay condition:
+
+`same encoded history -> same capsule`
+
+A changed sequence ordinarily produces a changed reconstructed history and capsule, subject to the standard assumptions of the hash function.
+
+RIC identifies the replayed history rather than only the final output.
+
+🔗 [RIC-Proof — Replay Identity Capsule](https://github.com/OMPSHUNYAYA/RIC-Proof)
 
 ---
 
-## 🔹 Current Active Repositories
+## ⚡ A Compact Execution Identity Kernel (~1 KB)
 
-### 🧩 Core Frameworks
+A ~1 KB deterministic kernel produces a replay-verifiable certificate for the observable execution boundary.
+
+`B = (target_sha256, argv, stdin_text, stdout_text, stderr_text, exit_code)`
+
+`E = SHA256(JSON_canonical(B))`
+
+`same observable boundary -> same certificate`
+
+Changes within the certified boundary ordinarily produce different certificates, subject to standard cryptographic hash assumptions.
+
+No probabilistic matching or tolerance is used. EIK certifies execution identity—not algorithm correctness, safety, domain validity, or full environment reproducibility.
+
+🔗 [Shunyaya Execution Identity Kernel — EIK](https://github.com/OMPSHUNYAYA/Execution-Identity-Kernel)
+
+---
+
+## ⚡ A Compact Deterministic Certification Capsule (~1.05 KB)
+
+The AIC capsule evaluates invertibility over a finite, fully enumerable domain and produces either an explicit inverse mapping or a collision witness.
+
+`same inputs + disciplined environment -> B_A = B_B`
+
+Conformance uses exact replay identity, without random sampling, probabilistic acceptance, or tolerance-based matching.
+
+Within SSUM-AIM, **AIM** means **Artificial Intelligence Manifest**: deterministic manifest-based computation rather than probabilistic machine learning.
+
+The Observatory also includes compact capsules for computational identity, cycle structure, and execution replay.
+
+🔗 [SSUM-AIM Observatory](https://github.com/OMPSHUNYAYA/SSUM-AIM-Observatory)
+
+---
+
+## ⚙ **SSUM-AIM Formula Kernel (AIMFK) — Deterministic Symbolic Computation (~25 KB)**
+
+**Explicit rule transformations with replay-verifiable derivation traces.**
+
+`Result = Phi(Task, Rules, Inputs)`
+
+Identical supported task payloads under the same frozen release produce identical results. No training data, model weights, or probabilistic inference.
+
+Within this project, **AIM** means **Artificial Intelligence Manifest**. AIMFK certifies deterministic formula computation, not domain validity or numerical conditioning.
+
+🔗 [SSUM-AIM Formula Kernel — AIMFK](https://github.com/OMPSHUNYAYA/SSUM-AIM-Formula-Kernel)
+
+---
+
+# 🧭 Mathematical & Domain Repository Index
+
+A categorized map of the mathematical, scientific, symbolic, and domain branches of the ecosystem.
+
+## 🧩 Core Frameworks
 
 ### ⭐ **SSOM — Shunyaya Structural Origin Mathematics**
 
@@ -974,27 +964,21 @@ Observes approach, refinement, and accumulation while preserving classical outpu
 
 ---
 
-### ⭐ **SSE — Shunyaya Structural Equations**
+### ⭐ **SSM — Shunyaya Symbolic Mathematics**
 
-**Reliance admissibility for mathematically correct results.**
+**Classical magnitude with a bounded structural alignment lane.**
 
-`ALLOW | CONVERGED_ALLOW | DENY | ABSTAIN`
+`x = (m, a)`
 
-Evaluates declared structural traces while preserving classical output by design.
+`phi((m, a)) = m`
 
----
+Preserves `m` under collapse by design; interpretation of `a` remains observational and domain-specific.
 
-🔗 [SSE](https://github.com/OMPSHUNYAYA/Shunyaya-Structural-Equations)
+🔗 [SSM](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics)
 
-### ⭐ **SSD — Shunyaya Structural Diagnosis**
-
-**Structural erosion from execution traces — without modifying computation.**
-
-Produces deterministic, audit-ready diagnostic artifacts.
+🧪 [SSM Runnable Proof of Concept](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-POC)
 
 ---
-
-🔗 [SSD](https://github.com/OMPSHUNYAYA/Structural-Diagnosis)
 
 ### ⭐ **SSUM — Shunyaya Structural Universal Mathematics**
 
@@ -1012,7 +996,29 @@ Tracks bounded alignment and structural signature across supported operations wh
 
 ---
 
-### ⚡ Behavioral Classification
+### ⭐ **SSD — Shunyaya Structural Diagnosis**
+
+**Structural erosion from execution traces — without modifying computation.**
+
+Produces deterministic, audit-ready diagnostic artifacts.
+
+🔗 [SSD](https://github.com/OMPSHUNYAYA/Structural-Diagnosis)
+
+---
+
+### ⭐ **SSE — Shunyaya Structural Equations**
+
+**Reliance admissibility layered above declared mathematical results.**
+
+`ALLOW | CONVERGED_ALLOW | DENY | ABSTAIN`
+
+Evaluates declared structural traces while preserving classical output by design.
+
+🔗 [SSE](https://github.com/OMPSHUNYAYA/Shunyaya-Structural-Equations)
+
+---
+
+## ⚡ Behavioral Classification
 
 ### ⭐ **SBM — Shunyaya Behavioral Mathematics**
 
@@ -1028,7 +1034,7 @@ Uses finite structural alphabets and exact replay conformance while preserving `
 
 ---
 
-### ⚡ Structural Substrate & Irreversibility
+## ⚡ Structural Substrate & Irreversibility
 
 ### ⭐ **SSSL — Shunyaya Structural Substrate Layer**
 
@@ -1058,7 +1064,7 @@ Uses a fixed bounded horizon and exact replay without altering classical magnitu
 
 ---
 
-### 🧬 Structural Coherence & Unification
+## 🧬 Structural Coherence & Unification
 
 ### ⭐ **SSAU — Shunyaya Structural Alphabet Unification**
 
@@ -1074,7 +1080,7 @@ Governs bounded admissibility and refusal while preserving domain magnitude by d
 
 ---
 
-### ⚙️ Executable Structural Systems
+## ⚙️ Executable Structural Systems
 
 ### ⭐ **SSIG — Shunyaya Structural Iteration Geometry**
 
@@ -1227,7 +1233,7 @@ The **[SSUM Observatory](https://github.com/OMPSHUNYAYA/ssum-observatory)** cont
 
 ---
 
-## 🧪 Current Cases
+### 🧪 Current Cases
 
 - **01 — [Newton Root](https://ompshunyaya.github.io/ssum-observatory/01_newton_root/)** — baseline convergence with structural channels  
 - **02 — [Near-Singular Derivative](https://ompshunyaya.github.io/ssum-observatory/02_newton_near_singular/)** — structural stress near small derivatives  
@@ -1240,7 +1246,7 @@ The **[SSUM Observatory](https://github.com/OMPSHUNYAYA/ssum-observatory)** cont
 
 ---
 
-## 🧭 What This Demonstrates
+### 🧭 What This Demonstrates
 
 Across numerics, geometry, deterministic attention, and observational data:
 
@@ -1252,23 +1258,7 @@ The Observatory provides evidence and illustration, not comparative proof of sup
 
 ---
 
-## 🔷 Symbolic Mathematics — Foundation and Operator Layer
-
-### ⭐ **SSM — Shunyaya Symbolic Mathematics**
-
-**Classical magnitude with a bounded structural alignment lane.**
-
-`x = (m, a)`
-
-`phi((m, a)) = m`
-
-Preserves `m` under collapse by design; interpretation of `a` remains observational and domain-specific.
-
-🔗 [SSM](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics)
-
-🧪 [SSM Runnable Proof of Concept](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-POC)
-
----
+## 🔷 Symbolic Operators & Extensions
 
 ### ⭐ **SSMS — Shunyaya Symbolic Mathematical Symbols**
 
@@ -1292,7 +1282,7 @@ A separate symbolic domain—not classical limits, cardinal arithmetic, ordinal 
 
 ---
 
-### 🔬 Executable Classical-Law Demonstrations
+## 🔬 Executable Classical-Law Demonstrations
 
 ### ⭐ **SSM Bounded Classical Laws — POC**
 
@@ -1306,7 +1296,7 @@ Observation-only Python examples preserve the classical formulas by design. Curr
 
 ---
 
-### 🔁 Data, Network & Structural Security
+## 🔁 Data, Network & Structural Security
 
 ### ⭐ **SSMDE — Symbolic Mathematical Data Exchange**
 
@@ -1354,7 +1344,7 @@ Produces `ACCEPT`, `REJECT`, or `ABSTAIN`; it is a research primitive, not a pas
 
 ---
 
-### 🌡 Physical Signal Overlays
+## 🌡 Physical Signal Overlays
 
 ### ⭐ **SSMT — Symbolic Mathematical Temperature**
 
@@ -1380,7 +1370,7 @@ A manifest-first overlay with optional commitments and continuity stamps; it doe
 
 ---
 
-### 🧠 Intelligence & Interaction
+## 🧠 Intelligence & Interaction
 
 ### ⭐ **SSM-AI — Symbolic Mathematical AI**
 
@@ -1424,7 +1414,7 @@ A non-semantic observation kernel—not a browser engine, ranking system, or beh
 
 ---
 
-### ⚙️ Hardware, Audit & Chemistry
+## ⚙️ Hardware, Audit & Chemistry
 
 ### ⭐ **SSMH — Symbolic Mathematical Hardware**
 
@@ -1456,7 +1446,7 @@ A mathematics-first, observation-grade framework that preserves classical result
 
 ---
 
-### ⏱ Time & Chronology
+## ⏱ Time & Chronology
 
 ### ⭐ **SSM-UT — Symbolic Mathematical Universal Time**
 
@@ -1500,7 +1490,7 @@ Adds a bounded alignment lane and optional tamper-evident continuity chain.
 
 ---
 
-### 🌌 Temporal & Conceptual Extensions
+## 🌌 Temporal & Conceptual Extensions
 
 ### ⭐ **SSM-JTK — Jyotish Transit Kernel**
 
@@ -1534,7 +1524,7 @@ Preserves the classical magnitude class while adding an observational alignment 
 
 ---
 
-### 🧾 Legacy — Pre-Unification
+## 🧾 Legacy — Pre-Unification
 
 **Zentrube** — an early structural entropy proof of concept for drift tracking.
 
@@ -1542,7 +1532,7 @@ Superseded by the unified SSM `(m, a)` model and retained only as a lineage refe
 
 ---
 
-### 🌠 Structural Physics Interpretation
+## 🌠 Structural Physics Interpretation
 
 ### ⭐ **LAW 0AR — Origin-Centered Action–Reaction Symmetry**
 
@@ -1558,17 +1548,9 @@ SSMO-AR is an observational mathematical operator, not an engineering prediction
 
 🔗 [LAW 0AR](https://github.com/OMPSHUNYAYA/Symbolic-Physics-LAW-0AR)
 
-**Status:** Open Use License — observational and interpretive use
-
 ---
 
-### 🧭 Master Index
-
-**Central navigation map for the Shunyaya ecosystem.**
-
-🔗 [Shunyaya Symbolic Mathematics — Master Docs](https://github.com/OMPSHUNYAYA/Shunyaya-Symbolic-Mathematics-Master-Docs)
-
----
+# 📘 Repository Scope, Licensing & Safety
 
 ## 🔹 Common Repository Pattern
 
@@ -1591,7 +1573,7 @@ Exact contents and verification boundaries are defined by each repository.
 - **Artifacts:** frameworks, reference systems, applications, kernels, observatories, and demonstrations
 - **Runtimes:** browser-native and local implementations across multiple languages
 
-No ecosystem-wide runtime, protocol, or integration dependency is required.
+No single runtime, protocol, or integration stack is required across all ecosystem repositories.
 
 ---
 
@@ -1611,11 +1593,11 @@ All materials are provided **as-is**, without warranty or endorsement. Review th
 
 ---
 
-### ⚠️ Safety  
+## ⚠️ Safety
 
-All Shunyaya materials are **observation-only structural layers** intended for transparency, auditability, structural analysis, and reproducibility.  
+Shunyaya materials include research frameworks, observational overlays, deterministic kernels, observatories, and reference implementations intended for transparency, auditability, structural analysis, reproducibility, and experimentation.
 
-They do not replace domain laws, solvers, controls, professional judgment, or regulatory safeguards.
+They do not replace domain laws, solvers, production controls, professional judgment, independent assurance, or regulatory safeguards.
 
 They must **not** be used as sole decision gates in life-critical, safety-critical, or high-risk systems without independent verification, domain-specific validation, and appropriate redundancies.
 
@@ -1623,7 +1605,7 @@ All materials are provided **as-is**. To the maximum extent permitted by applica
 
 ---
 
-### Terminology Note
+## Terminology Note
 
 **Shunyaya** is an original modern structural and mathematical framework developed by its authors.
 
