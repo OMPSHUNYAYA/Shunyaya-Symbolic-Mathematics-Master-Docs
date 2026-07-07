@@ -166,24 +166,6 @@ Systems exploring deterministic resolution where complete structure, rather than
 
 ---
 
-### 🧩 **SLANG — Structural Language**
-
-**Deterministic outcome visibility from complete and consistent structure.**
-
-Standalone systems cover computation, audit, and money; SLANG-Observatory contains focused domain kernels.
-
-`outcome_visible iff structure_complete AND structure_consistent`
-
----
-
-### ⚙️ **SLANG-Computation**
-
-**Computational resolution from sufficient structure — independent of prescribed execution flow.**
-
-🔗 [SLANG-Computation](https://github.com/OMPSHUNYAYA/SLANG-Computation)
-
----
-
 ### ☁️ **STIC**
 
 **Structural correctness visibility — independent of cloud availability within the reference model.**
@@ -238,17 +220,15 @@ Traversal remains available for initialization, verification, and recovery.
 
 # 🧠 Structural Resolution & Admissibility Systems
 
-Systems demonstrating deterministic admissibility resolution from structure before computation, inference, orchestration flow, or execution.
+Systems resolving structural admissibility before downstream capability or execution.
 
 ---
 
 ### 🧠 **SRI**
 
-**Intelligence admissibility from structure — before AI execution**
+**AI-action admissibility from declared structure — before capability-layer execution.**
 
-`intelligence_admissibility = resolve(structure)`
-
-Deterministic structural admissibility where intelligence states emerge from complete and consistent structure before inference, prediction, or orchestration flow.
+`same structure -> same admissibility state`
 
 🔗 [SRI](https://github.com/OMPSHUNYAYA/SRI)
 
@@ -256,55 +236,73 @@ Deterministic structural admissibility where intelligence states emerge from com
 
 ### 🔔 **SNARE**
 
-**Notification visibility from structure — without application-defined interruption rules**
+**Notification visibility from structural admissibility — before interruption.**
 
 `notification_visible iff structure_admissible`
 
-Deterministic structural visibility governance where alerts, reminders, updates, and interruptions are resolved through structure before interruption occurs.
+Governs visibility and attention while preserving the underlying notification.
 
 🔗 [SNARE](https://github.com/OMPSHUNYAYA/SNARE)
 
 ---
 
-### ⛵ **SAIL**
+### ⛵ **SAIL — Structural AI Layer**
 
-**Intelligence in AI emerging from visible structure — beyond foundational dependence on language, hidden memory, or training**
+**Intelligence and coordination explored through visible structure.**
 
 `structure -> invariant -> evidence -> certificate -> outcome`
 
-Structural AI and structural computing framework exploring whether reasoning, certification, coordination, federation, execution, and measurable realization can emerge through visible structural interaction.
+A deterministic structural-computing platform for inspectable reasoning, certification, replay, federation, execution, and measurable realization.
 
 🔗 [SAIL](https://github.com/OMPSHUNYAYA/SAIL)
 
 **Reference Applications**
 
-- [Requirement Realization Console](https://github.com/OMPSHUNYAYA/SAIL/tree/main/applications/SAIL_Requirement_Realization_Console_v1_1_2) — Certifies requirements through execution, measurement, outcome verification, and realization.
+- [Requirement Realization Console](https://github.com/OMPSHUNYAYA/SAIL/tree/main/applications/SAIL_Requirement_Realization_Console_v1_1_2) — Certifies requirements through execution, measurement, and outcome evidence.
 - [Requirements Management System](https://github.com/OMPSHUNYAYA/SAIL/tree/main/applications/SAIL_Requirements_Management_System_v1_1_2) — Governs requirements through policy, traceability, approval, and realization.
-- [Incident Management System](https://github.com/OMPSHUNYAYA/SAIL/tree/main/applications/SAIL_Incident_Management_System_v1_1_2) — Resolves incidents through triage, conditional escalation, recovery, and verification.
-- [Compliance and Audit Console](https://github.com/OMPSHUNYAYA/SAIL/tree/main/applications/SAIL_Compliance_Audit_Console_v1_1_2) — Certifies controls through policy, evidence, exceptions, and deterministic audit receipts.
-- [Federation Operations Console](https://github.com/OMPSHUNYAYA/SAIL/tree/main/applications/SAIL_Federation_Operations_Console_v1_1_2) — Certifies distributed coordination through quorum, consensus, replay, and federation audit.
+- [Incident Management System](https://github.com/OMPSHUNYAYA/SAIL/tree/main/applications/SAIL_Incident_Management_System_v1_1_2) — Governs incidents through triage, escalation, recovery, and verification.
+- [Compliance and Audit Console](https://github.com/OMPSHUNYAYA/SAIL/tree/main/applications/SAIL_Compliance_Audit_Console_v1_1_2) — Certifies controls through policy, evidence, exceptions, and audit receipts.
+- [Federation Operations Console](https://github.com/OMPSHUNYAYA/SAIL/tree/main/applications/SAIL_Federation_Operations_Console_v1_1_2) — Verifies quorum, consensus, replay, and federation audit states.
 
 ---
 
 ### 🤖 **STRIDE — Structural Robotic Intention and Deterministic Execution**
 
-**AI may propose actions, but robots move only when structure permits.**
+**Intelligence may propose; valid structure authorizes bounded motion.**
 
 `motion_allowed iff valid_motion_contract_exists`
+
+Separates intention from execution authority within a deterministic robotic reference architecture.
 
 🔗 [STRIDE](https://github.com/OMPSHUNYAYA/STRIDE)
 
 ---
 
+### 🧭 **S-Coordinate**
+
+**Coordinate visibility from structural admissibility — beyond numerical position alone.**
+
+`coordinate_visible iff S = RESOLVED AND tau = VALID AND sigma_deterministic`
+
+Classical coordinates remain unchanged; structural visibility is resolved separately.
+
+🔗 [S-Coordinate](https://github.com/OMPSHUNYAYA/S-Coordinate)
+
+---
+
 # 🧠 Structural Intelligence & Coordination
 
-Systems demonstrating meaning, decisions, and coordination emerging directly from structure.
+Systems exploring deterministic decision and coordination layers built from normalized structure.
 
 ---
 
 ### 🧠 **ORL-AI**
 
-**Decision from structure — without training order or synchronization**
+**Deterministic decision resolution from normalized signals — independent of arrival order and timing.**
+
+`same normalized structure -> same decision`
+
+ORL-AI is a structural decision layer, not a full machine-learning or generative AI system.
 
 🔗 [ORL-AI](https://github.com/OMPSHUNYAYA/ORL-AI)
 
@@ -312,7 +310,11 @@ Systems demonstrating meaning, decisions, and coordination emerging directly fro
 
 ### 💬 **ORL-Chat**
 
-**Meaning from structure — without message order**
+**Conversational meaning from complete structure — independent of arrival order and timing.**
+
+`same normalized fragments -> same resolved meaning`
+
+Incomplete or conflicting structure remains unresolved.
 
 🔗 [ORL-Chat](https://github.com/OMPSHUNYAYA/ORL-Chat)
 
@@ -320,7 +322,9 @@ Systems demonstrating meaning, decisions, and coordination emerging directly fro
 
 ### 💰 **ORL-Money**
 
-**Money correctness from structure — without sequencing**
+**Financial reconciliation from complete structure — independent of order, timestamps, and continuous connectivity.**
+
+`valid -> RESOLVED | missing -> INCOMPLETE | conflicting -> ABSTAIN`
 
 🔗 [ORL-Money](https://github.com/OMPSHUNYAYA/ORL-Money)
 
@@ -328,13 +332,15 @@ Systems demonstrating meaning, decisions, and coordination emerging directly fro
 
 # 🎬 Structural Media & Observability
 
-Systems demonstrating that visibility and media can emerge directly from structure rather than rendering workflows.
+Systems generating deterministic media from complete structure while reducing reliance on manual editing and layout workflows.
 
 ---
 
 ### 🎬 **STRUMER**
 
-**Video from structure — without editing workflows**
+**Video from complete structure — without manual timeline editing.**
+
+`video_visible iff video_structure_complete AND video_structure_consistent`
 
 🔗 [STRUMER](https://github.com/OMPSHUNYAYA/STRUMER)
 
@@ -342,7 +348,9 @@ Systems demonstrating that visibility and media can emerge directly from structu
 
 ### 🧩 **STRUMER-D**
 
-**Diagram visibility from structure — without drawing or layout workflows**
+**Diagrams from complete structure — without manual drawing or layout tuning.**
+
+`diagram_visible iff diagram_structure_complete AND diagram_structure_consistent`
 
 🔗 [STRUMER-D](https://github.com/OMPSHUNYAYA/STRUMER/tree/main/STRUMER-D)
 
@@ -350,29 +358,59 @@ Systems demonstrating that visibility and media can emerge directly from structu
 
 ### 🔊 **STRUMER-A**
 
-**Audio from structure — without waveform editing or sequencing**
+**Audio from complete structure — without manual waveform editing or timeline sequencing.**
+
+`audio_visible iff audio_structure_complete AND audio_structure_consistent`
 
 🔗 [STRUMER-A](https://github.com/OMPSHUNYAYA/STRUMER/tree/main/STRUMER-A)
 
 ---
 
-### 🧭 **S-Coordinate**
+# 🧩 SLANG Structural Resolution Family
 
-**Coordinate admissibility from structure — without blind spatial assumptions**
+**Deterministic outcome visibility from complete and consistent structure.**
 
-🔗 [S-Coordinate](https://github.com/OMPSHUNYAYA/S-Coordinate)
+Three standalone reference implementations cover computation, audit, and money. SLANG-Observatory extends the same model through focused domain kernels.
+
+`outcome_visible iff structure_complete AND structure_consistent`
 
 ---
 
-# 🧪 SLANG Observatory Kernels
+### ⚙️ **SLANG-Computation**
 
-Tiny deterministic admissibility kernels demonstrating dependency elimination across real-world domains.
+**Computational resolution from sufficient structure — independent of prescribed execution flow.**
+
+🔗 [SLANG-Computation](https://github.com/OMPSHUNYAYA/SLANG-Computation)
+
+---
+
+### 🔍 **SLANG-Audit**
+
+**Structural audit resolution — independent of replay and reconciliation workflows.**
+
+🔗 [SLANG-Audit](https://github.com/OMPSHUNYAYA/SLANG-Audit)
+
+---
+
+### 💰 **SLANG-Money**
+
+**Financial-state resolution from complete structure — without executed transactions in the reference model.**
+
+🔗 [SLANG-Money](https://github.com/OMPSHUNYAYA/SLANG-Money)
+
+---
+
+## 🧪 SLANG Observatory Kernels
+
+**Tiny deterministic kernels exploring structural admissibility across bounded domain scenarios.**
+
+🔗 [SLANG-Observatory](https://github.com/OMPSHUNYAYA/SLANG-Observatory)
 
 ---
 
 ### 🔹 **SLANG-Invoice**
 
-**Invoice approval from structure — without workflow dependency**
+**Invoice approval visibility from complete structure — independent of workflow sequence.**
 
 🔗 [SLANG-Invoice](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-Invoice)
 
@@ -380,7 +418,9 @@ Tiny deterministic admissibility kernels demonstrating dependency elimination ac
 
 ### 🔹 **SLANG-Claims**
 
-**Claim payout from structure — without verification workflows**
+**Claim-payability admission from complete structure — independent of workflow sequence.**
+
+Resolves eligibility within the reference model; it does not execute payment.
 
 🔗 [SLANG-Claims](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-Claims)
 
@@ -388,7 +428,9 @@ Tiny deterministic admissibility kernels demonstrating dependency elimination ac
 
 ### 🔹 **SLANG-Cybersecurity**
 
-**Cybersecurity escalation from structure — without pipelines**
+**Escalation admission from complete structure — independent of pipeline sequence.**
+
+Resolves a bounded security state; it does not replace operational detection or response systems.
 
 🔗 [SLANG-Cybersecurity](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-Cybersecurity)
 
@@ -396,7 +438,11 @@ Tiny deterministic admissibility kernels demonstrating dependency elimination ac
 
 ### 🔹 **SLANG-Hurricane**
 
-**Forecast visibility from structure — without forced publication**
+**Forecast visibility from structural maturity — without forced publication.**
+
+`forecast_visible iff structure_complete AND structure_consistent`
+
+A visibility-admission kernel, not a hurricane prediction or public-safety system.
 
 🔗 [SLANG-Hurricane](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-Hurricane)
 
@@ -404,7 +450,11 @@ Tiny deterministic admissibility kernels demonstrating dependency elimination ac
 
 ### 🔹 **SLANG-Exam**
 
-**Question paper visibility from structure — without pre-created papers**
+**Question-paper visibility from structural maturity — without a pre-created final paper.**
+
+`paper_visible iff structure_complete AND structure_consistent`
+
+A bounded admissibility kernel, not a complete examination platform.
 
 🔗 [SLANG-Exam](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-Exam)
 
@@ -412,7 +462,11 @@ Tiny deterministic admissibility kernels demonstrating dependency elimination ac
 
 ### 🔹 **SLANG-Voting**
 
-**Election winner visibility from structure — without recount workflows as correctness dependency**
+**Winner visibility from complete recorded structure — independent of recount workflow sequence.**
+
+`winner_visible iff structure_complete AND structure_consistent`
+
+A bounded plurality-admissibility kernel, not a complete election or legal certification system.
 
 🔗 [SLANG-Voting](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-Voting)
 
@@ -420,7 +474,11 @@ Tiny deterministic admissibility kernels demonstrating dependency elimination ac
 
 ### 🔹 **SLANG-Password**
 
-**Access resolution from structure — without authentication workflows**
+**Access admissibility from complete structure — independent of login workflow sequence.**
+
+`access_visible iff structure_complete AND structure_consistent`
+
+A minimal resolution kernel, not a replacement for authentication, cryptography, MFA, or policy enforcement.
 
 🔗 [SLANG-Password](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-Password)
 
@@ -428,7 +486,11 @@ Tiny deterministic admissibility kernels demonstrating dependency elimination ac
 
 ### 🔹 **SLANG-ResetPassword**
 
-**Password reset resolution from structure — without reset workflows**
+**Password-reset admissibility from complete structure — independent of reset workflow sequence.**
+
+`reset_visible iff structure_complete`
+
+A minimal admission kernel, not a reset engine or replacement for MFA, token security, abuse protection, or policy enforcement.
 
 🔗 [SLANG-ResetPassword](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-ResetPassword)
 
