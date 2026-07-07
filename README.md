@@ -1,196 +1,96 @@
 # 🌐 Shunyaya Symbolic Mathematics — Ecosystem Map  
 **Repository:** Shunyaya-Symbolic-Mathematics-Master-Docs  
 
-*A unified Shunyaya Framework spanning SSM (foundation), SSUM (runtime), and structural systems.*
+*A unified structural ecosystem spanning SSM foundations, SSUM runtime, admissibility, deterministic resolution, and executable reference systems.*
 
 ![Execution-First](https://img.shields.io/badge/Execution-First-black)
-![Deterministic](https://img.shields.io/badge/Deterministic-Yes-green)
-![Replay-Verifiable](https://img.shields.io/badge/Replay-Verifiable%20(Where%20Published)-green)
-![Classical-Integrity](https://img.shields.io/badge/Classical-Outputs%20Unmodified-green)
+![Deterministic-by-Design](https://img.shields.io/badge/Deterministic-by%20Design-green)
+![Replay-Verifiable](https://img.shields.io/badge/Replay--Verifiable-Where%20Published-green)
+![Classical-Integrity](https://img.shields.io/badge/Classical%20Integrity-Collapse%20Preserved%20Where%20Applicable-green)
 ![Layered-Architecture](https://img.shields.io/badge/Architecture-Layered-purple)
-![75+ Structural Systems](https://img.shields.io/badge/75%2B-Structural%20Systems-gold)
-
----
-
-# 🌐 LIVE Browser-Native Observatory
-
-**SSM-JA — Ephemeris-Independent Jyotish Atlas**
-
-Launch the live deterministic observatory directly in the browser:
-
-https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_3_11.html
-
-- offline-capable
-- browser-native
-- deterministic
-- ephemeris-independent
-- single-file observatory
-
-`offline deterministic structure -> reproducible observational realization`
-
-Explore the full deterministic observatory repository:
-
-[SSM-JA Observatory Repository](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-Jyotish-Transit-Kernel/tree/main/SSM-JA)
-
----
-
-# ⚖️ **Beyond Centre of Mass: A Foundational Stability Breakthrough**
-
-### **SSG — Structural Stability Geometry**
-
-**Beyond centre of mass: balance becomes an executable, replay-verifiable closed return relation.**
-
-`admissible disturbance -> return OR redistribution OR arrest`
-
-Four structurally distinct native solver routes reproduce the same winning partition. Four assurance layers observe agreement, verify transitions, diagnose disagreement, and govern release certification. A fresh GitHub clone verified `238/238` manifest files, `8/8` components, and `12/12` system certification checks.
-
-🔗 [Structural Stability Geometry — SSG](https://github.com/OMPSHUNYAYA/SSG)
+![75+ Structural Implementations](https://img.shields.io/badge/75%2B-Structural%20Implementations-gold)
 
 ---
 
 ## 📑 Start Here
 
-1. **Dependency Elimination Framework** — correctness preserved through structure after removing assumed dependencies for correctness
-2. **Shunyaya Structural Stack** — layered structural systems removing execution, order, time, connectivity, traversal, and infrastructure dependency  
-3. **Executable Proof Index** — runnable deterministic systems across computation, finance, AI, media, networking, and observability  
-4. **Runnable Structural Systems** — replay-verifiable reference implementations and executable demonstrations  
-5. **Shunyaya Mathematical Foundations** — `SSOM -> SSM -> SSUM -> SSD -> SSE`  
-6. **Independent Validation Across Time, Systems, and Domains**  
-7. **Verified Case Studies and Structural Results Summary**  
-8. **Scientific Demonstrations and Reproducible Proofs**  
-9. **Safety, Determinism, and Reproducibility Guarantees**  
-10. **Licensing, Usage Scope, and Deployment Rights**
+1. **Dependency Elimination Framework** — scope, definitions, and bounded demonstrations  
+2. **Shunyaya Structural Stack** — layers, relationships, and dependency boundaries  
+3. **Executable Implementation Index** — more than 75 systems, applications, kernels, observatories, and demonstrations  
+4. **Mathematical Foundations** — `SSOM -> SSM -> SSUM -> SSD -> SSE`  
+5. **Published Evidence and Case Studies** — tests, replays, conformance results, and observed outcomes  
+6. **Safety, Scope, and Licensing** — limitations, usage conditions, and repository-specific terms
 
 ---
 
-## 🎬 Real-World Validation
+# 🌐 LIVE Browser-Native Observatory
 
-Public Shunyaya videos are generated using the structural approach.
+### **SSM-JA — Runtime-Ephemeris-Independent Jyotish Atlas**
 
-The same published scripts recreate structurally identical videos repeatedly — demonstrating:
+**Deterministic Jyotish observation in a single browser-native file.**
 
-- deterministic output  
-- reproducibility  
-- structure-driven media generation  
+- offline-capable after download
+- reproducible for identical supported inputs
+- no runtime ephemeris API, external CSV, cloud service, database, or server required
+- supported range: `01 Jan 1950` to `31 Dec 2100`
 
-**Shunyaya Framework: 75+ demonstrated structural systems — and growing.**
+`embedded structure -> deterministic realization -> reproducible observation`
 
-**Join the Structural Revolution — remove dependency, preserve correctness.**
+Astronomical ephemerides remain foundational; runtime access is not required within the supported range.
+
+🌐 [Launch SSM-JA](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_3_11.html)
+
+🔗 [SSM-JA Observatory Repository](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-Jyotish-Transit-Kernel/tree/main/SSM-JA)
+
+---
+
+# ⚖️ **Beyond Centre of Mass: Closed-Return Stability**
+
+### **SSG — Structural Stability Geometry**
+
+**Balance as an executable, replay-verifiable closed-return relation.**
+
+`admissible disturbance -> return OR redistribution OR arrest`
+
+Four native solver architectures reproduce the same winning partition for a canonical finite parity game. Four separate assurance layers verify agreement, transition closure, disagreement diagnosis, and release eligibility.
+
+Published verification: `238/238` manifest files • `8/8` components • `12/12` certification gates
+
+SSG provides a computational foundation for structural closure; it does not by itself certify the physical stability of real-world objects.
+
+🔗 [Structural Stability Geometry — SSG](https://github.com/OMPSHUNYAYA/SSG)
+
+---
+
+## ⚡ Executable Structural Evidence
+
+More than 75 executable and documented structural implementations, including independent systems, framework applications, deterministic kernels, observatories, and reference demonstrations.
+
+Within declared structural boundaries, they test whether assumed dependencies can be removed from the governing source of correctness while deterministic outcomes remain reproducible.
+
+`same canonical structure -> same canonical outcome`
+
+`incomplete or conflicting structure -> no forced resolution`
+
+Published Shunyaya media scripts also recreate defined outputs from identical inputs, demonstrating structure-driven reproducibility.
 
 ![Shunyaya Structural Stack](https://raw.githubusercontent.com/OMPSHUNYAYA/SLANG-Observatory/main/docs/Shunyaya-Structural-Stack.png)
 
----
-
-# 🧭 **How To Read This Repository**
-
-This repository may be explored in three different ways depending on what you want.
-
-### **1. Understand The Core Idea**
-
-Start here if you want to understand the central claim:
-
-- Dependency Elimination Framework
-- Shunyaya Structural Stack
-
-Goal → `correctness = structure`
-
----
-
-### **2. Understand The Architecture**
-
-Start here if you want to understand how structural systems connect together:
-
-- Structural Foundations
-- Runtime & Resolution Layers
-- Structural Admissibility Systems
-- Domain Demonstrations
-
-Goal → `same structure -> same outcome`
-
----
-
-### **3. Verify That It Actually Runs**
-
-Start here if you want runnable evidence first:
-
-- Executable Proof Index
-- Observatory Kernels
-- Reference Implementations
-- Demonstration Repositories
-
-Goal → `deterministic + reproducible + replay-verifiable`
-
----
-
-**Different entry points. Same structural invariants.**
-
----
-
-## 🌐 When Time Becomes Structure — And Truth Follows
-
-What if not just time — but computation, truth, money, media, observability, forecast visibility, and even runtime ephemeris dependency —  
-do not require synchronization, ordering, continuous connectivity, forced publication, rendering trust, workflow dependency, execution trust, cloud infrastructure, or runtime ephemeris services?
-
-No internet.  
-No blind GPS trust.  
-No blind rendering trust.  
-No forced visibility.  
-No premature certainty.  
-No clocks.  
-No ordering.  
-No coordination.  
-No workflow dependency.  
-No execution trust.  
-No continuous network dependency.  
-No cloud dependency.  
-
-Only structure.
-
-`correctness = structure`  
-`outcome_visible iff structure_mature`
-
-Across the Shunyaya structural ecosystem, outcomes emerge directly from **complete AND consistent structure** — not from workflows, pipelines, sequencing, or forced visibility.
-
----
-
-## ⚡ What Has Been Demonstrated
-
-This is not a concept.
-
-These are **working systems** that remove dependency on:
-
-- time  
-- order  
-- synchronization  
-- coordination  
-- execution  
-- computation  
-- runtime ephemeris dependency  
-- verification workflows  
-- consensus / quorum coordination  
-- transaction sequencing  
-- continuous network connectivity  
-- traversal / repeated rediscovery  
-- communication  
-- cloud infrastructure  
-- forced visibility / publication  
-- editing / timelines / manual workflows  
-
-while still preserving deterministic admissibility and reproducible realization within bounded structural conditions.
-
-`correctness = structure`
+The systems below are grouped by the dependency each implementation removes from the governing source of correctness within its declared scope.
 
 ---
 
 # 🧱 Structural Foundations
 
-Core systems demonstrating that mathematical correctness, position, time, and truth can emerge directly from structure.
+Core implementations exploring deterministic resolution of value, position, time, and truth claims from declared structure.
 
 ---
 
 ### ⭐ **SVARE**
 
-**Structure-first exact scientific calculator and bounded deterministic math oracle for supported expressions**
+**Exact mathematical resolution for supported expressions.**
+
+Returns rational or symbolic results, explicit resolution states, and version-scoped receipts.
 
 🔗 [SVARE](https://github.com/OMPSHUNYAYA/SVARE)
 
@@ -198,7 +98,7 @@ Core systems demonstrating that mathematical correctness, position, time, and tr
 
 ### ⭐ **SIL**
 
-**Position from structure — without time or sequence**
+**Position from complete structure — independent of fragment order and timing.**
 
 🔗 [SIL](https://github.com/OMPSHUNYAYA/Structural-Integer-Line)
 
@@ -206,15 +106,17 @@ Core systems demonstrating that mathematical correctness, position, time, and tr
 
 ### 🕰 **STIME**
 
-**Time from structure — without clocks**
+**Structural time from accepted transitions — independent of clocks and arrival order.**
 
-🔗 [Structural-Time](https://github.com/OMPSHUNYAYA/Structural-Time)
+`structural_time = count(accepted transitions)`
+
+🔗 [Structural Time — STIME](https://github.com/OMPSHUNYAYA/Structural-Time)
 
 ---
 
 ### 🕰 **SSUM-Time**
 
-**Time reconstruction from structure — without continuous synchronization**
+**Temporal continuity from cycle alignment — without continuous external synchronization.**
 
 🔗 [SSUM-Time](https://github.com/OMPSHUNYAYA/SSUM-Time)
 
@@ -222,7 +124,7 @@ Core systems demonstrating that mathematical correctness, position, time, and tr
 
 ### 📘 **ORL**
 
-**Truth from structure — without agreement**
+**Ledger convergence from complete structure — without order, synchronized clocks, or a central coordinator.**
 
 🔗 [ORL](https://github.com/OMPSHUNYAYA/Orderless-Ledger)
 
