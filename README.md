@@ -132,13 +132,15 @@ Returns rational or symbolic results, explicit resolution states, and version-sc
 
 # ⚙️ Structural Runtime & Resolution
 
-Systems demonstrating deterministic resolution without execution pipelines, cloud orchestration, or continuous connectivity.
+Systems exploring deterministic resolution where complete structure, rather than procedural sequence or continuous coordination, governs admissible outcomes.
 
 ---
 
 ### ⚙️ **STOCRS**
 
-**Computation from structure — without execution order**
+**Deterministic convergence from complete structure — independent of time, fragment order, and continuous synchronization.**
+
+`complete compatible structure -> deterministic result`
 
 🔗 [STOCRS](https://github.com/OMPSHUNYAYA/STOCRS)
 
@@ -146,7 +148,9 @@ Systems demonstrating deterministic resolution without execution pipelines, clou
 
 ### ⚙️ **STOCRS-R**
 
-**Deterministic application correctness from structure — without procedural sequencing**
+**Application evolution from complete structure — independent of procedural sequence.**
+
+`same structure -> same output -> same certificate`
 
 🔗 [STOCRS-R](https://github.com/OMPSHUNYAYA/STOCRS-R)
 
@@ -154,15 +158,27 @@ Systems demonstrating deterministic resolution without execution pipelines, clou
 
 ### ⚙️ **STRUPER**
 
-**Deterministic structural realization from structure — beyond procedural realization flow**
+**Deterministic realization from complete structure — independent of admissible procedural path.**
+
+`realization_visible iff structure_complete AND structure_consistent`
 
 🔗 [STRUPER](https://github.com/OMPSHUNYAYA/STRUPER)
 
 ---
 
-### 🧩 **SLANG**
+### 🧩 **SLANG — Structural Language**
 
-**Deterministic admissibility from structure — without workflow dependency**
+**Deterministic outcome visibility from complete and consistent structure.**
+
+Standalone systems cover computation, audit, and money; SLANG-Observatory contains focused domain kernels.
+
+`outcome_visible iff structure_complete AND structure_consistent`
+
+---
+
+### ⚙️ **SLANG-Computation**
+
+**Computational resolution from sufficient structure — independent of prescribed execution flow.**
 
 🔗 [SLANG-Computation](https://github.com/OMPSHUNYAYA/SLANG-Computation)
 
@@ -170,7 +186,9 @@ Systems demonstrating deterministic resolution without execution pipelines, clou
 
 ### ☁️ **STIC**
 
-**System correctness from structure — without cloud infrastructure**
+**Structural correctness visibility — independent of cloud availability within the reference model.**
+
+`complete AND consistent structure -> CORRECT`
 
 🔗 [STIC](https://github.com/OMPSHUNYAYA/STIC)
 
@@ -178,7 +196,9 @@ Systems demonstrating deterministic resolution without execution pipelines, clou
 
 ### 🌐 **STINT-Money**
 
-**Financial correctness from structure — without continuous connectivity**
+**Deterministic financial-state resolution from complete structure — without continuous connectivity or ordered communication.**
+
+Separates structural truth from operational activation.
 
 🔗 [STINT-Money](https://github.com/OMPSHUNYAYA/STINT-Money)
 
@@ -186,7 +206,11 @@ Systems demonstrating deterministic resolution without execution pipelines, clou
 
 ### 📡 **STILE**
 
-**Delivery correctness from structure — without messaging dependency**
+**Delivery admission from aligned structure — independent of acknowledgements, retries, and network interaction.**
+
+Resolves structural delivery truth, not physical transmission.
+
+`message_delivered iff structure_aligned`
 
 🔗 [STILE](https://github.com/OMPSHUNYAYA/STILE)
 
@@ -194,7 +218,9 @@ Systems demonstrating deterministic resolution without execution pipelines, clou
 
 ### 🧭 **STRAL-Path**
 
-**Path correctness from structure — without traversal or search**
+**Path validity from sufficient structure — without traversal, search, or ordered exploration.**
+
+Resolves structural path truth, not physical movement.
 
 🔗 [STRAL-Path](https://github.com/OMPSHUNYAYA/STRAL-Path)
 
@@ -202,7 +228,9 @@ Systems demonstrating deterministic resolution without execution pipelines, clou
 
 ### ⭐ **STRUE**
 
-**Folder truth retrieval from structure — without repeated rediscovery during retrieval**
+**Folder properties from maintained structure — without repeated query-time traversal.**
+
+Traversal remains available for initialization, verification, and recovery.
 
 🔗 [STRUE](https://github.com/OMPSHUNYAYA/STRUE)
 
