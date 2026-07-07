@@ -14,13 +14,21 @@
 
 ## 📑 Start Here
 
-1. **Live Flagships** — SSM-JA and Structural Stability Geometry  
+1. **Live Flagships** — SSM-JA, SVARE, and Structural Stability Geometry 
 2. **Structural Evidence & Dependency Framework** — invariants, scope, established-work relationship, and evidence boundaries  
 3. **Dependency-Elimination Systems** — foundations, runtime, admissibility, intelligence, media, SLANG, and CAPS  
 4. **Mathematical Architecture & Executable Evidence** — five layers, collapse invariants, runnable demonstrations, and certification kernels  
 5. **Mathematical & Domain Repository Index** — frameworks, sciences, observatories, operators, time, and conceptual extensions  
 6. **Repository Pattern & Scope** — artifact types, runtimes, and repository boundaries  
 7. **Licensing, Safety & Terminology** — repository-specific terms, safeguards, and terminology
+
+---
+
+## ◯ Framework Origin
+
+The framework originated from a structural reinterpretation of **zero**—not as a static null, but as a **dynamic baseline and centre of reference** from which structural posture, drift, accumulated cost, stability, and admissibility can be represented.
+
+This originating direction later developed into the framework’s mathematical, computational, diagnostic, and admissibility layers. Each implementation remains bounded by its own declared model, scope, and evidence.
 
 ---
 
@@ -42,6 +50,30 @@ Astronomical ephemerides remain foundational; runtime access is not required wit
 🌐 [Launch SSM-JA](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_3_11.html)
 
 🔗 [SSM-JA Observatory Repository](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-Jyotish-Transit-Kernel/tree/main/SSM-JA)
+
+---
+
+# 🧮 LIVE Browser-Native Exact Resolution
+
+### **SVARE — Structural Value Resolution Engine**
+
+**Exact scientific calculation and deterministic resolution for supported expressions.**
+
+- exact rational arithmetic and bounded symbolic scientific rules
+- explicit resolved, singular, forbidden, indeterminate, incomplete, unsupported, and limited states
+- standalone browser interface with no server required
+- version-scoped structure, semantic, and display receipts
+- shared Python and browser conformance evidence
+
+`surface expression -> canonical structure -> exact semantic result OR explicit state -> reproducible receipt`
+
+Published verification: `59` shared conformance vectors • `63` checks per engine • current release `v10.0.6`
+
+SVARE is a bounded resolver—not a universal mathematical oracle, theorem prover, or complete computer algebra system.
+
+🌐 [Launch SVARE](https://ompshunyaya.github.io/SVARE/demo_extension_v10_0_6/SVARE_v10_0_6.html)
+
+🔗 [SVARE Repository](https://github.com/OMPSHUNYAYA/SVARE)
 
 ---
 
