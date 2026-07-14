@@ -14,7 +14,7 @@
 
 ## 📑 Start Here
 
-1. **Live Flagships** — SSM-JA, SVARE, and Structural Stability Geometry 
+1. **Live Flagships** — SSM-JA, SVARE, Structural Stability Geometry, and Structural Cube
 2. **Structural Evidence & Dependency Framework** — invariants, precision of claim, implemented dependency boundaries, and claim boundaries  
 3. **Dependency-Elimination Systems** — foundations, runtime, admissibility, intelligence, media, SLANG, and CAPS  
 4. **Mathematical Architecture & Executable Evidence** — five layers, collapse invariants, runnable demonstrations, and certification kernels  
@@ -92,6 +92,31 @@ Published verification: `238/238` manifest files • `8/8` components • `12/12
 SSG provides a computational foundation for structural closure; it does not by itself certify the physical stability of real-world objects.
 
 🔗 [Structural Stability Geometry — SSG](https://github.com/OMPSHUNYAYA/SSG)
+
+---
+
+# 🧩 LIVE Browser-Native Structural Cube Resolution
+
+### **Structural Cube — Visible, Verified 3 x 3 x 3 Cube Solving**
+
+**A graph-guided cube resolver where every completed structural action is replayed, checked, and independently verifiable.**
+
+- resolves the cube from its present legal state, without needing the mixing history
+- converts structural obligations into deterministic kernel targets
+- requires exact replay and strict `W` descent at every completed action boundary
+- derives learner-facing **Strategy**, **Plan**, and **Move** from the same checked evidence
+- produces portable SCCERT certificates with independent Python verification
+- runs as a self-contained browser application without a server, API, external solver, or database
+
+`state -> rank -> graph -> target -> compiled turns -> replay -> strict descent -> solved state`
+
+Published verification: `100/100` committed states solved • `100/100` independently verified certificates • zero reference-route access • zero reference-distance access • zero fallback activation • `1,941` moves reduced against the declared earlier full-graph selector
+
+Results apply to the committed `P100` corpus and declared profiles. Structural Cube does not claim globally shortest routes, competition-speed superiority, or universal totality over every legal cube state.
+
+🌐 [Launch Structural Cube](https://ompshunyaya.github.io/Structural-Cube/demo/Structural_Cube_v1_0_2.html)
+
+🔗 [Structural Cube Repository](https://github.com/OMPSHUNYAYA/Structural-Cube)
 
 ---
 
