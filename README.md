@@ -14,7 +14,7 @@
 
 ## 📑 Start Here
 
-1. **Live Flagships** — SSM-JA, SVARE, Structural Stability Geometry, and Structural Cube
+1. **Live Flagships** — SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, and SERA
 2. **Structural Evidence & Dependency Framework** — invariants, precision of claim, implemented dependency boundaries, and claim boundaries  
 3. **Dependency-Elimination Systems** — foundations, runtime, admissibility, intelligence, media, SLANG, and CAPS  
 4. **Mathematical Architecture & Executable Evidence** — five layers, collapse invariants, runnable demonstrations, and certification kernels  
@@ -120,6 +120,29 @@ Results apply to the committed `P100` corpus and declared profiles. Structural C
 
 ---
 
+# ⌨️ LIVE Browser-Native Structural Edit Admission
+
+### **SERA — Structural Edit Resolution and Admission**
+
+**Safer document editing for humans and AI by separating proposal authority from target and mutation authority.**
+
+- humans, AI agents, APIs, and assistive systems may propose edits
+- structural resolution determines the target rather than proposal-supplied range authority
+- commit-time admission blocks stale, conflicting, or over-broad mutation
+- explicit refusals and deterministic receipts preserve evidence
+
+`proposal -> resolve -> plan -> preview -> revalidate -> admit -> execute OR refuse -> receipt`
+
+Published verification: `329/329` full audit • `27/27` regressions • `34/34` feature coverage • `766/766` frozen grapheme conformance • passing GitHub Actions workflow
+
+Current assurance is producer-side; independent verification is not yet claimed.
+
+🌐 [Launch SERA](https://ompshunyaya.github.io/SERA/demo/SERA_Structural_Keyboard_Reference_Demo_v0_9_2.html)
+
+🔗 [SERA Repository](https://github.com/OMPSHUNYAYA/SERA)
+
+---
+
 # ⚡ Executable Structural Evidence
 
 More than 75 executable and documented structural implementations, including standalone systems, framework applications, deterministic kernels, observatories, and reference demonstrations.
@@ -176,7 +199,7 @@ Replay verification applies where published.
 
 ## 🧱 Dependency Elimination Framework
 
-The Dependency Elimination Framework maps more than 75 executable and documented structural implementations across mathematics, computing, finance, AI, communication, media, observability, and scientific domains.
+The Dependency Elimination Framework maps more than 75 executable and documented structural implementations across mathematics, computing, finance, AI, editing, communication, media, observability, and scientific domains.
 
 Each implementation tests the same practical move:
 
@@ -205,6 +228,7 @@ They may remain operational. The claim is that, within the declared model, they 
 | Truth / Ledger | agreement as sole resolution authority | complete consistent ledger state |
 | Computation | prescribed execution order | complete admissible computation structure |
 | AI Admissibility | inference as admission authority | declared invariants and evidence |
+| Editing | manual range construction and raw machine edit output as mutation authority | structural resolution + dependency-aware admission + bounded mutation authority + receipts |
 | Realization | probabilistic generation as the sole realization path | deterministic specification |
 | Representation | unconstrained semantic expansion | bounded representation contract |
 | Cybersecurity | pipeline sequence as escalation authority | complete escalation evidence |
@@ -1599,7 +1623,7 @@ Exact contents and verification boundaries are defined by each repository.
 
 ## Scope
 
-- **Domains:** mathematics, deterministic computing, AI admissibility, time, finance, data, networks, media, observability, and structural science
+- **Domains:** mathematics, deterministic computing, AI admissibility, document editing, time, finance, data, networks, media, observability, and structural science
 - **Artifacts:** frameworks, reference systems, applications, kernels, observatories, and demonstrations
 - **Runtimes:** browser-native and local implementations across multiple languages
 
