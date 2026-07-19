@@ -14,7 +14,7 @@
 
 ## 📑 Start Here
 
-1. **Live Flagships** — SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, and SERA
+1. **Live Flagships** — SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, and Structural Receipt
 2. **Structural Evidence & Dependency Framework** — invariants, precision of claim, implemented dependency boundaries, and claim boundaries  
 3. **Dependency-Elimination Systems** — foundations, runtime, admissibility, intelligence, media, SLANG, and CAPS  
 4. **Mathematical Architecture & Executable Evidence** — five layers, collapse invariants, runnable demonstrations, and certification kernels  
@@ -143,6 +143,28 @@ Current assurance is producer-side; independent verification is not yet claimed.
 
 ---
 
+# 🧾 LIVE Purpose-Resolvable Financial Evidence
+
+### **Structural Receipt — Financial Evidence That Resolves by Purpose**
+
+**Turns financial receipts into portable, purpose-resolvable evidence that can answer different bounded questions, preserve transaction change, and be reconstructed independently.**
+
+- resolves the same transaction evidence differently by declared purpose
+- preserves `INCOMPLETE`, `CONFLICT`, and `UNSUPPORTED` states explicitly
+- separates resolution from authentication, approval, policy, and execution
+- preserves returns, refunds, and credits through non-destructive lineage
+- supports one-sided adoption through bridge, sidecar, and standalone verification paths
+
+`receipt structure + identified purpose profile + declared evaluation context -> supported result`
+
+Published verification: `221/221` browser audit • `35/35` standalone verifier audit • `308/308` conformance on browser and separate Python paths • `12/12` tamper corpus • `13/13` hostile-input corpus • `21/21` bridge self-test • passing GitHub Actions workflow
+
+Separate implementation reconstruction is demonstrated. Third-party verification is not claimed. All current purpose profiles declare `execution_authority = NONE`.
+
+🔗 [Structural Receipt Repository](https://github.com/OMPSHUNYAYA/Structural-Receipt)
+
+---
+
 # ⚡ Executable Structural Evidence
 
 More than 75 executable and documented structural implementations, including standalone systems, framework applications, deterministic kernels, observatories, and reference demonstrations.
@@ -225,6 +247,7 @@ They may remain operational. The claim is that, within the declared model, they 
 | Decision | arrival order | normalized complete evidence |
 | Meaning | fragment sequence | complete consistent semantic structure |
 | Money | transaction order / continuous connectivity | complete consistent financial state |
+| Financial Evidence | repeated downstream interpretation of receipt presentations and application-specific records | canonical evidence structure + identified purpose profiles + declared context + lineage + bounded verification |
 | Truth / Ledger | agreement as sole resolution authority | complete consistent ledger state |
 | Computation | prescribed execution order | complete admissible computation structure |
 | AI Admissibility | inference as admission authority | declared invariants and evidence |
