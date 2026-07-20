@@ -345,16 +345,6 @@ Returns rational or symbolic results, explicit resolution states, and version-sc
 
 ---
 
-### 📘 **ORL**
-
-**Deterministic ledger reconciliation from partial transaction evidence — without timestamps or fragment arrival order as structural resolution authority.**
-
-`same validated canonical evidence + same rules -> same structural resolution`
-
-🔗 [ORL](https://github.com/OMPSHUNYAYA/Orderless-Ledger)
-
----
-
 # ⚙️ Structural Runtime & Resolution
 
 Systems exploring deterministic resolution where complete structure, rather than procedural sequence or continuous coordination, governs admissible outcomes.
@@ -515,9 +505,19 @@ Classical coordinates remain unchanged; structural visibility is resolved separa
 
 ---
 
-# 🧠 Structural Intelligence & Coordination
+# 🧭 ORL Structural Resolution Family
 
-Systems exploring deterministic decision and coordination layers built from normalized structure.
+Bounded systems applying deterministic structural resolution across ledger reconciliation, decision states, conversation states, and financial reconciliation.
+
+---
+
+### 📘 **ORL**
+
+**Deterministic ledger reconciliation from partial transaction evidence — without timestamps or fragment arrival order as structural resolution authority.**
+
+`same validated canonical evidence + same rules -> same structural resolution`
+
+🔗 [ORL](https://github.com/OMPSHUNYAYA/Orderless-Ledger)
 
 ---
 
