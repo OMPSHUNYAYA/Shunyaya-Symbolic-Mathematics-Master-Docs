@@ -244,11 +244,11 @@ They may remain operational. The claim is that, within the declared model, they 
 | Domain | Dependency Eliminated from Sole Resolution Authority | Structural Basis |
 |---|---|---|
 | Time | wall-clock synchronization | accepted transition structure |
-| Decision | arrival order | normalized complete evidence |
-| Meaning | fragment sequence | complete consistent semantic structure |
-| Money | transaction order / continuous connectivity | complete consistent financial state |
+| Decision | arrival order as classification authority | normalized supported signals + explicit conflict pairs + decision rules |
+| Conversation State | message arrival order as resolution authority | supported message fragments + explicit relationships + resolver rules |
+| Money | timestamps and fragment arrival order as reconciliation authority | shared initial balances + deduplicated supported money fragments + resolver rules |
 | Financial Evidence | repeated downstream interpretation of receipt presentations and application-specific records | canonical evidence structure + identified purpose profiles + declared context + lineage + bounded verification |
-| Truth / Ledger | agreement as sole resolution authority | complete consistent ledger state |
+| Ledger Reconciliation | timestamps and fragment arrival order as structural resolution authority | validated canonical evidence + ruleset; declared boundary context for complete bundle |
 | Computation | prescribed execution order | complete admissible computation structure |
 | AI Admissibility | inference as admission authority | declared invariants and evidence |
 | Editing | manual range construction and raw machine edit output as mutation authority | structural resolution + dependency-aware admission + bounded mutation authority + receipts |
@@ -347,7 +347,9 @@ Returns rational or symbolic results, explicit resolution states, and version-sc
 
 ### 📘 **ORL**
 
-**Ledger convergence from complete structure — without order, synchronized clocks, or a central coordinator.**
+**Deterministic ledger reconciliation from partial transaction evidence — without timestamps or fragment arrival order as structural resolution authority.**
+
+`same validated canonical evidence + same rules -> same structural resolution`
 
 🔗 [ORL](https://github.com/OMPSHUNYAYA/Orderless-Ledger)
 
@@ -521,11 +523,11 @@ Systems exploring deterministic decision and coordination layers built from norm
 
 ### 🧠 **ORL-AI**
 
-**Deterministic decision resolution from normalized signals — independent of arrival order and timing.**
+**Bounded decision-state resolution from normalized supported signals and explicit deterministic rules — without timestamps or arrival order as classification authority.**
 
-`same normalized structure -> same decision`
+`same normalized supported signal set + same conflict pairs + same decision rules -> same bounded decision state`
 
-ORL-AI is a structural decision layer, not a full machine-learning or generative AI system.
+ORL-AI is a rule-based reference model, not a trained, predictive, or generative AI system.
 
 🔗 [ORL-AI](https://github.com/OMPSHUNYAYA/ORL-AI)
 
@@ -533,11 +535,11 @@ ORL-AI is a structural decision layer, not a full machine-learning or generative
 
 ### 💬 **ORL-Chat**
 
-**Conversational meaning from complete structure — independent of arrival order and timing.**
+**Bounded conversation-state resolution from supported message fragments and explicit relationships — without timestamps or arrival order as resolution authority.**
 
-`same normalized fragments -> same resolved meaning`
+`same deduplicated supported fragments + same resolver rules -> same bounded conversation state`
 
-Incomplete or conflicting structure remains unresolved.
+Produces explicit `RESOLVED`, `INCOMPLETE`, or `ABSTAIN` states without claiming unrestricted language understanding.
 
 🔗 [ORL-Chat](https://github.com/OMPSHUNYAYA/ORL-Chat)
 
@@ -545,7 +547,7 @@ Incomplete or conflicting structure remains unresolved.
 
 ### 💰 **ORL-Money**
 
-**Financial reconciliation from complete structure — independent of order, timestamps, and continuous connectivity.**
+**Bounded financial reconciliation from shared initial balances and supported money fragments — without timestamps or fragment arrival order as reconciliation authority.**
 
 `valid -> RESOLVED | missing -> INCOMPLETE | conflicting -> ABSTAIN`
 
