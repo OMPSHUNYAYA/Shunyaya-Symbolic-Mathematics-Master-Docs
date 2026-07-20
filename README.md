@@ -1662,13 +1662,15 @@ Licensing is **repository-specific**.
 
 Each repository’s `README`, `LICENSE`, or usage notice is the sole authority for that project. Depending on the repository:
 
-- reference implementations may use an **Open Use License** or another declared implementation license
+- reference implementations may use a **custom project license** or another declared implementation license
 - architecture, theory, specifications, and documentation may use **CC BY-NC 4.0**
-- some earlier projects may use **CC BY 4.0** or other stated terms
+- some projects may use **CC BY 4.0** or other stated terms
 
 No single license should be assumed across the ecosystem.
 
 All materials are provided **as-is**, without warranty or endorsement. Review the applicable repository terms before implementation, redistribution, modification, or commercial use.
+
+The ecosystem does not claim recognition as a formal technical standard, security certification, production qualification, or third-party verification.
 
 ---
 
