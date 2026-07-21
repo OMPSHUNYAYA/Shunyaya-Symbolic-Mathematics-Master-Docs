@@ -160,7 +160,7 @@ Published verification: `87/87` browser audit • `14/14` frozen vectors in brow
 
 Separate implementation reconstruction is demonstrated. Third-party verification is not claimed.
 
-🌐 [Launch Structural Plugin Interactive Demo](https://ompshunyaya.github.io/Structural-Plugin/demo/Structural_Plugin_Reference_Demo_v0_3_0.html)
+🌐 [Launch Structural Plugin Interactive Demo](https://ompshunyaya.github.io/Structural-Plugin/demo/Structural_Plugin_Reference_Demo_v0_3_0.html)  
 🔗 [Structural Plugin Repository](https://github.com/OMPSHUNYAYA/Structural-Plugin)
 
 ---
