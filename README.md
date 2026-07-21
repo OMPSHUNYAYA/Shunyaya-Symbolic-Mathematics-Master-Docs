@@ -14,7 +14,7 @@
 
 ## 📑 Start Here
 
-1. **Live Flagships** — SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, and Structural Receipt
+1. **Live Flagships** — SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, and Structural Receipt
 2. **Structural Evidence & Dependency Framework** — invariants, precision of claim, implemented dependency boundaries, and claim boundaries  
 3. **Dependency-Elimination Systems** — foundations, runtime, admissibility, intelligence, media, SLANG, and CAPS  
 4. **Mathematical Architecture & Executable Evidence** — five layers, collapse invariants, runnable demonstrations, and certification kernels  
@@ -143,6 +143,27 @@ Current assurance is producer-side; independent verification is not yet claimed.
 
 ---
 
+# 🧩 Bounded Digital Action Authority
+
+### **Structural Plugin — Capability Visibility and Task Authority**
+
+**Keeps software capable while exposing only what a task needs, admitting only authorized actions, and preserving verifiable evidence.**
+
+- separates capability visibility from task authority, security authorization, and execution
+- resolves task-specific capability surfaces and canonical digital actions
+- computes explicit authority delta and revalidates material state before execution
+- produces deterministic receipts and verification bundles with separate Python reconstruction
+
+`full capability catalog -> task capability surface -> canonical action -> authority decision -> revalidation -> execute OR withhold -> evidence`
+
+Published verification: `87/87` browser audit • `14/14` frozen vectors in browser and separate Python verifier • `12/12` permanent regressions • passing GitHub Actions workflow
+
+Separate implementation reconstruction is demonstrated. Third-party verification is not claimed.
+
+🔗 [Structural Plugin Repository](https://github.com/OMPSHUNYAYA/Structural-Plugin)
+
+---
+
 # 🧾 LIVE Purpose-Resolvable Financial Evidence
 
 ### **Structural Receipt — Financial Evidence That Resolves by Purpose**
@@ -252,6 +273,7 @@ They may remain operational. The claim is that, within the declared model, they 
 | Computation | prescribed execution order | complete admissible computation structure |
 | AI Admissibility | inference as admission authority | declared invariants and evidence |
 | Editing | manual range construction and raw machine edit output as mutation authority | structural resolution + dependency-aware admission + bounded mutation authority + receipts |
+| Digital Action | capability existence or visibility as automatic task-action authority | task-scoped capability surface + canonical action resolution + authority envelope + current-state revalidation + verifiable evidence |
 | Realization | probabilistic generation as the sole realization path | deterministic specification |
 | Representation | unconstrained semantic expansion | bounded representation contract |
 | Cybersecurity | pipeline sequence as escalation authority | complete escalation evidence |
@@ -1648,7 +1670,7 @@ Exact contents and verification boundaries are defined by each repository.
 
 ## Scope
 
-- **Domains:** mathematics, deterministic computing, AI admissibility, document editing, time, finance, data, networks, media, observability, and structural science
+- **Domains:** mathematics, deterministic computing, AI admissibility, document editing, digital action authority, time, finance, data, networks, media, observability, and structural science
 - **Artifacts:** frameworks, reference systems, applications, kernels, observatories, and demonstrations
 - **Runtimes:** browser-native and local implementations across multiple languages
 
