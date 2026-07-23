@@ -14,7 +14,7 @@
 
 ## 📑 Start Here
 
-1. **Live Flagships** — SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, and Structural Receipt
+1. **Live Flagships** — SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, Structural Receipt, and Structural Earth Centre
 2. **Structural Evidence & Dependency Framework** — invariants, precision of claim, implemented dependency boundaries, and claim boundaries  
 3. **Dependency-Elimination Systems** — foundations, runtime, admissibility, intelligence, media, SLANG, and CAPS  
 4. **Mathematical Architecture & Executable Evidence** — five layers, collapse invariants, runnable demonstrations, and certification kernels  
@@ -187,6 +187,24 @@ Separate implementation reconstruction is demonstrated. Third-party verification
 
 ---
 
+# 🌍 LIVE Dependency-Governed Centre Resolution
+
+### **Structural Earth Centre — A Centre Is a Structural Resolution**
+
+**Shows why "the centre" is not automatically one self-authorizing coordinate by resolving centre claims from explicitly declared structure.**
+
+`centre resolution = resolve(carrier, boundary, measure, metric, objective, frame, epoch, rules, evidence)`
+
+The same exact dataset can support different legitimate centre results when the declared centre profile changes. v0.5.0 also demonstrates matched structural semantics across two bounded domain adapters.
+
+Published verification: `60/60` frozen technical surface • `13/13` command-line stages • `132/132` integrated centre laboratory • `40/40` structural portability audit • passing GitHub Actions workflow
+
+🌐 [Launch Structural Earth Centre Laboratory](https://ompshunyaya.github.io/Structural-Earth-Centre/demo/Structural_Earth_Centre_Laboratory_v0_5_0.html)
+
+🔗 [Structural Earth Centre Repository](https://github.com/OMPSHUNYAYA/Structural-Earth-Centre)
+
+---
+
 # ⚡ Executable Structural Evidence
 
 More than 75 executable and documented structural implementations, including standalone systems, framework applications, deterministic kernels, observatories, and reference demonstrations.
@@ -290,6 +308,7 @@ They may remain operational. The claim is that, within the declared model, they 
 | Observability | forced visibility or premature publication | maturity and admissibility gates |
 | Observational Astronomy | runtime ephemeris access | embedded bounded observational structure |
 | Spatial Systems | coordinate value or rendering alone | coordinate admissibility structure |
+| Centre Claims | coordinate alone or an undeclared notion of centre as sole resolution authority | declared carrier + boundary + measure + metric + objective + frame + epoch + rules + evidence |
 | Audit | repeated reconstruction workflow | maintained evidence and receipts |
 | Transition | traversal or search | declared transition relation |
 | Truth Retrieval | repeated query-time traversal | maintained folder-truth structure |
@@ -1671,7 +1690,7 @@ Exact contents and verification boundaries are defined by each repository.
 
 ## Scope
 
-- **Domains:** mathematics, deterministic computing, AI admissibility, document editing, digital action authority, time, finance, data, networks, media, observability, and structural science
+- **Domains:** mathematics, deterministic computing, AI admissibility, document editing, digital action authority, centre-claim and spatial resolution, time, finance, data, networks, media, observability, and structural science
 - **Artifacts:** frameworks, reference systems, applications, kernels, observatories, and demonstrations
 - **Runtimes:** browser-native and local implementations across multiple languages
 
