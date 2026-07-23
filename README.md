@@ -1,26 +1,27 @@
 # 🌐 Shunyaya Symbolic Mathematics — Ecosystem Map  
 **Repository:** Shunyaya-Symbolic-Mathematics-Master-Docs  
 
-*A unified structural ecosystem spanning SSM foundations, SSUM structural evolution, admissibility, deterministic resolution, and executable reference systems.*
+*A layered structural ecosystem spanning foundational mathematics, reusable structural architectures, independently meaningful flagship systems, bounded adapters, executable evidence, and research directions.*
 
 ![Execution-First](https://img.shields.io/badge/Execution-First-black)
 ![Deterministic-by-Design](https://img.shields.io/badge/Deterministic-by%20Design-green)
 ![Replay-Verifiable](https://img.shields.io/badge/Replay--Verifiable-Where%20Published-green)
 ![Classical-Integrity](https://img.shields.io/badge/Classical%20Integrity-Collapse%20Preserved%20Where%20Applicable-green)
 ![Layered-Architecture](https://img.shields.io/badge/Architecture-Layered-purple)
-![75+ Structural Implementations](https://img.shields.io/badge/75%2B-Structural%20Implementations-gold)
+![90+ Ecosystem Repositories](https://img.shields.io/badge/90%2B-Ecosystem%20Repositories-gold)
 
 ---
 
 ## 📑 Start Here
 
 1. **Live Flagships** — SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, Structural Receipt, and Structural Earth Centre
-2. **Structural Evidence & Dependency Framework** — invariants, precision of claim, implemented dependency boundaries, and claim boundaries  
-3. **Dependency-Elimination Systems** — foundations, runtime, admissibility, intelligence, media, SLANG, and CAPS  
-4. **Mathematical Architecture & Executable Evidence** — five layers, collapse invariants, runnable demonstrations, and certification kernels  
-5. **Mathematical & Domain Repository Index** — frameworks, sciences, observatories, operators, time, and conceptual extensions  
-6. **Repository Pattern & Scope** — artifact types, runtimes, and repository boundaries  
-7. **Licensing, Safety & Terminology** — repository-specific terms, safeguards, and terminology
+2. **How to Read the Ecosystem** — core frameworks, flagships, architectural families, adapters, demonstration kernels, and research directions
+3. **Structural Evidence & Dependency Framework** — invariants, precision of claim, implemented dependency boundaries, and claim boundaries  
+4. **Dependency-Elimination Systems** — foundations, runtime, admissibility, intelligence, media, SLANG, and CAPS  
+5. **Mathematical Architecture & Executable Evidence** — five layers, collapse invariants, runnable demonstrations, and certification kernels  
+6. **Mathematical & Domain Repository Index** — frameworks, sciences, observatories, operators, time, and conceptual extensions  
+7. **Repository Pattern & Scope** — artifact types, runtimes, and repository boundaries  
+8. **Licensing, Safety & Terminology** — repository-specific terms, safeguards, and terminology
 
 ---
 
@@ -29,6 +30,29 @@
 The framework originated from a structural reinterpretation of **zero**—not as a static null, but as a **dynamic baseline and centre of reference** from which structural posture, drift, accumulated cost, stability, and admissibility can be represented.
 
 This originating direction later developed into the framework’s mathematical, computational, diagnostic, and admissibility layers. Each implementation remains bounded by its own declared model, scope, and evidence.
+
+---
+
+## 🧭 How to Read the Ecosystem
+
+The Shunyaya ecosystem spans **90+ repositories**, but that count is not a claim of 90+ independent frameworks or 90+ separate inventions. Many repositories contain multiple implementations, applications, kernels, observatories, demonstrations, or evidence artifacts, and several projects intentionally reuse shared structural primitives across different bounded domains.
+
+| Project class | Role |
+|---|---|
+| **Core frameworks** | Foundational mathematical or structural models that define reusable concepts, state spaces, or invariants |
+| **Flagship systems** | Independently meaningful systems with a distinct problem boundary, substantial executable behavior, and published evidence |
+| **Architectural families** | Related systems that share a resolver or structural contract while applying it to materially different schemas or questions |
+| **Reference implementations and adapters** | Bounded realizations of a broader architecture for a particular runtime, domain, or interoperability boundary |
+| **Demonstration kernels** | Intentionally small executable proofs used to isolate and test one structural contract |
+| **Research directions** | Concepts and exploratory extensions whose broader evidence or validation remains open |
+
+The recurring use of a structural primitive across multiple repositories is therefore intentional reuse, not an automatic novelty claim for every domain instance.
+
+`shared structural primitive + different bounded adapter != automatically a new framework`
+
+`repository count != independent novelty count`
+
+Novelty, maturity, and evidence should be assessed at the level of the specific architecture, system, or demonstrated contribution being described.
 
 ---
 
@@ -44,6 +68,8 @@ This originating direction later developed into the framework’s mathematical, 
 - supported range: `01 Jan 1950` to `31 Dec 2100`
 
 `embedded structure -> deterministic realization -> reproducible observation`
+
+**Distinctive contribution:** packages the bounded observational structure needed by the supported date range into a single browser-native atlas, removing runtime dependence on a live ephemeris service without claiming independence from the underlying astronomical sources.
 
 Astronomical ephemerides remain foundational; runtime access is not required within the supported range.
 
@@ -67,6 +93,8 @@ Astronomical ephemerides remain foundational; runtime access is not required wit
 
 `surface expression -> canonical structure -> exact semantic result OR explicit state -> reproducible receipt`
 
+**Distinctive contribution:** separates exact semantic resolution from presentation and approximation, making singular, forbidden, indeterminate, incomplete, unsupported, and limited states first-class outputs rather than forcing every supported input toward a display number.
+
 Published verification: `59` shared conformance vectors • `63` checks per engine • current release `v10.0.6`
 
 SVARE is a bounded resolver—not a universal mathematical oracle, theorem prover, or complete computer algebra system.
@@ -86,6 +114,8 @@ SVARE is a bounded resolver—not a universal mathematical oracle, theorem prove
 `admissible disturbance -> return OR redistribution OR arrest`
 
 Four native solver architectures reproduce the same winning partition for a canonical finite parity game. Four separate assurance layers verify agreement, transition closure, disagreement diagnosis, and release eligibility.
+
+**Distinctive contribution:** treats stability as a replay-verifiable closed-return relation and checks the resulting structural partition through multiple native solver architectures rather than relying on one implementation path.
 
 Published verification: `238/238` manifest files • `8/8` components • `12/12` certification gates
 
@@ -110,6 +140,8 @@ SSG provides a computational foundation for structural closure; it does not by i
 
 `state -> rank -> graph -> target -> compiled turns -> replay -> strict descent -> solved state`
 
+**Distinctive contribution:** resolves from the present legal cube state without requiring the mixing history or a preselected reference route, while every completed structural action is replayed and checked against strict descent before acceptance.
+
 Published verification: `100/100` committed states solved • `100/100` independently verified certificates • zero reference-route access • zero reference-distance access • zero fallback activation • `1,941` moves reduced against the declared earlier full-graph selector
 
 Results apply to the committed `P100` corpus and declared profiles. Structural Cube does not claim globally shortest routes, competition-speed superiority, or universal totality over every legal cube state.
@@ -132,6 +164,8 @@ Results apply to the committed `P100` corpus and declared profiles. Structural C
 - explicit refusals and deterministic receipts preserve evidence
 
 `proposal -> resolve -> plan -> preview -> revalidate -> admit -> execute OR refuse -> receipt`
+
+**Distinctive contribution:** makes an edit proposal neither target authority nor mutation authority; the requested change must survive structural target resolution, canonical planning, current-state revalidation, bounded admission, and evidence generation before execution.
 
 Published verification: `329/329` full audit • `27/27` regressions • `34/34` feature coverage • `766/766` frozen grapheme conformance • passing GitHub Actions workflow
 
@@ -156,6 +190,8 @@ Current assurance is producer-side; independent verification is not yet claimed.
 
 `full capability catalog -> task capability surface -> canonical action -> authority decision -> revalidation -> execute OR withhold -> evidence`
 
+**Distinctive contribution:** separates software capability, task visibility, task authority, security authorization, and execution, while making missing authority and state drift explicit and reconstructable through verification evidence.
+
 Published verification: `87/87` browser audit • `14/14` frozen vectors in browser and separate Python verifier • `12/12` permanent regressions • passing GitHub Actions workflow
 
 Separate implementation reconstruction is demonstrated. Third-party verification is not claimed.
@@ -179,6 +215,8 @@ Separate implementation reconstruction is demonstrated. Third-party verification
 
 `receipt structure + identified purpose profile + declared evaluation context -> supported result`
 
+**Distinctive contribution:** lets the same transaction evidence resolve differently by declared purpose while preserving returns, refunds, credits, provenance, and lineage, and supports reconstruction without making the producer application the sole verification authority.
+
 Published verification: `221/221` browser audit • `35/35` standalone verifier audit • `308/308` conformance on browser and separate Python paths • `12/12` tamper corpus • `13/13` hostile-input corpus • `21/21` bridge self-test • passing GitHub Actions workflow
 
 Separate implementation reconstruction is demonstrated. Third-party verification is not claimed. All current purpose profiles declare `execution_authority = NONE`.
@@ -195,11 +233,15 @@ Separate implementation reconstruction is demonstrated. Third-party verification
 
 `centre resolution = resolve(carrier, boundary, measure, metric, objective, frame, epoch, rules, evidence)`
 
-The same exact dataset can support different legitimate centre results when the declared centre profile changes. v0.5.0 also demonstrates matched structural semantics across two bounded domain adapters.
+**Distinctive contribution:** separates a coordinate from the structural claim that makes it a centre, demonstrates controlled same-dataset divergence when a declared dependency changes, preserves explicit non-result states, and extends claim relation, result spectrum, resolution frontier, and certificate semantics through a bounded two-domain portability test.
+
+The same exact land dataset resolves to two different points under two declared measures, with an angular separation of `32.350594616 degrees`. This is treated as structural profile divergence, not contradiction.
 
 Published verification: `60/60` frozen technical surface • `13/13` command-line stages • `132/132` integrated centre laboratory • `40/40` structural portability audit • passing GitHub Actions workflow
 
 🌐 [Launch Structural Earth Centre Laboratory](https://ompshunyaya.github.io/Structural-Earth-Centre/demo/Structural_Earth_Centre_Laboratory_v0_5_0.html)
+
+🔁 [Launch Structural Portability Laboratory](https://ompshunyaya.github.io/Structural-Earth-Centre/demo/Structural_Earth_Centre_Portability_Laboratory_v0_5_0.html)
 
 🔗 [Structural Earth Centre Repository](https://github.com/OMPSHUNYAYA/Structural-Earth-Centre)
 
@@ -207,9 +249,9 @@ Published verification: `60/60` frozen technical surface • `13/13` command-lin
 
 # ⚡ Executable Structural Evidence
 
-More than 75 executable and documented structural implementations, including standalone systems, framework applications, deterministic kernels, observatories, and reference demonstrations.
+The Shunyaya ecosystem now spans **90+ repositories**, with some repositories containing multiple implementations, applications, kernels, observatories, demonstrations, or evidence artifacts. Repository breadth is therefore not presented as a count of independent frameworks or separate novelty claims.
 
-Within declared structural boundaries, they test whether assumed dependencies can be removed from the governing source of admissible resolution while deterministic outcomes remain reproducible.
+Across the projects that make dependency-elimination or structural-resolution claims, the central test is whether a declared operational dependency can cease to be the sole authority over a bounded outcome while deterministic resolution remains reproducible. Other projects focus instead on conservative structural overlays, observability, certification, or evidence and should be read according to their own declared contribution.
 
 `same canonical structure -> same canonical outcome`
 
@@ -239,11 +281,11 @@ Across implementations where declared:
 
 ## ⚡ What This Shows
 
-Each implementation tests whether an assumed dependency can be removed from the governing source of admissible resolution within a bounded structural model.
+Across projects that explicitly make a dependency-elimination claim, each implementation tests a specific bounded question: whether a named operational dependency can stop being the sole governing source of admissible resolution.
 
 Existing domain outputs and rules remain unchanged where applicable. Operational mechanisms may remain available without governing the admissible outcome.
 
-Where implemented, structure adds explicit admissibility, deterministic resolution, and reproducible evidence.
+Other ecosystem projects focus on structural posture, observability, evidence, certification, or domain-specific resolution without necessarily making a dependency-elimination claim. Each repository remains authoritative for its own scope.
 
 ---
 
@@ -257,13 +299,17 @@ under declared deterministic conditions, these mechanisms need not remain the so
 
 Replay verification applies where published.
 
+Not every named repository is a separate framework, and the reuse of a shared resolver across multiple bounded domains is not presented as separate novelty for each domain. A family may contain several adapters or demonstrations precisely to test how one declared structural contract behaves when the schema, evidence, or outcome boundary changes.
+
+`shared primitive reuse = cross-domain testing, not automatic independent novelty`
+
 ---
 
 ## 🧱 Dependency Elimination Framework
 
-The Dependency Elimination Framework maps more than 75 executable and documented structural implementations across mathematics, computing, finance, AI, editing, communication, media, observability, and scientific domains.
+The wider Shunyaya ecosystem spans **90+ repositories**. The Dependency Elimination Framework maps the subset of systems, architectural families, adapters, and demonstrations that explicitly test whether an operational mechanism must remain the sole authority over a bounded resolution.
 
-Each implementation tests the same practical move:
+Across those projects, the recurring practical move is:
 
 `operational dependency -> no longer the sole resolution authority`
 
@@ -515,6 +561,8 @@ A deterministic structural-computing platform for inspectable reasoning, certifi
 
 **Reference Applications**
 
+The following are applications of the SAIL architecture rather than separate foundational frameworks.
+
 - [Requirement Realization Console](https://github.com/OMPSHUNYAYA/SAIL/tree/main/applications/SAIL_Requirement_Realization_Console_v1_1_2) — Certifies requirements through execution, measurement, and outcome evidence.
 - [Requirements Management System](https://github.com/OMPSHUNYAYA/SAIL/tree/main/applications/SAIL_Requirements_Management_System_v1_1_2) — Governs requirements through policy, traceability, approval, and realization.
 - [Incident Management System](https://github.com/OMPSHUNYAYA/SAIL/tree/main/applications/SAIL_Incident_Management_System_v1_1_2) — Governs incidents through triage, escalation, recovery, and verification.
@@ -549,7 +597,7 @@ Classical coordinates remain unchanged; structural visibility is resolved separa
 
 # 🧭 ORL Structural Resolution Family
 
-Bounded systems applying deterministic structural resolution across ledger reconciliation, decision states, conversation states, and financial reconciliation.
+Bounded systems applying a shared deterministic resolution discipline across ledger reconciliation, decision states, conversation states, and financial reconciliation. The family relationship is explicit: the projects reuse structural ideas while retaining different schemas, conflict models, and bounded result semantics.
 
 ---
 
@@ -669,7 +717,11 @@ Three standalone reference implementations cover computation, audit, and money. 
 
 ## 🧪 SLANG Observatory Kernels
 
-**Tiny deterministic kernels exploring structural admissibility across bounded domain scenarios.**
+**Tiny deterministic domain demonstrations of one shared structural-resolution contract.**
+
+The repeated relation is intentional. These kernels test how a common bounded admission pattern behaves under different declared domain schemas; they are not presented as separate frameworks or separate novelty claims for each domain.
+
+`shared SLANG contract + different bounded domain schema -> domain demonstration`
 
 🔗 [SLANG-Observatory](https://github.com/OMPSHUNYAYA/SLANG-Observatory)
 
@@ -783,7 +835,7 @@ Replayable product-domain demonstrations; not a replacement for authentication, 
 
 ## 🧪 CAPS Demonstration Kernels
 
-Focused runnable demonstrations separating capability existence from capability visibility across product domains.
+Focused runnable product-domain demonstrations of the shared CAPS capability-visibility architecture. They are examples of one reusable structural model, not separate frameworks.
 
 ---
 
@@ -1690,9 +1742,12 @@ Exact contents and verification boundaries are defined by each repository.
 
 ## Scope
 
+- **Scale:** 90+ repositories, with some repositories containing multiple implementations, applications, kernels, observatories, demonstrations, or evidence artifacts
 - **Domains:** mathematics, deterministic computing, AI admissibility, document editing, digital action authority, centre-claim and spatial resolution, time, finance, data, networks, media, observability, and structural science
-- **Artifacts:** frameworks, reference systems, applications, kernels, observatories, and demonstrations
+- **Artifacts:** core frameworks, flagship systems, architectural families, reference implementations, adapters, applications, kernels, observatories, demonstrations, and research directions
 - **Runtimes:** browser-native and local implementations across multiple languages
+
+Repository count describes ecosystem breadth. It is not a count of independent frameworks, distinct inventions, or validated real-world deployments.
 
 No single runtime, protocol, or integration stack is required across all ecosystem repositories.
 
@@ -1736,9 +1791,9 @@ It is distinct from **Shunyata** and is not a restatement of any earlier philoso
 
 ---
 
-This `Shunyaya-Symbolic-Mathematics-Master-Docs` repository serves as an index and navigation layer for the ecosystem.
+This `Shunyaya-Symbolic-Mathematics-Master-Docs` repository serves as an index, classification, and navigation layer for the ecosystem.
 
-It claims no exclusivity, authority, or stewardship over any domain. Its purpose is to make the work visible, inspectable, reproducible, and accessible under the terms declared by each repository.
+It does not treat every repository as an independent framework or novelty claim. It claims no exclusivity, authority, or stewardship over any domain. Its purpose is to make the architecture, project relationships, evidence, boundaries, and available resources easier to inspect under the terms declared by each repository.
 
 ---
 
