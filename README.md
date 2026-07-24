@@ -221,6 +221,8 @@ Published verification: `221/221` browser audit • `35/35` standalone verifier 
 
 Separate implementation reconstruction is demonstrated. Third-party verification is not claimed. All current purpose profiles declare `execution_authority = NONE`.
 
+🌐 [Launch Structural Receipt](https://ompshunyaya.github.io/Structural-Receipt/demo/Structural_Receipt_Reference_Demo_v0_5_3.html)
+
 🔗 [Structural Receipt Repository](https://github.com/OMPSHUNYAYA/Structural-Receipt)
 
 ---
