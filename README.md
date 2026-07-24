@@ -14,7 +14,7 @@
 
 ## 📑 Start Here
 
-1. **Live Flagships** — SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, Structural Receipt, and Structural Earth Centre
+1. **Live Flagships** — SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, Structural Receipt, Structural Validity Receipt, and Structural Earth Centre
 2. **How to Read the Ecosystem** — core frameworks, flagships, architectural families, adapters, demonstration kernels, and research directions
 3. **Structural Evidence & Dependency Framework** — invariants, precision of claim, implemented dependency boundaries, and claim boundaries  
 4. **Dependency-Elimination Systems** — foundations, runtime, admissibility, intelligence, media, SLANG, and CAPS  
@@ -225,6 +225,33 @@ Separate implementation reconstruction is demonstrated. Third-party verification
 
 ---
 
+# ⏳ LIVE Structural Validity After Change
+
+### **Structural Validity Receipt — Does an Established Result Still Hold?**
+
+**Re-evaluates whether an earlier decision, calculation, approval, or conclusion remains valid after the conditions behind it change.**
+
+- separates chronological age from structural age and structural validity
+- tracks accepted result-relevant change separately from unrelated global change
+- allows relevant change while preserving `CURRENT` when the established result still holds
+- preserves `STALE`, `INCOMPLETE`, `CONFLICT`, and `UNSUPPORTED` states explicitly
+- produces deterministic validity receipts and portable verification bundles
+- supports one-sided adoption through bridge and separate reconstruction paths
+
+`established result + declared dependency closure + baseline state + relevant transition evidence + validity profile -> bounded validity re-resolution`
+
+**Distinctive contribution:** makes claim-specific structural age explicit and re-evaluates whether an established result survived relevant accepted change, rather than treating elapsed time, global change, or any relevant change as automatic proof that the result is stale.
+
+Published verification: `41/41` frozen technical surface • `156/156` browser reference audit • `22/22` Python verifier self-test • `100/100` corpus verification • `12/12` hostile vectors rejected as expected • `14/14` standalone verifier self-test • `28/28` bridge self-test • passing GitHub Actions workflow
+
+Separate implementation reconstruction is demonstrated. Third-party verification is not claimed. The current v0.3.0 executable profile is bounded to the declared supplier-selection model and declares `execution_authority = NONE`.
+
+🌐 [Launch Structural Validity Receipt](https://ompshunyaya.github.io/Structural-Validity-Receipt/demo/Structural_Validity_Receipt_Reference_Demo_v0_3_0.html)
+
+🔗 [Structural Validity Receipt Repository](https://github.com/OMPSHUNYAYA/Structural-Validity-Receipt)
+
+---
+
 # 🌍 LIVE Dependency-Governed Centre Resolution
 
 ### **Structural Earth Centre — A Centre Is a Structural Resolution**
@@ -334,6 +361,7 @@ They may remain operational. The claim is that, within the declared model, they 
 | Conversation State | message arrival order as resolution authority | supported message fragments + explicit relationships + resolver rules |
 | Money | timestamps and fragment arrival order as reconciliation authority | shared initial balances + deduplicated supported money fragments + resolver rules |
 | Financial Evidence | repeated downstream interpretation of receipt presentations and application-specific records | canonical evidence structure + identified purpose profiles + declared context + lineage + bounded verification |
+| Result Validity Over Change | elapsed time, global version movement, or repeated full re-interpretation as the sole basis for deciding whether an established result still holds | declared result-affecting dependency closure + baseline state + validity profile + relevant transition evidence + claim-specific structural age + deterministic validity re-resolution |
 | Ledger Reconciliation | timestamps and fragment arrival order as structural resolution authority | validated canonical evidence + ruleset; declared boundary context for complete bundle |
 | Computation | prescribed execution order | complete admissible computation structure |
 | AI Admissibility | inference as admission authority | declared invariants and evidence |
@@ -1743,7 +1771,7 @@ Exact contents and verification boundaries are defined by each repository.
 ## Scope
 
 - **Scale:** 90+ repositories, with some repositories containing multiple implementations, applications, kernels, observatories, demonstrations, or evidence artifacts
-- **Domains:** mathematics, deterministic computing, AI admissibility, document editing, digital action authority, centre-claim and spatial resolution, time, finance, data, networks, media, observability, and structural science
+- **Domains:** mathematics, deterministic computing, AI admissibility, document editing, digital action authority, result validity over change, centre-claim and spatial resolution, time, finance, data, networks, media, observability, and structural science
 - **Artifacts:** core frameworks, flagship systems, architectural families, reference implementations, adapters, applications, kernels, observatories, demonstrations, and research directions
 - **Runtimes:** browser-native and local implementations across multiple languages
 
