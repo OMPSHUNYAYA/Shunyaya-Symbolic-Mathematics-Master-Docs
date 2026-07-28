@@ -373,7 +373,8 @@ They may remain operational. The claim is that, within the declared model, they 
 | Representation | unconstrained semantic expansion | bounded representation contract |
 | Cybersecurity | pipeline sequence as escalation authority | complete escalation evidence |
 | Identity | registry lookup as the sole admission source | replay-verifiable identity structure |
-| Authentication | login or reset workflow sequence | complete admission evidence |
+| Password Verification Evidence | password-verification workflow or verifier-evidence arrival order as sole bounded admission authority | declared verifier evidence + bound authentication context + verifier set + evidence mode + versioned profile and ruleset |
+| Credential Replacement Authorization | reset workflow or authorization-evidence arrival order as sole bounded admission authority | declared authorization evidence + bound reset context + authorizer set + evidence mode + versioned profile and ruleset |
 | Consensus | forced resolution under incomplete or conflicting state | compatibility checks and abstention |
 | Governance | recount or tally workflow as the sole result source | complete recorded tally structure |
 | Network | continuous connectivity | reconcilable structural state |
@@ -713,11 +714,11 @@ Systems generating deterministic media from complete structure while reducing re
 
 # 🧩 SLANG Structural Resolution Family
 
-**Deterministic outcome visibility from complete and consistent structure.**
+**Bounded deterministic resolution from declared structure and versioned rules.**
 
-Three standalone reference implementations cover computation, audit, and money. SLANG-Observatory extends the same model through focused domain kernels.
+Three standalone reference implementations cover computation, audit, and money. SLANG-Observatory extends the same discipline through focused domain demonstrations.
 
-`outcome_visible iff structure_complete AND structure_consistent`
+`same admitted canonical structure + same versioned rules -> same bounded result`
 
 ---
 
@@ -747,7 +748,7 @@ Three standalone reference implementations cover computation, audit, and money. 
 
 ## 🧪 SLANG Observatory Kernels
 
-**Tiny deterministic domain demonstrations of one shared structural-resolution contract.**
+**Focused bounded domain demonstrations of a shared structural-resolution discipline.**
 
 The repeated relation is intentional. These kernels test how a common bounded admission pattern behaves under different declared domain schemas; they are not presented as separate frameworks or separate novelty claims for each domain.
 
@@ -823,11 +824,11 @@ A bounded plurality-admissibility kernel, not a complete election or legal certi
 
 ### 🔹 **SLANG-Password**
 
-**Access admissibility from complete structure — independent of login workflow sequence.**
+**Admission of declared password-verification evidence — independent of verifier-evidence arrival order.**
 
-`access_visible iff structure_complete AND structure_consistent`
+`same admitted evidence + same bound authentication context + same rules -> same bounded state`
 
-A minimal resolution kernel, not a replacement for authentication, cryptography, MFA, or policy enforcement.
+A bounded evidence resolver, not a password verifier, authentication system, access authority, session authority, or MFA replacement.
 
 🔗 [SLANG-Password](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-Password)
 
@@ -835,11 +836,11 @@ A minimal resolution kernel, not a replacement for authentication, cryptography,
 
 ### 🔹 **SLANG-ResetPassword**
 
-**Password-reset admissibility from complete structure — independent of reset workflow sequence.**
+**Admission of declared credential-replacement authorization evidence — independent of evidence arrival order.**
 
-`reset_visible iff structure_complete`
+`same admitted evidence + same bound reset context + same rules -> same bounded state`
 
-A minimal admission kernel, not a reset engine or replacement for MFA, token security, abuse protection, or policy enforcement.
+A bounded evidence resolver, not a reset engine, token validator, identity-proofing system, credential-mutation authority, or MFA replacement.
 
 🔗 [SLANG-ResetPassword](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-ResetPassword)
 
