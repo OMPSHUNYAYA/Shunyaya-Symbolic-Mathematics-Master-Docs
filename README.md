@@ -1696,6 +1696,18 @@ Adds a bounded alignment lane and optional tamper-evident continuity chain.
 
 ## 🌌 Temporal & Conceptual Extensions
 
+### ⭐ **SOR — Structural Sidereal Origin Resolver**
+
+**Where does the sidereal zodiac begin? Resolves bounded origin claims from declared source, carrier, frame, epoch, rules, and evidence.**
+
+`source datum -> carrier binding -> bounded J2000 origin region -> scientific admission`
+
+Current admitted result: one source-governed Revati-Ashvini / Zeta Piscium system origin region. No universal ayanamsa is claimed.
+
+🔗 [SOR](https://github.com/OMPSHUNYAYA/SOR)
+
+---
+
 ### ⭐ **SSM-JTK — Jyotish Transit Kernel**
 
 **Daily sidereal longitude realization from versioned manifests and golden data.**
