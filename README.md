@@ -360,8 +360,8 @@ They may remain operational. The claim is that, within the declared model, they 
 |---|---|---|
 | Time | wall-clock synchronization | accepted transition structure |
 | Decision | arrival order as classification authority | normalized supported signals + explicit conflict pairs + decision rules |
-| Conversation State | message arrival order as resolution authority | supported message fragments + explicit relationships + resolver rules |
-| Money | timestamps and fragment arrival order as reconciliation authority | shared initial balances + deduplicated supported money fragments + resolver rules |
+| Conversation State | message arrival order and wall-clock timestamps as resolution authority | admitted canonical conversation evidence + bound conversation context + versioned ruleset + participation profile + boundary declaration + resource limits + exact text profile |
+| Money | timestamps and claim-arrival order as reconciliation authority | validated balance basis + canonical money claim set + observation provenance + ruleset + compatibility profile + boundary declaration |
 | Financial Evidence | repeated downstream interpretation of receipt presentations and application-specific records | canonical evidence structure + identified purpose profiles + declared context + lineage + bounded verification |
 | Result Validity Over Change | elapsed time, global version movement, or repeated full re-interpretation as the sole basis for deciding whether an established result still holds | declared result-affecting dependency closure + baseline state + validity profile + relevant transition evidence + claim-specific structural age + deterministic validity re-resolution |
 | Ledger Reconciliation | timestamps and fragment arrival order as structural resolution authority | validated canonical evidence + ruleset; declared boundary context for complete bundle |
@@ -656,11 +656,11 @@ ORL-AI is a rule-based reference model, not a trained, predictive, or generative
 
 ### 💬 **ORL-Chat**
 
-**Bounded conversation-state resolution from supported message fragments and explicit relationships — without timestamps or arrival order as resolution authority.**
+**Deterministic conversation-state resolution from admitted canonical evidence — without message arrival order or wall-clock timestamps as resolution authority.**
 
-`same deduplicated supported fragments + same resolver rules -> same bounded conversation state`
+`same admitted evidence + same declared contract -> same bounded state or deterministic refusal`
 
-Produces explicit `RESOLVED`, `INCOMPLETE`, or `ABSTAIN` states without claiming unrestricted language understanding.
+Produces explicit `RESOLVED`, `INCOMPLETE`, `ABSTAIN`, and `REFUSED` states, plus verifiable Conversation-State Capsules.
 
 🔗 [ORL-Chat](https://github.com/OMPSHUNYAYA/ORL-Chat)
 
@@ -668,9 +668,11 @@ Produces explicit `RESOLVED`, `INCOMPLETE`, or `ABSTAIN` states without claiming
 
 ### 💰 **ORL-Money**
 
-**Bounded financial reconciliation from shared initial balances and supported money fragments — without timestamps or fragment arrival order as reconciliation authority.**
+**Deterministic financial reconciliation from validated balances and canonical money claims — without timestamps or claim-arrival order as reconciliation authority.**
 
-`valid -> RESOLVED | missing -> INCOMPLETE | conflicting -> ABSTAIN`
+`same validated balance basis + same canonical claim set + same declared contract -> same bounded financial resolution`
+
+Produces explicit transaction states, witness-carrying receipts, and independently reconstructable structural projections.
 
 🔗 [ORL-Money](https://github.com/OMPSHUNYAYA/ORL-Money)
 
