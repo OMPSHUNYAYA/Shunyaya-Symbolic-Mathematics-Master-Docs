@@ -359,7 +359,7 @@ They may remain operational. The claim is that, within the declared model, they 
 | Domain | Dependency Eliminated from Sole Resolution Authority | Structural Basis |
 |---|---|---|
 | Time | wall-clock synchronization | accepted transition structure |
-| Decision | arrival order as classification authority | normalized supported signals + explicit conflict pairs + decision rules |
+| Decision Admission | timestamps and proposal-arrival order as decision authority | admitted canonical structure + declared boundary + evidence + source-family controls + prohibitions + frozen profile + ruleset |
 | Conversation State | message arrival order and wall-clock timestamps as resolution authority | admitted canonical conversation evidence + bound conversation context + versioned ruleset + participation profile + boundary declaration + resource limits + exact text profile |
 | Money | timestamps and claim-arrival order as reconciliation authority | validated balance basis + canonical money claim set + observation provenance + ruleset + compatibility profile + boundary declaration |
 | Financial Evidence | repeated downstream interpretation of receipt presentations and application-specific records | canonical evidence structure + identified purpose profiles + declared context + lineage + bounded verification |
@@ -628,7 +628,7 @@ Classical coordinates remain unchanged; structural visibility is resolved separa
 
 # 🧭 ORL Structural Resolution Family
 
-Bounded systems applying a shared deterministic resolution discipline across ledger reconciliation, decision states, conversation states, and financial reconciliation. The family relationship is explicit: the projects reuse structural ideas while retaining different schemas, conflict models, and bounded result semantics.
+Bounded systems applying a shared deterministic resolution discipline across ledger reconciliation, AI decision admission, conversation states, and financial reconciliation. The projects reuse structural ideas while retaining distinct schemas, conflict models, and bounded result semantics.
 
 ---
 
@@ -644,11 +644,13 @@ Bounded systems applying a shared deterministic resolution discipline across led
 
 ### 🧠 **ORL-AI**
 
-**Bounded decision-state resolution from normalized supported signals and explicit deterministic rules — without timestamps or arrival order as classification authority.**
+**Turns AI proposals into reproducible bounded admission states under declared evidence, boundary, source-family, conflict, prohibition, profile, and ruleset constraints—without timestamps or arrival order deciding the outcome.**
 
-`same normalized supported signal set + same conflict pairs + same decision rules -> same bounded decision state`
+`AI proposal != admitted decision; admitted decision != execution authority`
 
-ORL-AI is a rule-based reference model, not a trained, predictive, or generative AI system.
+`same admitted canonical structure + same frozen profile + same ruleset -> same bounded admission state`
+
+Produces `RESOLVED`, `INCOMPLETE`, `ABSTAIN`, `DENIED`, and `REFUSED` states, public receipts, and verifiable Decision-Admission Capsules; `authority = NONE`.
 
 🔗 [ORL-AI](https://github.com/OMPSHUNYAYA/ORL-AI)
 
