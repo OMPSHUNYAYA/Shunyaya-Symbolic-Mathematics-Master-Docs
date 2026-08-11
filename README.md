@@ -56,35 +56,37 @@ Novelty, maturity, and evidence should be assessed at the level of the specific 
 
 ---
 
-# 🌐 LIVE Browser-Native Observatory
+# 🌐 LIVE Online Panchang & Jyotish Observatory
 
 ### **SSM-JA — Runtime-Ephemeris-Independent Jyotish Atlas**
 
-**Deterministic Jyotish observation in a single browser-native file.**
+**A live online Panchang and Jyotish astrology calculation and observation application that also runs fully offline after download.**
 
-- offline-capable after download
+- **Panchang, Natal, Rasi, Navamsa, Vimshottari Dasha, Transit, Nakshatra, Yoga, Karana, Paksha, sunrise and sunset observation**
+- **six languages:** English, Hindi, Kannada, Malayalam, Tamil, and Telugu
+- offline-capable after download as **one standalone HTML file**
 - reproducible for identical supported inputs
 - no runtime ephemeris API, external CSV, cloud service, database, or server required
 - supported range: `01 Jan 1950` to `31 Dec 2100`
-- current frozen release: **v3.7.41** • six languages • Share State • responsive print/report • embedded-kernel integrity verification
+- current frozen release: **v3.7.41** • Share State • responsive print/report • embedded-kernel integrity verification
 
 `embedded structure -> deterministic realization -> reproducible observation`
 
-**Distinctive contribution:** packages the bounded observational structure needed by the supported date range into a single browser-native atlas, removing runtime dependence on a live ephemeris service without claiming independence from the underlying astronomical sources.
+**Distinctive contribution:** provides a practical browser-native **Panchang and Jyotish astrology calculation/observation environment** from embedded deterministic structure, while removing runtime dependence on a live ephemeris service within the supported range without claiming independence from the underlying astronomical sources.
 
 Astronomical ephemerides remain foundational; runtime access is not required within the supported range.
 
 **🌐 Launch SSM-JA v3.7.41 in your preferred language:**
 
-[English](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=en) •
-[हिन्दी — Hindi](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=hi) •
-[ಕನ್ನಡ — Kannada](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=kn) •
-[മലയാളം — Malayalam](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=ml) •
-[தமிழ் — Tamil](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=ta) •
-[తెలుగు — Telugu](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=te)
+- [English](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=en)
+- [हिन्दी — Hindi](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=hi)
+- [ಕನ್ನಡ — Kannada](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=kn)
+- [മലയാളം — Malayalam](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=ml)
+- [தமிழ் — Tamil](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=ta)
+- [తెలుగు — Telugu](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=te)
 
-🔗 [SSM-JA Observatory Repository](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-Jyotish-Transit-Kernel/tree/main/SSM-JA) •
-[Verification](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-Jyotish-Transit-Kernel/blob/main/SSM-JA/VERIFY/VERIFY_v3_7_41.md)
+🔗 [SSM-JA Observatory Repository](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-Jyotish-Transit-Kernel/tree/main/SSM-JA)  
+✅ [SSM-JA v3.7.41 Verification](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-Jyotish-Transit-Kernel/blob/main/SSM-JA/VERIFY/VERIFY_v3_7_41.md)
 
 ---
 
