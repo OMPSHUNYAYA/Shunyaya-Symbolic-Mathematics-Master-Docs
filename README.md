@@ -66,6 +66,7 @@ Novelty, maturity, and evidence should be assessed at the level of the specific 
 - reproducible for identical supported inputs
 - no runtime ephemeris API, external CSV, cloud service, database, or server required
 - supported range: `01 Jan 1950` to `31 Dec 2100`
+- current frozen release: **v3.7.41** • six languages • Share State • responsive print/report • embedded-kernel integrity verification
 
 `embedded structure -> deterministic realization -> reproducible observation`
 
@@ -73,9 +74,17 @@ Novelty, maturity, and evidence should be assessed at the level of the specific 
 
 Astronomical ephemerides remain foundational; runtime access is not required within the supported range.
 
-🌐 [Launch SSM-JA](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_3_11.html)
+**🌐 Launch SSM-JA v3.7.41 in your preferred language:**
 
-🔗 [SSM-JA Observatory Repository](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-Jyotish-Transit-Kernel/tree/main/SSM-JA)
+[English](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=en) •
+[हिन्दी — Hindi](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=hi) •
+[ಕನ್ನಡ — Kannada](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=kn) •
+[മലയാളം — Malayalam](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=ml) •
+[தமிழ் — Tamil](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=ta) •
+[తెలుగు — Telugu](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=te)
+
+🔗 [SSM-JA Observatory Repository](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-Jyotish-Transit-Kernel/tree/main/SSM-JA) •
+[Verification](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-Jyotish-Transit-Kernel/blob/main/SSM-JA/VERIFY/VERIFY_v3_7_41.md)
 
 ---
 
