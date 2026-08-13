@@ -73,7 +73,7 @@ Novelty, maturity, and evidence should be assessed at the level of the specific 
 
 `independent GNSA transport + J2000 Lahiri phase binding -> tested modern sub-arcsecond continuity`
 
-🌐 **[Launch SSM-JA-GNSA v0.4.1](https://ompshunyaya.github.io/GNSA/03_SSM_JA_GNSA_v0_4_1_Software_and_Verification/SSM-JA-GNSA_v0_4_1.html)**
+**🌐 Launch SSM-JA-GNSA v0.4.1 in your preferred language:**
 
 [**English**](https://ompshunyaya.github.io/GNSA/03_SSM_JA_GNSA_v0_4_1_Software_and_Verification/SSM-JA-GNSA_v0_4_1.html?lang=en) &nbsp;&nbsp;|&nbsp;&nbsp; [**हिन्दी — Hindi**](https://ompshunyaya.github.io/GNSA/03_SSM_JA_GNSA_v0_4_1_Software_and_Verification/SSM-JA-GNSA_v0_4_1.html?lang=hi) &nbsp;&nbsp;|&nbsp;&nbsp; [**ಕನ್ನಡ — Kannada**](https://ompshunyaya.github.io/GNSA/03_SSM_JA_GNSA_v0_4_1_Software_and_Verification/SSM-JA-GNSA_v0_4_1.html?lang=kn) &nbsp;&nbsp;|&nbsp;&nbsp; [**മലയാളം — Malayalam**](https://ompshunyaya.github.io/GNSA/03_SSM_JA_GNSA_v0_4_1_Software_and_Verification/SSM-JA-GNSA_v0_4_1.html?lang=ml) &nbsp;&nbsp;|&nbsp;&nbsp; [**தமிழ் — Tamil**](https://ompshunyaya.github.io/GNSA/03_SSM_JA_GNSA_v0_4_1_Software_and_Verification/SSM-JA-GNSA_v0_4_1.html?lang=ta) &nbsp;&nbsp;|&nbsp;&nbsp; [**తెలుగు — Telugu**](https://ompshunyaya.github.io/GNSA/03_SSM_JA_GNSA_v0_4_1_Software_and_Verification/SSM-JA-GNSA_v0_4_1.html?lang=te)
 
