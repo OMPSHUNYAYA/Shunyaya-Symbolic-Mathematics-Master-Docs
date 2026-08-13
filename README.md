@@ -14,7 +14,7 @@
 
 ## 📑 Start Here
 
-1. **Live Flagships** — SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, Structural Receipt, Structural Validity Receipt, and Structural Earth Centre
+1. **Live Flagships** — GNSA, SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, Structural Receipt, Structural Validity Receipt, and Structural Earth Centre
 2. **How to Read the Ecosystem** — core frameworks, flagships, architectural families, adapters, demonstration kernels, and research directions
 3. **Structural Evidence & Dependency Framework** — invariants, precision of claim, implemented dependency boundaries, and claim boundaries  
 4. **Dependency-Elimination Systems** — foundations, runtime, admissibility, intelligence, media, SLANG, and CAPS  
@@ -56,11 +56,34 @@ Novelty, maturity, and evidence should be assessed at the level of the specific 
 
 ---
 
-# 🌐 LIVE Online Panchang & Jyotish Observatory
+# 🌌 Sidereal Astronomy, Panchang & Jyotish Flagships
 
-### **SSM-JA — Runtime-Ephemeris-Independent Jyotish Atlas**
+## **GNSA — Galactic Nuclear-System Ayanamsa**
 
-**A live online Panchang and Jyotish astrology calculation and observation application that also runs fully offline after download.**
+**Modern astronomy meets Chitra Paksha Ayanamsa / Lahiri Ayanamsa: independently derived GNSA, with GNSA-JP1 showing sub-arcsecond tested modern continuity after J2000 phase binding — without claiming independent proof of the inherited absolute zodiac zero.**
+
+- SOR v2 project admission: `ADMIT_GNSA`
+- physically anchored Galactic nuclear-system reference + deterministic IAU 2006/P03 transport
+- **GNSA-JP1:** explicit Jyotisha phase realization
+- **SSM-JA-GNSA v0.4.1:** live Panchang & Jyotish software that also runs fully offline
+- **six languages:** English, Hindi, Kannada, Malayalam, Tamil, and Telugu
+- Rasi • Navamsa • Panchang • Transit • Vimshottari Dasha • Share State • print/report
+- supported input range: `01 Jan 1950` to `31 Dec 2100`
+- self-contained browser acceptance: `75/75 PASS`
+
+`independent GNSA transport + J2000 Lahiri phase binding -> tested modern sub-arcsecond continuity`
+
+🌐 **[Launch SSM-JA-GNSA v0.4.1](https://ompshunyaya.github.io/GNSA/03_SSM_JA_GNSA_v0_4_1_Software_and_Verification/SSM-JA-GNSA_v0_4_1.html)**
+
+[**English**](https://ompshunyaya.github.io/GNSA/03_SSM_JA_GNSA_v0_4_1_Software_and_Verification/SSM-JA-GNSA_v0_4_1.html?lang=en) &nbsp;&nbsp;|&nbsp;&nbsp; [**हिन्दी — Hindi**](https://ompshunyaya.github.io/GNSA/03_SSM_JA_GNSA_v0_4_1_Software_and_Verification/SSM-JA-GNSA_v0_4_1.html?lang=hi) &nbsp;&nbsp;|&nbsp;&nbsp; [**ಕನ್ನಡ — Kannada**](https://ompshunyaya.github.io/GNSA/03_SSM_JA_GNSA_v0_4_1_Software_and_Verification/SSM-JA-GNSA_v0_4_1.html?lang=kn) &nbsp;&nbsp;|&nbsp;&nbsp; [**മലയാളം — Malayalam**](https://ompshunyaya.github.io/GNSA/03_SSM_JA_GNSA_v0_4_1_Software_and_Verification/SSM-JA-GNSA_v0_4_1.html?lang=ml) &nbsp;&nbsp;|&nbsp;&nbsp; [**தமிழ் — Tamil**](https://ompshunyaya.github.io/GNSA/03_SSM_JA_GNSA_v0_4_1_Software_and_Verification/SSM-JA-GNSA_v0_4_1.html?lang=ta) &nbsp;&nbsp;|&nbsp;&nbsp; [**తెలుగు — Telugu**](https://ompshunyaya.github.io/GNSA/03_SSM_JA_GNSA_v0_4_1_Software_and_Verification/SSM-JA-GNSA_v0_4_1.html?lang=te)
+
+🔗 [GNSA Scientific Repository](https://github.com/OMPSHUNYAYA/GNSA)
+
+---
+
+## **SSM-JA — Runtime-Ephemeris-Independent Jyotish Atlas**
+
+**A live online Panchang and Jyotish astrology calculation and observation application using the Chitra Paksha Ayanamsa / Lahiri Ayanamsa realization, which also runs fully offline after download.**
 
 - **Panchang, Natal, Rasi, Navamsa, Vimshottari Dasha, Transit, Nakshatra, Yoga, Karana, Paksha, sunrise and sunset observation**
 - **six languages:** English, Hindi, Kannada, Malayalam, Tamil, and Telugu
@@ -78,12 +101,7 @@ Astronomical ephemerides remain foundational; runtime access is not required wit
 
 **🌐 Launch SSM-JA v3.7.41 in your preferred language:**
 
-- [English](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=en)
-- [हिन्दी — Hindi](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=hi)
-- [ಕನ್ನಡ — Kannada](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=kn)
-- [മലയാളം — Malayalam](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=ml)
-- [தமிழ் — Tamil](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=ta)
-- [తెలుగు — Telugu](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=te)
+[**English**](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=en) &nbsp;&nbsp;|&nbsp;&nbsp; [**हिन्दी — Hindi**](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=hi) &nbsp;&nbsp;|&nbsp;&nbsp; [**ಕನ್ನಡ — Kannada**](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=kn) &nbsp;&nbsp;|&nbsp;&nbsp; [**മലയാളം — Malayalam**](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=ml) &nbsp;&nbsp;|&nbsp;&nbsp; [**தமிழ் — Tamil**](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=ta) &nbsp;&nbsp;|&nbsp;&nbsp; [**తెలుగు — Telugu**](https://ompshunyaya.github.io/Symbolic-Mathematics-Jyotish-Transit-Kernel/SSM-JA/demo/SSM-JA_v3_7_41.html?lang=te)
 
 🔗 [SSM-JA Observatory Repository](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-Jyotish-Transit-Kernel/tree/main/SSM-JA)  
 ✅ [SSM-JA v3.7.41 Verification](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-Jyotish-Transit-Kernel/blob/main/SSM-JA/VERIFY/VERIFY_v3_7_41.md)
