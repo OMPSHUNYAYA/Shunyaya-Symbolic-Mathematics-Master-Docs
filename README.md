@@ -1447,13 +1447,17 @@ Governs continued reliance within its structural model; it does not predict fail
 
 ## 🌦️ Climate and Natural Systems
 
-### ⭐ **SSUM-Snow — Structural Snow Trust Modeling**
+### ⭐ **SSUM-Snow — Fusion-F1 Structural Snow Modeling**
 
-**Forecast admissibility from atmospheric structure — before relying on snow magnitude.**
+**Reserved historical testing shows a positive snow-event discrimination gain over archived NBM when frozen SSUM-Snow structural signal is fused with NBM guidance.**
 
-`phi((m, a, s)) = m`
+`F1 = 0.75 * R_NBM + 0.25 * R_SPF1`
 
-Deterministic, observation-only, and tested across 10 stations with published inputs, summaries, and reproducibility evidence.
+- **2026 JFM reserved test:** `720` cases • `238` snow events • `8` stations
+- **ROC AUC:** `0.911647 -> 0.927168` • **delta `+0.015521`**
+- **PR AUC delta:** `+0.037915` • positive ROC-AUC delta at `6/8` stations • both frozen bootstrap 95% intervals positive
+- **Source parity: PASS** • package verification `24/24 PASS` • GitHub Actions passing
+- 2025 standalone SPF1 did **not** beat NBM; Fusion-F1 uses NBM guidance and does not claim universal forecasting superiority
 
 🔗 [SSUM-Snow](https://github.com/OMPSHUNYAYA/SSUM-Snow)
 
