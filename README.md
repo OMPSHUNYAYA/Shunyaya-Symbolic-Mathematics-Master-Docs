@@ -14,7 +14,7 @@
 
 ## 📑 Start Here
 
-1. **Live Flagships** — GNSA, SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, Structural Receipt, Structural Validity Receipt, and Structural Earth Centre
+1. **Live Flagships (11)** — GNSA, SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, Structural Receipt, Structural Validity Receipt, Structural Earth Centre, and SLANG-Computation
 2. **How to Read the Ecosystem** — core frameworks, flagships, architectural families, adapters, demonstration kernels, and research directions
 3. **Structural Evidence & Dependency Framework** — invariants, precision of claim, implemented dependency boundaries, and claim boundaries  
 4. **Dependency-Elimination Systems** — foundations, runtime, admissibility, intelligence, media, SLANG, and CAPS  
@@ -305,15 +305,39 @@ Published verification: `60/60` frozen technical surface • `13/13` command-lin
 
 ---
 
+# 🧮 LIVE Proof-Carrying Structural Computation
+
+### **SLANG-Computation — Declare Relationships. Verify What Follows.**
+
+**Exact rational linear structural computation that determines what is mathematically forced, contradictory, or still undetermined — with portable certificates that can be independently verified.**
+
+- `RESOLVED` — the requested result is mathematically forced
+- `CONFLICT` — the declared structure is contradictory
+- `INCOMPLETE` — the requested result remains undetermined
+
+`exact structure -> RESOLVED | CONFLICT | INCOMPLETE -> portable certificate -> independent verification`
+
+**Distinctive contribution:** separates structural resolution from verification by carrying mathematical witnesses with the result, allowing an independent verifier to check the claimed outcome without trusting the resolver's internal computation path.
+
+Published verification: `34/34` full conformance • independent Python and JavaScript certificate verification • frozen SHA256 implementation surface • passing GitHub Actions • current release `v1.0.0`
+
+SLANG-Computation is bounded to exact rational linear structural computation and verification; it is not a universal theorem prover, computer algebra system, or general-purpose replacement for computation.
+
+🔗 [SLANG-Computation](https://github.com/OMPSHUNYAYA/SLANG-Computation)
+
+---
+
 # ⚡ Executable Structural Evidence
 
 The Shunyaya ecosystem now spans **90+ repositories**, with some repositories containing multiple implementations, applications, kernels, observatories, demonstrations, or evidence artifacts. Repository breadth is therefore not presented as a count of independent frameworks or separate novelty claims.
 
-Across the projects that make dependency-elimination or structural-resolution claims, the central test is whether a declared operational dependency can cease to be the sole authority over a bounded outcome while deterministic resolution remains reproducible. Other projects focus instead on conservative structural overlays, observability, certification, or evidence and should be read according to their own declared contribution.
+Across projects that make dependency-elimination or structural-resolution claims, the central test is whether declared structure and evidence can determine a bounded result reproducibly without treating a named operational mechanism or a single producer path as unquestioned authority. Other projects focus instead on conservative structural overlays, observability, certification, or evidence and should be read according to their own declared contribution.
 
 `same canonical structure -> same canonical outcome`
 
-`incomplete or conflicting structure -> no forced resolution`
+`incomplete structure -> no forced outcome`
+
+`conflicting structure -> explicit conflict OR declared non-result state`
 
 Published Shunyaya media scripts recreate defined outputs from identical declared inputs under the same versioned rules, where documented.
 
@@ -329,9 +353,9 @@ Across implementations where declared:
 
 `same canonical structure -> same canonical outcome`
 
-`incomplete structure -> no forced resolution`
+`incomplete structure -> no forced outcome`
 
-`conflicting structure -> ABSTAIN OR DENY`
+`conflicting structure -> explicit conflict OR declared non-result state`
 
 `admissible outcome = resolve(declared structure)`
 
@@ -375,7 +399,7 @@ Across those projects, the recurring practical move is:
 
 `incomplete structure -> unresolved`
 
-`conflicting structure -> ABSTAIN OR DENY`
+`conflicting structure -> explicit conflict OR declared non-result state`
 
 Dependency elimination does not mean that clocks, execution, communication, infrastructure, inference, transactions, or workflows physically disappear.
 
@@ -394,7 +418,7 @@ They may remain operational. The claim is that, within the declared model, they 
 | Financial Evidence | repeated downstream interpretation of receipt presentations and application-specific records | canonical evidence structure + identified purpose profiles + declared context + lineage + bounded verification |
 | Result Validity Over Change | elapsed time, global version movement, or repeated full re-interpretation as the sole basis for deciding whether an established result still holds | declared result-affecting dependency closure + baseline state + validity profile + relevant transition evidence + claim-specific structural age + deterministic validity re-resolution |
 | Ledger Reconciliation | timestamps and fragment arrival order as structural resolution authority | validated canonical evidence + ruleset; declared boundary context for complete bundle |
-| Computation | prescribed execution order | complete admissible computation structure |
+| Computation | resolver implementation or procedural path as sole authority over the claimed structural outcome | exact rational relations + witness-carrying certificate + independent verification |
 | AI Admissibility | inference as admission authority | declared invariants and evidence |
 | Editing | manual range construction and raw machine edit output as mutation authority | structural resolution + dependency-aware admission + bounded mutation authority + receipts |
 | Digital Action | capability existence or visibility as automatic task-action authority | task-scoped capability surface + canonical action resolution + authority envelope + current-state revalidation + verifiable evidence |
@@ -447,7 +471,9 @@ The recurring framework discipline is:
 
 `same declared structure + same versioned rules -> same resolution state or admissible outcome`
 
-`missing or conflicting structure -> no forced outcome`
+`missing structure -> no forced outcome`
+
+`conflicting structure -> explicit conflict OR declared non-result state`
 
 ---
 
@@ -755,9 +781,11 @@ Three standalone reference implementations cover computation, audit, and money. 
 
 ---
 
-### ⚙️ **SLANG-Computation**
+### ⭐ **SLANG-Computation**
 
-**Computational resolution from sufficient structure — independent of prescribed execution flow.**
+**Exact rational linear structural computation with portable certificates for `RESOLVED`, `CONFLICT`, and `INCOMPLETE` outcomes.**
+
+`exact structure -> structural outcome -> portable certificate -> independent verification`
 
 🔗 [SLANG-Computation](https://github.com/OMPSHUNYAYA/SLANG-Computation)
 
