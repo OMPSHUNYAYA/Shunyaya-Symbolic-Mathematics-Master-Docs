@@ -1491,6 +1491,27 @@ Governs continued reliance within its structural model; it does not predict fail
 
 ---
 
+## 🌌 Astronomical Time & Epoch Reconstruction
+
+### ⭐ **Solar System Time**
+
+**Time encoded in planetary motion — explore the Solar System as a structural clock and reconstruct bounded historical epochs from planetary positions.**
+
+`time -> planetary configuration -> structural clock state`
+
+`planetary observations -> bounded search -> reconstructed epoch`
+
+- standalone **Solar System Clock v1.0.4** with live and accelerated planetary visualization
+- bounded project-recorded observational reconstruction: `24/24` USNO cases within 3 days and `7/7` Uranus/Neptune photographic cases within ~4 hours
+- reference resolver `9/9 PASS` • evidence/integrity `17/17 PASS` • Clock verification `33/33 PASS` • GitHub Actions passing
+- outside-party end-to-end replication: `OPEN_NOT_YET_CONFIRMED`
+
+🌐 [Launch Solar System Clock](https://ompshunyaya.github.io/Solar-System-Time/04_Interactive_Clock/Solar_System_Clock_v1_0_4.html)
+
+🔗 [Solar System Time](https://github.com/OMPSHUNYAYA/Solar-System-Time)
+
+---
+
 ## 🔬 SSUM Observatory — Executable Structural Observatories
 
 The **[SSUM Observatory](https://github.com/OMPSHUNYAYA/ssum-observatory)** contains self-contained cases for inspecting deterministic structural behavior alongside unchanged classical outputs.
