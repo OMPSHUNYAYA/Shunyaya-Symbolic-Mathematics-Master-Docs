@@ -424,7 +424,6 @@ They may remain operational. The claim is that, within the declared model, they 
 | Digital Action | capability existence or visibility as automatic task-action authority | task-scoped capability surface + canonical action resolution + authority envelope + current-state revalidation + verifiable evidence |
 | Realization | probabilistic generation as the sole realization path | deterministic specification |
 | Representation | unconstrained semantic expansion | bounded representation contract |
-| Cybersecurity | pipeline sequence as escalation authority | complete escalation evidence |
 | Identity | registry lookup as the sole admission source | replay-verifiable identity structure |
 | Password Verification Evidence | password-verification workflow or verifier-evidence arrival order as sole bounded admission authority | declared verifier evidence + bound authentication context + verifier set + evidence mode + versioned profile and ruleset |
 | Credential Replacement Authorization | reset workflow or authorization-evidence arrival order as sole bounded admission authority | declared authorization evidence + bound reset context + authorizer set + evidence mode + versioned profile and ruleset |
@@ -775,7 +774,7 @@ Systems generating deterministic media from complete structure while reducing re
 
 **Bounded deterministic resolution from declared structure and versioned rules.**
 
-Three standalone reference implementations cover computation, audit, and money. SLANG-Observatory extends the same discipline through focused domain demonstrations.
+Four standalone repositories cover computation, cybersecurity, audit, and money. SLANG-Observatory extends the structural-resolution discipline through focused domain demonstrations.
 
 `same admitted canonical structure + same versioned rules -> same bounded result`
 
@@ -788,6 +787,18 @@ Three standalone reference implementations cover computation, audit, and money. 
 `exact structure -> structural outcome -> portable certificate -> independent verification`
 
 🔗 [SLANG-Computation](https://github.com/OMPSHUNYAYA/SLANG-Computation)
+
+---
+
+### 🛡 **SLANG-Cybersecurity**
+
+**Can cyber attack timing carry a predictive signal? Parameter-free chronology with frozen, bounded predictive testing.**
+
+`past attack chronology -> structural score -> bounded prediction test`
+
+Primary OpTC result: ROC AUC `0.86835` • E3 transfer ROC AUC `0.74685` • E3 replication not confirmed • current release `v1.0.0`
+
+🔗 [SLANG-Cybersecurity](https://github.com/OMPSHUNYAYA/SLANG-Cybersecurity)
 
 ---
 
@@ -834,16 +845,6 @@ The repeated relation is intentional. These kernels test how a common bounded ad
 Resolves eligibility within the reference model; it does not execute payment.
 
 🔗 [SLANG-Claims](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-Claims)
-
----
-
-### 🔹 **SLANG-Cybersecurity**
-
-**Escalation admission from complete structure — independent of pipeline sequence.**
-
-Resolves a bounded security state; it does not replace operational detection or response systems.
-
-🔗 [SLANG-Cybersecurity](https://github.com/OMPSHUNYAYA/SLANG-Observatory/tree/main/demo/SLANG-Cybersecurity)
 
 ---
 
