@@ -812,7 +812,11 @@ Primary OpTC result: ROC AUC `0.86835` • E3 transfer ROC AUC `0.74685` • E3 
 
 ### 💰 **SLANG-Money**
 
-**Financial-state resolution from complete structure — without executed transactions in the reference model.**
+**Exact bounded structural financial-state resolution with proof-carrying certificates — without transaction execution.**
+
+`declared financial structure -> exact resolution/refusal -> mathematical witness -> portable certificate -> producer-independent verification`
+
+Published verification: `70/70` core • `85/85` structural transfer • `32/32` cross-language conformance • `146/146` package verification • `384/384` randomized cases • current release `v2.0.0`
 
 🔗 [SLANG-Money](https://github.com/OMPSHUNYAYA/SLANG-Money)
 
