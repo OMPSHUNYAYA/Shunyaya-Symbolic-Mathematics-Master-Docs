@@ -1496,18 +1496,23 @@ Governs continued reliance within its structural model; it does not predict fail
 
 ### ⭐ **Solar System Time**
 
-**Time encoded in planetary motion — explore the Solar System as a structural clock and reconstruct bounded historical epochs from planetary positions.**
+**Time encoded in planetary motion — explore the Solar System as a structural clock, reconstruct bounded historical epochs, and track moving-observer journeys across Earth.**
 
 `time -> planetary configuration -> structural clock state`
 
 `planetary observations -> bounded search -> reconstructed epoch`
 
-- standalone **Solar System Clock v1.0.4** with live and accelerated planetary visualization
+`time + observer position + motion -> Solar-System place-time state`
+
 - bounded project-recorded observational reconstruction: `24/24` USNO cases within 3 days and `7/7` Uranus/Neptune photographic cases within ~4 hours
-- reference resolver `9/9 PASS` • evidence/integrity `17/17 PASS` • Clock verification `33/33 PASS` • GitHub Actions passing
-- outside-party end-to-end replication: `OPEN_NOT_YET_CONFIRMED`
+- Solar System Clock `v1.0.4` • resolver `9/9 PASS` • evidence/integrity `17/17 PASS` • Clock verification `33/33 PASS`
+- Solar System Time Journey `v1.5.0` • Walk / Run / Ride • WGS84-qualified movement • km / miles • Pause / Resume • Solar Splits • local route trace • SHA-256 sealed Journey records
+- live HTTPS Journey operation field-tested on Android Chrome and Brave; broader device coverage remains open
+- outside-party end-to-end scientific replication: `OPEN_NOT_YET_CONFIRMED`
 
 🌐 [Launch Solar System Clock](https://ompshunyaya.github.io/Solar-System-Time/04_Interactive_Clock/Solar_System_Clock_v1_0_4.html)
+
+🌍 [Start Solar System Time Journey v1.5.0 — Walk / Run / Ride](https://ompshunyaya.github.io/Solar-System-Time/05_Solar_System_Time_Journey/Solar_System_Time_Journey_v1_5_0.html)
 
 🔗 [Solar System Time](https://github.com/OMPSHUNYAYA/Solar-System-Time)
 
