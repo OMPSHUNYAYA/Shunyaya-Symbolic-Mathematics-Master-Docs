@@ -438,7 +438,7 @@ They may remain operational. The claim is that, within the declared model, they 
 | Observational Astronomy | runtime ephemeris access | embedded bounded observational structure |
 | Spatial Systems | coordinate value or rendering alone | coordinate admissibility structure |
 | Centre Claims | coordinate alone or an undeclared notion of centre as sole resolution authority | declared carrier + boundary + measure + metric + objective + frame + epoch + rules + evidence |
-| Audit | repeated reconstruction workflow | maintained evidence and receipts |
+| Audit | resolver or reconstruction workflow as sole authority over the declared structural verdict | declared evidence + rules + controls + proof-carrying witnesses + verifiable lineage |
 | Transition | traversal or search | declared transition relation |
 | Truth Retrieval | repeated query-time traversal | maintained folder-truth structure |
 | Integration | live coordination as the sole resolution source | consistent interface structure |
@@ -804,7 +804,13 @@ Primary OpTC result: ROC AUC `0.86835` • E3 transfer ROC AUC `0.74685` • E3 
 
 ### 🔍 **SLANG-Audit**
 
-**Structural audit resolution — independent of replay and reconciliation workflows.**
+**See exactly why a declared audit check passes, fails, or stays unresolved — with minimal proofs, incremental updates, and tamper-evident history.**
+
+`declared audit structure -> structural verdict -> proof-carrying certificate -> proof delta -> chained proof ledger`
+
+Published verification: `166/166` core • `50/50` proof ledger • `39/39` cross-language conformance • `104/104` package verification • Python + JavaScript verification • current release `v2.4.0`
+
+Bounded structural audit resolution only; no external truth verification or audit-opinion authority.
 
 🔗 [SLANG-Audit](https://github.com/OMPSHUNYAYA/SLANG-Audit)
 
