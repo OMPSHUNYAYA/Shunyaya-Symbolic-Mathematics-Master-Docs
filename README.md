@@ -14,7 +14,7 @@
 
 ## 📑 Start Here
 
-1. **Live Flagships (11)** — GNSA, SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, Structural Receipt, Structural Validity Receipt, Structural Earth Centre, and SLANG-Computation
+1. **Flagships (12)** — SRCT, GNSA, SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, Structural Receipt, Structural Validity Receipt, Structural Earth Centre, and SLANG-Computation
 2. **How to Read the Ecosystem** — core frameworks, flagships, architectural families, adapters, demonstration kernels, and research directions
 3. **Structural Evidence & Dependency Framework** — invariants, precision of claim, implemented dependency boundaries, and claim boundaries  
 4. **Dependency-Elimination Systems** — foundations, runtime, admissibility, intelligence, media, SLANG, and CAPS  
@@ -53,6 +53,26 @@ The recurring use of a structural primitive across multiple repositories is ther
 `repository count != independent novelty count`
 
 Novelty, maturity, and evidence should be assessed at the level of the specific architecture, system, or demonstrated contribution being described.
+
+---
+
+# 🔢 Mathematical Research Flagship
+
+### **SRCT — Shunyaya Residual Capacity Theory**
+
+**A class-wide exact-two obstruction for modulus 9 in finite odd covering systems.**
+
+SRCT presents a **computer-assisted mathematical proof** that no finite covering system exists in which every modulus is odd and greater than `1`, modulus `9` occurs exactly twice, and every other modulus occurs at most once.
+
+`t_9 != 2`
+
+**Distinctive contribution:** converts an exact finite residual-capacity obstruction into a class-wide theorem through a universal full-LCM bridge, with byte-preserved scientific evidence and reproducible theorem verification.
+
+Published verification: `565/565 PASS` repository binding • `335105/335105 PASS` adversarial proof audit • `114` identity-bound scientific files • current release `v1.15.44`
+
+The theorem does not claim `t_9 = 3`; multiplicities `0` and `1` remain outside its scope.
+
+🔗 [Shunyaya Residual Capacity Theory — SRCT](https://github.com/OMPSHUNYAYA/Shunyaya-Residual-Capacity-Theory)
 
 ---
 
@@ -1425,6 +1445,18 @@ A compact, offline, non-advisory kernel without training or probabilistic infere
 Observes transition regimes without changing arithmetic or predicting primes.
 
 🔗 [SSNT](https://github.com/OMPSHUNYAYA/Structural-Number-Theory)
+
+---
+
+### ⭐ **SRCT — Shunyaya Residual Capacity Theory**
+
+**Class-wide exact-two obstruction for modulus 9 in finite odd covering systems.**
+
+Computer-assisted mathematical proof with exact finite obstruction certificates, universal full-LCM binding, and reproducible verification.
+
+`t_9 != 2`
+
+🔗 [SRCT](https://github.com/OMPSHUNYAYA/Shunyaya-Residual-Capacity-Theory)
 
 ---
 
