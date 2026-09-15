@@ -14,7 +14,7 @@
 
 ## 📑 Start Here
 
-1. **Flagships (12)** — SRCT, GNSA, SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, Structural Receipt, Structural Validity Receipt, Structural Earth Centre, and SLANG-Computation
+1. **Flagships (13)** — SSDC, SRCT, GNSA, SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, Structural Receipt, Structural Validity Receipt, Structural Earth Centre, and SLANG-Computation
 2. **How to Read the Ecosystem** — core frameworks, flagships, architectural families, adapters, demonstration kernels, and research directions
 3. **Structural Evidence & Dependency Framework** — invariants, precision of claim, implemented dependency boundaries, and claim boundaries  
 4. **Dependency-Elimination Systems** — foundations, runtime, admissibility, intelligence, media, SLANG, and CAPS  
@@ -56,7 +56,23 @@ Novelty, maturity, and evidence should be assessed at the level of the specific 
 
 ---
 
-# 🔢 Mathematical Research Flagship
+# 🔢 Mathematical Research Flagships
+
+### **SSDC — Shunyaya Structural Discovery Compiler**
+
+**Representation discovery as part of theorem discovery.**
+
+SSDC develops an exact local-to-global theory for independent-set closed-neighborhood quotients and derives the intrinsic Extension Independent Set parameter `k_ext` with tight exponent order `2^Theta(sqrt(k_ext))*poly(n)` under ETH.
+
+`local defects -> canonical signatures -> global structure -> intrinsic parameter -> tight sqrt(k_ext) exponent order`
+
+**Distinctive contribution:** turns discovered obstruction geometry into exact structural theorems and algorithmic complexity, with independent Python/C++ verification.
+
+Published verification: `38,343` connected bipartite graphs • `13,820` Extension Independent Set instances • independent Python/C++ verification • passing GitHub Actions • current release `v2.0.0`
+
+🔗 [Shunyaya Structural Discovery Compiler — SSDC](https://github.com/OMPSHUNYAYA/Shunyaya-Structural-Discovery-Compiler)
+
+---
 
 ### **SRCT — Shunyaya Residual Capacity Theory**
 
@@ -1445,6 +1461,16 @@ A compact, offline, non-advisory kernel without training or probabilistic infere
 Observes transition regimes without changing arithmetic or predicting primes.
 
 🔗 [SSNT](https://github.com/OMPSHUNYAYA/Structural-Number-Theory)
+
+---
+
+### ⭐ **SSDC — Shunyaya Structural Discovery Compiler**
+
+**Representation discovery as part of theorem discovery.**
+
+Exact local-to-global defect structure with an intrinsic Extension Independent Set parameter `k_ext` and tight `sqrt(k_ext)` exponent order under ETH.
+
+🔗 [SSDC](https://github.com/OMPSHUNYAYA/Shunyaya-Structural-Discovery-Compiler)
 
 ---
 
