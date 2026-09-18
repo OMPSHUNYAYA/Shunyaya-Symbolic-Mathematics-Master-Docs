@@ -14,7 +14,7 @@
 
 ## 📑 Start Here
 
-1. **Flagships (13)** — SSDC, SRCT, GNSA, SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, Structural Receipt, Structural Validity Receipt, Structural Earth Centre, and SLANG-Computation
+1. **Flagships (14)** — SSDD, SSDC, SRCT, GNSA, SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, Structural Receipt, Structural Validity Receipt, Structural Earth Centre, and SLANG-Computation
 2. **How to Read the Ecosystem** — core frameworks, flagships, architectural families, adapters, demonstration kernels, and research directions
 3. **Structural Evidence & Dependency Framework** — invariants, precision of claim, implemented dependency boundaries, and claim boundaries  
 4. **Dependency-Elimination Systems** — foundations, runtime, admissibility, intelligence, media, SLANG, and CAPS  
@@ -54,9 +54,27 @@ The recurring use of a structural primitive across multiple repositories is ther
 
 Novelty, maturity, and evidence should be assessed at the level of the specific architecture, system, or demonstrated contribution being described.
 
+Published mathematical flagships include standalone theorem packages as well as structural-discovery frameworks; each is assessed by its own stated theorem scope, proof architecture, and reproducible evidence.
+
 ---
 
 # 🔢 Mathematical Research Flagships
+
+### **SSDD — Shunyaya Structural Discovery Demonstration**
+
+**A constructive classification of incidence full coupled graph dynamics.**
+
+SSDD proves a stable classification: `odd N>=13 -> exactly one class`; `even N>=12 -> exactly two classes`, with the even split completely determined by the characteristic section `chi=(1+R*1,1+B*1)`.
+
+`coupled graph dynamics -> invariant geometry -> complete classification -> constructive canonicalization -> reproducible verification`
+
+**Distinctive contribution:** combines an exact local-complementation and binary symplectic formulation with a complete parity invariant, `O(N^3)` domain/equivalence resolution, and explicit fixed-label canonicalization below `6300*N^3` colored moves.
+
+Published verification: `13/13 PASS` complete repository verification • `9/9 PASS` universal proof rigor audit • `6/6 PASS` independent proof verification • full configured finite-range sweep `5/5 PASS` • passing GitHub Actions • current release `v2.0.2`
+
+🔗 [Shunyaya Structural Discovery Demonstration — SSDD](https://github.com/OMPSHUNYAYA/Shunyaya-Structural-Discovery-Demonstration)
+
+---
 
 ### **SSDC — Shunyaya Structural Discovery Compiler**
 
@@ -1461,6 +1479,20 @@ A compact, offline, non-advisory kernel without training or probabilistic infere
 Observes transition regimes without changing arithmetic or predicting primes.
 
 🔗 [SSNT](https://github.com/OMPSHUNYAYA/Structural-Number-Theory)
+
+---
+
+### ⭐ **SSDD — Shunyaya Structural Discovery Demonstration**
+
+**Stable classification of incidence full coupled graph dynamics.**
+
+`odd N>=13 -> one class`
+
+`even N>=12 -> two classes, completely separated by chi`
+
+Exact local complementation and binary symplectic formulation, constructive polynomial canonicalization, and reproducible computer-assisted proof verification.
+
+🔗 [SSDD](https://github.com/OMPSHUNYAYA/Shunyaya-Structural-Discovery-Demonstration)
 
 ---
 
