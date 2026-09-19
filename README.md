@@ -14,7 +14,7 @@
 
 ## 📑 Start Here
 
-1. **Flagships (14)** — SSDD, SSDC, SRCT, GNSA, SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, Structural Receipt, Structural Validity Receipt, Structural Earth Centre, and SLANG-Computation
+1. **Flagships (15)** — SOST, SSDD, SSDC, SRCT, GNSA, SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, Structural Receipt, Structural Validity Receipt, Structural Earth Centre, and SLANG-Computation
 2. **How to Read the Ecosystem** — core frameworks, flagships, architectural families, adapters, demonstration kernels, and research directions
 3. **Structural Evidence & Dependency Framework** — invariants, precision of claim, implemented dependency boundaries, and claim boundaries  
 4. **Dependency-Elimination Systems** — foundations, runtime, admissibility, intelligence, media, SLANG, and CAPS  
@@ -59,6 +59,26 @@ Published mathematical flagships include standalone theorem packages as well as 
 ---
 
 # 🔢 Mathematical Research Flagships
+
+### **SOST — Shunyaya Orbit Stabilization Theory**
+
+**Exact orbit classification for reversible monochromatic triangle dynamics on labeled complete graphs.**
+
+For every `n>=6`, SOST proves
+
+`G ~ H iff P(G)=P(H) and R(G)=R(H)`,
+
+where `P(G)` is the degree-parity vector and `R(G)=|E(G)| mod 3`.
+
+`local reversible dynamics -> complete invariants -> certified stabilization -> exact orbit quotient -> binary growth`
+
+**Distinctive contribution:** establishes the exact quotient `Q_n ~= {even parity vectors in F_2^n} x Z_3`, giving `|Q_n|=3*2^(n-1)` and `Q_(n+1) ~= Q_n x {0,1}`, from a certified `K_6` theorem base and constructive induction.
+
+Published verification: `9/9 PASS` self-test • `9/9 PASS` complete verification • `32,768` K6 states / `96` orbits • independent `2,097,152`-state K7 holdout / `192` orbits • passing GitHub Actions • current release `v1.1.0`
+
+🔗 [Shunyaya Orbit Stabilization Theory — SOST](https://github.com/OMPSHUNYAYA/Shunyaya-Orbit-Stabilization-Theory)
+
+---
 
 ### **SSDD — Shunyaya Structural Discovery Demonstration**
 
@@ -1479,6 +1499,22 @@ A compact, offline, non-advisory kernel without training or probabilistic infere
 Observes transition regimes without changing arithmetic or predicting primes.
 
 🔗 [SSNT](https://github.com/OMPSHUNYAYA/Structural-Number-Theory)
+
+---
+
+### ⭐ **SOST — Shunyaya Orbit Stabilization Theory**
+
+**Exact orbit classification for reversible monochromatic triangle dynamics.**
+
+For every `n>=6`:
+
+`G ~ H iff P(G)=P(H) and R(G)=R(H)`
+
+with `|Q_n|=3*2^(n-1)` and `Q_(n+1) ~= Q_n x {0,1}`.
+
+Certified `K_6` theorem base, constructive induction, and independent exhaustive `K_7` verification.
+
+🔗 [SOST](https://github.com/OMPSHUNYAYA/Shunyaya-Orbit-Stabilization-Theory)
 
 ---
 
