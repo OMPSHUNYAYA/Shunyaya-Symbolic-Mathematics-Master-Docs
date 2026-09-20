@@ -14,7 +14,7 @@
 
 ## 📑 Start Here
 
-1. **Flagships (15)** — SOST, SSDD, SSDC, SRCT, GNSA, SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, Structural Receipt, Structural Validity Receipt, Structural Earth Centre, and SLANG-Computation
+1. **Flagships** — STRF, SOST, SSDD, SSDC, SRCT, GNSA, SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, Structural Receipt, Structural Validity Receipt, Structural Earth Centre, and SLANG-Computation
 2. **How to Read the Ecosystem** — core frameworks, flagships, architectural families, adapters, demonstration kernels, and research directions
 3. **Structural Evidence & Dependency Framework** — invariants, precision of claim, implemented dependency boundaries, and claim boundaries  
 4. **Dependency-Elimination Systems** — foundations, runtime, admissibility, intelligence, media, SLANG, and CAPS  
@@ -54,11 +54,29 @@ The recurring use of a structural primitive across multiple repositories is ther
 
 Novelty, maturity, and evidence should be assessed at the level of the specific architecture, system, or demonstrated contribution being described.
 
-Published mathematical flagships include standalone theorem packages as well as structural-discovery frameworks; each is assessed by its own stated theorem scope, proof architecture, and reproducible evidence.
+Published mathematical flagships include standalone theorem packages, structural-discovery frameworks, and theorem-reconstruction frameworks; each is assessed by its own stated theorem scope, proof architecture, and reproducible evidence.
 
 ---
 
 # 🔢 Mathematical Research Flagships
+
+### **STRF — Shunyaya Theorem Reproducibility Framework**
+
+**Mathematics that can be rebuilt.**
+
+A finite mathematical framework for reconstructing theorem systems under failures, with a universal continuation classification by canonical gauge-peeling normal forms.
+
+`X ~ Y iff GNF(X)=GNF(Y)`
+
+**Distinctive contribution:** classifies failure-adaptive theorem reconstruction exactly within the frozen STRF semantics: equal canonical normal forms are indistinguishable under every compatible continuation, while unequal normal forms admit a finite constructive distinguishing exterior.
+
+`theorem obligations -> reconstruction routes -> failure adaptation -> gauge peeling -> canonical normal form -> universal continuation classification`
+
+Published verification: `self_test:PASS` • `verification:PASS` • `63,862` constructive-vs-oracle pair crosschecks • `60,196` proof-aligned separator checks • `140,848` state-to-normal-form response checks • exhaustive `768`-exterior replay per worked small-universe instantiation • passing GitHub Actions • current release `v1.9.0`
+
+🔗 [Shunyaya Theorem Reproducibility Framework — STRF](https://github.com/OMPSHUNYAYA/Shunyaya-Theorem-Reproducibility-Framework)
+
+---
 
 ### **SOST — Shunyaya Orbit Stabilization Theory**
 
@@ -1499,6 +1517,18 @@ A compact, offline, non-advisory kernel without training or probabilistic infere
 Observes transition regimes without changing arithmetic or predicting primes.
 
 🔗 [SSNT](https://github.com/OMPSHUNYAYA/Structural-Number-Theory)
+
+---
+
+### ⭐ **STRF — Shunyaya Theorem Reproducibility Framework**
+
+**Mathematics that can be rebuilt through failure-adaptive theorem reconstruction.**
+
+`X ~ Y iff GNF(X)=GNF(Y)`
+
+Canonical gauge-peeling normal forms exactly classify continuation behavior within the frozen STRF semantics; unequal forms admit finite distinguishing continuations.
+
+🔗 [STRF](https://github.com/OMPSHUNYAYA/Shunyaya-Theorem-Reproducibility-Framework)
 
 ---
 
