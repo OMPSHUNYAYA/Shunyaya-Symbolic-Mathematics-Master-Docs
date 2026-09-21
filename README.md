@@ -14,7 +14,7 @@
 
 ## 📑 Start Here
 
-1. **Flagships** — STRF, SOST, SSDD, SSDC, SRCT, GNSA, SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, Structural Receipt, Structural Validity Receipt, Structural Earth Centre, and SLANG-Computation
+1. **Flagships** — STRF, SCRT, SOST, SSDD, SSDC, SRCT, GNSA, SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, Structural Receipt, Structural Validity Receipt, Structural Earth Centre, and SLANG-Computation
 2. **How to Read the Ecosystem** — core frameworks, flagships, architectural families, adapters, demonstration kernels, and research directions
 3. **Structural Evidence & Dependency Framework** — invariants, precision of claim, implemented dependency boundaries, and claim boundaries  
 4. **Dependency-Elimination Systems** — foundations, runtime, admissibility, intelligence, media, SLANG, and CAPS  
@@ -75,6 +75,24 @@ A finite mathematical framework for reconstructing theorem systems under failure
 Published verification: `self_test:PASS` • `verification:PASS` • `63,862` constructive-vs-oracle pair crosschecks • `60,196` proof-aligned separator checks • `140,848` state-to-normal-form response checks • exhaustive `768`-exterior replay per worked small-universe instantiation • passing GitHub Actions • current release `v1.9.0`
 
 🔗 [Shunyaya Theorem Reproducibility Framework — STRF](https://github.com/OMPSHUNYAYA/Shunyaya-Theorem-Reproducibility-Framework)
+
+---
+
+### **SCRT — Shunyaya Cyber Resilience Theory**
+
+**Exact assurance mathematics for cybersecurity and cyber resilience.**
+
+SCRT separates operational survival from independently certified assurance. For target `k`, silent assurance failure is
+
+`C_op >= k and C_cert < k`.
+
+`operational/certified capacity -> silent assurance -> assurance-coherent hardening -> target-bounded local structure -> resource-dependent global phase boundary`
+
+**Distinctive contribution:** proves that operational hardening can enlarge silent-assurance exposure, defines the exact minimum Assurance Compensation Cost `ACI_k`, and establishes a sharp phase boundary: conflict-free certified resources give global audit order exactly `k` and polynomial fixed-`k` decision, while exclusive resources preserve the same local `k` bounds but make global audit order unbounded by `k` and assurance compatibility NP-complete already at `k=1`.
+
+Published verification: `140/140 PASS` package integrity • `13/13 PASS` historical regression • `11/11 PASS` mathematical falsification • principal and independent hardening/phase/complexity verification PASS • passing GitHub Actions • current release `v2.18.0`
+
+🔗 [Shunyaya Cyber Resilience Theory — SCRT](https://github.com/OMPSHUNYAYA/Shunyaya-Cyber-Resilience-Theory)
 
 ---
 
@@ -1532,6 +1550,16 @@ Canonical gauge-peeling normal forms exactly classify continuation behavior with
 
 ---
 
+### ⭐ **SCRT — Shunyaya Cyber Resilience Theory**
+
+**Exact assurance mathematics for cybersecurity and cyber resilience.**
+
+`C_op >= k and C_cert < k` defines silent assurance failure. SCRT proves assurance-coherent hardening and a sharp resource-dependent phase boundary: conflict-free recovery gives exact global audit order `k`, while exclusive resources yield unbounded global interaction and NP-complete assurance compatibility already at `k=1`.
+
+🔗 [SCRT](https://github.com/OMPSHUNYAYA/Shunyaya-Cyber-Resilience-Theory)
+
+---
+
 ### ⭐ **SOST — Shunyaya Orbit Stabilization Theory**
 
 **Exact orbit classification for reversible monochromatic triangle dynamics.**
@@ -2044,7 +2072,7 @@ Exact contents and verification boundaries are defined by each repository.
 ## Scope
 
 - **Scale:** 90+ repositories, with some repositories containing multiple implementations, applications, kernels, observatories, demonstrations, or evidence artifacts
-- **Domains:** mathematics, deterministic computing, AI admissibility, document editing, digital action authority, result validity over change, centre-claim and spatial resolution, time, finance, data, networks, media, observability, and structural science
+- **Domains:** mathematics, cybersecurity and cyber resilience, deterministic computing, AI admissibility, document editing, digital action authority, result validity over change, centre-claim and spatial resolution, time, finance, data, networks, media, observability, and structural science
 - **Artifacts:** core frameworks, flagship systems, architectural families, reference implementations, adapters, applications, kernels, observatories, demonstrations, and research directions
 - **Runtimes:** browser-native and local implementations across multiple languages
 
