@@ -14,7 +14,7 @@
 
 ## 📑 Start Here
 
-1. **Flagships** — STRF, SCRT, SOST, SSDD, SSDC, SRCT, GNSA, SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, Structural Receipt, Structural Validity Receipt, Structural Earth Centre, and SLANG-Computation
+1. **Flagships** — STRF, SRCG, SCRT, SOST, SSDD, SSDC, SRCT, GNSA, SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, Structural Receipt, Structural Validity Receipt, Structural Earth Centre, and SLANG-Computation
 2. **How to Read the Ecosystem** — core frameworks, flagships, architectural families, adapters, demonstration kernels, and research directions
 3. **Structural Evidence & Dependency Framework** — invariants, precision of claim, implemented dependency boundaries, and claim boundaries  
 4. **Dependency-Elimination Systems** — foundations, runtime, admissibility, intelligence, media, SLANG, and CAPS  
@@ -75,6 +75,26 @@ A finite mathematical framework for reconstructing theorem systems under failure
 Published verification: `self_test:PASS` • `verification:PASS` • `63,862` constructive-vs-oracle pair crosschecks • `60,196` proof-aligned separator checks • `140,848` state-to-normal-form response checks • exhaustive `768`-exterior replay per worked small-universe instantiation • passing GitHub Actions • current release `v1.9.0`
 
 🔗 [Shunyaya Theorem Reproducibility Framework — STRF](https://github.com/OMPSHUNYAYA/Shunyaya-Theorem-Reproducibility-Framework)
+
+---
+
+### **SRCG — Shunyaya Rule Continuation Geometry**
+
+**Exact dual-observer mathematics for rulebook failure, reconstruction, and continuation geometry.**
+
+SRCG classifies how rulebooks with identical present behavior become distinguishable under whole-rule failures and isolation probes.
+
+`present surface -> failure observation -> isolation thresholds -> Pareto frontier geometry -> sharp resource costs -> exact reconstruction`
+
+**Distinctive contribution:** realizes exactly every finite nonempty Pareto antichain of positive failure/width pairs as a critical isolation frontier, proves sharp case/rule/outcome cost laws and prescribed-surface classifications, and establishes
+
+`bounded natural equivalence => bounded isolation equivalence`
+
+with an arbitrarily large converse depth gap, while both full observers reconstruct the same exact outcome-labelled rulebook structure.
+
+Published verification: `193/193 PASS` repository integrity • `17/17 PASS` public-core deep verification • `8/8 PASS` historical regression • `7/7 PASS` current mathematical components • `3,025 + 71,703 + 627` proof-construction checks with zero failures • passing GitHub Actions • current release `v2.0.0`
+
+🔗 [Shunyaya Rule Continuation Geometry — SRCG](https://github.com/OMPSHUNYAYA/Shunyaya-Rule-Continuation-Geometry)
 
 ---
 
@@ -1547,6 +1567,18 @@ Observes transition regimes without changing arithmetic or predicting primes.
 Canonical gauge-peeling normal forms exactly classify continuation behavior within the frozen STRF semantics; unequal forms admit finite distinguishing continuations.
 
 🔗 [STRF](https://github.com/OMPSHUNYAYA/Shunyaya-Theorem-Reproducibility-Framework)
+
+---
+
+### ⭐ **SRCG — Shunyaya Rule Continuation Geometry**
+
+**Exact dual-observer mathematics for rulebook failure and structural reconstruction.**
+
+`bounded natural equivalence => bounded isolation equivalence`
+
+Every finite nonempty positive Pareto frontier is exactly realizable; bounded observer separation can have an unbounded depth gap, while full natural and isolation information converge to the exact rulebook structure.
+
+🔗 [SRCG](https://github.com/OMPSHUNYAYA/Shunyaya-Rule-Continuation-Geometry)
 
 ---
 
