@@ -14,7 +14,7 @@
 
 ## 📑 Start Here
 
-1. **Flagships** — STRF, SRCG, SCRT, SOST, SSDD, SSDC, SRCT, GNSA, SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, Structural Receipt, Structural Validity Receipt, Structural Earth Centre, and SLANG-Computation
+1. **Flagships** — SAOR, STRF, SRCG, SCRT, SOST, SSDD, SSDC, SRCT, GNSA, SSM-JA, SVARE, Structural Stability Geometry, Structural Cube, SERA, Structural Plugin, Structural Receipt, Structural Validity Receipt, Structural Earth Centre, and SLANG-Computation
 2. **How to Read the Ecosystem** — core frameworks, flagships, architectural families, adapters, demonstration kernels, and research directions
 3. **Structural Evidence & Dependency Framework** — invariants, precision of claim, implemented dependency boundaries, and claim boundaries  
 4. **Dependency-Elimination Systems** — foundations, runtime, admissibility, intelligence, media, SLANG, and CAPS  
@@ -59,6 +59,30 @@ Published mathematical flagships include standalone theorem packages, structural
 ---
 
 # 🔢 Mathematical Research Flagships
+
+### **SAOR — Shunyaya Arithmetic Origin Resolution**
+
+**Arithmetic beyond equal values.**
+
+A finite mathematical theory for distinguishing and classifying equal-sum/equal-product realizations under shared prime-context extension.
+
+`E ~future E' iff K(E)=K(E')`
+
+For the fixed SAOR system,
+
+`K(E)=(D4(E),D5(E),eps5(E),eps7(E),eps11(E))`
+
+with unique minimum critical support `{5,7,11}`.
+
+**Distinctive contribution:** proves general finite critical-support synthesis, extends it to every distinct equal-sum/equal-product pair through an explicit finite common-prime anchor, and constructs finite future separators whenever fixed-system signatures differ.
+
+`equal numerical projection -> transfer twinhood -> contextual masking -> finite critical support -> canonical future classification -> constructive separation`
+
+Published verification: root self-test and deep verification PASS • definition-level transfer, synthesis, anchored-cone, classifier, and support-necessity checks PASS • passing GitHub Actions • repository version `v1.3.0`
+
+🔗 [Shunyaya Arithmetic Origin Resolution — SAOR](https://github.com/OMPSHUNYAYA/Shunyaya-Arithmetic-Origin-Resolution)
+
+---
 
 ### **STRF — Shunyaya Theorem Reproducibility Framework**
 
@@ -1555,6 +1579,18 @@ A compact, offline, non-advisory kernel without training or probabilistic infere
 Observes transition regimes without changing arithmetic or predicting primes.
 
 🔗 [SSNT](https://github.com/OMPSHUNYAYA/Structural-Number-Theory)
+
+---
+
+### ⭐ **SAOR — Shunyaya Arithmetic Origin Resolution**
+
+**Arithmetic beyond equal values through exact context-resolved classification.**
+
+`E ~future E' iff K(E)=K(E')`
+
+General finite critical-support synthesis extends through an explicit anchored cone to every distinct equal-sum/equal-product pair; the fixed SAOR system has unique minimum critical support `{5,7,11}` and constructive future separators.
+
+🔗 [SAOR](https://github.com/OMPSHUNYAYA/Shunyaya-Arithmetic-Origin-Resolution)
 
 ---
 
